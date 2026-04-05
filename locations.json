@@ -1,7 +1,7 @@
 [
     {
         "id": "nintendo-new-york",
-        "name": { "en": "Nintendo New York TEST" },
+        "name": { "en": "Nintendo New York" },
         "category": { "en": "Official Nintendo Store" },
         "coordinate": { "latitude": 40.7585, "longitude": -73.9815 },
         "about": { "en": "Nintendo's flagship store in Rockefeller Center featuring exclusive merchandise, playable demos, and life-size character statues across two floors." },
