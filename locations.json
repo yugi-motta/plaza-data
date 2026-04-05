@@ -1,0 +1,481 @@
+[
+    {
+        "id": "nintendo-new-york",
+        "name": { "en": "Nintendo New York" },
+        "category": { "en": "Official Nintendo Store" },
+        "coordinate": { "latitude": 40.7585, "longitude": -73.9815 },
+        "about": { "en": "Nintendo's flagship store in Rockefeller Center featuring exclusive merchandise, playable demos, and life-size character statues across two floors." },
+        "timeline": [
+            { "label": { "en": "Opened" }, "date": { "en": "May 14, 2005" } }
+        ],
+        "characterStatues": ["Mario", "Luigi", "Donkey Kong", "Link", "Pikachu", "Samus"],
+        "goodToKnow": [
+            { "icon": "building.2", "text": { "en": "Two floors of merchandise and playable demos" } },
+            { "icon": "moon.stars", "text": { "en": "Hosts special midnight launch events" } },
+            { "icon": "camera", "text": { "en": "Photo opportunities with character statues on both floors" } }
+        ],
+        "info": {
+            "website": "nintendo.com/us/retail",
+            "phone": "+1 (646) 459-0800",
+            "address": { "en": "10 Rockefeller Plaza, New York, NY 10020" }
+        },
+        "hours": { "en": "10:00 AM – 9:00 PM" },
+        "pinColorHex": "#FF3B30",
+        "pinIcon": "bag.fill",
+        "status": null
+    },
+    {
+        "id": "nintendo-tokyo",
+        "name": { "en": "Nintendo Tokyo", "ja": "Nintendo TOKYO" },
+        "category": { "en": "Official Nintendo Store", "ja": "任天堂オフィシャルストア" },
+        "coordinate": { "latitude": 35.6595, "longitude": 139.7004 },
+        "about": { "en": "Nintendo's first official store in Japan, located in Shibuya PARCO. Offers exclusive Tokyo-only merchandise and seasonal limited items.", "ja": "渋谷PARCOにある任天堂初の公式ストア。東京限定グッズや季節限定アイテムを販売。" },
+        "timeline": [
+            { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "November 22, 2019", "ja": "2019年11月22日" } }
+        ],
+        "characterStatues": ["Mario", "Link", "Inkling", "Isabelle"],
+        "goodToKnow": [
+            { "icon": "mappin", "text": { "en": "Located in Shibuya PARCO 6F", "ja": "渋谷PARCO 6Fに位置" } },
+            { "icon": "tag", "text": { "en": "Exclusive Tokyo-only merchandise available", "ja": "東京限定グッズあり" } },
+            { "icon": "calendar", "text": { "en": "Seasonal limited-edition items rotate frequently", "ja": "季節限定アイテムが頻繁に入れ替わる" } }
+        ],
+        "info": {
+            "website": "nintendo.com/jp/officialstore",
+            "phone": "+81 3-6712-7155",
+            "address": { "en": "Shibuya PARCO 6F, 15-1 Udagawacho, Shibuya, Tokyo", "ja": "東京都渋谷区宇田川町15-1 渋谷PARCO 6F" }
+        },
+        "hours": { "en": "10:00 AM – 9:00 PM", "ja": "10:00～21:00" },
+        "pinColorHex": "#FF3B30",
+        "pinIcon": "bag.fill",
+        "status": null
+    },
+    {
+        "id": "nintendo-osaka",
+        "name": { "en": "Nintendo Osaka", "ja": "Nintendo OSAKA" },
+        "category": { "en": "Official Nintendo Store", "ja": "任天堂オフィシャルストア" },
+        "coordinate": { "latitude": 34.6688, "longitude": 135.5013 },
+        "about": { "en": "Nintendo's official store in Osaka's Daimaru Shinsaibashi department store, featuring regional exclusives and a wide range of merchandise." },
+        "timeline": [
+            { "label": { "en": "Opened" }, "date": { "en": "November 11, 2022" } }
+        ],
+        "characterStatues": ["Mario", "Luigi", "Peach"],
+        "goodToKnow": [
+            { "icon": "mappin", "text": { "en": "Located in Daimaru Shinsaibashi 13F" } },
+            { "icon": "tag", "text": { "en": "Osaka-exclusive merchandise available" } },
+            { "icon": "person.2", "text": { "en": "Generally less crowded than the Tokyo location" } }
+        ],
+        "info": {
+            "website": "nintendo.com/jp/officialstore",
+            "phone": "+81 6-6484-6450",
+            "address": { "en": "Daimaru Shinsaibashi 13F, 1-7-1 Shinsaibashisuji, Chuo-ku, Osaka" }
+        },
+        "hours": { "en": "10:00 AM – 8:30 PM" },
+        "pinColorHex": "#FF3B30",
+        "pinIcon": "bag.fill",
+        "status": null
+    },
+    {
+        "id": "nintendo-kyoto",
+        "name": { "en": "Nintendo Kyoto", "ja": "Nintendo KYOTO" },
+        "category": { "en": "Official Nintendo Store", "ja": "任天堂オフィシャルストア" },
+        "coordinate": { "latitude": 35.0031, "longitude": 135.7590 },
+        "about": { "en": "Nintendo's store in the Takashimaya department store in Kyoto, the company's hometown. Features Kyoto-exclusive items and a warm, traditional atmosphere." },
+        "timeline": [
+            { "label": { "en": "Opened" }, "date": { "en": "October 17, 2023" } }
+        ],
+        "characterStatues": null,
+        "goodToKnow": [
+            { "icon": "mappin", "text": { "en": "Located in Kyoto Takashimaya 5F" } },
+            { "icon": "tag", "text": { "en": "Kyoto-exclusive merchandise with traditional motifs" } },
+            { "icon": "building.2", "text": { "en": "Closest official store to Nintendo's headquarters" } }
+        ],
+        "info": {
+            "website": "nintendo.com/jp/officialstore",
+            "phone": "+81 75-252-7101",
+            "address": { "en": "Kyoto Takashimaya 5F, 52 Shincho, Shimogyo-ku, Kyoto" }
+        },
+        "hours": { "en": "10:00 AM – 8:00 PM" },
+        "pinColorHex": "#FF3B30",
+        "pinIcon": "bag.fill",
+        "status": null
+    },
+    {
+        "id": "pokemon-center-mega-tokyo",
+        "name": { "en": "Pokémon Center Mega Tokyo", "ja": "ポケモンセンターメガトウキョー" },
+        "category": { "en": "Pokémon Center", "ja": "ポケモンセンター" },
+        "coordinate": { "latitude": 35.7294, "longitude": 139.7190 },
+        "about": { "en": "One of the largest Pokémon Center stores in Japan, offering an extensive selection of plush toys, trading cards, apparel, and exclusive items." },
+        "timeline": [
+            { "label": { "en": "Opened" }, "date": { "en": "December 12, 2014" } }
+        ],
+        "characterStatues": ["Pikachu", "Charizard"],
+        "goodToKnow": [
+            { "icon": "mappin", "text": { "en": "Located in Sunshine City, Ikebukuro" } },
+            { "icon": "teddybear", "text": { "en": "Massive selection of plush toys and trading cards" } },
+            { "icon": "camera", "text": { "en": "Features a life-size Pikachu photo spot" } }
+        ],
+        "info": {
+            "website": "pokemon.co.jp/gp/pokecen",
+            "phone": "+81 3-5927-9290",
+            "address": { "en": "Sunshine City Alpa 2F, 3-1-2 Higashiikebukuro, Toshima-ku, Tokyo" }
+        },
+        "hours": { "en": "10:00 AM – 8:00 PM" },
+        "pinColorHex": "#007AFF",
+        "pinIcon": "bag.fill",
+        "status": null
+    },
+    {
+        "id": "pokemon-center-shibuya",
+        "name": { "en": "Pokémon Center Shibuya", "ja": "ポケモンセンターシブヤ" },
+        "category": { "en": "Pokémon Center", "ja": "ポケモンセンター" },
+        "coordinate": { "latitude": 35.6600, "longitude": 139.6983 },
+        "about": { "en": "A stylish Pokémon Center in Shibuya PARCO with a modern urban design. Features Mewtwo as its store icon and carries exclusive Shibuya-themed goods." },
+        "timeline": [
+            { "label": { "en": "Opened" }, "date": { "en": "November 22, 2019" } }
+        ],
+        "characterStatues": ["Mewtwo"],
+        "goodToKnow": [
+            { "icon": "mappin", "text": { "en": "Located in Shibuya PARCO 5F, one floor below Nintendo Tokyo" } },
+            { "icon": "tag", "text": { "en": "Urban-themed exclusive merchandise" } },
+            { "icon": "star", "text": { "en": "Features Mewtwo as the store's mascot icon" } }
+        ],
+        "info": {
+            "website": "pokemon.co.jp/gp/pokecen",
+            "phone": "+81 3-6712-7155",
+            "address": { "en": "Shibuya PARCO 5F, 15-1 Udagawacho, Shibuya, Tokyo" }
+        },
+        "hours": { "en": "10:00 AM – 9:00 PM" },
+        "pinColorHex": "#007AFF",
+        "pinIcon": "bag.fill",
+        "status": null
+    },
+    {
+        "id": "pokemon-center-osaka-dx",
+        "name": { "en": "Pokémon Center Osaka DX", "ja": "ポケモンセンターオーサカDX" },
+        "category": { "en": "Pokémon Center", "ja": "ポケモンセンター" },
+        "coordinate": { "latitude": 34.7055, "longitude": 135.4983 },
+        "about": { "en": "A large Pokémon Center in Grand Front Osaka featuring a Pokémon Café adjacent to it. Offers exclusive Osaka-region merchandise and events." },
+        "timeline": [
+            { "label": { "en": "Opened" }, "date": { "en": "September 20, 2019" } }
+        ],
+        "characterStatues": null,
+        "goodToKnow": [
+            { "icon": "mappin", "text": { "en": "Located in Grand Front Osaka South Building 9F" } },
+            { "icon": "cup.and.saucer", "text": { "en": "Adjacent to a dedicated Pokémon Café" } },
+            { "icon": "gamecontroller", "text": { "en": "Hosts regular trading card game tournaments" } }
+        ],
+        "info": {
+            "website": "pokemon.co.jp/gp/pokecen",
+            "phone": "+81 6-6372-5370",
+            "address": { "en": "Grand Front Osaka South Building 9F, 4-20 Ofukacho, Kita-ku, Osaka" }
+        },
+        "hours": { "en": "10:00 AM – 9:00 PM" },
+        "pinColorHex": "#007AFF",
+        "pinIcon": "bag.fill",
+        "status": null
+    },
+    {
+        "id": "pokemon-store-tokyo-station",
+        "name": { "en": "Pokémon Store Tokyo Station", "ja": "ポケモンストア東京駅店" },
+        "category": { "en": "Pokémon Store", "ja": "ポケモンストア" },
+        "coordinate": { "latitude": 35.6812, "longitude": 139.7671 },
+        "about": { "en": "A compact Pokémon Store inside Tokyo Station's Character Street, perfect for grabbing Pokémon souvenirs before catching the Shinkansen." },
+        "timeline": [
+            { "label": { "en": "Opened" }, "date": { "en": "July 16, 2014" } }
+        ],
+        "characterStatues": null,
+        "goodToKnow": [
+            { "icon": "mappin", "text": { "en": "Located in Tokyo Station First Avenue Character Street" } },
+            { "icon": "gift", "text": { "en": "Great for last-minute souvenir shopping" } },
+            { "icon": "tag", "text": { "en": "Carries Tokyo Station-exclusive items" } }
+        ],
+        "info": {
+            "website": "pokemon.co.jp/gp/pokecen",
+            "phone": null,
+            "address": { "en": "Tokyo Station First Avenue B1, 1-9-1 Marunouchi, Chiyoda-ku, Tokyo" }
+        },
+        "hours": { "en": "10:00 AM – 8:30 PM" },
+        "pinColorHex": "#007AFF",
+        "pinIcon": "bag.fill",
+        "status": null
+    },
+    {
+        "id": "pokemon-store-narita",
+        "name": { "en": "Pokémon Store Narita Airport", "ja": "ポケモンストア成田空港店" },
+        "category": { "en": "Pokémon Store", "ja": "ポケモンストア" },
+        "coordinate": { "latitude": 35.7720, "longitude": 140.3929 },
+        "about": { "en": "An airport Pokémon Store in Narita Terminal 2, offering travelers a last chance to pick up Pokémon merchandise before departing Japan." },
+        "timeline": [
+            { "label": { "en": "Opened" }, "date": { "en": "March 19, 2015" } }
+        ],
+        "characterStatues": null,
+        "goodToKnow": null,
+        "info": {
+            "website": "pokemon.co.jp/gp/pokecen",
+            "phone": null,
+            "address": { "en": "Narita International Airport Terminal 2, Narita, Chiba" }
+        },
+        "hours": { "en": "8:00 AM – 8:00 PM" },
+        "pinColorHex": "#007AFF",
+        "pinIcon": "bag.fill",
+        "status": null
+    },
+    {
+        "id": "super-nintendo-world-osaka",
+        "name": { "en": "Super Nintendo World Osaka", "ja": "スーパー・ニンテンドー・ワールド" },
+        "category": { "en": "Theme Park", "ja": "テーマパーク" },
+        "coordinate": { "latitude": 34.6654, "longitude": 135.4317 },
+        "about": { "en": "The original Super Nintendo World at Universal Studios Japan. An immersive area that brings the Mushroom Kingdom to life with rides, interactive experiences, and themed dining." },
+        "timeline": [
+            { "label": { "en": "Opened" }, "date": { "en": "March 18, 2021" } }
+        ],
+        "characterStatues": ["Mario", "Luigi", "Peach", "Toad", "Bowser", "Yoshi"],
+        "goodToKnow": [
+            { "icon": "wand.and.stars", "text": { "en": "Power-Up Bands enable interactive coin collecting" } },
+            { "icon": "car", "text": { "en": "Features Mario Kart: Koopa's Challenge ride" } },
+            { "icon": "figure.walk", "text": { "en": "Includes Yoshi's Adventure family ride" } },
+            { "icon": "sparkles", "text": { "en": "Donkey Kong Country area expansion opened in 2024" } }
+        ],
+        "info": {
+            "website": "usj.co.jp",
+            "phone": "+81 570-200-606",
+            "address": { "en": "2-1-33 Sakurajima, Konohana-ku, Osaka" }
+        },
+        "hours": { "en": "Varies by season — check USJ website" },
+        "pinColorHex": "#FF9500",
+        "pinIcon": "star.fill",
+        "status": null
+    },
+    {
+        "id": "super-nintendo-world-hollywood",
+        "name": { "en": "Super Nintendo World Hollywood" },
+        "category": { "en": "Theme Park" },
+        "coordinate": { "latitude": 34.1381, "longitude": -118.3534 },
+        "about": { "en": "The first Super Nintendo World outside Japan, located at Universal Studios Hollywood. Features Mario Kart: Bowser's Challenge and immersive Mushroom Kingdom theming." },
+        "timeline": [
+            { "label": { "en": "Opened" }, "date": { "en": "February 17, 2023" } }
+        ],
+        "characterStatues": ["Mario", "Luigi", "Peach", "Bowser"],
+        "goodToKnow": [
+            { "icon": "wand.and.stars", "text": { "en": "Power-Up Bands sold separately at the entrance" } },
+            { "icon": "car", "text": { "en": "Features Mario Kart: Bowser's Challenge" } },
+            { "icon": "fork.knife", "text": { "en": "Toadstool Cafe serves themed meals" } }
+        ],
+        "info": {
+            "website": "universalstudioshollywood.com",
+            "phone": "+1 (800) 864-8377",
+            "address": { "en": "100 Universal City Plaza, Universal City, CA 91608" }
+        },
+        "hours": { "en": "Varies by season — check Universal website" },
+        "pinColorHex": "#FF9500",
+        "pinIcon": "star.fill",
+        "status": null
+    },
+    {
+        "id": "1-up-factory",
+        "name": { "en": "1-Up Factory", "ja": "1UPファクトリー" },
+        "category": { "en": "Park Store", "ja": "パークストア" },
+        "coordinate": { "latitude": 34.6654, "longitude": 135.4323 },
+        "about": { "en": "A themed retail store inside Super Nintendo World at Universal Studios Japan, designed to look like a factory from the Mushroom Kingdom with exclusive park merchandise." },
+        "timeline": [
+            { "label": { "en": "Opened" }, "date": { "en": "March 18, 2021" } }
+        ],
+        "characterStatues": null,
+        "goodToKnow": null,
+        "info": {
+            "website": "usj.co.jp",
+            "phone": null,
+            "address": { "en": "Super Nintendo World, Universal Studios Japan, Osaka" }
+        },
+        "hours": { "en": "Matches park hours" },
+        "pinColorHex": "#34C759",
+        "pinIcon": "cart.fill",
+        "status": null
+    },
+    {
+        "id": "mario-motors",
+        "name": { "en": "Mario Motors", "ja": "マリオ・モーターズ" },
+        "category": { "en": "Park Store", "ja": "パークストア" },
+        "coordinate": { "latitude": 34.6652, "longitude": 135.4319 },
+        "about": { "en": "A Mario Kart-themed shop near the Mario Kart ride exit in Super Nintendo World, selling racing-themed merchandise, apparel, and collectibles." },
+        "timeline": [
+            { "label": { "en": "Opened" }, "date": { "en": "March 18, 2021" } }
+        ],
+        "characterStatues": null,
+        "goodToKnow": null,
+        "info": {
+            "website": "usj.co.jp",
+            "phone": null,
+            "address": { "en": "Super Nintendo World, Universal Studios Japan, Osaka" }
+        },
+        "hours": { "en": "Matches park hours" },
+        "pinColorHex": "#34C759",
+        "pinIcon": "cart.fill",
+        "status": null
+    },
+    {
+        "id": "kirby-cafe-tokyo",
+        "name": { "en": "Kirby Café Tokyo", "ja": "カービィカフェ TOKYO" },
+        "category": { "en": "Restaurant / Café", "ja": "レストラン / カフェ" },
+        "coordinate": { "latitude": 35.7101, "longitude": 139.8107 },
+        "about": { "en": "A permanent Kirby-themed café in Tokyo Solamachi featuring adorable character-shaped dishes, themed drinks, and exclusive merchandise." },
+        "timeline": [
+            { "label": { "en": "Opened" }, "date": { "en": "December 12, 2019" } }
+        ],
+        "characterStatues": ["Kirby", "Waddle Dee"],
+        "goodToKnow": [
+            { "icon": "calendar.badge.clock", "text": { "en": "Reservations required — book online in advance" } },
+            { "icon": "fork.knife", "text": { "en": "Every dish is shaped like a Kirby character" } },
+            { "icon": "tag", "text": { "en": "Exclusive café-only merchandise at the shop" } }
+        ],
+        "info": {
+            "website": "kirbycafe.jp",
+            "phone": "+81 3-5765-8870",
+            "address": { "en": "Tokyo Solamachi 4F, 1-1-2 Oshiage, Sumida-ku, Tokyo" }
+        },
+        "hours": { "en": "10:00 AM – 10:00 PM" },
+        "pinColorHex": "#A2845E",
+        "pinIcon": "fork.knife",
+        "status": null
+    },
+    {
+        "id": "pokemon-cafe",
+        "name": { "en": "Pokémon Café", "ja": "ポケモンカフェ" },
+        "category": { "en": "Restaurant / Café", "ja": "レストラン / カフェ" },
+        "coordinate": { "latitude": 35.6828, "longitude": 139.7745 },
+        "about": { "en": "An official Pokémon-themed café in Nihonbashi, Tokyo, serving character latte art, themed dishes, and offering exclusive tableware merchandise." },
+        "timeline": [
+            { "label": { "en": "Opened" }, "date": { "en": "March 14, 2018" } }
+        ],
+        "characterStatues": ["Pikachu"],
+        "goodToKnow": [
+            { "icon": "calendar.badge.clock", "text": { "en": "Advance reservation required via the Pokémon Café website" } },
+            { "icon": "camera", "text": { "en": "Chef Pikachu visits tables for photos" } },
+            { "icon": "clock", "text": { "en": "90-minute dining limit during peak hours" } }
+        ],
+        "info": {
+            "website": "pokemoncenter-online.com/cafe",
+            "phone": "+81 3-6262-3439",
+            "address": { "en": "Nihonbashi Takashimaya S.C. East Bldg. 5F, 2-11-2 Nihonbashi, Chuo-ku, Tokyo" }
+        },
+        "hours": { "en": "10:30 AM – 10:00 PM" },
+        "pinColorHex": "#A2845E",
+        "pinIcon": "fork.knife",
+        "status": null
+    },
+    {
+        "id": "nintendo-museum",
+        "name": { "en": "Nintendo Museum", "ja": "ニンテンドーミュージアム" },
+        "category": { "en": "Museum", "ja": "ミュージアム" },
+        "coordinate": { "latitude": 34.8810, "longitude": 135.7380 },
+        "about": { "en": "A museum in Uji, Kyoto dedicated to Nintendo's history, showcasing the company's evolution from playing cards to video games with interactive exhibits." },
+        "timeline": [
+            { "label": { "en": "Opened" }, "date": { "en": "October 2, 2024" } }
+        ],
+        "characterStatues": null,
+        "goodToKnow": [
+            { "icon": "ticket", "text": { "en": "Timed-entry tickets required, book well in advance" } },
+            { "icon": "gamecontroller", "text": { "en": "Interactive exhibits let you play historic Nintendo products" } },
+            { "icon": "mappin", "text": { "en": "Located in Uji, Kyoto — Nintendo's original headquarters area" } }
+        ],
+        "info": {
+            "website": "museum.nintendo.com",
+            "phone": "+81 570-100-346",
+            "address": { "en": "100 Kamikoma Torihane, Uji, Kyoto" }
+        },
+        "hours": { "en": "10:00 AM – 6:00 PM (Closed Tuesdays)" },
+        "pinColorHex": "#AF52DE",
+        "pinIcon": "building.columns.fill",
+        "status": null
+    },
+    {
+        "id": "nintendo-check-in-narita",
+        "name": { "en": "Nintendo Check In Narita", "ja": "Nintendo Check In 成田" },
+        "category": { "en": "Nintendo Check In Station", "ja": "Nintendo Check Inステーション" },
+        "coordinate": { "latitude": 35.7648, "longitude": 140.3864 },
+        "about": { "en": "A Nintendo-themed check-in lounge area at Narita International Airport where travelers can play games and take photos with Nintendo characters." },
+        "timeline": [
+            { "label": { "en": "Opened" }, "date": { "en": "June 29, 2024" } }
+        ],
+        "characterStatues": null,
+        "goodToKnow": [
+            { "icon": "ticket", "text": { "en": "Free to visit, no ticket required" } },
+            { "icon": "gamecontroller", "text": { "en": "Play Nintendo Switch games while waiting for your flight" } }
+        ],
+        "info": {
+            "website": null,
+            "phone": null,
+            "address": { "en": "Narita International Airport Terminal 1, Narita, Chiba" }
+        },
+        "hours": { "en": "Matches terminal hours" },
+        "pinColorHex": "#5AC8FA",
+        "pinIcon": "gamecontroller.fill",
+        "status": null
+    },
+    {
+        "id": "nintendo-check-in-kansai",
+        "name": { "en": "Nintendo Check In Kansai", "ja": "Nintendo Check In 関西" },
+        "category": { "en": "Nintendo Check In Station", "ja": "Nintendo Check Inステーション" },
+        "coordinate": { "latitude": 34.4347, "longitude": 135.2440 },
+        "about": { "en": "A Nintendo-themed experience zone at Kansai International Airport featuring game stations, photo spots with Mario characters, and a small merchandise corner." },
+        "timeline": [
+            { "label": { "en": "Opened" }, "date": { "en": "August 5, 2024" } }
+        ],
+        "characterStatues": null,
+        "goodToKnow": null,
+        "info": {
+            "website": null,
+            "phone": null,
+            "address": { "en": "Kansai International Airport Terminal 1, Tajiri, Osaka" }
+        },
+        "hours": { "en": "Matches terminal hours" },
+        "pinColorHex": "#5AC8FA",
+        "pinIcon": "gamecontroller.fill",
+        "status": null
+    },
+    {
+        "id": "nintendo-headquarters",
+        "name": { "en": "Nintendo Headquarters", "ja": "任天堂本社" },
+        "category": { "en": "Historical Site & Corporate", "ja": "歴史的サイト & 企業" },
+        "coordinate": { "latitude": 34.9697, "longitude": 135.7567 },
+        "about": { "en": "Nintendo's current corporate headquarters in Minami-ku, Kyoto. While not open to the public, the modern building is a pilgrimage site for fans worldwide." },
+        "timeline": [
+            { "label": { "en": "Established" }, "date": { "en": "January 1, 2000" } }
+        ],
+        "characterStatues": null,
+        "goodToKnow": [
+            { "icon": "eye.slash", "text": { "en": "Not open to the public — exterior viewing only" } },
+            { "icon": "sparkles", "text": { "en": "The building features subtle Nintendo design elements" } }
+        ],
+        "info": {
+            "website": "nintendo.co.jp",
+            "phone": null,
+            "address": { "en": "11-1 Kamitoba Hokodatecho, Minami-ku, Kyoto" }
+        },
+        "hours": { "en": "Exterior viewable anytime" },
+        "pinColorHex": "#8E8E93",
+        "pinIcon": "building.2.fill",
+        "status": null
+    },
+    {
+        "id": "nintendo-former-headquarters",
+        "name": { "en": "Nintendo Former Headquarters", "ja": "任天堂旧本社" },
+        "category": { "en": "Historical Site & Corporate", "ja": "歴史的サイト & 企業" },
+        "coordinate": { "latitude": 35.0014, "longitude": 135.7590 },
+        "about": { "en": "Nintendo's original Meiji-era headquarters building in central Kyoto where Fusajiro Yamauchi first began producing hanafuda playing cards in 1889." },
+        "timeline": [
+            { "label": { "en": "Founded" }, "date": { "en": "January 1, 1889" } }
+        ],
+        "characterStatues": null,
+        "goodToKnow": null,
+        "info": {
+            "website": null,
+            "phone": null,
+            "address": { "en": "342 Washio-cho, Shimogyo-ku, Kyoto" }
+        },
+        "hours": { "en": "Exterior viewable anytime" },
+        "pinColorHex": "#8E8E93",
+        "pinIcon": "building.2.fill",
+        "status": null
+    }
+]
