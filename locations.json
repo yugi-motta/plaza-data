@@ -13,11 +13,11 @@
     ],
     "characterStatues": ["Mario", "Luigi", "Link", "Samus", "Pikachu", "Kirby"],
     "goodToKnow": [
-      { "icon": "clock", "text": { "en": "Queues can be very long on weekends and holidays", "ja": "週末や祝日は入場まで長時間並ぶことがあります" } },
-      { "icon": "bag", "text": { "en": "Exclusive Tokyo-only merchandise not available anywhere else", "ja": "他では手に入らない東京限定グッズがあります" } },
-      { "icon": "camera", "text": { "en": "Character displays throughout the store make for great photo spots", "ja": "店内各所のキャラクターディスプレイが人気の撮影スポットです" } }
+      { "icon": "clock", "text": { "en": "Long queues on weekends and holidays", "ja": "週末や祝日は長時間並ぶことがあります" } },
+      { "icon": "bag", "text": { "en": "Tokyo-exclusive merchandise not sold anywhere else", "ja": "他では買えない東京限定グッズがあります" } },
+      { "icon": "camera", "text": { "en": "Great photo spots with character displays throughout the store", "ja": "店内各所にキャラクターの撮影スポットがあります" } }
     ],
-    "info": { "website": "nintendo.com/stores/nintendo-tokyo", "phone": null, "address": { "en": "Shibuya PARCO 6F, 15-1 Udagawacho, Shibuya, Tokyo", "ja": "東京都渋谷区宇田川町15-1 渋谷PARCO 6F" } },
+    "info": { "website": "nintendo.com/stores/nintendo-tokyo", "phone": null, "address": { "en": "Shibuya PARCO 6F, 15-1 Udagawacho, Shibuya, Tokyo 150-8377", "ja": "東京都渋谷区宇田川町15-1 渋谷PARCO 6F" } },
     "hours": { "en": "10:00 AM - 9:00 PM", "ja": "10:00 - 21:00" },
     "pinColorHex": "#FF3B30",
     "pinIcon": "bag.fill",
@@ -30,7 +30,7 @@
     "coordinate": { "latitude": 40.7585, "longitude": -73.9815 },
     "about": {
       "en": "Nintendo New York is Nintendo's flagship store in the United States, located at Rockefeller Center. Spanning two floors, it offers exclusive merchandise, playable game demos, and life-size character statues.",
-      "ja": "Nintendo New Yorkは、ロックフェラーセンターに位置する米国の任天堂フラッグシップストアです。2フロアにわたり、限定グッズ、試遊台、等身大キャラクター像などがあります。"
+      "ja": "Nintendo New Yorkは、ロックフェラーセンターに位置する米国の任天堂フラッグシップストアです。2フロアにわたり、限定グッズ、試遊台、等身大キャラクター像があります。"
     },
     "timeline": [
       { "label": { "en": "Opened as Pokémon Center New York", "ja": "ポケモンセンターニューヨークとしてオープン" }, "date": { "en": "November 16, 2001", "ja": "2001年11月16日" } },
@@ -39,11 +39,11 @@
     ],
     "characterStatues": ["Mario", "Luigi", "Donkey Kong", "Link", "Pikachu", "Samus", "Kirby"],
     "goodToKnow": [
-      { "icon": "gamecontroller", "text": { "en": "Playable game demos are available on both floors", "ja": "両フロアに試遊台があります" } },
-      { "icon": "moon.stars", "text": { "en": "Hosts midnight launch events for major Nintendo game releases", "ja": "任天堂の大型タイトル発売時に深夜イベントを開催します" } },
-      { "icon": "bag", "text": { "en": "Exclusive New York-only merchandise available", "ja": "ニューヨーク限定グッズがあります" } }
+      { "icon": "gamecontroller", "text": { "en": "Playable game demos on both floors", "ja": "両フロアに試遊台があります" } },
+      { "icon": "moon.stars", "text": { "en": "Hosts midnight launch events for major releases", "ja": "大型タイトル発売時に深夜イベントを開催" } },
+      { "icon": "bag", "text": { "en": "New York-exclusive merchandise available", "ja": "ニューヨーク限定グッズがあります" } }
     ],
-    "info": { "website": "nintendo.com/stores/nintendo-new-york", "phone": "+1 (646) 459-0800", "address": { "en": "45 Rockefeller Plaza, New York, NY 10111", "ja": "45 Rockefeller Plaza, New York, NY 10111" } },
+    "info": { "website": "nintendo.com/stores/nintendo-new-york", "phone": "+1 (646) 459-0800", "address": { "en": "10 Rockefeller Plaza, New York, NY 10020", "ja": "10 Rockefeller Plaza, New York, NY 10020" } },
     "hours": { "en": "10:00 AM - 9:00 PM", "ja": "10:00 - 21:00" },
     "pinColorHex": "#FF3B30",
     "pinIcon": "bag.fill",
@@ -53,21 +53,21 @@
     "id": "nintendo-kyoto",
     "name": { "en": "Nintendo KYOTO", "ja": "Nintendo KYOTO" },
     "category": { "en": "Official Nintendo Store", "ja": "任天堂オフィシャルストア" },
-    "coordinate": { "latitude": 35.0069, "longitude": 135.7680 },
+    "coordinate": { "latitude": 34.9977, "longitude": 135.7727 },
     "about": {
-      "en": "Nintendo KYOTO is an official Nintendo store located inside Kyoto BAL in central Kyoto, offering a curated selection of Nintendo merchandise including Kyoto-exclusive items.",
-      "ja": "Nintendo KYOTOは、京都中心部の京都BAL内にある任天堂公式ストアで、京都限定グッズを含むセレクトされた任天堂商品を取り揃えています。"
+      "en": "Nintendo KYOTO is an official Nintendo store located on the 7th floor of Kyoto Takashimaya S.C. T8, offering Nintendo merchandise including Kyoto-exclusive items.",
+      "ja": "Nintendo KYOTOは、京都高島屋S.C. T8の7階にある任天堂公式ストアで、京都限定グッズを含む任天堂商品を取り揃えています。"
     },
     "timeline": [
-      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "October 16, 2024", "ja": "2024年10月16日" } }
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "October 17, 2023", "ja": "2023年10月17日" } }
     ],
     "goodToKnow": [
-      { "icon": "bag", "text": { "en": "Exclusive Kyoto-only merchandise not available at other Nintendo stores", "ja": "他の任天堂ストアでは買えない京都限定グッズがあります" } },
-      { "icon": "clock", "text": { "en": "Can get crowded on weekends, especially during tourist season", "ja": "観光シーズンの週末は特に混雑します" } },
-      { "icon": "tram", "text": { "en": "A short walk from Kawaramachi Station", "ja": "河原町駅から徒歩すぐです" } }
+      { "icon": "bag", "text": { "en": "Kyoto-exclusive merchandise not sold at other Nintendo stores", "ja": "他の任天堂ストアでは買えない京都限定グッズがあります" } },
+      { "icon": "clock", "text": { "en": "Busy on weekends, numbered tickets may be required", "ja": "週末は混雑し整理券が必要な場合があります" } },
+      { "icon": "camera", "text": { "en": "Unique rooftop Mario flagpole statue exclusive to this store", "ja": "この店舗限定の屋上マリオ旗ポール像があります" } }
     ],
-    "info": { "website": "nintendo.com/stores/nintendo-kyoto", "phone": null, "address": { "en": "Kyoto BAL, 251 Yamazakicho, Shimogyo, Kyoto", "ja": "京都府京都市下京区山崎町251 京都BAL" } },
-    "hours": { "en": "11:00 AM - 8:00 PM", "ja": "11:00 - 20:00" },
+    "info": { "website": "nintendo.com/stores/nintendo-kyoto", "phone": null, "address": { "en": "Kyoto Takashimaya S.C. T8 7F, 52 Shijodori Kawaramachi, Shimogyo, Kyoto 600-8002", "ja": "京都府京都市下京区四条通河原町西入真町52 京都高島屋S.C. T8 7F" } },
+    "hours": { "en": "10:00 AM - 8:00 PM", "ja": "10:00 - 20:00" },
     "pinColorHex": "#FF3B30",
     "pinIcon": "bag.fill",
     "status": null
@@ -76,21 +76,21 @@
     "id": "nintendo-osaka",
     "name": { "en": "Nintendo OSAKA", "ja": "Nintendo OSAKA" },
     "category": { "en": "Official Nintendo Store", "ja": "任天堂オフィシャルストア" },
-    "coordinate": { "latitude": 34.6744, "longitude": 135.5008 },
+    "coordinate": { "latitude": 34.7024, "longitude": 135.4959 },
     "about": {
-      "en": "Nintendo OSAKA is an official Nintendo store located inside Daimaru Shinsaibashi in Osaka, offering Nintendo merchandise including Osaka-exclusive items.",
-      "ja": "Nintendo OSAKAは、大阪の大丸心斎橋店内にある任天堂公式ストアで、大阪限定グッズを含む任天堂商品を取り揃えています。"
+      "en": "Nintendo OSAKA is an official Nintendo store located on the 13th floor of Daimaru Umeda in Osaka. At over 800 square meters it is more than twice the size of Nintendo Tokyo, offering Nintendo merchandise including Osaka-exclusive items.",
+      "ja": "Nintendo OSAKAは、大阪の大丸梅田店13階にある任天堂公式ストアです。800平方メートル超えの広さで、Nintendo Tokyoの2倍以上の規模を誇り、大阪限定グッズを含む任天堂商品を取り揃えています。"
     },
     "timeline": [
-      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "November 21, 2024", "ja": "2024年11月21日" } }
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "November 11, 2022", "ja": "2022年11月11日" } }
     ],
     "goodToKnow": [
-      { "icon": "bag", "text": { "en": "Exclusive Osaka-only merchandise not available at other Nintendo stores", "ja": "他の任天堂ストアでは買えない大阪限定グッズがあります" } },
-      { "icon": "tram", "text": { "en": "Shinsaibashi Station is directly connected to Daimaru", "ja": "心斎橋駅から大丸に直結しています" } },
-      { "icon": "clock", "text": { "en": "Queues at the entrance are common on weekends", "ja": "週末は入口に行列ができることがあります" } }
+      { "icon": "bag", "text": { "en": "Osaka-exclusive merchandise not sold at other Nintendo stores", "ja": "他の任天堂ストアでは買えない大阪限定グッズがあります" } },
+      { "icon": "clock", "text": { "en": "Numbered tickets required during busy periods", "ja": "混雑時は整理券が必要です" } },
+      { "icon": "tram", "text": { "en": "Directly connected to JR Osaka Station", "ja": "JR大阪駅に直結しています" } }
     ],
-    "info": { "website": "nintendo.com/stores/nintendo-osaka", "phone": null, "address": { "en": "Daimaru Shinsaibashi, 1-7-1 Shinsaibashisuji, Chuo, Osaka", "ja": "大阪府大阪市中央区心斎橋筋1-7-1 大丸心斎橋店" } },
-    "hours": { "en": "10:00 AM - 8:00 PM", "ja": "10:00 - 20:00" },
+    "info": { "website": "nintendo.com/stores/nintendo-osaka", "phone": null, "address": { "en": "Daimaru Umeda 13F, 3-1-1 Umeda, Kita, Osaka 530-8202", "ja": "大阪府大阪市北区梅田3-1-1 大丸梅田店13F" } },
+    "hours": { "en": "10:00 AM - 9:00 PM", "ja": "10:00 - 21:00" },
     "pinColorHex": "#FF3B30",
     "pinIcon": "bag.fill",
     "status": null
@@ -101,18 +101,18 @@
     "category": { "en": "Official Nintendo Store", "ja": "任天堂オフィシャルストア" },
     "coordinate": { "latitude": 33.5904, "longitude": 130.4207 },
     "about": {
-      "en": "Nintendo FUKUOKA is an official Nintendo store in Fukuoka, serving Nintendo fans in the Kyushu region with exclusive merchandise including Fukuoka-only items.",
-      "ja": "Nintendo FUKUOKAは九州の任天堂ファンに向けた公式ストアで、福岡限定グッズを含む任天堂商品を取り揃えています。"
+      "en": "Nintendo FUKUOKA is Nintendo's first official store in Kyushu, located on the 8th floor of Amu Plaza Hakata inside JR Hakata City. It offers Nintendo merchandise including Fukuoka-exclusive items.",
+      "ja": "Nintendo FUKUOKAは、JR博多シティのアミュプラザ博多8階にある九州初の任天堂公式ストアです。福岡限定グッズを含む任天堂商品を取り揃えています。"
     },
     "timeline": [
-      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "2024", "ja": "2024年" } }
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "November 14, 2025", "ja": "2025年11月14日" } }
     ],
     "goodToKnow": [
-      { "icon": "bag", "text": { "en": "Exclusive Fukuoka-only merchandise not available at other Nintendo stores", "ja": "他の任天堂ストアでは買えない福岡限定グッズがあります" } },
-      { "icon": "clock", "text": { "en": "Busy on weekends and during local events", "ja": "週末や地元イベント時は混雑します" } },
-      { "icon": "tram", "text": { "en": "Easily accessible from Tenjin Station", "ja": "天神駅からアクセスしやすいです" } }
+      { "icon": "bag", "text": { "en": "Fukuoka-exclusive merchandise not sold at other Nintendo stores", "ja": "他の任天堂ストアでは買えない福岡限定グッズがあります" } },
+      { "icon": "clock", "text": { "en": "Numbered tickets required during busy periods", "ja": "混雑時は整理券が必要です" } },
+      { "icon": "tram", "text": { "en": "Directly connected to Hakata Station", "ja": "博多駅に直結しています" } }
     ],
-    "info": { "website": "nintendo.com/stores/nintendo-fukuoka", "phone": null, "address": { "en": "Fukuoka, Japan", "ja": "福岡県福岡市" } },
+    "info": { "website": "nintendo.com/stores/nintendo-fukuoka", "phone": null, "address": { "en": "Amu Plaza Hakata 8F, 1-1 Hakataekichuogai, Hakata, Fukuoka 812-0012", "ja": "福岡県福岡市博多区博多駅中央街1-1 アミュプラザ博多8F" } },
     "hours": { "en": "10:00 AM - 8:00 PM", "ja": "10:00 - 20:00" },
     "pinColorHex": "#FF3B30",
     "pinIcon": "bag.fill",
@@ -122,21 +122,21 @@
     "id": "nintendo-san-francisco",
     "name": { "en": "Nintendo San Francisco", "ja": "Nintendo San Francisco" },
     "category": { "en": "Official Nintendo Store", "ja": "任天堂オフィシャルストア" },
-    "coordinate": { "latitude": 37.7841, "longitude": -122.4066 },
+    "coordinate": { "latitude": 37.7874, "longitude": -122.4081 },
     "about": {
-      "en": "Nintendo San Francisco is an official Nintendo store in San Francisco, offering Nintendo merchandise including exclusive San Francisco-only items.",
-      "ja": "Nintendo San Franciscoはサンフランシスコにある任天堂公式ストアで、サンフランシスコ限定グッズを含む任天堂商品を取り揃えています。"
+      "en": "Nintendo San Francisco is Nintendo's second official store in the United States, located in Union Square. It spans two floors and offers exclusive merchandise, playable demos, and life-size character statues.",
+      "ja": "Nintendo San Franciscoは、ユニオンスクエアに位置する米国第2の任天堂公式ストアです。2フロアにわたり、限定グッズ、試遊台、等身大キャラクター像があります。"
     },
     "timeline": [
-      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "2024", "ja": "2024年" } }
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "May 15, 2025", "ja": "2025年5月15日" } }
     ],
     "goodToKnow": [
-      { "icon": "bag", "text": { "en": "Exclusive San Francisco-only merchandise available", "ja": "サンフランシスコ限定グッズがあります" } },
-      { "icon": "clock", "text": { "en": "Busy on weekends and holidays", "ja": "週末や祝日は混雑します" } },
-      { "icon": "tram", "text": { "en": "Accessible via BART and Muni", "ja": "BARTやMuniでアクセスできます" } }
+      { "icon": "bag", "text": { "en": "San Francisco-exclusive merchandise not sold anywhere else", "ja": "サンフランシスコ限定グッズがあります" } },
+      { "icon": "ticket", "text": { "en": "Warp Pipe Pass reservation required for select events", "ja": "一部イベントはワープパイプパスの予約が必要です" } },
+      { "icon": "gamecontroller", "text": { "en": "Large screen gaming area with playable demos", "ja": "大型スクリーンと試遊エリアがあります" } }
     ],
-    "info": { "website": "nintendo.com/stores/nintendo-san-francisco", "phone": null, "address": { "en": "San Francisco, CA", "ja": "カリフォルニア州サンフランシスコ" } },
-    "hours": { "en": "10:00 AM - 8:00 PM", "ja": "10:00 - 20:00" },
+    "info": { "website": "nintendo.com/stores/nintendo-san-francisco", "phone": "+1 (415) 825-6850", "address": { "en": "331 Powell St, San Francisco, CA 94102", "ja": "331 Powell St, San Francisco, CA 94102" } },
+    "hours": { "en": "Mon-Sat 10:00 AM - 8:00 PM, Sun 11:00 AM - 6:00 PM", "ja": "月〜土 10:00 - 20:00、日 11:00 - 18:00" },
     "pinColorHex": "#FF3B30",
     "pinIcon": "bag.fill",
     "status": null
