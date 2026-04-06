@@ -91,6 +91,7 @@
   {
     "id": "nintendo-san-francisco",
     "appleMapsId": "I67A03C763CD5D224",
+    "nameOverride": { "en": "Nintendo San Francisco", "ja": "Nintendo San Francisco" },
     "category": { "en": "Official Nintendo Store", "ja": "任天堂オフィシャルストア" },
     "hours": { "en": "Mon-Sat 10:00 AM - 8:00 PM, Sun 11:00 AM - 6:00 PM", "ja": "月〜土 10:00 - 20:00、日 11:00 - 18:00" },
     "about": {
