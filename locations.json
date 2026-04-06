@@ -2,7 +2,6 @@
   {
     "id": "nintendo-tokyo",
     "appleMapsId": "IDE1450108AFEBE4D",
-    "nameOverride": { "en": "Nintendo New York", "ja": "Nintendo New York" },
     "category": { "en": "Official Nintendo Store", "ja": "任天堂オフィシャルストア" },
     "hours": { "en": "10:00 AM - 9:00 PM", "ja": "10:00 - 21:00" },
     "about": {
@@ -67,6 +66,7 @@
   {
     "id": "nintendo-new-york",
     "appleMapsId": "IADB825B4E769E269",
+    "nameOverride": { "en": "Nintendo New York", "ja": "Nintendo New York" },
     "category": { "en": "Official Nintendo Store", "ja": "任天堂オフィシャルストア" },
     "hours": { "en": "10:00 AM - 9:00 PM", "ja": "10:00 - 21:00" },
     "about": {
