@@ -131,5 +131,24 @@
     "pinColorHex": "#FF3B30",
     "pinIcon": "bag.fill",
     "status": null
+  },
+  {
+    "id": "nintendo-popup-store-tokyo",
+    "nameOverride": { "en": "Nintendo TOKYO POP-UP STORE", "ja": "Nintendo TOKYO POP-UP STORE" },
+    "category": { "en": "Pop-Up Store", "ja": "ポップアップストア" },
+    "about": {
+      "en": "A limited-time Nintendo TOKYO pop-up store held at PARCO locations, bringing exclusive merchandise, special collaborations, and curated selections from the Shibuya flagship store to fans across Japan.",
+      "ja": "渋谷PARCOのNintendo TOKYOをベースにした期間限定ポップアップストア。限定グッズやコラボ商品、人気アイテムを各地のPARCOで展開。"
+    },
+    "timeline": [
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "Jun 25, 2021", "ja": "2021年6月25日" } },
+      { "label": { "en": "Closed", "ja": "閉店" }, "date": { "en": "July 25, 2021", "ja": "2021年7月25日" } }
+    ],
+    "pinColorHex": "#ED7022",
+    "info": { "website": null, "phone": null, "address": { "en": "〒150-8377 東京都渋谷区宇田川町15-1 渋谷PARCO", "ja": "〒150-8377 東京都渋谷区宇田川町15-1 渋谷PARCO" } },
+    "pinIcon": "storefront.fill",
+    "coordinate": { "latitude": 35.661989, "longitude": 139.698784 },
+    "status": null,
+    "tags": ["event-ended"]
   }
 ]
