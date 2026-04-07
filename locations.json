@@ -141,7 +141,7 @@
       "ja": "渋谷PARCOのNintendo TOKYOをベースにした期間限定ポップアップストア。限定グッズやコラボ商品、人気アイテムを各地のPARCOで展開。"
     },
     "timeline": [
-      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "Jun 25, 2021", "ja": "2021年6月25日" } },
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "June 25, 2021", "ja": "2021年6月25日" } },
       { "label": { "en": "Closed", "ja": "閉店" }, "date": { "en": "July 25, 2021", "ja": "2021年7月25日" } }
     ],
     "pinColorHex": "#ED7022",
