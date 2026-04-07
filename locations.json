@@ -19,8 +19,7 @@
     ],
     "pinColorHex": "#FF3B30",
     "pinIcon": "bag.fill",
-    "status": null,
-    "tags": ["opening-soon"]
+    "status": null
   },
   {
     "id": "nintendo-osaka",
@@ -41,8 +40,7 @@
     ],
     "pinColorHex": "#FF3B30",
     "pinIcon": "bag.fill",
-    "status": null,
-    "tags": ["event-ended"]
+    "status": null
   },
   {
     "id": "nintendo-kyoto",
