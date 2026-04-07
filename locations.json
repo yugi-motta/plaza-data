@@ -19,7 +19,7 @@
     ],
     "pinColorHex": "#FF3B30",
     "pinIcon": "bag.fill",
-    "status": null
+    "status": null,
     "tags": ["opening-soon"]
   },
   {
@@ -41,7 +41,7 @@
     ],
     "pinColorHex": "#FF3B30",
     "pinIcon": "bag.fill",
-    "status": null
+    "status": null,
     "tags": ["event-ended"]
   },
   {
