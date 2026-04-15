@@ -3,7 +3,16 @@
     "id": "nintendo-tokyo",
     "appleMapsId": "IDE1450108AFEBE4D",
     "category": { "en": "Official Nintendo Store", "ja": "任天堂オフィシャルストア" },
-    "hours": { "en": "10:00 AM - 9:00 PM", "ja": "10:00 - 21:00" },
+    "hours": [
+  {
+    "day": { "en": "Weekdays", "ja": "平日" },
+    "hours": { "en": "10:00 AM - 9:00 PM", "ja": "10:00 - 21:00" }
+  },
+  {
+    "day": { "en": "Weekends", "ja": "週末" },
+    "hours": { "en": "9:00 AM - 10:00 PM", "ja": "9:00 - 22:00" }
+  }
+]
     "about": {
       "en": "Nintendo Tokyo is Nintendo's first official flagship store in Japan, located on the 6th floor of Shibuya PARCO. It offers exclusive Tokyo-only merchandise, immersive character displays, and a wide range of Nintendo products.",
       "ja": "Nintendo Tokyoは、渋谷PARCOの6階に位置する任天堂初の日本公式フラッグシップストアです。東京限定グッズや没入型キャラクターディスプレイ、幅広い任天堂商品を取り揃えています。"
