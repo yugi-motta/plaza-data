@@ -6,7 +6,25 @@
     "photos": [
       {
     "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1776255590/IMG_5015_og0r9g.heic"
-      }
+      },
+      {
+    "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1776255589/IMG_8973_w88ipk.heic"
+    "thumbnail": {
+      "label": { "en": "Photo by Alex", "ja": "写真: Alex" },
+      "icon": "camera.fill"
+      },
+      {
+    "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1776255589/IMG_3671_qnfij9.heic",
+    "thumbnail": {
+      "label": { "en": "Photo by Puraza Team", "ja": "写真: プラザチーム" },
+      "icon": "person.crop.circle.fill",
+      "link": "https://instagram.com/purazaapp"
+    },
+    "fullScreen": {
+      "label": { "en": "Photo by Puraza Team", "ja": "写真: プラザチーム" },
+      "icon": "person.crop.circle.fill",
+      "link": "https://instagram.com/purazaapp"
+    }
     ],
     "hours": [
       {
