@@ -29,8 +29,7 @@
       "label": { "en": "Photo by Puraza Team", "ja": "写真: プラザチーム" },
       "icon": "person.crop.circle.fill",
       "link": "https://instagram.com/purazaapp"
-      }
-    ],
+      },
     "hours": [
       {
       "day": { "en": "Weekdays", "ja": "平日" },
