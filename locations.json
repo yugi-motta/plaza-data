@@ -220,6 +220,41 @@
     "pinIcon": "bolt.fill",
     "status": null
   },
+  { 
+    "id": "pokemon-center-mega-tokyo",
+    "appleMapsId": "I28FF016F67076957",
+    "nameOverride": { "en": "Pokémon Center MEGA TOKYO", "ja": "ポケモンセンターメガトウキョー" },
+    "category": { "en": "Pokémon Center", "ja": "ポケモンセンター" },
+    "hours": [
+      {
+      "day": { "en": "All Days", "ja": "毎日" },
+      "hours": { "en": "10:00 AM - 8:00 PM", "ja": "10:00 - 20:00" }
+      }
+    ],
+    "about": {
+      "en": "Pokémon Center MEGA TOKYO is one of the brand’s largest flagship stores in Japan, known for its expansive merchandise selection and large-scale Pokémon-themed retail experience.",
+      "ja": "ポケモンセンターメガトウキョーは、日本国内でも最大級の旗艦店のひとつで、幅広いグッズ展開とスケールの大きなポケモンの世界観を楽しめる店舗です。"
+    },
+    "timeline": [
+      { "label": { "en": "Opened as Pokémon Center MEGA TOKYO", "ja": "ポケモンセンターメガトウキョーとしてオープン" }, "date": { "en": "December 12, 2014", "ja": "2014年12月12日" } },
+      { "label": { "en": "Expanded with Pokémon GO Lab. and Pikachu Sweets", "ja": "Pokémon GO Lab.とピカチュウスイーツを併設して拡張" }, "date": { "en": "December 19, 2019", "ja": "2019年12月19日" } },
+      { "label": { "en": "Grand reopened after renewal", "ja": "リニューアル後にグランドオープン" }, "date": { "en": "June 1, 2020", "ja": "2020年6月1日" } }
+    ],
+    "characterStatues": [
+      { "en": "Professor Willow", "ja": "ウィロー博士" },
+      { "en": "Spark", "ja": "スパーク" },
+      { "en": "Blanche", "ja": "ブランシェ" },
+      { "en": "Candela", "ja": "キャンデラ" }
+    ],
+    "goodToKnow": [
+      { "icon": "location.magnifyingglass", "text": { "en": "Includes the world’s first official Pokémon GO space, Pokémon GO Lab.", "ja": "世界初の『Pokémon GO』公式スペース「Pokémon GO Lab.」があります" } },
+      { "icon": "fork.knife", "text": { "en": "Pikachu Sweets by Pokémon Cafe is attached", "ja": "「ピカチュウスイーツ by ポケモンカフェ」が併設されています" } },
+      { "icon": "rectangle.stack.badge.play", "text": { "en": "Has a dedicated Pokémon Card Station area", "ja": "ポケモンカードステーションの専用エリアがあります" } }
+    ],
+    "pinColorHex": "#FFCC00",
+    "pinIcon": "bolt.fill",
+    "status": null
+  },
   {
     "id": "nintendo-popup-store-tokyo",
     "nameOverride": { "en": "Nintendo TOKYO POP-UP STORE", "ja": "Nintendo TOKYO POP-UP STORE" },
