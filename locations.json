@@ -20,7 +20,13 @@
     "timeline": [
       { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "November 22, 2019", "ja": "2019年11月22日" } }
     ],
-    "characterStatues": ["Mario", "Luigi", "Link", "Samus", "Pikachu", "Kirby"],
+    "characterStatues": [
+      { "en": "Mario", "ja": "マリオ" },
+      { "en": "Luigi", "ja": "ルイージ" },
+      { "en": "Peach", "ja": "ピーチ" },
+      { "en": "Yoshi", "ja": "ヨッシー" },
+      { "en": "Bowser", "ja": "クッパ" }
+    ],
     "goodToKnow": [
       { "icon": "clock", "text": { "en": "Long queues on weekends and holidays", "ja": "週末や祝日は長時間並ぶことがあります" } },
       { "icon": "bag", "text": { "en": "Tokyo-exclusive merchandise not sold anywhere else", "ja": "他では買えない東京限定グッズがあります" } },
