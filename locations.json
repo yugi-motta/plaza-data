@@ -34,7 +34,16 @@
     "id": "nintendo-osaka",
     "appleMapsId": "IB8F10D98C49B2EBB",
     "category": { "en": "Official Nintendo Store", "ja": "任天堂オフィシャルストア" },
-    "hours": { "en": "10:00 AM - 9:00 PM", "ja": "10:00 - 21:00" },
+    "hours": [
+      {
+      "day": { "en": "Weekdays", "ja": "平日" },
+      "hours": { "en": "10:00 AM - 9:00 PM", "ja": "10:00 - 21:00" }
+      },
+      {
+      "day": { "en": "Weekends", "ja": "週末" },
+      "hours": { "en": "9:00 AM - 10:00 PM", "ja": "9:00 - 22:00" }
+      }
+    ],
     "about": {
       "en": "Nintendo OSAKA is an official Nintendo store located on the 13th floor of Daimaru Umeda in Osaka. At over 800 square meters it is more than twice the size of Nintendo Tokyo, offering Nintendo merchandise including Osaka-exclusive items.",
       "ja": "Nintendo OSAKAは、大阪の大丸梅田店13階にある任天堂公式ストアです。800平方メートル超えの広さでNintendo Tokyoの2倍以上の規模を誇り、大阪限定グッズを含む任天堂商品を取り揃えています。"
@@ -55,7 +64,16 @@
     "id": "nintendo-kyoto",
     "appleMapsId": "I574F46F35DE5008D",
     "category": { "en": "Official Nintendo Store", "ja": "任天堂オフィシャルストア" },
-    "hours": { "en": "10:00 AM - 8:00 PM", "ja": "10:00 - 20:00" },
+    "hours": [
+      {
+      "day": { "en": "Weekdays", "ja": "平日" },
+      "hours": { "en": "10:00 AM - 9:00 PM", "ja": "10:00 - 21:00" }
+      },
+      {
+      "day": { "en": "Weekends", "ja": "週末" },
+      "hours": { "en": "9:00 AM - 10:00 PM", "ja": "9:00 - 22:00" }
+      }
+    ],
     "about": {
       "en": "Nintendo KYOTO is an official Nintendo store located on the 7th floor of Kyoto Takashimaya S.C. T8, offering Nintendo merchandise including Kyoto-exclusive items.",
       "ja": "Nintendo KYOTOは、京都高島屋S.C. T8の7階にある任天堂公式ストアで、京都限定グッズを含む任天堂商品を取り揃えています。"
@@ -77,7 +95,16 @@
     "appleMapsId": "IADB825B4E769E269",
     "nameOverride": { "en": "Nintendo New York", "ja": "Nintendo New York" },
     "category": { "en": "Official Nintendo Store", "ja": "任天堂オフィシャルストア" },
-    "hours": { "en": "10:00 AM - 9:00 PM", "ja": "10:00 - 21:00" },
+    "hours": [
+      {
+      "day": { "en": "Weekdays", "ja": "平日" },
+      "hours": { "en": "10:00 AM - 9:00 PM", "ja": "10:00 - 21:00" }
+      },
+      {
+      "day": { "en": "Weekends", "ja": "週末" },
+      "hours": { "en": "9:00 AM - 10:00 PM", "ja": "9:00 - 22:00" }
+      }
+    ],
     "about": {
       "en": "Nintendo New York is Nintendo's flagship store in the United States, located at Rockefeller Center. Spanning two floors, it offers exclusive merchandise, playable game demos, and life-size character statues.",
       "ja": "Nintendo New Yorkは、ロックフェラーセンターに位置する米国の任天堂フラッグシップストアです。2フロアにわたり、限定グッズ、試遊台、等身大キャラクター像があります。"
@@ -102,7 +129,16 @@
     "appleMapsId": "I67A03C763CD5D224",
     "nameOverride": { "en": "Nintendo San Francisco", "ja": "Nintendo San Francisco" },
     "category": { "en": "Official Nintendo Store", "ja": "任天堂オフィシャルストア" },
-    "hours": { "en": "Mon-Sat 10:00 AM - 8:00 PM, Sun 11:00 AM - 6:00 PM", "ja": "月〜土 10:00 - 20:00、日 11:00 - 18:00" },
+    "hours": { "en": "Mon-Sat 10:00 AM - 8:00 PM, Sun 11:00 AM - 6:00 PM", "ja": "月〜土 10:00 - 20:00、日 11:00 - 18:00" },"hours": [
+      {
+      "day": { "en": "Weekdays", "ja": "平日" },
+      "hours": { "en": "10:00 AM - 9:00 PM", "ja": "10:00 - 21:00" }
+      },
+      {
+      "day": { "en": "Weekends", "ja": "週末" },
+      "hours": { "en": "9:00 AM - 10:00 PM", "ja": "9:00 - 22:00" }
+      }
+    ],
     "about": {
       "en": "Nintendo San Francisco is Nintendo's second official store in the United States, located in Union Square. It spans two floors and offers exclusive merchandise, playable demos, and life-size character statues.",
       "ja": "Nintendo San Franciscoは、ユニオンスクエアに位置する米国第2の任天堂公式ストアです。2フロアにわたり、限定グッズ、試遊台、等身大キャラクター像があります。"
@@ -124,7 +160,16 @@
     "appleMapsId": "I4B684A3383B1D95D",
     "nameOverride": { "en": "Nintendo FUKUOKA", "ja": "Nintendo FUKUOKA" },
     "category": { "en": "Official Nintendo Store", "ja": "任天堂オフィシャルストア" },
-    "hours": { "en": "10:00 AM - 8:00 PM", "ja": "10:00 - 20:00" },
+    "hours": [
+      {
+      "day": { "en": "Weekdays", "ja": "平日" },
+      "hours": { "en": "10:00 AM - 9:00 PM", "ja": "10:00 - 21:00" }
+      },
+      {
+      "day": { "en": "Weekends", "ja": "週末" },
+      "hours": { "en": "9:00 AM - 10:00 PM", "ja": "9:00 - 22:00" }
+      }
+    ],
     "about": {
       "en": "Nintendo FUKUOKA is Nintendo's first official store in Kyushu, located on the 8th floor of Amu Plaza Hakata inside JR Hakata City. It offers Nintendo merchandise including Fukuoka-exclusive items.",
       "ja": "Nintendo FUKUOKAは、JR博多シティのアミュプラザ博多8階にある九州初の任天堂公式ストアです。福岡限定グッズを含む任天堂商品を取り揃えています。"
