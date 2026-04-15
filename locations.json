@@ -193,7 +193,7 @@
     "status": null
   },
   {
-        "id": "pokemon-center-shibuya",
+    "id": "pokemon-center-shibuya",
     "appleMapsId": "I234FD1382561394",
     "nameOverride": { "en": "Pokémon Center Shibuya", "ja": "ポケモンセンターシブヤ" },
     "category": { "en": "Pokémon Center", "ja": "ポケモンセンター" },
