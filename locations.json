@@ -9,22 +9,15 @@
   },
   {
     "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1776255589/IMG_8973_w88ipk.heic",
-    "thumbnail": {
-      "label": { "en": "Photo: Alex M.", "ja": "写真: Alex M." },
-      "icon": "camera.fill"
+    "attribution": {
+      "label": "Photo: Yugi M."
     }
   },
   {
     "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1776255589/IMG_3671_qnfij9.heic",
-    "thumbnail": {
-      "label": { "en": "Photo: Puraza", "ja": "写真: プラザ" },
-      "icon": "person.crop.circle.fill",
-      "link": "https://instagram.com/purazaapp"
-    },
-    "fullScreen": {
-      "label": { "en": "Photo: Puraza", "ja": "写真: プラザ" },
-      "icon": "person.crop.circle.fill",
-      "link": "https://instagram.com/purazaapp"
+    "attribution": {
+      "label": "Photo: Yugi M.",
+      "link": "https://instagram.com/yuuji_64"
     }
   }
 ],
