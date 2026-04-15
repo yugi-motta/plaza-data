@@ -5,25 +5,19 @@
     "category": { "en": "Official Nintendo Store", "ja": "任天堂オフィシャルストア" },
     "photos": [
   {
-    "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1776255590/IMG_5015_og0r9g.heic"
+    "url": "https://store-jp.nintendo.com/mobify/bundle/1781/static/img/nintendoTokyo/img_carousel01.jpg"
   },
   {
-    "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1776255589/IMG_8973_w88ipk.heic",
+    "url": "https://store-jp.nintendo.com/mobify/bundle/1781/static/img/nintendoTokyo/img_carousel02.jpg",
     "attribution": {
-      "label": {
-        "en": "Photo: Yugi M.",
-        "ja": "写真: Yugi M."
-      }
+      "name": "Nintendo."
     }
   },
   {
-    "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1776255589/IMG_3671_qnfij9.heic",
+    "url": "https://rimage.gnst.jp/livejapan.com/public/article/detail/a/00/03/a0003799/img/basic/a0003799_main.jpg",
     "attribution": {
-      "label": {
-        "en": "Photo: Yugi M.",
-        "ja": "写真: Yugi M."
-      },
-      "link": "https://instagram.com/yuuji_64"
+      "name": "Jose G.",
+      "link": "https://instagram.com/instagram"
     }
   }
 ],
