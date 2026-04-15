@@ -193,6 +193,34 @@
     "status": null
   },
   {
+        "id": "pokemon-center-shibuya",
+    "appleMapsId": "I4A6F1B9F4C1C2E7",
+    "nameOverride": { "en": "Pokémon Center Shibuya", "ja": "ポケモンセンターシブヤ" },
+    "category": { "en": "Pokémon Center", "ja": "ポケモンセンター" },
+    "hours": [
+      {
+      "day": { "en": "All Days", "ja": "毎日" },
+      "hours": { "en": "10:00 AM - 9:00 PM", "ja": "10:00 - 21:00" }
+      }
+    ],
+    "about": {
+      "en": "Pokémon Center Shibuya is located inside Shibuya PARCO and features a dark, modern aesthetic inspired by the urban culture of Shibuya, offering exclusive merchandise and a unique store design.",
+      "ja": "ポケモンセンターシブヤは渋谷PARCO内にあり、渋谷の都市文化にインスパイアされたダークでモダンなデザインが特徴で、限定グッズやユニークな店内空間を楽しめます。"
+    },
+    "timeline": [
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "November 22, 2019", "ja": "2019年11月22日" } }
+    ],
+    "characterStatues": ["Mewtwo"],
+    "goodToKnow": [
+      { "icon": "paintbrush", "text": { "en": "Features graffiti-style Pokémon artwork unique to this location", "ja": "この店舗限定のグラフィティ風ポケモンアートがあります" } },
+      { "icon": "bag", "text": { "en": "Offers Shibuya-exclusive merchandise", "ja": "渋谷限定グッズを販売しています" } },
+      { "icon": "building.2", "text": { "en": "Located on the 6th floor of Shibuya PARCO", "ja": "渋谷PARCOの6階にあります" } }
+    ],
+    "pinColorHex": "#FFCC00",
+    "pinIcon": "bolt.fill",
+    "status": null
+  },
+  {
     "id": "nintendo-popup-store-tokyo",
     "nameOverride": { "en": "Nintendo TOKYO POP-UP STORE", "ja": "Nintendo TOKYO POP-UP STORE" },
     "category": { "en": "Pop-Up Store", "ja": "ポップアップストア" },
