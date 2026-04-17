@@ -273,6 +273,32 @@
     "pinIcon": "bolt.fill",
     "status": null
   },
+  {    "id": "pokepark-kanto",
+    "appleMapsId": "I236B0F91A90423C2",
+    "category": { "en": "Theme Park", "ja": "テーマパーク" },
+    "hours": [
+      {
+      "day": { "en": "Varies by date", "ja": "日によって異なります" },
+      "hours": { "en": "See official park schedule", "ja": "公式スケジュールをご確認ください" }
+      }
+    ],
+    "about": {
+      "en": "PokéPark KANTO is the first permanent outdoor Pokémon attraction, located inside Yomiuriland. It is built around two main areas, Pokémon Forest and Sedge Town, where guests can explore a large-scale world filled with Pokémon and themed experiences.",
+      "ja": "ポケパーク カントーは、よみうりランド内にあるポケモン初の屋外常設施設です。ポケモンフォレストとカヤツリタウンの2つの主要エリアで構成され、たくさんのポケモンやテーマ体験を楽しめる大規模な空間になっています。"
+    },
+    "timeline": [
+      { "label": { "en": "Opening period announced for spring 2026", "ja": "2026年春開業予定を発表" }, "date": { "en": "August 29, 2025", "ja": "2025年8月29日" } },
+      { "label": { "en": "Opened", "ja": "開業" }, "date": { "en": "February 5, 2026", "ja": "2026年2月5日" } }
+    ],
+    "goodToKnow": [
+      { "icon": "ticket", "text": { "en": "Advance tickets are required, and sales methods differ for Japan residents and overseas visitors", "ja": "事前チケットが必要で、日本在住者と海外からの来場者で購入方法が異なります" } },
+      { "icon": "leaf.fill", "text": { "en": "The park features more than 600 Pokémon across its forest and town areas", "ja": "森と街のエリア全体で600匹を超えるポケモンが登場します" } },
+      { "icon": "figure.walk", "text": { "en": "Pokémon Forest includes uneven terrain such as slopes, grass paths, and tunnels", "ja": "ポケモンフォレストには坂道、草むら、トンネルなど起伏のあるルートがあります" } }
+    ],
+    "pinColorHex": "#0088FF",
+    "pinIcon": "ticket.fill",
+    "status": null
+  },
   {
     "id": "nintendo-popup-store-tokyo",
     "nameOverride": { "en": "Nintendo TOKYO POP-UP STORE", "ja": "Nintendo TOKYO POP-UP STORE" },
