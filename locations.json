@@ -182,6 +182,30 @@
     "status": null
   },
   {
+    "id": "nintendo-hong-kong",
+    "appleMapsId": "I96A1E1960BAFA417",
+    "category": { "en": "Historical Sites & Corporate", "ja": "歴史スポット・企業関連" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "about": {
+      "en": "Nintendo (Hong Kong) Limited is Nintendo’s official Hong Kong subsidiary, handling local business operations and regional support for Nintendo products in Hong Kong.",
+      "ja": "任天堂（香港）有限公司は、香港における任天堂の公式現地法人で、任天堂製品の地域運営やサポートを担当しています。"
+    },
+    "goodToKnow": [
+      { "icon": "building.2", "text": { "en": "This is a corporate location, not a retail Nintendo store", "ja": "ここは小売店ではなく、任天堂の法人拠点です" } },
+      { "icon": "wrench.and.screwdriver", "text": { "en": "Nintendo Hong Kong also provides official regional customer support and repair information", "ja": "任天堂香港は地域向けの公式サポートや修理案内も提供しています" } },
+      { "icon": "globe", "text": { "en": "It operates the official Hong Kong Nintendo website and My Nintendo Store service", "ja": "香港向け公式サイトとMy Nintendo Storeの運営主体でもあります" } }
+    ],
+    "pinColorHex": "#CB30E0",
+    "pinIcon": "building.2.fill",
+    "status": null
+  },
+  {
     "id": "nintendo-san-francisco",
     "appleMapsId": "I67A03C763CD5D224",
     "nameOverride": { "en": "Nintendo San Francisco", "ja": "Nintendo San Francisco" },
