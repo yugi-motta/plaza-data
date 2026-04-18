@@ -333,6 +333,43 @@
     "status": null
   },
   {
+    "id": "nintendo-museum",
+    "appleMapsId": "I6151A6C18324637F",
+    "category": { "en": "Museum", "ja": "ミュージアム" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "Wednesday - Monday", "ja": "水曜日〜月曜日" },
+      "hours": { "en": "10:00 AM - 8:00 PM", "ja": "10:00 - 20:00" }
+      },
+      {
+      "day": { "en": "Tuesday", "ja": "火曜日" },
+      "hours": { "en": "Closed", "ja": "休館" }
+      }
+    ],
+    "about": {
+      "en": "Nintendo Museum is an official museum in Uji, Kyoto, where visitors can explore Nintendo’s history through product displays and interactive hands-on experiences spanning the company’s past and present.",
+      "ja": "ニンテンドーミュージアムは京都府宇治市にある公式施設で、任天堂の歴史をたどる展示や体験型コンテンツを通して、過去から現在までの歩みを楽しめるミュージアムです。"
+    },
+    "timeline": [
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "October 2, 2024", "ja": "2024年10月2日" } }
+    ],
+    "goodToKnow": [
+      { "icon": "ticket", "text": { "en": "Admission requires advance reservation through a lottery system", "ja": "入館には抽選制の事前予約が必要です" } },
+      { "icon": "gamecontroller", "text": { "en": "Guests receive play tickets for interactive exhibits inside the museum", "ja": "館内の体験展示で使えるプレイチケットが配布されます" } },
+      { "icon": "bag", "text": { "en": "The shop sells museum-exclusive items and is only for ticket holders", "ja": "ショップでは館内限定グッズを販売しており、入館者のみ利用できます" } }
+    ],
+    "pinColorHex": "#AC7F5E",
+    "pinIcon": "building.columns.fill",
+    "status": null
+  },
+  {
     "id": "nintendo-popup-store-tokyo",
     "nameOverride": { "en": "Nintendo TOKYO POP-UP STORE", "ja": "Nintendo TOKYO POP-UP STORE" },
     "category": { "en": "Pop-Up Store", "ja": "ポップアップストア" },
