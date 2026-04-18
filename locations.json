@@ -375,6 +375,39 @@
     "status": null
   },
   {
+    "id": "nintendo-check-in-narita",
+    "appleMapsId": "I54CF118112B41B89",
+    "category": { "en": "Nintendo Check In", "ja": "ニンテンドーチェックイン" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "All Days", "ja": "毎日" },
+      "hours": { "en": "10:30 AM - 5:30 PM", "ja": "10:30 - 17:30" }
+      }
+    ],
+    "about": {
+      "en": "Nintendo Check In is an official Nintendo game experience space at Narita Airport where visitors can try Nintendo Switch titles and enjoy a small themed area before or after their trip.",
+      "ja": "Nintendo Check Inは成田空港にある任天堂公式のゲーム体験スペースで、旅行の前後にNintendo Switchのソフトを試遊したり、テーマ演出を楽しんだりできます。"
+    },
+    "timeline": [
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "June 29, 2019", "ja": "2019年6月29日" } }
+    ],
+    "goodToKnow": [
+      { "icon": "gamecontroller", "text": { "en": "Playable games change from time to time", "ja": "試遊できるゲームは不定期で入れ替わります" } },
+      { "icon": "yensign.circle", "text": { "en": "Admission is free", "ja": "無料で利用できます" } },
+      { "icon": "airplane", "text": { "en": "You can use it even if you are not taking a flight", "ja": "飛行機を利用しない場合でも体験できます" } }
+    ],
+    "pinColorHex": "#6155F5",
+    "pinIcon": "antenna.radiowaves.left.and.right",
+    "status": null
+  },
+  {
     "id": "pokemon-center-skytree-town",
     "appleMapsId": "I25EBD134BB60456E",
     "category": { "en": "Pokémon Center", "ja": "ポケモンセンター" },
