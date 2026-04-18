@@ -272,6 +272,72 @@
     "status": null
   },
   {
+    "id": "1-up-factory-orlando",
+    "appleMapsId": "IF628147937A814F8",
+    "category": { "en": "Park Store", "ja": "パーク内ストア" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "All Days", "ja": "毎日" },
+      "hours": { "en": "9:00 AM - 10:00 PM", "ja": "9:00 - 22:00" }
+      }
+    ],
+    "about": {
+      "en": "1-UP Factory is the main merchandise shop in SUPER NINTENDO WORLD at Universal Epic Universe in Orlando, offering souvenirs, collectibles, and wearable items themed to the Mushroom Kingdom.",
+      "ja": "1-UP Factoryは、オーランドのUniversal Epic Universe内にあるSUPER NINTENDO WORLDのメインショップで、キノコ王国をテーマにしたおみやげ、コレクション商品、身につけられるグッズを取り扱っています。"
+    },
+    "timeline": [
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "May 22, 2025", "ja": "2025年5月22日" } }
+    ],
+    "goodToKnow": [
+      { "icon": "bag", "text": { "en": "This is the main shopping location for SUPER NINTENDO WORLD merchandise in Epic Universe", "ja": "Epic UniverseのSUPER NINTENDO WORLDグッズを扱うメインショップです" } },
+      { "icon": "tshirt", "text": { "en": "Sells souvenirs and wearable merch from the Mushroom Kingdom", "ja": "キノコ王国をテーマにしたおみやげやアパレルを販売しています" } },
+      { "icon": "ticket", "text": { "en": "Valid admission to Universal Epic Universe is required to visit", "ja": "利用にはUniversal Epic Universeの有効な入場券が必要です" } }
+    ],
+    "pinColorHex": "#FF2D55",
+    "pinIcon": "basket.fill",
+    "status": null
+  },
+  {
+    "id": "kirby-cafe-osaka",
+    "appleMapsId": "IEF29D5F72AC4A20A",
+    "category": { "en": "Restaurants / Café", "ja": "レストラン / カフェ" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "All Days", "ja": "毎日" },
+      "hours": { "en": "10:00 AM - 8:00 PM", "ja": "10:00 - 20:00" }
+      }
+    ],
+    "about": {
+      "en": "Kirby Café OSAKA is a permanent themed café dedicated to the Kirby series, offering immersive décor, character-inspired food and drinks, and an atmosphere based on the world of Kirby.",
+      "ja": "カービィカフェ OSAKAは、星のカービィシリーズをテーマにした常設カフェで、作品の世界観を感じられる内装や、キャラクターをモチーフにしたフードとドリンクを楽しめます。"
+    },
+    "timeline": [
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "November 21, 2024", "ja": "2024年11月21日" } }
+    ],
+    "goodToKnow": [
+      { "icon": "calendar", "text": { "en": "Reservations are strongly recommended, and walk-ins are only accepted if seats are available", "ja": "予約優先で、当日案内は空席がある場合のみです" } },
+      { "icon": "clock", "text": { "en": "Last order is at 7:00 PM", "ja": "ラストオーダーは19:00です" } },
+      { "icon": "music.note", "text": { "en": "Kirby Café de Jazz Time is held around 4:30 PM depending on store conditions", "ja": "店内の状況により16:30頃から「Kirby Café de Jazz Time」が行われます" } }
+    ],
+    "pinColorHex": "#00C0E8",
+    "pinIcon": "fork.knife",
+    "status": null
+  },
+  {
     "id": "pokemon-store-narita-airport",
     "appleMapsId": "IF1193F7E8652C673",
     "category": { "en": "Pokémon Store", "ja": "ポケモンストア" },
