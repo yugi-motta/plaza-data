@@ -374,6 +374,40 @@
     "pinIcon": "bolt.fill",
     "status": null
   },
+  {
+    "id": "pokemon-center-skytree-town",
+    "appleMapsId": "I25EBD134BB60456E",
+    "category": { "en": "Pokémon Center", "ja": "ポケモンセンター" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "Monday - Sunday", "ja": "月曜日〜日曜日" },
+      "hours": { "en": "10:00 AM - 9:00 PM", "ja": "10:00 - 21:00" }
+      }
+    ],
+    "about": {
+      "en": "Pokémon Center SKYTREE TOWN is an official Pokémon Center at Tokyo Solamachi, known for its sky-inspired theme and merchandise connected to the Tokyo Skytree area.",
+      "ja": "ポケモンセンタースカイツリータウンは東京ソラマチにある公式ポケモンセンターで、空をイメージした世界観と東京スカイツリーエリアにちなんだグッズが特徴です。"
+    },
+    "timeline": [
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "July 6, 2016", "ja": "2016年7月6日" } },
+      { "label": { "en": "Relocated and reopened", "ja": "移転してリニューアルオープン" }, "date": { "en": "January 1, 2017", "ja": "2017年1月1日" } }
+    ],
+    "goodToKnow": [
+      { "icon": "sparkles", "text": { "en": "The store’s theme is centered around the sky and Rayquaza", "ja": "店舗のテーマは空とレックウザです" } },
+      { "icon": "bag", "text": { "en": "Sells Tokyo Skytree Town exclusive merchandise", "ja": "東京スカイツリータウン限定グッズがあります" } },
+      { "icon": "ticket", "text": { "en": "Timed entry or numbered tickets may be used on busy release days", "ja": "混雑する発売日には整理券や時間指定入店になる場合があります" } }
+    ],
+    "pinColorHex": "#FFCC00",
+    "pinIcon": "bolt.fill",
+    "status": null
+  },
   {    "id": "pokepark-kanto",
     "appleMapsId": "I236B0F91A90423C2",
     "category": { "en": "Theme Park", "ja": "テーマパーク" },
