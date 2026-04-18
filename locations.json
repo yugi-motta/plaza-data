@@ -238,6 +238,40 @@
     "pinIcon": "bolt.fill",
     "status": null
   },
+  {
+    "id": "pokemon-store-narita-airport",
+    "appleMapsId": "IF1193F7E8652C673",
+    "category": { "en": "Pokémon Store", "ja": "ポケモンストア" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "All Days", "ja": "毎日" },
+      "hours": { "en": "9:00 AM - 8:00 PM", "ja": "9:00 - 20:00" }
+      }
+    ],
+    "about": {
+      "en": "Pokémon Store Narita Airport is an official casual-format Pokémon shop inside Narita Airport, offering a travel-friendly selection of merchandise and airport-themed exclusives.",
+      "ja": "ポケモンストア成田空港店は、成田空港内にあるポケモンのカジュアルショップで、旅行中にも立ち寄りやすい品ぞろえと空港ならではの限定商品が魅力です。"
+    },
+    "timeline": [
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "April 29, 2015", "ja": "2015年4月29日" } },
+      { "label": { "en": "Relocated and reopened", "ja": "移転してリニューアルオープン" }, "date": { "en": "January 27, 2025", "ja": "2025年1月27日" } }
+    ],
+    "goodToKnow": [
+      { "icon": "airplane", "text": { "en": "Sells Narita Airport limited items such as Pilot Pikachu and CA Pikachu merchandise", "ja": "パイロットピカチュウやCAピカチュウなど、成田空港限定グッズがあります" } },
+      { "icon": "checkmark.shield", "text": { "en": "Located before the security checkpoint, so you can visit without entering the departure area", "ja": "保安検査前エリアにあるため、出発エリアに入らなくても利用できます" } },
+      { "icon": "sparkles", "text": { "en": "The current store is larger than the previous location after its 2025 renewal", "ja": "2025年のリニューアルで、以前の店舗より広くなっています" } }
+    ],
+    "pinColorHex": "#FFCC00",
+    "pinIcon": "bolt.fill",
+    "status": null
+  },
   { 
     "id": "pokemon-center-mega-tokyo",
     "appleMapsId": "I28FF016F67076957",
