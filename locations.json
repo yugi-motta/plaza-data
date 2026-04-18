@@ -149,6 +149,39 @@
     "status": null
   },
   {
+    "id": "pokemon-store-new-chitose-airport",
+    "appleMapsId": "I600C2E5F5F3937F3",
+    "category": { "en": "Pokémon Store", "ja": "ポケモンストア" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "Monday - Sunday", "ja": "月曜日〜日曜日" },
+      "hours": { "en": "8:00 AM - 8:00 PM", "ja": "8:00 - 20:00" }
+      }
+    ],
+    "about": {
+      "en": "Pokémon Store New Chitose Airport Shop is an official casual-format Pokémon shop inside New Chitose Airport, offering a convenient selection of Pokémon merchandise for travelers along with airport-themed exclusive items.",
+      "ja": "ポケモンストア新千歳空港店は、新千歳空港内にあるポケモンのカジュアルショップで、旅行中にも立ち寄りやすい品ぞろえと空港ならではの限定商品が魅力です。"
+    },
+    "timeline": [
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "July 10, 2014", "ja": "2014年7月10日" } }
+    ],
+    "goodToKnow": [
+      { "icon": "airplane", "text": { "en": "Sells New Chitose Airport limited items, including pilot-themed Pikachu merchandise", "ja": "パイロット姿のピカチュウなど、新千歳空港限定グッズがあります" } },
+      { "icon": "checkmark.shield", "text": { "en": "Located before the domestic security checkpoint", "ja": "国内線の保安検査前エリアにあります" } },
+      { "icon": "figure.walk", "text": { "en": "About a 3-minute walk from JR New Chitose Airport Station", "ja": "JR新千歳空港駅から徒歩約3分です" } }
+    ],
+    "pinColorHex": "#FFCC00",
+    "pinIcon": "bolt.fill",
+    "status": null
+  },
+  {
     "id": "nintendo-san-francisco",
     "appleMapsId": "I67A03C763CD5D224",
     "nameOverride": { "en": "Nintendo San Francisco", "ja": "Nintendo San Francisco" },
