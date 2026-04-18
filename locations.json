@@ -370,6 +370,33 @@
     "status": null
   },
   {
+    "id": "nintendo-head-office-kyoto",
+    "appleMapsId": "I209B2C8B372B5586",
+    "category": { "en": "Historical Sites & Corporate", "ja": "歴史スポット・企業関連" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "about": {
+      "en": "Nintendo Head Office is the company’s current corporate headquarters in Kyoto, serving as the main base for Nintendo’s global business operations.",
+      "ja": "任天堂本社は京都にある任天堂の現本社で、世界展開する事業運営の中心拠点です。"
+    },
+    "timeline": [
+      { "label": { "en": "Headquarters relocated to current location", "ja": "現在地に本社を移転" }, "date": { "en": "November 2000", "ja": "2000年11月" } }
+    ],
+    "goodToKnow": [
+      { "icon": "building.2", "text": { "en": "This is Nintendo’s official corporate headquarters", "ja": "任天堂の公式本社です" } },
+      { "icon": "figure.walk", "text": { "en": "About a 7-minute walk from Jujo Station or Kamitobaguchi Station", "ja": "十条駅または上鳥羽口駅から徒歩約7分です" } },
+      { "icon": "shippingbox", "text": { "en": "Nintendo’s separate Development Center is nearby in Kyoto", "ja": "任天堂の本社開発棟が京都市内の近くにあります" } }
+    ],
+    "pinColorHex": "#CB30E0",
+    "pinIcon": "building.2.fill",
+    "status": null
+  },
+  {
     "id": "nintendo-popup-store-tokyo",
     "nameOverride": { "en": "Nintendo TOKYO POP-UP STORE", "ja": "Nintendo TOKYO POP-UP STORE" },
     "category": { "en": "Pop-Up Store", "ja": "ポップアップストア" },
