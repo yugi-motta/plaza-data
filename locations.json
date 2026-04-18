@@ -300,6 +300,39 @@
     "status": null
   },
   {
+    "id": "super-nintendo-world-japan",
+    "appleMapsId": "I19B2A609EF7804EC",
+    "category": { "en": "Theme Park", "ja": "テーマパーク" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "All Days", "ja": "毎日" },
+      "hours": { "en": "Varies by Universal Studios Japan operating hours", "ja": "ユニバーサル・スタジオ・ジャパンの営業時間に準じます" }
+      }
+    ],
+    "about": {
+      "en": "SUPER NINTENDO WORLD is a Nintendo-themed area inside Universal Studios Japan where guests can experience the worlds of Super Mario and Donkey Kong through attractions, interactive activities, themed food, and exclusive merchandise.",
+      "ja": "スーパー・ニンテンドー・ワールドは、ユニバーサル・スタジオ・ジャパン内にある任天堂テーマエリアで、アトラクション、体験型アクティビティ、テーマフード、限定グッズを通して、スーパー マリオやドンキーコングの世界を楽しめます。"
+    },
+    "timeline": [
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "March 18, 2021", "ja": "2021年3月18日" } }
+    ],
+    "goodToKnow": [
+      { "icon": "ticket", "text": { "en": "Entry may require a timed entry ticket or standby entry depending on crowd levels", "ja": "混雑状況によりエリア入場整理券やスタンバイ入場が必要になる場合があります" } },
+      { "icon": "hand.tap", "text": { "en": "Power-Up Bands unlock interactive activities and key challenges throughout the area", "ja": "パワーアップバンドを使うと、エリア内の体験型アクティビティやキー チャレンジを楽しめます" } },
+      { "icon": "shippingbox", "text": { "en": "The area includes Donkey Kong Country, which opened as an expansion in 2024", "ja": "2024年に拡張エリアとしてオープンしたドンキーコング・カントリーがあります" } }
+    ],
+    "pinColorHex": "#0088FF",
+    "pinIcon": "ticket.fill",
+    "status": null
+  },
+  {
     "id": "nintendo-popup-store-tokyo",
     "nameOverride": { "en": "Nintendo TOKYO POP-UP STORE", "ja": "Nintendo TOKYO POP-UP STORE" },
     "category": { "en": "Pop-Up Store", "ja": "ポップアップストア" },
