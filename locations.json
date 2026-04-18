@@ -272,6 +272,40 @@
     "pinIcon": "bolt.fill",
     "status": null
   },
+  {
+    "id": "pokemon-center-sapporo",
+    "appleMapsId": "IA498954A5CA588B4",
+    "category": { "en": "Pokémon Center", "ja": "ポケモンセンター" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "Monday - Sunday", "ja": "月曜日〜日曜日" },
+      "hours": { "en": "10:00 AM - 8:00 PM", "ja": "10:00 - 20:00" }
+      }
+    ],
+    "about": {
+      "en": "Pokémon Center Sapporo is the official Pokémon flagship store for Hokkaido, offering a wide selection of merchandise in a bright retail space designed for fans visiting from across the region.",
+      "ja": "ポケモンセンターサッポロは、北海道の拠点となる公式ポケモンショップで、道内各地から訪れるファンに向けた豊富なグッズをそろえた明るい店内が特徴です。"
+    },
+    "timeline": [
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "March 6, 2009", "ja": "2009年3月6日" } },
+      { "label": { "en": "Relocated and reopened", "ja": "移転してリニューアルオープン" }, "date": { "en": "December 1, 2016", "ja": "2016年12月1日" } }
+    ],
+    "goodToKnow": [
+      { "icon": "snowflake", "text": { "en": "Carries Hokkaido-themed exclusive merchandise", "ja": "北海道をテーマにした限定グッズがあります" } },
+      { "icon": "sparkles", "text": { "en": "The 2016 renewal expanded the store space and refreshed its logo", "ja": "2016年のリニューアルで売り場が拡大し、ロゴも刷新されました" } },
+      { "icon": "calendar", "text": { "en": "Store holidays follow the department store’s closure days", "ja": "休業日は入居施設の休業日に準じます" } }
+    ],
+    "pinColorHex": "#FFCC00",
+    "pinIcon": "bolt.fill",
+    "status": null
+  },
   { 
     "id": "pokemon-center-mega-tokyo",
     "appleMapsId": "I28FF016F67076957",
