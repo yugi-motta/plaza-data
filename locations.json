@@ -415,12 +415,6 @@
       { "url": "https://example.com/photo4.jpg" },
       { "url": "https://example.com/photo5.jpg" }
     ],
-    "hours": [
-      {
-      "day": { "en": "Current status", "ja": "現在の営業状況" },
-      "hours": { "en": "Temporarily closed for renewal", "ja": "リニューアルのため一時休業中" }
-      }
-    ],
     "about": {
       "en": "Pokémon Center SINGAPORE is the first permanent Pokémon Center outside Japan, located at Jewel Changi Airport and known for serving both local fans and international travelers.",
       "ja": "ポケモンセンターシンガポールは、日本国外初の常設ポケモンセンターで、Jewel Changi Airportにあり、現地ファンだけでなく世界中の旅行者にも親しまれている店舗です。"
@@ -439,7 +433,7 @@
     ],
     "pinColorHex": "#FFCC00",
     "pinIcon": "bolt.fill",
-    "status": null
+    "status": "temporarily-closed"
   },
   {
     "id": "pokemon-center-taipei",
