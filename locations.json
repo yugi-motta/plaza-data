@@ -329,6 +329,268 @@
     "status": null
   },
   {
+    "id": "pokemon-center-tokyo-bay",
+    "appleMapsId": "I4B5FCEBE606E5CB2",
+    "category": { "en": "Pokémon Center", "ja": "ポケモンセンター" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "Monday - Friday", "ja": "月曜日〜金曜日" },
+      "hours": { "en": "10:00 AM - 8:00 PM", "ja": "10:00 - 20:00" }
+      },
+      {
+      "day": { "en": "Saturday - Sunday", "ja": "土曜日〜日曜日" },
+      "hours": { "en": "10:00 AM - 9:00 PM", "ja": "10:00 - 21:00" }
+      }
+    ],
+    "about": {
+      "en": "Pokémon Center TOKYO-BAY is an official Pokémon Center in LaLaport TOKYO-BAY, known for its large-scale renewal and spacious shopping environment with a broad range of Pokémon merchandise.",
+      "ja": "ポケモンセンタートウキョーベイは、ららぽーとTOKYO-BAY内にある公式ポケモンセンターで、大規模リニューアルを経た広々とした店内で豊富なポケモングッズを楽しめる店舗です。"
+    },
+    "timeline": [
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "November 22, 2013", "ja": "2013年11月22日" } },
+      { "label": { "en": "Renewed and reopened", "ja": "リニューアルオープン" }, "date": { "en": "Spring 2024", "ja": "2024年春" } }
+    ],
+    "goodToKnow": [
+      { "icon": "sparkles", "text": { "en": "The store was fully renewed in 2024 with a redesigned interior", "ja": "2024年に店内デザインを刷新して全面リニューアルしました" } },
+      { "icon": "rectangle.stack.badge.play", "text": { "en": "Includes a Pokémon Card Station area", "ja": "ポケモンカードステーションのエリアがあります" } },
+      { "icon": "calendar", "text": { "en": "Store holidays follow LaLaport TOKYO-BAY’s closure schedule", "ja": "休業日はららぽーとTOKYO-BAYの休館日に準じます" } }
+    ],
+    "pinColorHex": "#FFCC00",
+    "pinIcon": "bolt.fill",
+    "status": null
+  },
+  {
+    "id": "pokemon-center-okinawa",
+    "appleMapsId": "I62BA8ED42616FE6E",
+    "category": { "en": "Pokémon Center", "ja": "ポケモンセンター" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "Monday - Sunday", "ja": "月曜日〜日曜日" },
+      "hours": { "en": "10:00 AM - 10:00 PM", "ja": "10:00 - 22:00" }
+      }
+    ],
+    "about": {
+      "en": "Pokémon Center Okinawa is the first full Pokémon Center in Okinawa, featuring a store design inspired by the region’s beautiful sea, subtropical forests, and local culture.",
+      "ja": "ポケモンセンターオキナワは、沖縄初のポケモンセンターで、美しい海や亜熱帯の森、地域らしさを取り入れたデザインが特徴の店舗です。"
+    },
+    "timeline": [
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "August 11, 2022", "ja": "2022年8月11日" } }
+    ],
+    "characterStatues": [
+      { "en": "Pikachu", "ja": "ピカチュウ" },
+      { "en": "Arcanine", "ja": "ウインディ" },
+      { "en": "Alolan Exeggutor", "ja": "アローラナッシー" }
+    ],
+    "goodToKnow": [
+      { "icon": "sparkles", "text": { "en": "The store was created as a full Pokémon Center replacing the former Pokémon Store at the same mall", "ja": "同じイオンモール内にあったポケモンストアから生まれ変わった店舗です" } },
+      { "icon": "paintbrush", "text": { "en": "The location is known for Okinawa-themed exclusive goods, including items inspired by local traditional culture", "ja": "沖縄の伝統文化を取り入れた店舗限定グッズで知られています" } },
+      { "icon": "rectangle.stack.badge.play", "text": { "en": "Includes areas for Pokémon video content and Pokémon Card Game experiences", "ja": "ポケモンの映像を楽しめるエリアや、ポケモンカードゲーム関連の体験エリアがあります" } }
+    ],
+    "pinColorHex": "#FFCC00",
+    "pinIcon": "bolt.fill",
+    "status": null
+  },
+  {
+    "id": "pokemon-center-singapore",
+    "appleMapsId": "I188015D94A2BD2C",
+    "category": { "en": "Pokémon Center", "ja": "ポケモンセンター" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "Current status", "ja": "現在の営業状況" },
+      "hours": { "en": "Temporarily closed for renewal", "ja": "リニューアルのため一時休業中" }
+      }
+    ],
+    "about": {
+      "en": "Pokémon Center SINGAPORE is the first permanent Pokémon Center outside Japan, located at Jewel Changi Airport and known for serving both local fans and international travelers.",
+      "ja": "ポケモンセンターシンガポールは、日本国外初の常設ポケモンセンターで、Jewel Changi Airportにあり、現地ファンだけでなく世界中の旅行者にも親しまれている店舗です。"
+    },
+    "timeline": [
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "April 17, 2019", "ja": "2019年4月17日" } }
+    ],
+    "characterStatues": [
+      { "en": "Pikachu", "ja": "ピカチュウ" },
+      { "en": "Lapras", "ja": "ラプラス" }
+    ],
+    "goodToKnow": [
+      { "icon": "wrench.and.screwdriver", "text": { "en": "The current store closed on March 31, 2026 for renewal, and the reopening date has not been announced yet", "ja": "現店舗は2026年3月31日で営業を終了し、リニューアルオープン日は未発表です" } },
+      { "icon": "airplane", "text": { "en": "A pop-up store is being operated at Jewel Changi Airport during the closure period", "ja": "休業期間中はJewel Changi Airport内でポップアップストアが営業しています" } },
+      { "icon": "bag", "text": { "en": "It was the first permanent Pokémon Center established outside Japan", "ja": "日本国外で初めて開設された常設ポケモンセンターです" } }
+    ],
+    "pinColorHex": "#FFCC00",
+    "pinIcon": "bolt.fill",
+    "status": null
+  },
+  {
+    "id": "pokemon-center-taipei",
+    "appleMapsId": "I3A47E78522D7105F",
+    "category": { "en": "Pokémon Center", "ja": "ポケモンセンター" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "Monday - Thursday, Sunday", "ja": "月曜日〜木曜日、日曜日" },
+      "hours": { "en": "11:00 AM - 9:30 PM", "ja": "11:00 - 21:30" }
+      },
+      {
+      "day": { "en": "Friday - Saturday", "ja": "金曜日〜土曜日" },
+      "hours": { "en": "11:00 AM - 10:00 PM", "ja": "11:00 - 22:00" }
+      }
+    ],
+    "about": {
+      "en": "Pokémon Center TAIPEI is Taiwan’s first permanent Pokémon Center, located in Taipei’s Xinyi district. The store was designed around the image of an island surrounded by sky and sea, with exclusive merchandise created for this location.",
+      "ja": "ポケモンセンタータイペイは、台北市信義エリアにある台湾初の常設ポケモンセンターです。空と海に囲まれた島をイメージしたデザインが特徴で、この店舗ならではの限定グッズも展開されています。"
+    },
+    "timeline": [
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "December 8, 2023", "ja": "2023年12月8日" } }
+    ],
+    "characterStatues": [
+      { "en": "Pikachu", "ja": "ピカチュウ" },
+      { "en": "Dragonite", "ja": "カイリュー" }
+    ],
+    "goodToKnow": [
+      { "icon": "rectangle.stack.badge.play", "text": { "en": "Includes a dedicated Pokémon Trading Card Game area", "ja": "ポケモンカードゲームの専用エリアがあります" } },
+      { "icon": "play.rectangle", "text": { "en": "Has a video presentation area for the latest Pokémon information", "ja": "最新のポケモン情報を紹介する映像エリアがあります" } },
+      { "icon": "bag", "text": { "en": "Sells Taipei-exclusive merchandise created for this location", "ja": "この店舗のために作られた台北限定グッズがあります" } }
+    ],
+    "pinColorHex": "#FFCC00",
+    "pinIcon": "bolt.fill",
+    "status": null
+  },
+  {
+    "id": "pokemon-store-outlet-kisarazu",
+    "appleMapsId": "I5C96002DDAFE5654",
+    "category": { "en": "Pokémon Store", "ja": "ポケモンストア" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "Monday - Sunday", "ja": "月曜日〜日曜日" },
+      "hours": { "en": "10:00 AM - 8:00 PM", "ja": "10:00 - 20:00" }
+      }
+    ],
+    "about": {
+      "en": "Pokémon Store OUTLET Kisarazu Shop is an official casual-format Pokémon shop inside MITSUI OUTLET PARK KISARAZU, offering Pokémon Center original goods and a shopping experience geared toward families and outlet visitors.",
+      "ja": "ポケモンストア アウトレット 木更津店は、三井アウトレットパーク 木更津内にある公式のカジュアルショップで、ポケモンセンターオリジナル商品を中心に、家族連れやアウトレット来場者が気軽に楽しめる店舗です。"
+    },
+    "timeline": [
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "June 18, 2020", "ja": "2020年6月18日" } }
+    ],
+    "goodToKnow": [
+      { "icon": "tag", "text": { "en": "Located in an outlet mall and carries a casual selection centered on Pokémon goods", "ja": "アウトレット施設内にあり、ポケモングッズを中心とした気軽な品ぞろえです" } },
+      { "icon": "calendar", "text": { "en": "Store holidays follow the closure schedule of MITSUI OUTLET PARK KISARAZU", "ja": "休業日は三井アウトレットパーク 木更津の休館日に準じます" } },
+      { "icon": "car", "text": { "en": "Easy to access by car via Kisarazu Kaneda IC, which suits outlet visitors well", "ja": "木更津金田ICから近く、車で立ち寄りやすい立地です" } }
+    ],
+    "pinColorHex": "#FFCC00",
+    "pinIcon": "bolt.fill",
+    "status": null
+  },
+  {
+    "id": "pokemon-store-tokyo-station",
+    "appleMapsId": "I328EA3B2C3C13931",
+    "category": { "en": "Pokémon Store", "ja": "ポケモンストア" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "Monday - Sunday", "ja": "月曜日〜日曜日" },
+      "hours": { "en": "10:00 AM - 8:30 PM", "ja": "10:00 - 20:30" }
+      }
+    ],
+    "about": {
+      "en": "Pokémon Store Tokyo Station is an official casual-format Pokémon shop inside First Avenue Tokyo Station, offering travel-friendly merchandise and Tokyo Station-themed items in a compact store format.",
+      "ja": "ポケモンストア東京駅店は、東京駅一番街にあるポケモンのカジュアルショップで、旅行中にも立ち寄りやすい商品構成と東京駅らしい限定アイテムが魅力です。"
+    },
+    "timeline": [
+      { "label": { "en": "Renewed and reopened", "ja": "リニューアルオープン" }, "date": { "en": "July 10, 2024", "ja": "2024年7月10日" } }
+    ],
+    "characterStatues": [
+      { "en": "Stationmaster Pikachu", "ja": "駅長ピカチュウ" },
+      { "en": "Sprigatito", "ja": "ニャオハ" },
+      { "en": "Fuecoco", "ja": "ホゲータ" },
+      { "en": "Quaxly", "ja": "クワッス" }
+    ],
+    "goodToKnow": [
+      { "icon": "train.side.front.car", "text": { "en": "Sells Tokyo Station-exclusive merchandise themed around Stationmaster Pikachu", "ja": "駅長ピカチュウをテーマにした東京駅限定グッズがあります" } },
+      { "icon": "sparkles", "text": { "en": "The store was expanded and renewed in 2024", "ja": "2024年に売り場を広げてリニューアルしました" } },
+      { "icon": "calendar", "text": { "en": "Store holidays follow the facility’s closure schedule", "ja": "休業日は入居施設の休業日に準じます" } }
+    ],
+    "pinColorHex": "#FFCC00",
+    "pinIcon": "bolt.fill",
+    "status": null
+  },
+  {
+    "id": "pokemon-center-yokohama",
+    "appleMapsId": "I4BE28BA11F2D209F",
+    "category": { "en": "Pokémon Center", "ja": "ポケモンセンター" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "Monday - Sunday", "ja": "月曜日〜日曜日" },
+      "hours": { "en": "10:30 AM - 8:30 PM", "ja": "10:30 - 20:30" }
+      }
+    ],
+    "about": {
+      "en": "Pokémon Center Yokohama is an official Pokémon Center with a design inspired by Yokohama as a port city, combining a maritime atmosphere with a large merchandise selection.",
+      "ja": "ポケモンセンターヨコハマは、港町・横浜をイメージしたデザインが特徴の公式ポケモンセンターで、海の雰囲気と豊富なグッズ展開を楽しめる店舗です。"
+    },
+    "timeline": [
+      { "label": { "en": "Relocated and reopened", "ja": "移転してリニューアルオープン" }, "date": { "en": "November 9, 2018", "ja": "2018年11月9日" } }
+    ],
+    "characterStatues": [
+      { "en": "Kyogre", "ja": "カイオーガ" }
+    ],
+    "goodToKnow": [
+      { "icon": "ticket", "text": { "en": "Timed entry tickets are sometimes used on busy days", "ja": "混雑日には時間帯別の入場整理券が使われることがあります" } },
+      { "icon": "bag", "text": { "en": "Sells Yokohama-exclusive merchandise", "ja": "横浜限定グッズがあります" } },
+      { "icon": "calendar", "text": { "en": "Store holidays follow the facility’s closure schedule", "ja": "休業日は入居施設の休業日に準じます" } }
+    ],
+    "pinColorHex": "#FFCC00",
+    "pinIcon": "bolt.fill",
+    "status": null
+  },
+  {
     "id": "kirby-cafe-osaka",
     "appleMapsId": "IEF29D5F72AC4A20A",
     "category": { "en": "Restaurants / Café", "ja": "レストラン / カフェ" },
