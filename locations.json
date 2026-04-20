@@ -433,7 +433,8 @@
     ],
     "pinColorHex": "#FFCC00",
     "pinIcon": "bolt.fill",
-    "status": "temporarily-closed"
+    "tags": "temporarily-closed",
+    "status": null
   },
   {
     "id": "pokemon-center-taipei",
