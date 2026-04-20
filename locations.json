@@ -433,7 +433,7 @@
     ],
     "pinColorHex": "#FFCC00",
     "pinIcon": "bolt.fill",
-    "tags": "temporarily-closed",
+    "tags": ["temporarily-closed"],
     "status": null
   },
   {
