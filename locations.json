@@ -329,6 +329,32 @@
     "status": null
   },
   {
+    "id": "nintendo-of-australia",
+    "appleMapsId": "ID4F1CD23B9FB24D3",
+    "category": { "en": "Historical Sites & Corporate", "ja": "歴史スポット・企業関連" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "about": {
+      "en": "Nintendo Australia Pty. Limited is Nintendo’s subsidiary for the Australia and New Zealand region, based in Scoresby, Melbourne.",
+      "ja": "Nintendo Australia Pty. Limitedは、メルボルンのスコーズビーに拠点を置く、オーストラリアおよびニュージーランド地域を担当する任天堂の現地法人です。"
+    },
+    "timeline": [
+      { "label": { "en": "Established", "ja": "設立" }, "date": { "en": "1993", "ja": "1993年" } }
+    ],
+    "goodToKnow": [
+      { "icon": "person.badge.key", "text": { "en": "Only accessible to employees", "ja": "従業員のみ立ち入り可能" } },
+      { "icon": "bag", "text": { "en": "No retail store on site", "ja": "現地での販売はありません" } }
+    ],
+    "pinColorHex": "#CB30E0",
+    "pinIcon": "building.2.fill",
+    "status": null
+  },
+  {
     "id": "pokemon-center-tokyo-bay",
     "appleMapsId": "I4B5FCEBE606E5CB2",
     "category": { "en": "Pokémon Center", "ja": "ポケモンセンター" },
