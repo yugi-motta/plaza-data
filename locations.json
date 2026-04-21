@@ -367,6 +367,32 @@
     "status": null
   },
   {
+    "id": "nintendo-of-america",
+    "appleMapsId": "I98F5E94315562DD9",
+    "category": { "en": "Historical Sites & Corporate", "ja": "歴史スポット・企業関連" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "about": {
+      "en": "Nintendo of America Inc. is Nintendo’s U.S. subsidiary, based in Redmond, Washington, and serves as the headquarters for Nintendo’s operations in the Americas.",
+      "ja": "Nintendo of America Inc.は、ワシントン州レドモンドに拠点を置く任天堂の米国法人で、アメリカ地域における任天堂事業の本部を担っています。"
+    },
+    "timeline": [
+      { "label": { "en": "Established", "ja": "設立" }, "date": { "en": "1980", "ja": "1980年" } }
+    ],
+    "goodToKnow": [
+      { "icon": "person.badge.key", "text": { "en": "Only accessible to employees", "ja": "従業員のみ立ち入り可能" } },
+      { "icon": "bag", "text": { "en": "No retail store on site", "ja": "現地での販売はありません" } }
+    ],
+    "pinColorHex": "#CB30E0",
+    "pinIcon": "building.2.fill",
+    "status": null
+  },
+  {
     "id": "pokemon-center-okinawa",
     "appleMapsId": "I62BA8ED42616FE6E",
     "category": { "en": "Pokémon Center", "ja": "ポケモンセンター" },
