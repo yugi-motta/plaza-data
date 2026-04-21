@@ -237,6 +237,33 @@
     "status": null
   },
   {
+    "id": "nintendo-tokyo-office",
+    "appleMapsId": "I9297F9644F152A98",
+    "category": { "en": "Historical Sites & Corporate", "ja": "歴史スポット・企業関連" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "about": {
+      "en": "Nintendo’s Tokyo Branch Office is the company’s main office in Tokyo, located in KANDA SQUARE in Chiyoda. It supports Nintendo’s business operations in the capital alongside the Kyoto headquarters.",
+      "ja": "任天堂 東京支店は、千代田区のKANDA SQUAREにある任天堂の東京拠点です。京都本社と並び、首都圏での事業運営を支えるオフィスです。"
+    },
+    "timeline": [
+      { "label": { "en": "Tokyo Branch established", "ja": "東京支店を開設" }, "date": { "en": "September 1961", "ja": "1961年9月" } }
+    ],
+    "goodToKnow": [
+      { "icon": "person.badge.key", "text": { "en": "Employee access only", "ja": "従業員のみ入館可能" } },
+      { "icon": "bag", "text": { "en": "No retail store at this office", "ja": "この拠点に販売店舗はありません" } },
+      { "icon": "building.2", "text": { "en": "Corporate office, not a tourist spot", "ja": "観光向けではない企業拠点です" } }
+    ],
+    "pinColorHex": "#CB30E0",
+    "pinIcon": "building.2.fill",
+    "status": null
+  },
+  {
     "id": "nintendo-fukuoka",
     "appleMapsId": "I4B684A3383B1D95D",
     "nameOverride": { "en": "Nintendo FUKUOKA", "ja": "Nintendo FUKUOKA" },
