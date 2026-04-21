@@ -556,6 +556,45 @@
     "status": null
   },
   {
+    "id": "pokemon-center-hiroshima",
+    "appleMapsId": "ID996912C26CA3F7E",
+    "category": { "en": "Pokémon Center", "ja": "ポケモンセンター" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "Monday - Sunday", "ja": "月曜日〜日曜日" },
+      "hours": { "en": "10:00 AM - 8:00 PM", "ja": "10:00 - 20:00" }
+      }
+    ],
+    "about": {
+      "en": "Pokémon Center Hiroshima is the official Pokémon Center for Hiroshima. After its 2025 renewal at Hiroshima Station ekie, the store adopted a Hiroshima-inspired design with local motifs and a striking entrance centered around a shiny red Gyarados.",
+      "ja": "ポケモンセンターヒロシマは、広島の公式ポケモンセンターです。2025年の広島駅ekieでのリニューアル後は、広島らしさを取り入れたデザインになり、色違いの赤いギャラドスが印象的なエントランスが特徴です。"
+    },
+    "timeline": [
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "June 2015", "ja": "2015年6月" } },
+      { "label": { "en": "Renewed and reopened", "ja": "リニューアルオープン" }, "date": { "en": "April 11, 2025", "ja": "2025年4月11日" } }
+    ],
+    "characterStatues": [
+      { "en": "Shiny Gyarados", "ja": "色違いのギャラドス" },
+      { "en": "Pikachu", "ja": "ピカチュウ" },
+      { "en": "Magikarp", "ja": "コイキング" }
+    ],
+    "goodToKnow": [
+      { "icon": "rectangle.stack.badge.play", "text": { "en": "Pokémon Card Station available", "ja": "ポケモンカードステーション併設" } },
+      { "icon": "ticket", "text": { "en": "Timed entry may be used on busy days", "ja": "混雑時は整理券対応の場合あり" } },
+      { "icon": "train.side.front.car", "text": { "en": "Next to Hiroshima Station shinkansen gate", "ja": "広島駅新幹線改札横です" } }
+    ],
+    "pinColorHex": "#FFCC00",
+    "pinIcon": "bolt.fill",
+    "status": null
+  },
+  {
     "id": "pokemon-center-taipei",
     "appleMapsId": "I3A47E78522D7105F",
     "category": { "en": "Pokémon Center", "ja": "ポケモンセンター" },
