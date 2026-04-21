@@ -637,6 +637,129 @@
     "pinIcon": "bolt.fill",
     "status": null
   },
+  {    "id": "pikachu-sweets-ikebukuro",
+    "appleMapsId": "I979FCD76BB8863D7",
+    "category": { "en": "Restaurants / Café", "ja": "レストラン / カフェ" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "about": {
+      "en": "Pikachu Sweets by Pokémon Cafe is a takeout-focused sweets shop in Ikebukuro, opened alongside the expanded Pokémon Center MEGA TOKYO area. It is known for Pikachu-themed desserts and drinks designed for quick takeaway visits.",
+      "ja": "ピカチュウスイーツ by ポケモンカフェは、池袋のポケモンセンターメガトウキョー拡張エリアとともにオープンした、テイクアウト中心のスイーツショップです。ピカチュウをモチーフにしたデザートやドリンクを気軽に楽しめるのが特徴です。"
+    },
+    "timeline": [
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "December 19, 2019", "ja": "2019年12月19日" } }
+    ],
+    "goodToKnow": [
+      { "icon": "calendar", "text": { "en": "Check official status before visiting", "ja": "来店前に営業状況を要確認" } }
+    ],
+    "pinColorHex": "#00C0E8",
+    "pinIcon": "fork.knife",
+    "tags": ["temporarily-closed"],
+    "status": null
+  },
+  {
+    "id": "kirby-cafe-the-store-tokyo",
+    "appleMapsId": "IDC5579F352BE1047",
+    "category": { "en": "Restaurants / Café", "ja": "レストラン / カフェ" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "All Days", "ja": "毎日" },
+      "hours": { "en": "10:00 AM - 9:00 PM", "ja": "10:00 - 21:00" }
+      }
+    ],
+    "about": {
+      "en": "Kirby Café The Store is the merchandise shop connected to the Kirby Café world at Tokyo Skytree Town Solamachi, focusing on Kirby Café exclusive goods and other Kirby items.",
+      "ja": "カービィカフェ ザ・ストアは、東京スカイツリータウン・ソラマチにあるカービィカフェのグッズショップで、カービィカフェ限定商品を中心に、さまざまなカービィグッズを取り扱っています。"
+    },
+    "goodToKnow": [
+      { "icon": "bag", "text": { "en": "Kirby Café exclusive goods sold here", "ja": "カービィカフェ限定グッズあり" } },
+      { "icon": "yensign.circle", "text": { "en": "Tax-free shopping available", "ja": "免税対応あり" } }
+    ],
+    "pinColorHex": "#00C0E8",
+    "pinIcon": "fork.knife",
+    "status": null
+  },
+  {
+    "id": "kirby-cafe-tokyo",
+    "appleMapsId": "I6C7F6719CBC524C4",
+    "category": { "en": "Restaurants / Café", "ja": "レストラン / カフェ" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "All Days", "ja": "毎日" },
+      "hours": { "en": "10:00 AM - 10:00 PM", "ja": "10:00 - 22:00" }
+      }
+    ],
+    "about": {
+      "en": "Kirby Café TOKYO is a permanent themed café at Tokyo Skytree Town Solamachi, built around the idea of a café in Kirby’s world, with character-inspired food, drinks, and décor.",
+      "ja": "カービィカフェ TOKYOは、東京スカイツリータウン・ソラマチにある常設テーマカフェで、「もしもカービィの世界にカフェがあったら」というコンセプトのもと、キャラクターをモチーフにしたフードやドリンク、店内演出を楽しめます。"
+    },
+    "goodToKnow": [
+      { "icon": "calendar", "text": { "en": "Reservations are strongly recommended", "ja": "事前予約推奨です" } },
+      { "icon": "clock", "text": { "en": "Last order is 9:00 PM", "ja": "ラストオーダーは21:00" } },
+      { "icon": "music.note", "text": { "en": "Jazz Time starts around 6:00 PM", "ja": "18時頃からジャズタイム実施" } }
+    ],
+    "pinColorHex": "#00C0E8",
+    "pinIcon": "fork.knife",
+    "status": null
+  },
+  {
+    "id": "pokemon-center-tohoku",
+    "appleMapsId": "IDFDDDDF592E6CC7",
+    "category": { "en": "Pokémon Center", "ja": "ポケモンセンター" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "Monday - Sunday", "ja": "月曜日〜日曜日" },
+      "hours": { "en": "10:00 AM - 8:00 PM", "ja": "10:00 - 20:00" }
+      }
+    ],
+    "about": {
+      "en": "Pokémon Center Tohoku is the official Pokémon Center for the Tohoku region. Following its 2025 renewal, the store features an energetic festival-themed design inspired by Tohoku’s famous local matsuri.",
+      "ja": "ポケモンセンタートウホクは、東北地方の公式ポケモンセンターです。2025年のリニューアル後は、東北各地の有名なお祭りをイメージした、にぎやかで活気のある空間が特徴です。"
+    },
+    "timeline": [
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "December 4, 2011", "ja": "2011年12月4日" } },
+      { "label": { "en": "Relocated and reopened", "ja": "移転してリニューアルオープン" }, "date": { "en": "June 30, 2017", "ja": "2017年6月30日" } },
+      { "label": { "en": "Renewed and reopened", "ja": "リニューアルオープン" }, "date": { "en": "March 14, 2025", "ja": "2025年3月14日" } }
+    ],
+    "characterStatues": [
+      { "en": "Pikachu", "ja": "ピカチュウ" },
+      { "en": "Victini", "ja": "ビクティニ" },
+      { "en": "Ogerpon", "ja": "オーガポン" }
+    ],
+    "goodToKnow": [
+      { "icon": "rectangle.stack.badge.play", "text": { "en": "Includes a Pokémon Card Station", "ja": "ポケモンカードステーション併設" } },
+      { "icon": "ticket", "text": { "en": "Timed entry may be used on busy days", "ja": "混雑時は入場制限の場合あり" } }
+    ],
+    "pinColorHex": "#FFCC00",
+    "pinIcon": "bolt.fill",
+    "status": null
+  },
   {
     "id": "kirby-cafe-osaka",
     "appleMapsId": "IEF29D5F72AC4A20A",
@@ -794,6 +917,7 @@
     ],
     "pinColorHex": "#FFCC00",
     "pinIcon": "bolt.fill",
+    "tags": ["temporarily-closed"],
     "status": null
   },
   {
