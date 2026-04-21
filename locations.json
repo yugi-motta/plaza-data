@@ -828,6 +828,40 @@
     "status": null
   },
   {
+    "id": "pokemon-center-kyoto",
+    "appleMapsId": "IF9DC10B9FEDCFA12",
+    "category": { "en": "Pokémon Center", "ja": "ポケモンセンター" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "Monday - Sunday", "ja": "月曜日〜日曜日" },
+      "hours": { "en": "10:00 AM - 8:00 PM", "ja": "10:00 - 20:00" }
+      }
+    ],
+    "about": {
+      "en": "Pokémon Center Kyoto is the official Pokémon Center for Kyoto, designed around the city’s traditional atmosphere. Since moving to SUINA Muromachi, it has become known for Kyoto-inspired merchandise and events tied to local crafts and culture.",
+      "ja": "ポケモンセンターキョウトは、京都らしい伝統的な雰囲気を取り入れた公式ポケモンセンターです。SUINA室町への移転後は、京都らしさを感じる限定グッズや、地域の工芸や文化にちなんだ企画でも知られています。"
+    },
+    "timeline": [
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "March 16, 2016", "ja": "2016年3月16日" } },
+      { "label": { "en": "Relocated and reopened", "ja": "移転してリニューアルオープン" }, "date": { "en": "March 16, 2019", "ja": "2019年3月16日" } }
+    ],
+    "goodToKnow": [
+      { "icon": "building.columns", "text": { "en": "Direct access from Exit 26", "ja": "26番出口から直結" } },
+      { "icon": "ticket", "text": { "en": "Timed entry may be used on busy days", "ja": "混雑時は整理券対応の場合あり" } },
+      { "icon": "calendar", "text": { "en": "Closed days follow the facility", "ja": "休業日は施設に準ずる" } }
+    ],
+    "pinColorHex": "#FFCC00",
+    "pinIcon": "bolt.fill",
+    "status": null
+  },
+  {
     "id": "kirby-cafe-osaka",
     "appleMapsId": "IEF29D5F72AC4A20A",
     "category": { "en": "Restaurants / Café", "ja": "レストラン / カフェ" },
