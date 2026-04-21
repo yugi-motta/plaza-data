@@ -704,7 +704,8 @@
     "pinIcon": "bolt.fill",
     "status": null
   },
-  {    "id": "pikachu-sweets-ikebukuro",
+  {
+    "id": "pikachu-sweets-ikebukuro",
     "appleMapsId": "I979FCD76BB8863D7",
     "category": { "en": "Restaurants / Café", "ja": "レストラン / カフェ" },
     "photos": [
@@ -727,6 +728,87 @@
     "pinColorHex": "#00C0E8",
     "pinIcon": "fork.knife",
     "tags": ["temporarily-closed"],
+    "status": null
+  },
+  {
+    "id": "nintendo-development-center",
+    "appleMapsId": "ICDEFCD0BEB02197",
+    "category": { "en": "Historical Sites & Corporate", "ja": "歴史スポット・企業関連" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "about": {
+      "en": "Nintendo Development Center is a major research and development facility in Kyoto, located next to Nintendo’s headquarters. It was created to bring development teams together more closely and support Nintendo’s integrated hardware and software development work.",
+      "ja": "任天堂開発棟は、京都の本社に隣接する任天堂の主要な研究開発拠点です。開発部門をより密接に集約し、任天堂ならではのハードとソフト一体の開発体制を支えるための施設です。"
+    },
+    "goodToKnow": [
+      { "icon": "person.badge.key", "text": { "en": "Employee access only", "ja": "従業員のみ立ち入り可能" } },
+      { "icon": "bag", "text": { "en": "No retail store on site", "ja": "現地での販売はありません" } },
+      { "icon": "figure.walk", "text": { "en": "About 8 min from Jujo Station", "ja": "十条駅から徒歩約8分" } }
+    ],
+    "pinColorHex": "#CB30E0",
+    "pinIcon": "building.2.fill",
+    "status": null
+  },
+  {
+    "id": "nintendo-kyoto-research-center",
+    "appleMapsId": "I7DD3BF7637B1C96",
+    "category": { "en": "Historical Sites & Corporate", "ja": "歴史スポット・企業関連" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "about": {
+      "en": "Nintendo Kyoto Research Center is located at Nintendo’s former headquarters site in Kyoto. The location is closely tied to the company’s early growth, having served as a factory and later as headquarters before Nintendo moved its main office to Minami-ku.",
+      "ja": "任天堂京都リサーチセンターは、京都にある任天堂旧本社跡に位置する施設です。この場所は、工場として始まり、その後は本社として使われた、任天堂の成長初期に深く関わる拠点です。"
+    },
+    "timeline": [
+      { "label": { "en": "Established as factory", "ja": "工場として設置" }, "date": { "en": "October 1952", "ja": "1952年10月" } },
+      { "label": { "en": "Became headquarters", "ja": "本社を移転" }, "date": { "en": "September 1959", "ja": "1959年9月" } }
+    ],
+    "goodToKnow": [
+      { "icon": "person.badge.key", "text": { "en": "Employee access only", "ja": "従業員のみ立ち入り可能" } },
+      { "icon": "bag", "text": { "en": "No retail store on site", "ja": "現地での販売はありません" } },
+      { "icon": "camera", "text": { "en": "Best viewed from outside only", "ja": "外観見学が基本です" } }
+    ],
+    "pinColorHex": "#CB30E0",
+    "pinIcon": "building.2.fill",
+    "status": null
+  },
+  {
+    "id": "marufukuro",
+    "appleMapsId": "I407F723E8169F03D",
+    "category": { "en": "Historical Sites & Corporate", "ja": "歴史スポット・企業関連" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "about": {
+      "en": "Marufukuro is a hotel in Kyoto built around Nintendo’s former headquarters site in Kagiyacho, the place tied to the company’s earliest history. The preserved original buildings, including the former office, residence, and warehouse, were revived together with a new annex designed by Tadao Ando.",
+      "ja": "丸福樓は、京都・鍵屋町にある任天堂旧本社跡を活用したホテルで、任天堂の原点にゆかりのある場所です。旧事務所、旧住居、倉庫などの歴史ある建物を保存活用し、安藤忠雄設計の新棟とあわせて再生されています。"
+    },
+    "timeline": [
+      { "label": { "en": "Nintendo founded in Kyoto", "ja": "任天堂が京都で創業" }, "date": { "en": "1889", "ja": "1889年" } },
+      { "label": { "en": "Former headquarters building completed", "ja": "旧本社社屋が竣工" }, "date": { "en": "1930", "ja": "1930年" } },
+      { "label": { "en": "Opened as Marufukuro", "ja": "丸福樓として開業" }, "date": { "en": "April 2022", "ja": "2022年4月" } }
+    ],
+    "goodToKnow": [
+      { "icon": "bed.double", "text": { "en": "Main areas are for guests", "ja": "主要エリアは宿泊者向け" } },
+      { "icon": "fork.knife", "text": { "en": "Restaurant reservations available", "ja": "レストランは予約利用可" } },
+      { "icon": "book", "text": { "en": "Library access may be limited", "ja": "ライブラリー利用は制限あり" } }
+    ],
+    "pinColorHex": "#CB30E0",
+    "pinIcon": "building.2.fill",
     "status": null
   },
   {
