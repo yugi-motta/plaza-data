@@ -420,6 +420,46 @@
     "status": null
   },
   {
+    "id": "pokemon-center-nagoya",
+    "appleMapsId": "I9E1A775CE5306BB7",
+    "category": { "en": "Pokémon Center", "ja": "ポケモンセンター" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "Monday - Sunday", "ja": "月曜日〜日曜日" },
+      "hours": { "en": "10:00 AM - 8:00 PM", "ja": "10:00 - 20:00" }
+      }
+    ],
+    "about": {
+      "en": "Pokémon Center Nagoya is the official Pokémon Center for the Nagoya area. After its 2024 renewal, the store features a larger space at Nagoya PARCO with a refreshed design, a dedicated event area, and a stronger focus on interactive experiences.",
+      "ja": "ポケモンセンターナゴヤは、名古屋エリアの公式ポケモンセンターです。2024年のリニューアル後は、名古屋PARCO内で売り場が広くなり、デザインも一新され、イベントスペースや体験性が強化された店舗になっています。"
+    },
+    "timeline": [
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "October 2002", "ja": "2002年10月" } },
+      { "label": { "en": "Relocated and reopened", "ja": "移転してリニューアルオープン" }, "date": { "en": "March 20, 2013", "ja": "2013年3月20日" } },
+      { "label": { "en": "Renewed and reopened", "ja": "リニューアルオープン" }, "date": { "en": "October 12, 2024", "ja": "2024年10月12日" } }
+    ],
+    "characterStatues": [
+      { "en": "Pikachu", "ja": "ピカチュウ" },
+      { "en": "Celebi", "ja": "セレビィ" },
+      { "en": "Golden Magikarp", "ja": "金のコイキング" }
+    ],
+    "goodToKnow": [
+      { "icon": "rectangle.stack.badge.play", "text": { "en": "Includes a Pokémon Card Station", "ja": "ポケモンカードステーション併設" } },
+      { "icon": "ticket", "text": { "en": "Timed entry may be used on busy days", "ja": "混雑時は整理券対応の場合あり" } },
+      { "icon": "calendar", "text": { "en": "Closed days follow Nagoya PARCO", "ja": "休業日は名古屋PARCOに準ずる" } }
+    ],
+    "pinColorHex": "#FFCC00",
+    "pinIcon": "bolt.fill",
+    "status": null
+  },
+  {
     "id": "nintendo-of-america",
     "appleMapsId": "I98F5E94315562DD9",
     "category": { "en": "Historical Sites & Corporate", "ja": "歴史スポット・企業関連" },
