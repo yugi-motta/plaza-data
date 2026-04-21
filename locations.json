@@ -653,6 +653,29 @@
     "status": null
   },
   {
+    "id": "nintendo-of-canada-ltd",
+    "appleMapsId": "IB0EC07A2B73E190B",
+    "category": { "en": "Historical Sites & Corporate", "ja": "歴史スポット・企業関連" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "about": {
+      "en": "Nintendo of Canada Ltd. is Nintendo’s Canadian subsidiary in Burnaby, British Columbia, handling the marketing, sales, and distribution of Nintendo hardware, accessories, and first-party games in Canada.",
+      "ja": "Nintendo of Canada Ltd.は、ブリティッシュコロンビア州バーナビーにある任天堂のカナダ法人で、カナダ国内における任天堂の本体、周辺機器、ファーストパーティーソフトのマーケティング、販売、流通を担っています。"
+    },
+    "goodToKnow": [
+      { "icon": "person.badge.key", "text": { "en": "Only accessible to employees", "ja": "従業員のみ立ち入り可能" } },
+      { "icon": "bag", "text": { "en": "No retail store on site", "ja": "現地での販売はありません" } }
+    ],
+    "pinColorHex": "#CB30E0",
+    "pinIcon": "building.2.fill",
+    "status": null
+  },
+  {
     "id": "pokemon-center-sapporo",
     "appleMapsId": "IA498954A5CA588B4",
     "category": { "en": "Pokémon Center", "ja": "ポケモンセンター" },
