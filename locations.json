@@ -944,6 +944,36 @@
     "status": null
   },
   {
+    "id": "kirby-cafe-hakata",
+    "appleMapsId": "IFF67E86A94BEE6F",
+    "category": { "en": "Restaurants / Café", "ja": "レストラン / カフェ" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "All Days", "ja": "毎日" },
+      "hours": { "en": "10:00 AM - 10:00 PM", "ja": "10:00 - 22:00" }
+      }
+    ],
+    "about": {
+      "en": "Kirby Café HAKATA is a permanent themed café in Canal City Hakata, built around the idea of a café in Kirby’s world, with character-inspired food, drinks, décor, and a goods corner attached to the café.",
+      "ja": "カービィカフェ HAKATAは、キャナルシティ博多にある常設テーマカフェで、「もしもカービィの世界にカフェがあったら」というコンセプトのもと、キャラクターをモチーフにしたフードやドリンク、店内演出、そして併設のグッズコーナーを楽しめます。"
+    },
+    "goodToKnow": [
+      { "icon": "calendar", "text": { "en": "Reservations are strongly recommended", "ja": "事前予約がおすすめです" } },
+      { "icon": "clock", "text": { "en": "Last order is 9:00 PM", "ja": "ラストオーダーは21:00" } },
+      { "icon": "bag", "text": { "en": "Goods corner is attached", "ja": "グッズコーナー併設です" } }
+    ],
+    "pinColorHex": "#00C0E8",
+    "pinIcon": "fork.knife",
+    "status": null
+  },
+  {
     "id": "kirby-cafe-osaka",
     "appleMapsId": "IEF29D5F72AC4A20A",
     "category": { "en": "Restaurants / Café", "ja": "レストラン / カフェ" },
