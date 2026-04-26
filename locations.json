@@ -1275,6 +1275,33 @@
     "status": null
   },
   {
+    "id": "nintendo-of-europe",
+    "appleMapsId": "I21D72BF0ADFBB196",
+    "category": { "en": "Historical Sites & Corporate", "ja": "歴史スポット・企業関連" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "about": {
+      "en": "Nintendo of Europe is Nintendo’s European headquarters in Frankfurt am Main, Germany. It oversees Nintendo’s regional business operations across Europe, including distribution, publishing, marketing, and support.",
+      "ja": "Nintendo of Europeは、ドイツのフランクフルト・アム・マインにある任天堂の欧州本部です。ヨーロッパ地域における流通、パブリッシング、マーケティング、サポートなどの事業運営を担っています。"
+    },
+    "timeline": [
+      { "label": { "en": "Established", "ja": "設立" }, "date": { "en": "February 1990", "ja": "1990年2月" } }
+    ],
+    "goodToKnow": [
+      { "icon": "person.badge.key", "text": { "en": "Employee access only", "ja": "従業員のみ立ち入り可能" } },
+      { "icon": "bag", "text": { "en": "No retail store on site", "ja": "現地での販売はありません" } },
+      { "icon": "building.2", "text": { "en": "European headquarters location", "ja": "欧州本部の拠点です" } }
+    ],
+    "pinColorHex": "#CB30E0",
+    "pinIcon": "building.2.fill",
+    "status": null
+  },
+  {
     "id": "nintendo-kyoto-research-center",
     "appleMapsId": "I7DD3BF7637B1C96",
     "category": { "en": "Historical Sites & Corporate", "ja": "歴史スポット・企業関連" },
