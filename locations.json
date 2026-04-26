@@ -1721,6 +1721,43 @@
     "status": null
   },
   {
+    "id": "lbuy-nintendo-authorized-store-moko",
+    "appleMapsId": "I70AD392AA842AD3F",
+    "category": { "en": "Authorized Nintendo Reseller", "ja": "任天堂正規取扱店" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "Mon - Thu", "ja": "月曜日〜木曜日" },
+      "hours": { "en": "11:30 AM - 8:30 PM", "ja": "11:30 - 20:30" }
+      },
+      {
+      "day": { "en": "Fri - Sun & PH", "ja": "金曜日〜日曜日・祝日" },
+      "hours": { "en": "10:30 AM - 9:30 PM", "ja": "10:30 - 21:30" }
+      }
+    ],
+    "about": {
+      "en": "LBuy Nintendo Switch / Nintendo Switch 2 Official Product Retail Store is an official Nintendo authorized retail store at MOKO in Hong Kong, offering Nintendo Switch and Nintendo Switch 2 hardware, games, accessories, and related merchandise in a dedicated store format.",
+      "ja": "LBuy Nintendo Switch / Nintendo Switch 2 正規商品零售店は、香港のMOKOにある任天堂正規取扱店です。Nintendo SwitchとNintendo Switch 2の本体、ゲーム、周辺機器、関連グッズなどを、専用売り場で取り扱っています。"
+    },
+    "timeline": [
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "May 21, 2025", "ja": "2025年5月21日" } }
+    ],
+    "goodToKnow": [
+      { "icon": "building.columns", "text": { "en": "Inside MOKO L4 Shop 426", "ja": "MOKO 4階 426号店です" } },
+      { "icon": "gamecontroller", "text": { "en": "Nintendo Switch 2 sold here", "ja": "Nintendo Switch 2取扱店です" } },
+      { "icon": "calendar", "text": { "en": "Holiday hours differ from weekdays", "ja": "祝日は営業時間が異なります" } }
+    ],
+    "pinColorHex": "#FF8D28",
+    "pinIcon": "gift.fill",
+    "status": null
+  },
+  {
     "id": "pokemon-center-sapporo",
     "appleMapsId": "IA498954A5CA588B4",
     "category": { "en": "Pokémon Center", "ja": "ポケモンセンター" },
