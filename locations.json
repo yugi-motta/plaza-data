@@ -524,6 +524,72 @@
     "status": null
   },
   {
+    "id": "pokemon-cafe-tokyo",
+    "appleMapsId": "IF8FC453EB74CC533",
+    "category": { "en": "Restaurants / Café", "ja": "レストラン / カフェ" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "about": {
+      "en": "Pokémon Cafe is the first permanent Pokémon café, located next to Pokémon Center TOKYO DX in Nihonbashi. It is known for its character-themed meals, drinks, desserts, and immersive dining experience built around the Pokémon world.",
+      "ja": "ポケモンカフェは、日本橋のポケモンセンタートウキョーDXに隣接する、初の常設ポケモンカフェです。ポケモンの世界観を取り入れたフード、ドリンク、デザート、そして体験型の食事空間で知られています。"
+    },
+    "timeline": [
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "March 14, 2018", "ja": "2018年3月14日" } },
+      { "label": { "en": "Temporarily closed for renovations", "ja": "改装のため一時休業" }, "date": { "en": "March 23, 2026", "ja": "2026年3月23日" } }
+    ],
+    "goodToKnow": [
+      { "icon": "calendar", "text": { "en": "Reservations currently unavailable", "ja": "現在は予約受付停止中" } },
+      { "icon": "fork.knife", "text": { "en": "Food service is temporarily suspended", "ja": "現在は営業休止中です" } },
+      { "icon": "arrow.triangle.2.circlepath", "text": { "en": "Check official reopening updates", "ja": "再開情報は公式で確認" } }
+    ],
+    "pinColorHex": "#00C0E8",
+    "pinIcon": "fork.knife",
+    "tags": ["temporarily-closed"],
+    "status": "null"
+  },
+  {
+    "id": "pokemon-center-tokyo-dx",
+    "appleMapsId": "I303B629E9F79FC4",
+    "category": { "en": "Pokémon Center", "ja": "ポケモンセンター" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
+      "hours": { "en": "10:30 AM - 9:00 PM", "ja": "10:30 - 21:00" }
+      }
+    ],
+    "about": {
+      "en": "Pokémon Center TOKYO DX is a flagship Pokémon Center in Nihonbashi with a more refined atmosphere than many other locations. It is directly connected to the original permanent Pokémon Cafe and is known for its premium-feeling interior and exclusive merchandise.",
+      "ja": "ポケモンセンタートウキョーDXは、日本橋にある旗艦店のポケモンセンターで、他の店舗よりも落ち着いた上質な雰囲気が特徴です。常設のポケモンカフェと併設されており、上品な店内デザインや限定グッズでも知られています。"
+    },
+    "timeline": [
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "March 14, 2018", "ja": "2018年3月14日" } }
+    ],
+    "characterStatues": [
+      { "en": "Snorlax", "ja": "カビゴン" },
+      { "en": "Pikachu", "ja": "ピカチュウ" }
+    ],
+    "goodToKnow": [
+      { "icon": "fork.knife", "text": { "en": "Next to Pokémon Cafe", "ja": "ポケモンカフェ併設" } },
+      { "icon": "calendar", "text": { "en": "Cafe usually needs reservations", "ja": "カフェは予約推奨です" } },
+      { "icon": "calendar", "text": { "en": "Closed days follow the facility", "ja": "休業日は施設に準ずる" } }
+    ],
+    "pinColorHex": "#FFCC00",
+    "pinIcon": "bolt.fill",
+    "status": null
+  },
+  {
     "id": "pokemon-center-singapore",
     "appleMapsId": "I188015D94A2BD2C",
     "category": { "en": "Pokémon Center", "ja": "ポケモンセンター" },
@@ -589,6 +655,108 @@
       { "icon": "rectangle.stack.badge.play", "text": { "en": "Pokémon Card Station available", "ja": "ポケモンカードステーション併設" } },
       { "icon": "ticket", "text": { "en": "Timed entry may be used on busy days", "ja": "混雑時は整理券対応の場合あり" } },
       { "icon": "train.side.front.car", "text": { "en": "Next to Hiroshima Station shinkansen gate", "ja": "広島駅新幹線改札横です" } }
+    ],
+    "pinColorHex": "#FFCC00",
+    "pinIcon": "bolt.fill",
+    "status": null
+  },
+  {
+    "id": "pokemon-store-gotemba",
+    "appleMapsId": "I78A721538ECB5B55",
+    "category": { "en": "Pokémon Store", "ja": "ポケモンストア" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
+      "hours": { "en": "10:00 AM - 8:00 PM", "ja": "10:00 - 20:00" }
+      }
+    ],
+    "about": {
+      "en": "Pokémon Store Gotemba Shop is an official casual-format Pokémon shop inside Gotemba Premium Outlets. It offers Pokémon Center original goods in a smaller store format that fits the outlet setting.",
+      "ja": "ポケモンストア 御殿場店は、御殿場プレミアム・アウトレット内にある公式のカジュアルショップです。アウトレット施設に合わせたコンパクトな店舗で、ポケモンセンターオリジナル商品を取り扱っています。"
+    },
+    "timeline": [
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "August 29, 2015", "ja": "2015年8月29日" } }
+    ],
+    "goodToKnow": [
+      { "icon": "car", "text": { "en": "About 2 km from Gotemba IC", "ja": "御殿場ICから約2km" } },
+      { "icon": "bus", "text": { "en": "Free shuttle from Gotemba Station", "ja": "御殿場駅から無料シャトルあり" } },
+      { "icon": "calendar", "text": { "en": "Closed days follow the outlet", "ja": "休業日は施設に準ずる" } }
+    ],
+    "pinColorHex": "#FFCC00",
+    "pinIcon": "bolt.fill",
+    "status": null
+  },
+  {
+    "id": "pokemon-center-kanazawa",
+    "appleMapsId": "ICCA43BBCC181CA21",
+    "category": { "en": "Pokémon Center", "ja": "ポケモンセンター" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
+      "hours": { "en": "10:00 AM - 8:00 PM", "ja": "10:00 - 20:00" }
+      }
+    ],
+    "about": {
+      "en": "Pokémon Center Kanazawa is the official Pokémon Center for the Hokuriku area, located in Kanazawa FORUS. The store is inspired by the beauty of the region and is especially known for its elegant Kanazawa-themed design and opening merchandise featuring local motifs.",
+      "ja": "ポケモンセンターカナザワは、金沢フォーラスにある北陸エリアの公式ポケモンセンターです。北陸の美しさをイメージした店舗で、金沢らしい上品なデザインや、地域モチーフを取り入れたオープン記念グッズでも知られています。"
+    },
+    "timeline": [
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "November 20, 2020", "ja": "2020年11月20日" } }
+    ],
+    "characterStatues": [
+      { "en": "Milotic", "ja": "ミロカロス" }
+    ],
+    "goodToKnow": [
+      { "icon": "figure.walk", "text": { "en": "About 1 min from Kanazawa Station", "ja": "金沢駅から徒歩約1分" } },
+      { "icon": "ticket", "text": { "en": "Timed entry may be used on busy days", "ja": "混雑時は整理券対応の場合あり" } },
+      { "icon": "calendar", "text": { "en": "Closed days follow Kanazawa FORUS", "ja": "休業日は金沢フォーラスに準ずる" } }
+    ],
+    "pinColorHex": "#FFCC00",
+    "pinIcon": "bolt.fill",
+    "status": null
+  },
+  {
+    "id": "pokemon-center-yokohama-satellite",
+    "appleMapsId": "I120294E71A5BA149",
+    "category": { "en": "Pokémon Center", "ja": "ポケモンセンター" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "All Days", "ja": "毎日" },
+      "hours": { "en": "10:00 AM - 9:00 PM", "ja": "10:00 - 21:00" }
+      }
+    ],
+    "about": {
+      "en": "Pokémon Center Yokohama Satellite is a newer Pokémon shopping spot at JOINUS near Yokohama Station. It serves as a satellite location for Pokémon information and selected merchandise, with a smaller scope than the main Pokémon Center Yokohama.",
+      "ja": "ポケモンセンターヨコハマ サテライトは、横浜駅近くのジョイナスにある新しいポケモンショップです。ポケモン情報の発信拠点として、一部商品を取り扱うサテライト店舗で、メインのポケモンセンターヨコハマより規模を絞った展開になっています。"
+    },
+    "timeline": [
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "April 9, 2026", "ja": "2026年4月9日" } }
+    ],
+    "goodToKnow": [
+      { "icon": "bag", "text": { "en": "Selection is smaller than main store", "ja": "本店より品ぞろえ少なめ" } },
+      { "icon": "ticket", "text": { "en": "Timed entry used on busy days", "ja": "混雑時は整理券対応あり" } },
+      { "icon": "gift", "text": { "en": "Some services are not available here", "ja": "一部サービスは対象外です" } }
     ],
     "pinColorHex": "#FFCC00",
     "pinIcon": "bolt.fill",
