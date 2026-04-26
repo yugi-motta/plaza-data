@@ -1090,6 +1090,39 @@
     "status": null
   },
   {
+    "id": "super-nintendo-world-california",
+    "appleMapsId": "IFC8FA916D7E3C7C0",
+    "category": { "en": "Theme Park", "ja": "テーマパーク" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "All Days", "ja": "毎日" },
+      "hours": { "en": "Varies by park hours", "ja": "パーク営業時間に準じます" }
+      }
+    ],
+    "about": {
+      "en": "SUPER NINTENDO WORLD at Universal Studios Hollywood is Nintendo’s first theme park land in the United States. It brings the Mushroom Kingdom to life with Mario Kart: Bowser’s Challenge, interactive activities, themed dining, and exclusive merchandise.",
+      "ja": "ユニバーサル・スタジオ・ハリウッドのスーパー・ニンテンドー・ワールドは、アメリカ初の任天堂テーマエリアです。マリオカート ～クッパの挑戦状～、体験型アクティビティ、テーマフード、限定グッズを通して、キノコ王国の世界を楽しめます。"
+    },
+    "timeline": [
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "February 17, 2023", "ja": "2023年2月17日" } }
+    ],
+    "goodToKnow": [
+      { "icon": "ticket", "text": { "en": "Early Access sold separately", "ja": "アーリー入場は別チケット制" } },
+      { "icon": "fork.knife", "text": { "en": "Toadstool Cafe needs reservations", "ja": "Toadstool Cafeは予約制" } },
+      { "icon": "hand.tap", "text": { "en": "Power-Up Band unlocks activities", "ja": "バンドで体験要素が増えます" } }
+    ],
+    "pinColorHex": "#0088FF",
+    "pinIcon": "ticket.fill",
+    "status": null
+  },
+  {
     "id": "pokemon-store-tokyo-station",
     "appleMapsId": "I328EA3B2C3C13931",
     "category": { "en": "Pokémon Store", "ja": "ポケモンストア" },
@@ -1781,6 +1814,39 @@
     ],
     "pinColorHex": "#FFCC00",
     "pinIcon": "bolt.fill",
+    "status": null
+  },
+  {
+    "id": "super-nintendo-world-orlando",
+    "appleMapsId": "IDD117A2FEC067B43",
+    "category": { "en": "Theme Park", "ja": "テーマパーク" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "All Days", "ja": "毎日" },
+      "hours": { "en": "Varies by park hours", "ja": "パーク営業時間に準じます" }
+      }
+    ],
+    "about": {
+      "en": "SUPER NINTENDO WORLD at Universal Epic Universe is a large Nintendo-themed land in Orlando featuring Super Mario Land and Donkey Kong Country. It offers Mario Kart: Bowser’s Challenge, Mine-Cart Madness, interactive activities, themed dining, and exclusive merchandise.",
+      "ja": "Universal Epic Universeのスーパー・ニンテンドー・ワールドは、オーランドにある大規模な任天堂テーマエリアで、スーパー・マリオランドとドンキーコング・カントリーで構成されています。マリオカート ～クッパの挑戦状～、ドンキーコングのクレイジー・トロッコ、体験型アクティビティ、テーマフード、限定グッズを楽しめます。"
+    },
+    "timeline": [
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "May 22, 2025", "ja": "2025年5月22日" } }
+    ],
+    "goodToKnow": [
+      { "icon": "ticket", "text": { "en": "Epic Universe ticket required", "ja": "Epic Universeの入場券が必要" } },
+      { "icon": "hand.tap", "text": { "en": "Power-Up Band unlocks activities", "ja": "バンドで体験要素が増えます" } },
+      { "icon": "fork.knife", "text": { "en": "Toadstool Cafe is very popular", "ja": "Toadstool Cafeは特に人気です" } }
+    ],
+    "pinColorHex": "#0088FF",
+    "pinIcon": "ticket.fill",
     "status": null
   },
   {
