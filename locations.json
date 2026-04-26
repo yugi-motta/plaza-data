@@ -51,7 +51,7 @@
       { "icon": "camera", "text": { "en": "Great photo spots with character displays throughout the store", "ja": "店内各所にキャラクターの撮影スポットがあります" } }
     ],
     "pinColorHex": "#FF3B30",
-    "coordinate": "35.66203, 139.69865"
+    "coordinate": "35.66203, 139.69865",
     "pinIcon": "bag.fill",
     "status": null
   },
