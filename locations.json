@@ -590,6 +590,39 @@
     "status": null
   },
   {
+    "id": "justdan-nintendo-authorized-merchandise-flagship-center-a11",
+    "appleMapsId": "IDF3B8844C548485F",
+    "category": { "en": "Authorized Nintendo Reseller", "ja": "任天堂正規取扱店" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
+      "hours": { "en": "11:00 AM - 9:30 PM", "ja": "11:00 - 21:30" }
+      }
+    ],
+    "about": {
+      "en": "Justdan Nintendo Authorized Merchandise Flagship Center A11 is an official Nintendo licensed retail store in Taipei, operated by Justdan at Shin Kong Mitsukoshi Xinyi A11. It offers Nintendo Switch hardware, games, accessories, and Nintendo character merchandise in a flagship-style store format.",
+      "ja": "傑仕登任天堂授權商品旗艦中心A11は、台北の新光三越信義新天地A11にある、傑仕登運営の任天堂ライセンス公式販売店です。Nintendo Switch本体、ゲーム、周辺機器、任天堂キャラクターグッズなどを、旗艦店スタイルの売り場で取り扱っています。"
+    },
+    "timeline": [
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "April 30, 2025", "ja": "2025年4月30日" } }
+    ],
+    "goodToKnow": [
+      { "icon": "building.columns", "text": { "en": "Inside Xinyi A11 3F", "ja": "信義A11の3階です" } },
+      { "icon": "bag", "text": { "en": "Sells games and character goods", "ja": "ゲームとキャラグッズを販売" } },
+      { "icon": "calendar", "text": { "en": "Hours may follow the department store", "ja": "営業時間は施設に準ずる場合あり" } }
+    ],
+    "pinColorHex": "#FF8D28",
+    "pinIcon": "gift.fill",
+    "status": null
+  },
+  {
     "id": "pokemon-center-singapore",
     "appleMapsId": "I188015D94A2BD2C",
     "category": { "en": "Pokémon Center", "ja": "ポケモンセンター" },
