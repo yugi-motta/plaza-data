@@ -631,6 +631,36 @@
     "status": null
   },
   {
+    "id": "mario-motors-orlando",
+    "appleMapsId": "IF1E82B95A3CF50F9",
+    "category": { "en": "Park Store", "ja": "パーク内ストア" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "All Days", "ja": "毎日" },
+      "hours": { "en": "Varies by park hours", "ja": "パーク営業時間に準じます" }
+      }
+    ],
+    "about": {
+      "en": "Mario Motors is a park store inside SUPER NINTENDO WORLD at Universal Epic Universe in Orlando. The shop is themed around the Mario Kart world and offers merchandise inspired by racing, karts, and characters from the attraction area.",
+      "ja": "マリオ・モーターズは、オーランドのUniversal Epic Universe内にあるSUPER NINTENDO WORLDのパーク内ストアです。マリオカートの世界観をテーマにしており、レースやカート、エリア内のキャラクターにちなんだグッズを取り扱っています。"
+    },
+    "goodToKnow": [
+      { "icon": "ticket", "text": { "en": "Epic Universe ticket required", "ja": "Epic Universeの入場券が必要" } },
+      { "icon": "flag.checkered", "text": { "en": "Mario Kart themed merchandise", "ja": "マリオカートグッズ中心" } },
+      { "icon": "bag", "text": { "en": "Inside SUPER NINTENDO WORLD", "ja": "SUPER NINTENDO WORLD内です" } }
+    ],
+    "pinColorHex": "#FF2D55",
+    "pinIcon": "basket.fill",
+    "status": null
+  },
+  {
     "id": "nintendo-uji-service-center",
     "appleMapsId": "I6F42861B422F6208",
     "category": { "en": "Historical Sites & Corporate", "ja": "歴史スポット・企業関連" },
