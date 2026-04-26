@@ -622,6 +622,34 @@
     "status": null
   },
   {
+    "id": "nintendo-uji-service-center",
+    "appleMapsId": "I6F42861B422F6208",
+    "category": { "en": "Historical Sites & Corporate", "ja": "歴史スポット・企業関連" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "about": {
+      "en": "Nintendo Uji Service Center is Nintendo’s repair service base in Uji, Kyoto. The current repair destination is at Nintendo’s Uji Plant, where repair operations were consolidated after moving from the former Uji Ogura Service Center site.",
+      "ja": "任天堂宇治サービスセンターは、京都府宇治市にある任天堂の修理サービス拠点です。現在の修理受付先は任天堂宇治工場内にあり、旧宇治小倉サービスセンターから修理業務が集約されています。"
+    },
+    "timeline": [
+      { "label": { "en": "Uji Plant established", "ja": "宇治工場を設置" }, "date": { "en": "November 1983", "ja": "1983年11月" } },
+      { "label": { "en": "Repair operations moved here", "ja": "修理業務を移管" }, "date": { "en": "November 4, 2016", "ja": "2016年11月4日" } }
+    ],
+    "goodToKnow": [
+      { "icon": "shippingbox", "text": { "en": "Repair items are sent here", "ja": "修理品の送付先です" } },
+      { "icon": "hand.raised", "text": { "en": "No in-person repair drop-off", "ja": "持ち込み修理は非対応です" } },
+      { "icon": "person.badge.key", "text": { "en": "Not a public retail location", "ja": "一般向け店舗ではありません" } }
+    ],
+    "pinColorHex": "#CB30E0",
+    "pinIcon": "building.2.fill",
+    "status": null
+  },
+  {
     "id": "kirby-cafe-petit-osaka",
     "appleMapsId": "I17668E43966A2F62",
     "category": { "en": "Restaurants / Café", "ja": "レストラン / カフェ" },
