@@ -1258,6 +1258,36 @@
     "status": null
   },
   {
+    "id": "nintendo-super-star-store-orlando",
+    "appleMapsId": "IDD117A2FEC067B43",
+    "category": { "en": "Park Store", "ja": "パーク内ストア" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "All Days", "ja": "毎日" },
+      "hours": { "en": "Varies by CityWalk hours", "ja": "CityWalkの営業時間に準じます" }
+      }
+    ],
+    "about": {
+      "en": "Nintendo Super Star Store is a Nintendo merchandise shop at Universal CityWalk Orlando. It offers SUPER NINTENDO WORLD goods and Nintendo character merchandise outside the theme parks, making it accessible without park admission.",
+      "ja": "Nintendo Super Star Storeは、Universal CityWalk Orlandoにある任天堂グッズショップです。スーパー・ニンテンドー・ワールド関連グッズや任天堂キャラクター商品を、パーク外で購入できる店舗です。"
+    },
+    "goodToKnow": [
+      { "icon": "ticket", "text": { "en": "No park ticket needed", "ja": "パーク入場券なしで利用可能" } },
+      { "icon": "bag", "text": { "en": "SNW goods sold here", "ja": "SNWグッズを販売しています" } },
+      { "icon": "gamecontroller", "text": { "en": "Power-Up Bands available here", "ja": "パワーアップバンド取扱あり" } }
+    ],
+    "pinColorHex": "#FF2D55",
+    "pinIcon": "basket.fill",
+    "status": null
+  },
+  {
     "id": "nintendo-authorized-store-by-synnex-siam-paragon",
     "appleMapsId": "I442C42DF8FB2E64F",
     "category": { "en": "Authorized Nintendo Reseller", "ja": "任天堂正規取扱店" },
