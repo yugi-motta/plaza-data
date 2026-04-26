@@ -1883,6 +1883,39 @@
     "status": null
   },
   {
+    "id": "funkys-fly-n-buy-japan",
+    "appleMapsId": "I1354DA5541FD8ADD",
+    "category": { "en": "Park Store", "ja": "パーク内ストア" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "All Days", "ja": "毎日" },
+      "hours": { "en": "Varies by park hours", "ja": "パーク営業時間に準じます" }
+      }
+    ],
+    "about": {
+      "en": "Funky's Fly 'n' Buy is a park store inside SUPER NINTENDO WORLD at Universal Studios Japan. Run by Funky Kong, the shop is themed around Donkey Kong Country and offers tropical-style merchandise tied to the expansion area.",
+      "ja": "ファンキーコングのフライ・アンド・バイは、ユニバーサル・スタジオ・ジャパンのスーパー・ニンテンドー・ワールド内にあるパーク内ストアです。ファンキーコングが店主をつとめる設定で、ドンキーコング・カントリーをテーマにしたトロピカルなグッズを取り扱っています。"
+    },
+    "timeline": [
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "December 11, 2024", "ja": "2024年12月11日" } }
+    ],
+    "goodToKnow": [
+      { "icon": "ticket", "text": { "en": "USJ admission required", "ja": "USJ入場券が必要です" } },
+      { "icon": "bag", "text": { "en": "Donkey Kong goods sold here", "ja": "ドンキーコンググッズ中心" } },
+      { "icon": "timer", "text": { "en": "Area entry may be required", "ja": "エリア入場が必要な場合あり" } }
+    ],
+    "pinColorHex": "#FF2D55",
+    "pinIcon": "basket.fill",
+    "status": null
+  },
+  {
     "id": "nintendo-store-sandton-city",
     "appleMapsId": "I22FE0739FB20A6BB",
     "category": { "en": "Authorized Nintendo Reseller", "ja": "任天堂正規取扱店" },
