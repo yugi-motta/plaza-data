@@ -1387,6 +1387,33 @@
     "status": null
   },
   {
+    "id": "geodude-park-kuji",
+    "appleMapsId": "I7A62EAF036987780",
+    "category": { "en": "Public Park", "ja": "公園" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "about": {
+      "en": "Geodude Park in Kuji is a rock-type Pokémon themed public park in Iwate, located at the event plaza of Roadside Station Iwate Kita-Sanriku. It is one of the official Geodude Parks in Iwate and features large playground equipment inspired by Geodude and other rock-type Pokémon.",
+      "ja": "イシツブテ公園 in くじは、岩手県の道の駅いわて北三陸のイベント広場にある、いわタイプのポケモンをテーマにした公園です。岩手県の公式イシツブテ公園のひとつで、イシツブテなどのいわポケモンをモチーフにした大型遊具が特徴です。"
+    },
+    "timeline": [
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "April 28, 2023", "ja": "2023年4月28日" } }
+    ],
+    "goodToKnow": [
+      { "icon": "tree.fill", "text": { "en": "Free to enter the park", "ja": "公園は無料で利用できます" } },
+      { "icon": "car", "text": { "en": "Right by Roadside Station Iwate Kita-Sanriku", "ja": "道の駅いわて北三陸に隣接" } },
+      { "icon": "camera", "text": { "en": "Poké Lid and photo spots nearby", "ja": "近くにポケふたや撮影スポットあり" } }
+    ],
+    "pinColorHex": "#34C759",
+    "pinIcon": "tree.fill",
+    "status": null
+  },
+  {
     "id": "nsew-the-wai",
     "appleMapsId": "I21EA7C106A949D6B",
     "category": { "en": "Authorized Nintendo Reseller", "ja": "任天堂正規取扱店" },
