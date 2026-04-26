@@ -1135,6 +1135,36 @@
     "status": null
   },
   {
+    "id": "nintendo-authorized-store-by-synnex-siam-paragon",
+    "appleMapsId": "I442C42DF8FB2E64F",
+    "category": { "en": "Authorized Nintendo Reseller", "ja": "任天堂正規取扱店" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
+      "hours": { "en": "10:00 AM - 10:00 PM", "ja": "10:00 - 22:00" }
+      }
+    ],
+    "about": {
+      "en": "Nintendo Authorized Store by Synnex (Siam Paragon) is an official Nintendo licensed retail store in Bangkok, located inside Siam Paragon. It offers Nintendo Switch hardware, games, accessories, and Nintendo character merchandise in a dedicated branded store format.",
+      "ja": "Nintendo Authorized Store by Synnex（Siam Paragon）は、バンコクのSiam Paragon内にある任天堂ライセンス公式販売店です。Nintendo Switch本体、ゲーム、周辺機器、任天堂キャラクターグッズなどを、任天堂ブランドの専用売り場で取り扱っています。"
+    },
+    "goodToKnow": [
+      { "icon": "building.columns", "text": { "en": "Inside Siam Paragon", "ja": "Siam Paragon内です" } },
+      { "icon": "bag", "text": { "en": "Sells games and character goods", "ja": "ゲームとキャラグッズを販売" } },
+      { "icon": "calendar", "text": { "en": "Hours may follow the mall", "ja": "営業時間は施設に準ずる場合あり" } }
+    ],
+    "pinColorHex": "#FF8D28",
+    "pinIcon": "gift.fill",
+    "status": null
+  },
+  {
     "id": "pokemon-center-yokohama",
     "appleMapsId": "I4BE28BA11F2D209F",
     "category": { "en": "Pokémon Center", "ja": "ポケモンセンター" },
