@@ -830,6 +830,33 @@
     "status": null
   },
   {
+    "id": "lucky-park-yanaizu",
+    "appleMapsId": "I60955906A65DE55A",
+    "category": { "en": "Public Park", "ja": "公園" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "about": {
+      "en": "Lucky Park in Yanaizu is a Chansey-themed public park in Fukushima. It is one of the official Lucky Parks created through Fukushima’s collaboration with Chansey, featuring playground equipment and design elements inspired by the Pokémon.",
+      "ja": "ラッキー公園 in やないづまちは、福島県にあるラッキーをテーマにした公園です。福島県とラッキーの連携企画による公式ラッキー公園のひとつで、ラッキーをモチーフにした遊具やデザインが特徴です。"
+    },
+    "characterStatues": [
+      { "en": "Chansey", "ja": "ラッキー" }
+    ],
+    "goodToKnow": [
+      { "icon": "tree.fill", "text": { "en": "Free public park", "ja": "無料で入れる公園です" } },
+      { "icon": "car", "text": { "en": "Easy to reach by car", "ja": "車で行きやすい場所です" } },
+      { "icon": "sun.max", "text": { "en": "Best visited in daytime", "ja": "昼間の訪問がおすすめ" } }
+    ],
+    "pinColorHex": "#34C759",
+    "pinIcon": "tree.fill",
+    "status": null
+  },
+  {
     "id": "pokemon-cafe-osaka",
     "appleMapsId": "I81959209827FE247",
     "category": { "en": "Restaurants / Café", "ja": "レストラン / カフェ" },
