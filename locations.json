@@ -1506,6 +1506,44 @@
     "status": null
   },
   {
+    "id": "nintendo-store-sandton-city",
+    "appleMapsId": "I22FE0739FB20A6BB",
+    "category": { "en": "Authorized Nintendo Reseller", "ja": "任天堂正規取扱店" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "Mon - Thu", "ja": "月曜日〜木曜日" },
+      "hours": { "en": "9:00 AM - 7:00 PM", "ja": "9:00 - 19:00" }
+      },
+      {
+      "day": { "en": "Fri - Sat", "ja": "金曜日〜土曜日" },
+      "hours": { "en": "9:00 AM - 8:00 PM", "ja": "9:00 - 20:00" }
+      },
+      {
+      "day": { "en": "Sun", "ja": "日曜日" },
+      "hours": { "en": "9:00 AM - 6:00 PM", "ja": "9:00 - 18:00" }
+      }
+    ],
+    "about": {
+      "en": "Nintendo Store in Sandton City is a flagship-style Nintendo retail store in Johannesburg, South Africa. It offers Nintendo Switch hardware, games, accessories, and Nintendo character merchandise in a dedicated store format inside Sandton City.",
+      "ja": "Nintendo Store in Sandton Cityは、南アフリカ・ヨハネスブルグのSandton Cityにある旗艦店スタイルの任天堂販売店です。Nintendo Switch本体、ゲーム、周辺機器、任天堂キャラクターグッズなどを、専用売り場で取り扱っています。"
+    },
+    "goodToKnow": [
+      { "icon": "building.columns", "text": { "en": "Inside Sandton City Level 4", "ja": "Sandton Cityの4階です" } },
+      { "icon": "gamecontroller", "text": { "en": "Nintendo Switch products sold here", "ja": "Nintendo Switch製品を販売" } },
+      { "icon": "calendar", "text": { "en": "Hours may follow the mall", "ja": "営業時間は施設に準ずる場合あり" } }
+    ],
+    "pinColorHex": "#FF8D28",
+    "pinIcon": "gift.fill",
+    "status": null
+  },
+  {
     "id": "kirby-cafe-hakata",
     "appleMapsId": "IFF67E86A94BEE6F",
     "category": { "en": "Restaurants / Café", "ja": "レストラン / カフェ" },
