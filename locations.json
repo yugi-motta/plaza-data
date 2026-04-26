@@ -1421,6 +1421,36 @@
     "status": null
   },
   {
+    "id": "kirby-cafe-the-store-osaka",
+    "appleMapsId": "I633F2FEB7BB7EE06",
+    "category": { "en": "Restaurants / Café", "ja": "レストラン / カフェ" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
+      "hours": { "en": "10:00 AM - 8:00 PM", "ja": "10:00 - 20:00" }
+      }
+    ],
+    "about": {
+      "en": "Kirby Café The Store OSAKA is the merchandise shop connected to the Kirby Café world at Daimaru Shinsaibashi. It focuses on Kirby Café exclusive goods, Kirby items, and selected takeout menu offerings.",
+      "ja": "カービィカフェ ザ・ストア OSAKAは、大丸心斎橋店にあるカービィカフェのグッズショップで、カービィカフェ限定商品を中心に、さまざまなカービィグッズや一部テイクアウト商品を取り扱っています。"
+    },
+    "goodToKnow": [
+      { "icon": "bag", "text": { "en": "Kirby Café exclusive goods sold here", "ja": "カービィカフェ限定グッズあり" } },
+      { "icon": "cup.and.saucer", "text": { "en": "Some takeout items available", "ja": "一部テイクアウト商品あり" } },
+      { "icon": "building.columns", "text": { "en": "Inside Daimaru Shinsaibashi 9F", "ja": "大丸心斎橋店本館9階" } }
+    ],
+    "pinColorHex": "#00C0E8",
+    "pinIcon": "fork.knife",
+    "status": null
+  },
+  {
     "id": "kirby-cafe-osaka",
     "appleMapsId": "IEF29D5F72AC4A20A",
     "category": { "en": "Restaurants / Café", "ja": "レストラン / カフェ" },
