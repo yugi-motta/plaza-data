@@ -661,6 +661,77 @@
     "status": null
   },
   {
+    "id": "pokemon-center-osaka-dx",
+    "appleMapsId": "I64BD42281BFC4979",
+    "category": { "en": "Pokémon Center", "ja": "ポケモンセンター" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
+      "hours": { "en": "10:00 AM - 8:00 PM", "ja": "10:00 - 20:00" }
+      }
+    ],
+    "about": {
+      "en": "Pokémon Center OSAKA DX is a flagship-style Pokémon Center in Daimaru Shinsaibashi, created as Osaka’s second Pokémon Center. It is directly connected to Pokémon Cafe and is known for its refined interior and larger-scale shopping experience in central Osaka.",
+      "ja": "ポケモンセンターオーサカDXは、大丸心斎橋店にある旗艦店タイプのポケモンセンターで、大阪では2店舗目のポケモンセンターとして誕生しました。ポケモンカフェと直結しており、落ち着いた上質な空間と、大阪中心部で楽しめるスケール感のある買い物体験が特徴です。"
+    },
+    "timeline": [
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "September 20, 2019", "ja": "2019年9月20日" } }
+    ],
+    "characterStatues": [
+      { "en": "Articuno", "ja": "フリーザー" },
+      { "en": "Zapdos", "ja": "サンダー" },
+      { "en": "Moltres", "ja": "ファイヤー" }
+    ],
+    "goodToKnow": [
+      { "icon": "fork.knife", "text": { "en": "Directly connected to Pokémon Cafe", "ja": "ポケモンカフェと直結" } },
+      { "icon": "building.columns", "text": { "en": "Direct access from Exit 4", "ja": "4番出口から地下道直結" } },
+      { "icon": "calendar", "text": { "en": "Closed days follow the facility", "ja": "休業日は施設に準ずる" } }
+    ],
+    "pinColorHex": "#FFCC00",
+    "pinIcon": "bolt.fill",
+    "status": null
+  },
+  {
+    "id": "pokemon-cafe-osaka",
+    "appleMapsId": "I81959209827FE247",
+    "category": { "en": "Restaurants / Café", "ja": "レストラン / カフェ" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
+      "hours": { "en": "10:00 AM - 8:00 PM", "ja": "10:00 - 20:00" }
+      }
+    ],
+    "about": {
+      "en": "Pokémon Cafe Osaka is the permanent Pokémon café connected to Pokémon Center OSAKA DX in Daimaru Shinsaibashi. It offers character-themed meals, drinks, desserts, and an immersive dining space built around the Pokémon world.",
+      "ja": "ポケモンカフェ大阪は、大丸心斎橋店のポケモンセンターオーサカDXに併設された常設ポケモンカフェです。ポケモンの世界観を取り入れたフード、ドリンク、デザート、そして体験型の食事空間を楽しめます。"
+    },
+    "timeline": [
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "September 20, 2019", "ja": "2019年9月20日" } }
+    ],
+    "goodToKnow": [
+      { "icon": "calendar", "text": { "en": "Advance reservation required", "ja": "事前予約制です" } },
+      { "icon": "clock", "text": { "en": "Last order is 7:00 PM", "ja": "ラストオーダーは19:00" } },
+      { "icon": "building.columns", "text": { "en": "Direct access from Exit 4", "ja": "4番出口から地下道直結" } }
+    ],
+    "pinColorHex": "#00C0E8",
+    "pinIcon": "fork.knife",
+    "status": null
+  },
+  {
     "id": "pokemon-store-gotemba",
     "appleMapsId": "I78A721538ECB5B55",
     "category": { "en": "Pokémon Store", "ja": "ポケモンストア" },
