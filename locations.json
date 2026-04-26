@@ -1496,6 +1496,36 @@
     "status": null
   },
   {
+    "id": "nsew-k11-musea",
+    "appleMapsId": "I1AA6C7A83F7EE2EF",
+    "category": { "en": "Authorized Nintendo Reseller", "ja": "任天堂正規取扱店" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
+      "hours": { "en": "11:00 AM - 8:00 PM", "ja": "11:00 - 20:00" }
+      }
+    ],
+    "about": {
+      "en": "nsew (K11 MUSEA) is an official Nintendo authorized retail store in Hong Kong, located at K11 MUSEA in Tsim Sha Tsui. It offers Nintendo Switch hardware, games, accessories, and licensed Nintendo merchandise in a dedicated store format.",
+      "ja": "nsew（K11 MUSEA店）は、香港・尖沙咀のK11 MUSEAにある任天堂正規取扱店です。Nintendo Switch本体、ゲーム、周辺機器、任天堂ライセンスグッズなどを、専用売り場で取り扱っています。"
+    },
+    "goodToKnow": [
+      { "icon": "building.columns", "text": { "en": "Inside K11 MUSEA B2 B211", "ja": "K11 MUSEA地下2階B211です" } },
+      { "icon": "gamecontroller", "text": { "en": "Nintendo Switch products sold here", "ja": "Nintendo Switch製品を販売" } },
+      { "icon": "camera", "text": { "en": "In-store demo zone available", "ja": "店内に体験コーナーあり" } }
+    ],
+    "pinColorHex": "#FF8D28",
+    "pinIcon": "gift.fill",
+    "status": null
+  },
+  {
     "id": "kirby-cafe-tokyo",
     "appleMapsId": "I6C7F6719CBC524C4",
     "category": { "en": "Restaurants / Café", "ja": "レストラン / カフェ" },
