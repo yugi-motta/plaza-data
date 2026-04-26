@@ -1188,6 +1188,30 @@
     "status": null
   },
   {
+    "id": "nintendo-sales-kyoto-distribution-center",
+    "appleMapsId": "I596480628F985719",
+    "category": { "en": "Historical Sites & Corporate", "ja": "歴史スポット・企業関連" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "about": {
+      "en": "Nintendo Sales Kyoto Distribution Center is a logistics facility in Kyoto operated by Nintendo Sales Co., Ltd. It supports the domestic distribution side of Nintendo’s business rather than serving as a retail or visitor location.",
+      "ja": "任天堂販売 京都配送センターは、京都にある任天堂販売株式会社の物流拠点です。小売店舗や見学施設ではなく、任天堂商品の国内流通を支える施設として運用されています。"
+    },
+    "goodToKnow": [
+      { "icon": "person.badge.key", "text": { "en": "Employee access only", "ja": "従業員のみ立ち入り可能" } },
+      { "icon": "shippingbox", "text": { "en": "Logistics facility, not a store", "ja": "販売店ではなく物流拠点です" } },
+      { "icon": "hand.raised", "text": { "en": "Not open to public visits", "ja": "一般見学はできません" } }
+    ],
+    "pinColorHex": "#CB30E0",
+    "pinIcon": "building.2.fill",
+    "status": null
+  },
+  {
     "id": "nintendo-kyoto-research-center",
     "appleMapsId": "I7DD3BF7637B1C96",
     "category": { "en": "Historical Sites & Corporate", "ja": "歴史スポット・企業関連" },
