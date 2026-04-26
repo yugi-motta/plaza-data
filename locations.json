@@ -622,6 +622,66 @@
     "status": null
   },
   {
+    "id": "kirby-cafe-petit-osaka",
+    "appleMapsId": "I17668E43966A2F62",
+    "category": { "en": "Restaurants / Café", "ja": "レストラン / カフェ" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
+      "hours": { "en": "10:30 AM - 8:30 PM", "ja": "10:30 - 20:30" }
+      }
+    ],
+    "about": {
+      "en": "Kirby Café PETIT Osaka is a takeaway sweets shop in Tennoji Mio, offering Kirby-themed tarts, cakes, drinks, and limited goods in a compact format inspired by the Kirby Café world.",
+      "ja": "カービィカフェ PETIT 天王寺店は、天王寺ミオにあるテイクアウトスイーツ専門店で、カービィカフェの世界観をもとにしたコンパクトな店舗です。カービィをモチーフにしたタルト、ケーキ、ドリンク、限定グッズを楽しめます。"
+    },
+    "goodToKnow": [
+      { "icon": "takeoutbag.and.cup.and.straw", "text": { "en": "Takeout shop with no dine-in", "ja": "テイクアウト専門です" } },
+      { "icon": "building.columns", "text": { "en": "Inside Tennoji Mio Main Building", "ja": "天王寺ミオ本館内です" } },
+      { "icon": "calendar", "text": { "en": "Closed days follow the facility", "ja": "休業日は施設に準ずる" } }
+    ],
+    "pinColorHex": "#00C0E8",
+    "pinIcon": "fork.knife",
+    "status": null
+  },
+  {
+    "id": "kirby-cafe-petit-tokyo",
+    "appleMapsId": "I477FFF11EDA1D195",
+    "category": { "en": "Restaurants / Café", "ja": "レストラン / カフェ" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
+      "hours": { "en": "10:00 AM - 8:30 PM", "ja": "10:00 - 20:30" }
+      }
+    ],
+    "about": {
+      "en": "Kirby Café PETIT Tokyo is a takeaway sweets shop inside Tokyo Character Street at First Avenue Tokyo Station. It focuses on Kirby-themed tarts, cakes, drinks, and exclusive merchandise in a compact format inspired by the Kirby Café world.",
+      "ja": "カービィカフェ PETIT 東京駅店は、東京駅一番街 東京キャラクターストリート内にあるテイクアウトスイーツ専門店です。カービィカフェの世界観をもとにしたコンパクトな店舗で、カービィをモチーフにしたタルト、ケーキ、ドリンク、限定グッズを楽しめます。"
+    },
+    "goodToKnow": [
+      { "icon": "takeoutbag.and.cup.and.straw", "text": { "en": "Takeout shop with no dine-in", "ja": "テイクアウト専門です" } },
+      { "icon": "train.side.front.car", "text": { "en": "Inside Tokyo Character Street", "ja": "東京キャラクターストリート内です" } },
+      { "icon": "yensign.circle", "text": { "en": "Tax-free shopping available", "ja": "免税対応あり" } }
+    ],
+    "pinColorHex": "#00C0E8",
+    "pinIcon": "fork.knife",
+    "status": null
+  },
+  {
     "id": "pokemon-center-hiroshima",
     "appleMapsId": "ID996912C26CA3F7E",
     "category": { "en": "Pokémon Center", "ja": "ポケモンセンター" },
