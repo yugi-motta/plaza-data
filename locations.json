@@ -981,6 +981,39 @@
     "status": null
   },
   {
+    "id": "pokemon-center-kagawa",
+    "appleMapsId": "IC01CD2C09FD354A7",
+    "category": { "en": "Pokémon Center", "ja": "ポケモンセンター" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
+      "hours": { "en": "10:00 AM - 8:00 PM", "ja": "10:00 - 20:00" }
+      }
+    ],
+    "about": {
+      "en": "Pokémon Center KAGAWA is the official Pokémon Center for Kagawa, located in Marugamemachi Green in Takamatsu. Opened in 2025, it brought the first full Pokémon Center to Shikoku and features a design inspired by the region.",
+      "ja": "ポケモンセンターカガワは、高松市の丸亀町グリーンにある香川の公式ポケモンセンターです。2025年にオープンし、四国初の本格的なポケモンセンターとして誕生しました。地域らしさを取り入れたデザインも特徴です。"
+    },
+    "timeline": [
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "October 24, 2025", "ja": "2025年10月24日" } }
+    ],
+    "goodToKnow": [
+      { "icon": "rectangle.stack.badge.play", "text": { "en": "Pokémon Card Station available", "ja": "ポケモンカードステーション併設" } },
+      { "icon": "figure.walk", "text": { "en": "About 7 min from Kawaramachi Station", "ja": "瓦町駅から徒歩約7分" } },
+      { "icon": "calendar", "text": { "en": "Closed days follow the facility", "ja": "休業日は施設に準ずる" } }
+    ],
+    "pinColorHex": "#FFCC00",
+    "pinIcon": "bolt.fill",
+    "status": null
+  },
+  {
     "id": "pokemon-center-yokohama",
     "appleMapsId": "I4BE28BA11F2D209F",
     "category": { "en": "Pokémon Center", "ja": "ポケモンセンター" },
