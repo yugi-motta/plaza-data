@@ -1644,6 +1644,39 @@
     "status": null
   },
   {
+    "id": "nintendo-super-star-store-orlando-in-park",
+    "appleMapsId": "I42AE717C2BF48760",
+    "category": { "en": "Park Store", "ja": "パーク内ストア" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "All Days", "ja": "毎日" },
+      "hours": { "en": "Varies by park hours", "ja": "パーク営業時間に準じます" }
+      }
+    ],
+    "about": {
+      "en": "Nintendo Super Star Store is a Nintendo merchandise shop inside Universal Epic Universe in Orlando, located in Celestial Park. It offers toys, apparel, souvenirs, and SUPER NINTENDO WORLD goods outside the themed land itself but still within the park.",
+      "ja": "Nintendo Super Star Storeは、オーランドのUniversal Epic Universe内、Celestial Parkにある任天堂グッズショップです。スーパー・ニンテンドー・ワールドのエリア外にありながら、パーク内で任天堂のおもちゃ、アパレル、おみやげ、SUPER NINTENDO WORLDグッズを購入できます。"
+    },
+    "timeline": [
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "May 22, 2025", "ja": "2025年5月22日" } }
+    ],
+    "goodToKnow": [
+      { "icon": "ticket", "text": { "en": "Epic Universe ticket required", "ja": "Epic Universeの入場券が必要" } },
+      { "icon": "bag", "text": { "en": "SNW goods sold outside the land", "ja": "エリア外でもSNWグッズ購入可" } },
+      { "icon": "sparkles", "text": { "en": "Located in Celestial Park", "ja": "Celestial Park内にあります" } }
+    ],
+    "pinColorHex": "#FF2D55",
+    "pinIcon": "basket.fill",
+    "status": null
+  },
+  {
     "id": "kirby-cafe-the-store-tokyo",
     "appleMapsId": "IDC5579F352BE1047",
     "category": { "en": "Restaurants / Café", "ja": "レストラン / カフェ" },
@@ -1763,6 +1796,36 @@
     ],
     "pinColorHex": "#FF8D28",
     "pinIcon": "gift.fill",
+    "status": null
+  },
+  {
+    "id": "funkys-fly-n-buy-orlando",
+    "appleMapsId": "IE4FFDA8F63401FE1",
+    "category": { "en": "Park Store", "ja": "パーク内ストア" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "All Days", "ja": "毎日" },
+      "hours": { "en": "Varies by park hours", "ja": "パーク営業時間に準じます" }
+      }
+    ],
+    "about": {
+      "en": "Funky's Fly 'n' Buy is a park store inside SUPER NINTENDO WORLD at Universal Epic Universe in Orlando. Styled as Funky Kong’s open-air jungle market, it focuses on Donkey Kong themed merchandise, apparel, and souvenirs from the Donkey Kong Country area.",
+      "ja": "ファンキーズ・フライ・アンド・バイは、オーランドのUniversal Epic Universe内にあるSUPER NINTENDO WORLDのパーク内ストアです。ファンキーコングの屋外ジャングルマーケットをイメージした店舗で、ドンキーコング・カントリー関連のグッズ、アパレル、おみやげを中心に取り扱っています。"
+    },
+    "goodToKnow": [
+      { "icon": "ticket", "text": { "en": "Epic Universe ticket required", "ja": "Epic Universeの入場券が必要" } },
+      { "icon": "bag", "text": { "en": "Donkey Kong goods sold here", "ja": "ドンキーコンググッズ中心" } },
+      { "icon": "leaf", "text": { "en": "Inside Donkey Kong Country", "ja": "ドンキーコングエリア内です" } }
+    ],
+    "pinColorHex": "#FF2D55",
+    "pinIcon": "basket.fill",
     "status": null
   },
   {
