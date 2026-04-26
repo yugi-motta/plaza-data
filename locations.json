@@ -661,6 +661,40 @@
     "status": null
   },
   {
+    "id": "pokemon-center-osaka",
+    "appleMapsId": "I8D463B45711E9B4A",
+    "category": { "en": "Pokémon Center", "ja": "ポケモンセンター" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
+      "hours": { "en": "10:00 AM - 8:00 PM", "ja": "10:00 - 20:00" }
+      }
+    ],
+    "about": {
+      "en": "Pokémon Center OSAKA is one of the oldest Pokémon Centers in Japan and serves as the main official Pokémon store for the Umeda area. Since its move to the current location, it has offered a larger shopping space in central Osaka.",
+      "ja": "ポケモンセンターオーサカは、日本でも歴史の長いポケモンセンターのひとつで、梅田エリアを代表する公式ポケモンショップです。現在の場所へ移転してからは、大阪中心部でより広い売り場を展開しています。"
+    },
+    "timeline": [
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "November 1998", "ja": "1998年11月" } },
+      { "label": { "en": "Relocated and reopened", "ja": "移転してリニューアルオープン" }, "date": { "en": "November 26, 2010", "ja": "2010年11月26日" } }
+    ],
+    "goodToKnow": [
+      { "icon": "rectangle.stack.badge.play", "text": { "en": "Pokémon Card Station available", "ja": "ポケモンカードステーション併設" } },
+      { "icon": "figure.walk", "text": { "en": "About 5 min from JR Osaka Station", "ja": "JR大阪駅から徒歩約5分" } },
+      { "icon": "calendar", "text": { "en": "Closed days follow the facility", "ja": "休業日は施設に準ずる" } }
+    ],
+    "pinColorHex": "#FFCC00",
+    "pinIcon": "bolt.fill",
+    "status": null
+  },
+  {
     "id": "pokemon-center-osaka-dx",
     "appleMapsId": "I64BD42281BFC4979",
     "category": { "en": "Pokémon Center", "ja": "ポケモンセンター" },
