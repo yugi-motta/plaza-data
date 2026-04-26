@@ -1583,6 +1583,43 @@
     "status": null
   },
   {
+    "id": "sand-park",
+    "appleMapsId": "I311A97D140E18B6C",
+    "category": { "en": "Public Park", "ja": "公園" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
+      "hours": { "en": "9:00 AM - 5:00 PM", "ja": "9:00 - 17:00" }
+      }
+    ],
+    "about": {
+      "en": "Sand Park is a Sandshrew and Alolan Sandshrew themed public park inside Tottori Sand Dunes Kodomo no Kuni. It is one of the official Pokémon parks in Japan and features playground equipment and design elements inspired by both Pokémon.",
+      "ja": "サンド公園は、鳥取砂丘こどもの国内にあるサンドとアローラサンドをテーマにした公園です。日本の公式ポケモン公園のひとつで、2匹をモチーフにした遊具やデザインが特徴です。"
+    },
+    "timeline": [
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "May 5, 2023", "ja": "2023年5月5日" } }
+    ],
+    "characterStatues": [
+      { "en": "Sandshrew", "ja": "サンド" },
+      { "en": "Alolan Sandshrew", "ja": "アローラサンド" }
+    ],
+    "goodToKnow": [
+      { "icon": "ticket", "text": { "en": "Park admission ticket required", "ja": "入園料が必要です" } },
+      { "icon": "calendar", "text": { "en": "Closed on 2nd Wed each month", "ja": "毎月第2水曜は休園" } },
+      { "icon": "clock", "text": { "en": "Last entry is 4:30 PM", "ja": "最終入園は16:30です" } }
+    ],
+    "pinColorHex": "#34C759",
+    "pinIcon": "tree.fill",
+    "status": null
+  },
+  {
     "id": "kirby-cafe-tokyo",
     "appleMapsId": "I6C7F6719CBC524C4",
     "category": { "en": "Restaurants / Café", "ja": "レストラン / カフェ" },
