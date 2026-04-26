@@ -1102,6 +1102,36 @@
     "status": null
   },
   {
+    "id": "lucky-park-namie",
+    "appleMapsId": "IDD92F28F2C18D2",
+    "category": { "en": "Public Park", "ja": "公園" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "about": {
+      "en": "Lucky Park in Namie is a Chansey-themed public park in Fukushima. It is one of the official Lucky Parks created as part of Fukushima’s collaboration with Chansey, featuring playground equipment and design elements inspired by the Pokémon.",
+      "ja": "ラッキー公園 in なみえまちは、福島県にあるラッキーをテーマにした公園です。福島県とラッキーの連携企画による公式ラッキー公園のひとつで、ラッキーをモチーフにした遊具やデザインが特徴です。"
+    },
+    "timeline": [
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "December 7, 2022", "ja": "2022年12月7日" } }
+    ],
+    "characterStatues": [
+      { "en": "Chansey", "ja": "ラッキー" }
+    ],
+    "goodToKnow": [
+      { "icon": "tree.fill", "text": { "en": "Free public park", "ja": "無料で入れる公園です" } },
+      { "icon": "car", "text": { "en": "Easy to reach by car", "ja": "車で行きやすい場所です" } },
+      { "icon": "sun.max", "text": { "en": "Best visited in daytime", "ja": "昼間の訪問がおすすめ" } }
+    ],
+    "pinColorHex": "#34C759",
+    "pinIcon": "tree.fill",
+    "status": null
+  },
+  {
     "id": "pokemon-center-kagawa",
     "appleMapsId": "IC01CD2C09FD354A7",
     "category": { "en": "Pokémon Center", "ja": "ポケモンセンター" },
