@@ -2635,7 +2635,7 @@
     "pinColorHex": "#ED7022",
     "info": { "website": null, "phone": null, "address": { "en": "〒150-8377 東京都渋谷区宇田川町15-1 渋谷PARCO", "ja": "〒150-8377 東京都渋谷区宇田川町15-1 渋谷PARCO" } },
     "pinIcon": "storefront.fill",
-    "coordinate": { "latitude": 35.661989, "longitude": 139.698784 },
+    "coordinate": "35.661989, 139.698784",
     "status": null,
     "tags": ["event-ended"]
   }
