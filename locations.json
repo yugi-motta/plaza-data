@@ -887,6 +887,30 @@
     "status": null
   },
   {
+    "id": "nintendo-hong-kong-office",
+    "appleMapsId": "I96A1E1960BAFA417",
+    "category": { "en": "Historical Sites & Corporate", "ja": "歴史スポット・企業関連" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "about": {
+      "en": "Nintendo (Hong Kong) Limited is Nintendo’s Hong Kong office, handling regional business operations and support for Nintendo products in Hong Kong.",
+      "ja": "任天堂（香港）有限公司は、香港における任天堂の地域事業運営や製品サポートを担当する任天堂の香港拠点です。"
+    },
+    "goodToKnow": [
+      { "icon": "person.badge.key", "text": { "en": "Employee access only", "ja": "従業員のみ立ち入り可能" } },
+      { "icon": "bag", "text": { "en": "No retail store on site", "ja": "現地での販売はありません" } },
+      { "icon": "building.2", "text": { "en": "Corporate office location", "ja": "企業オフィス拠点です" } }
+    ],
+    "pinColorHex": "#CB30E0",
+    "pinIcon": "building.2.fill",
+    "status": null
+  },
+  {
     "id": "pokemon-store-gotemba",
     "appleMapsId": "I78A721538ECB5B55",
     "category": { "en": "Pokémon Store", "ja": "ポケモンストア" },
