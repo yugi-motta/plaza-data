@@ -983,6 +983,39 @@
     "status": null
   },
   {
+    "id": "1-up-factory-japan",
+    "appleMapsId": "I75B9BF6BE484B7B3",
+    "category": { "en": "Park Store", "ja": "パーク内ストア" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "All Days", "ja": "毎日" },
+      "hours": { "en": "Varies by park hours", "ja": "パーク営業時間に準じます" }
+      }
+    ],
+    "about": {
+      "en": "1-UP Factory is the main merchandise shop inside SUPER NINTENDO WORLD at Universal Studios Japan. The store is themed as a toy factory in the Mushroom Kingdom and offers a wide range of exclusive Nintendo souvenirs, apparel, accessories, and character merchandise.",
+      "ja": "ワンナップ・ファクトリーは、ユニバーサル・スタジオ・ジャパンのスーパー・ニンテンドー・ワールド内にあるメインショップです。キノコ王国のおもちゃ工場をテーマにしており、限定の任天堂グッズ、おみやげ、アパレル、アクセサリー、キャラクター商品などを幅広く取り扱っています。"
+    },
+    "timeline": [
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "March 18, 2021", "ja": "2021年3月18日" } }
+    ],
+    "goodToKnow": [
+      { "icon": "ticket", "text": { "en": "USJ admission required", "ja": "USJ入場券が必要です" } },
+      { "icon": "bag", "text": { "en": "Main shop for Nintendo souvenirs", "ja": "任天堂みやげのメインショップ" } },
+      { "icon": "timer", "text": { "en": "Area entry may be required", "ja": "エリア入場が必要な場合あり" } }
+    ],
+    "pinColorHex": "#FF2D55",
+    "pinIcon": "basket.fill",
+    "status": null
+  },
+  {
     "id": "pokemon-center-yokohama-satellite",
     "appleMapsId": "I120294E71A5BA149",
     "category": { "en": "Pokémon Center", "ja": "ポケモンセンター" },
