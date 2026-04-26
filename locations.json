@@ -1128,6 +1128,48 @@
     "status": null
   },
   {
+    "id": "pokemon-center-fukuoka",
+    "appleMapsId": "IDBEE267A82D64293",
+    "category": { "en": "Pokémon Center", "ja": "ポケモンセンター" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
+      "hours": { "en": "10:00 AM - 9:00 PM", "ja": "10:00 - 21:00" }
+      }
+    ],
+    "about": {
+      "en": "Pokémon Center Fukuoka is the official Pokémon Center for the Fukuoka area. After its 2025 move to Hakata Marui, the store became larger and added a refreshed design with a more open layout in central Hakata.",
+      "ja": "ポケモンセンターフクオカは、福岡エリアの公式ポケモンセンターです。2025年に博多マルイへ移転し、売り場がより広くなり、博多の中心で開放感のある新しい店内デザインを楽しめる店舗になりました。"
+    },
+    "timeline": [
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "November 2003", "ja": "2003年11月" } },
+      { "label": { "en": "Relocated and reopened", "ja": "移転してリニューアルオープン" }, "date": { "en": "March 3, 2011", "ja": "2011年3月3日" } },
+      { "label": { "en": "Relocated and reopened at Hakata Marui", "ja": "博多マルイに移転してリニューアルオープン" }, "date": { "en": "June 27, 2025", "ja": "2025年6月27日" } }
+    ],
+    "characterStatues": [
+      { "en": "Pikachu", "ja": "ピカチュウ" },
+      { "en": "Latias", "ja": "ラティアス" },
+      { "en": "Latios", "ja": "ラティオス" },
+      { "en": "Dondozo", "ja": "ヘイラッシャ" },
+      { "en": "Tatsugiri", "ja": "シャリタツ" }
+    ],
+    "goodToKnow": [
+      { "icon": "rectangle.stack.badge.play", "text": { "en": "Pokémon Card Station available", "ja": "ポケモンカードステーション併設" } },
+      { "icon": "figure.walk", "text": { "en": "About 3 min from Hakata Station", "ja": "博多駅から徒歩約3分" } },
+      { "icon": "calendar", "text": { "en": "Closed days follow the facility", "ja": "休業日は施設に準ずる" } }
+    ],
+    "pinColorHex": "#FFCC00",
+    "pinIcon": "bolt.fill",
+    "status": null
+  },
+  {
     "id": "marufukuro",
     "appleMapsId": "I407F723E8169F03D",
     "category": { "en": "Historical Sites & Corporate", "ja": "歴史スポット・企業関連" },
