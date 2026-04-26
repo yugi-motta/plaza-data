@@ -1556,6 +1556,40 @@
     "status": null
   },
   {
+    "id": "nintendo-israel-tel-aviv",
+    "appleMapsId": "IA0800CABE4BF3331",
+    "category": { "en": "Authorized Nintendo Reseller", "ja": "任天堂正規取扱店" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "Weekdays", "ja": "平日" },
+      "hours": { "en": "10:00 AM - 9:00 PM", "ja": "10:00 - 21:00" }
+      },
+      {
+      "day": { "en": "Fri", "ja": "金曜日" },
+      "hours": { "en": "10:00 AM - 3:00 PM", "ja": "10:00 - 15:00" }
+      }
+    ],
+    "about": {
+      "en": "Nintendo Israel Tel Aviv is an official Nintendo authorized store inside Dizengoff Center. It offers Nintendo Switch hardware, games, accessories, and Nintendo character merchandise in a dedicated community-focused retail space.",
+      "ja": "Nintendo Israel Tel Avivは、ディゼンゴフセンター内にある任天堂正規取扱店です。Nintendo Switch本体、ゲーム、周辺機器、任天堂キャラクターグッズなどを、コミュニティ性のある専用売り場で取り扱っています。"
+    },
+    "goodToKnow": [
+      { "icon": "building.columns", "text": { "en": "Inside Dizengoff Center A 3F", "ja": "ディゼンゴフセンターA館3階です" } },
+      { "icon": "gamecontroller", "text": { "en": "Demo stations available in store", "ja": "店内に試遊台があります" } },
+      { "icon": "person.3", "text": { "en": "Events and tournaments held here", "ja": "イベント開催店舗です" } }
+    ],
+    "pinColorHex": "#FF8D28",
+    "pinIcon": "gift.fill",
+    "status": null
+  },
+  {
     "id": "pokemon-center-tohoku",
     "appleMapsId": "IDFDDDDF592E6CC7",
     "category": { "en": "Pokémon Center", "ja": "ポケモンセンター" },
