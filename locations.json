@@ -1463,6 +1463,39 @@
     "status": null
   },
   {
+    "id": "nsew-kai-tak",
+    "appleMapsId": "I35EEF33C1ED18BF1",
+    "category": { "en": "Authorized Nintendo Reseller", "ja": "任天堂正規取扱店" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
+      "hours": { "en": "11:00 AM - 8:30 PM", "ja": "11:00 - 20:30" }
+      }
+    ],
+    "about": {
+      "en": "nsew (Kai Tak) is an official Nintendo authorized retail store in Hong Kong, located at Kai Tak Mall 2 in Kai Tak Sports Park. It offers Nintendo Switch hardware, games, accessories, and licensed Nintendo merchandise in a dedicated store format.",
+      "ja": "nsew（啟德店）は、香港の啟德體育園・啟德零售館2にある任天堂正規取扱店です。Nintendo Switch本体、ゲーム、周辺機器、任天堂ライセンスグッズなどを、専用売り場で取り扱っています。"
+    },
+    "timeline": [
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "December 18, 2024", "ja": "2024年12月18日" } }
+    ],
+    "goodToKnow": [
+      { "icon": "building.columns", "text": { "en": "Inside Kai Tak Mall 2, L1", "ja": "啟德零售館2の1階です" } },
+      { "icon": "gamecontroller", "text": { "en": "Nintendo Switch products sold here", "ja": "Nintendo Switch製品を販売" } },
+      { "icon": "calendar", "text": { "en": "Open daily until 8:30 PM", "ja": "毎日20:30まで営業" } }
+    ],
+    "pinColorHex": "#FF8D28",
+    "pinIcon": "gift.fill",
+    "status": null
+  },
+  {
     "id": "kirby-cafe-tokyo",
     "appleMapsId": "I6C7F6719CBC524C4",
     "category": { "en": "Restaurants / Café", "ja": "レストラン / カフェ" },
