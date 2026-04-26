@@ -1646,6 +1646,36 @@
     "status": null
   },
   {
+    "id": "super-nintendo-world-store-citywalk-california",
+    "appleMapsId": "I5E2188ECC3D7FF25",
+    "category": { "en": "Park Store", "ja": "パーク内ストア" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "All Days", "ja": "毎日" },
+      "hours": { "en": "Varies by CityWalk hours", "ja": "CityWalkの営業時間に準じます" }
+      }
+    ],
+    "about": {
+      "en": "SUPER NINTENDO WORLD Store on CityWalk is a Nintendo-themed merchandise shop at Universal CityWalk Hollywood. It offers SUPER NINTENDO WORLD goods and Nintendo character merchandise outside the theme park, making it accessible without park admission.",
+      "ja": "SUPER NINTENDO WORLD Store on CityWalkは、Universal CityWalk Hollywoodにある任天堂テーマのグッズショップです。スーパー・ニンテンドー・ワールド関連グッズや任天堂キャラクター商品を、パーク外で購入できる店舗です。"
+    },
+    "goodToKnow": [
+      { "icon": "ticket", "text": { "en": "No park ticket needed", "ja": "パーク入場券なしで利用可能" } },
+      { "icon": "bag", "text": { "en": "SNW goods sold here", "ja": "SNWグッズを販売しています" } },
+      { "icon": "gamecontroller", "text": { "en": "Power-Up Bands available here", "ja": "パワーアップバンド取扱あり" } }
+    ],
+    "pinColorHex": "#FF2D55",
+    "pinIcon": "basket.fill",
+    "status": null
+  },
+  {
     "id": "nsew-k11-musea",
     "appleMapsId": "I1AA6C7A83F7EE2EF",
     "category": { "en": "Authorized Nintendo Reseller", "ja": "任天堂正規取扱店" },
