@@ -2015,6 +2015,39 @@
     "status": null
   },
   {
+    "id": "mario-motors-japan",
+    "appleMapsId": "IDCE232A77EFB582D",
+    "category": { "en": "Park Store", "ja": "パーク内ストア" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "All Days", "ja": "毎日" },
+      "hours": { "en": "Varies by park hours", "ja": "パーク営業時間に準じます" }
+      }
+    ],
+    "about": {
+      "en": "Mario Motors is a park store inside SUPER NINTENDO WORLD at Universal Studios Japan. The shop is themed around the Mario Kart world and focuses on merchandise inspired by racing, karts, and characters from the attraction area.",
+      "ja": "マリオ・モーターズは、ユニバーサル・スタジオ・ジャパンのスーパー・ニンテンドー・ワールド内にあるパーク内ストアです。マリオカートの世界観をテーマにしており、レースやカート、エリア内のキャラクターにちなんだグッズを中心に展開しています。"
+    },
+    "timeline": [
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "March 18, 2021", "ja": "2021年3月18日" } }
+    ],
+    "goodToKnow": [
+      { "icon": "ticket", "text": { "en": "USJ admission required", "ja": "USJ入場券が必要です" } },
+      { "icon": "flag.checkered", "text": { "en": "Mario Kart themed merchandise", "ja": "マリオカートグッズ中心" } },
+      { "icon": "timer", "text": { "en": "Area entry may be required", "ja": "エリア入場が必要な場合あり" } }
+    ],
+    "pinColorHex": "#FF2D55",
+    "pinIcon": "basket.fill",
+    "status": null
+  },
+  {
     "id": "nintendo-of-canada-ltd",
     "appleMapsId": "IB0EC07A2B73E190B",
     "category": { "en": "Historical Sites & Corporate", "ja": "歴史スポット・企業関連" },
