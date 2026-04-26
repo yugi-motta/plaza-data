@@ -1330,6 +1330,39 @@
     "status": null
   },
   {
+    "id": "nsew-the-wai",
+    "appleMapsId": "I21EA7C106A949D6B",
+    "category": { "en": "Authorized Nintendo Reseller", "ja": "任天堂正規取扱店" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
+      "hours": { "en": "11:00 AM - 8:30 PM", "ja": "11:00 - 20:30" }
+      }
+    ],
+    "about": {
+      "en": "nsew (The Wai) is an official Nintendo authorized retail store in Hong Kong, located at The Wai in Tai Wai. It offers Nintendo Switch hardware, games, accessories, and licensed Nintendo merchandise in a flagship-style store format.",
+      "ja": "nsew（The Wai店）は、香港の大囲にあるThe Wai内の任天堂正規取扱店です。Nintendo Switch本体、ゲーム、周辺機器、任天堂ライセンスグッズなどを、旗艦店スタイルの売り場で取り扱っています。"
+    },
+    "timeline": [
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "July 22, 2023", "ja": "2023年7月22日" } }
+    ],
+    "goodToKnow": [
+      { "icon": "building.columns", "text": { "en": "Inside The Wai 3F Shop 314", "ja": "The Wai 3階314号店です" } },
+      { "icon": "gamecontroller", "text": { "en": "Nintendo Switch products sold here", "ja": "Nintendo Switch製品を販売" } },
+      { "icon": "camera", "text": { "en": "Nintendo photo spots in store", "ja": "店内に撮影スポットあり" } }
+    ],
+    "pinColorHex": "#FF8D28",
+    "pinIcon": "gift.fill",
+    "status": null
+  },
+  {
     "id": "pokemon-center-fukuoka",
     "appleMapsId": "IDBEE267A82D64293",
     "category": { "en": "Pokémon Center", "ja": "ポケモンセンター" },
