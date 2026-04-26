@@ -1777,6 +1777,39 @@
     "status": null
   },
   {
+    "id": "1-up-factory-california",
+    "appleMapsId": "I9FAE33B1F451EEF4",
+    "category": { "en": "Park Store", "ja": "パーク内ストア" },
+    "photos": [
+      { "url": "https://example.com/photo1.jpg" },
+      { "url": "https://example.com/photo2.jpg" },
+      { "url": "https://example.com/photo3.jpg" },
+      { "url": "https://example.com/photo4.jpg" },
+      { "url": "https://example.com/photo5.jpg" }
+    ],
+    "hours": [
+      {
+      "day": { "en": "All Days", "ja": "毎日" },
+      "hours": { "en": "Varies by park hours", "ja": "パーク営業時間に準じます" }
+      }
+    ],
+    "about": {
+      "en": "1-UP Factory is the main merchandise shop inside SUPER NINTENDO WORLD at Universal Studios Hollywood. The store is themed as a toy factory in the Mushroom Kingdom and offers exclusive Nintendo souvenirs, apparel, accessories, and character merchandise.",
+      "ja": "ワンナップ・ファクトリーは、ユニバーサル・スタジオ・ハリウッドのスーパー・ニンテンドー・ワールド内にあるメインショップです。キノコ王国のおもちゃ工場をテーマにしており、限定の任天堂グッズ、おみやげ、アパレル、アクセサリー、キャラクター商品などを取り扱っています。"
+    },
+    "timeline": [
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "February 17, 2023", "ja": "2023年2月17日" } }
+    ],
+    "goodToKnow": [
+      { "icon": "ticket", "text": { "en": "USH admission required", "ja": "USH入場券が必要です" } },
+      { "icon": "bag", "text": { "en": "Main shop for Nintendo souvenirs", "ja": "任天堂みやげのメインショップ" } },
+      { "icon": "timer", "text": { "en": "Land entry may be controlled", "ja": "エリア入場制限の場合あり" } }
+    ],
+    "pinColorHex": "#FF2D55",
+    "pinIcon": "basket.fill",
+    "status": null
+  },
+  {
     "id": "pokemon-center-tohoku",
     "appleMapsId": "IDFDDDDF592E6CC7",
     "category": { "en": "Pokémon Center", "ja": "ポケモンセンター" },
