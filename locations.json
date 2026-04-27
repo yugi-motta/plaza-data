@@ -50,7 +50,7 @@
       { "icon": "bag", "text": { "en": "Tokyo-exclusive merchandise not sold anywhere else", "ja": "他では買えない東京限定グッズがあります" } },
       { "icon": "camera", "text": { "en": "Great photo spots with character displays throughout the store", "ja": "店内各所にキャラクターの撮影スポットがあります" } }
     ],
-    "coordinate": "35.66203, 139.69865"
+    "coordinate": "35.6620253, 139.6986455"
   },
   {
     "id": "nintendo-osaka",
@@ -77,7 +77,8 @@
       { "icon": "bag", "text": { "en": "Osaka-exclusive merchandise not sold at other Nintendo stores", "ja": "他の任天堂ストアでは買えない大阪限定グッズがあります" } },
       { "icon": "clock", "text": { "en": "Numbered tickets required during busy periods", "ja": "混雑時は整理券が必要です" } },
       { "icon": "tram", "text": { "en": "Directly connected to JR Osaka Station", "ja": "JR大阪駅に直結しています" } }
-    ]
+    ],
+    "coordinate": "34.7017999, 135.4967532"
   },
   {
     "id": "nintendo-kyoto",
@@ -104,7 +105,8 @@
       { "icon": "bag", "text": { "en": "Kyoto-exclusive merchandise not sold at other Nintendo stores", "ja": "他の任天堂ストアでは買えない京都限定グッズがあります" } },
       { "icon": "clock", "text": { "en": "Busy on weekends, numbered tickets may be required", "ja": "週末は混雑し整理券が必要な場合があります" } },
       { "icon": "camera", "text": { "en": "Unique rooftop Mario flagpole statue exclusive to this store", "ja": "この店舗限定の屋上マリオ旗ポール像があります" } }
-    ]
+    ],
+    "coordinate": "35.0034604, 135.7680613"
   },
   {
     "id": "nintendo-new-york",
@@ -135,7 +137,8 @@
       { "icon": "gamecontroller", "text": { "en": "Playable game demos on both floors", "ja": "両フロアに試遊台があります" } },
       { "icon": "moon.stars", "text": { "en": "Hosts midnight launch events for major releases", "ja": "大型タイトル発売時に深夜イベントを開催" } },
       { "icon": "bag", "text": { "en": "New York-exclusive merchandise available", "ja": "ニューヨーク限定グッズがあります" } }
-    ]
+    ],
+    "coordinate": "40.7579863, -73.9794261"
   },
   {
     "id": "pokemon-store-new-chitose-airport",
@@ -165,7 +168,8 @@
       { "icon": "airplane", "text": { "en": "Sells New Chitose Airport limited items, including pilot-themed Pikachu merchandise", "ja": "パイロット姿のピカチュウなど、新千歳空港限定グッズがあります" } },
       { "icon": "checkmark.shield", "text": { "en": "Located before the domestic security checkpoint", "ja": "国内線の保安検査前エリアにあります" } },
       { "icon": "figure.walk", "text": { "en": "About a 3-minute walk from JR New Chitose Airport Station", "ja": "JR新千歳空港駅から徒歩約3分です" } }
-    ]
+    ],
+    "coordinate": "42.7871161, 141.6762945"
   },
   {
     "id": "nintendo-san-francisco",
@@ -193,7 +197,8 @@
       { "icon": "bag", "text": { "en": "San Francisco-exclusive merchandise not sold anywhere else", "ja": "サンフランシスコ限定グッズがあります" } },
       { "icon": "ticket", "text": { "en": "Warp Pipe Pass reservation required for select events", "ja": "一部イベントはワープパイプパスの予約が必要です" } },
       { "icon": "gamecontroller", "text": { "en": "Large screen gaming area with playable demos", "ja": "大型スクリーンと試遊エリアがあります" } }
-    ]
+    ],
+    "coordinate": "37.7875387, -122.4086165"
   },
   {
     "id": "nintendo-tokyo-office",
@@ -217,7 +222,8 @@
       { "icon": "person.badge.key", "text": { "en": "Employee access only", "ja": "従業員のみ入館可能" } },
       { "icon": "bag", "text": { "en": "No retail store at this office", "ja": "この拠点に販売店舗はありません" } },
       { "icon": "building.2", "text": { "en": "Corporate office, not a tourist spot", "ja": "観光向けではない企業拠点です" } }
-    ]
+    ],
+    "coordinate": "35.6931184, 139.7633149"
   },
   {
     "id": "nintendo-fukuoka",
@@ -245,7 +251,8 @@
       { "icon": "bag", "text": { "en": "Fukuoka-exclusive merchandise not sold at other Nintendo stores", "ja": "他の任天堂ストアでは買えない福岡限定グッズがあります" } },
       { "icon": "clock", "text": { "en": "Numbered tickets required during busy periods", "ja": "混雑時は整理券が必要です" } },
       { "icon": "tram", "text": { "en": "Directly connected to Hakata Station", "ja": "博多駅に直結しています" } }
-    ]
+    ],
+    "coordinate": "33.5893162, 130.4206005"
   },
   {
     "id": "pokemon-center-shibuya",
@@ -270,7 +277,8 @@
       { "icon": "paintbrush", "text": { "en": "Features graffiti-style Pokémon artwork unique to this location", "ja": "この店舗限定のグラフィティ風ポケモンアートがあります" } },
       { "icon": "bag", "text": { "en": "Offers Shibuya-exclusive merchandise", "ja": "渋谷限定グッズを販売しています" } },
       { "icon": "building.2", "text": { "en": "Located on the 6th floor of Shibuya PARCO", "ja": "渋谷PARCOの6階にあります" } }
-    ]
+    ],
+    "coordinate": "35.6618727, 139.6984094"
   },
   {
     "id": "1-up-factory-orlando",
@@ -300,7 +308,8 @@
       { "icon": "bag", "text": { "en": "This is the main shopping location for SUPER NINTENDO WORLD merchandise in Epic Universe", "ja": "Epic UniverseのSUPER NINTENDO WORLDグッズを扱うメインショップです" } },
       { "icon": "tshirt", "text": { "en": "Sells souvenirs and wearable merch from the Mushroom Kingdom", "ja": "キノコ王国をテーマにしたおみやげやアパレルを販売しています" } },
       { "icon": "ticket", "text": { "en": "Valid admission to Universal Epic Universe is required to visit", "ja": "利用にはUniversal Epic Universeの有効な入場券が必要です" } }
-    ]
+    ],
+    "coordinate": "28.4391646, -81.4482462"
   },
   {
     "id": "nintendo-of-australia",
@@ -323,7 +332,8 @@
     "goodToKnow": [
       { "icon": "person.badge.key", "text": { "en": "Only accessible to employees", "ja": "従業員のみ立ち入り可能" } },
       { "icon": "bag", "text": { "en": "No retail store on site", "ja": "現地での販売はありません" } }
-    ]
+    ],
+    "coordinate": "-37.901944, 145.233649"
   },
   {
     "id": "pokemon-center-tokyo-bay",
@@ -358,7 +368,8 @@
       { "icon": "sparkles", "text": { "en": "The store was fully renewed in 2024 with a redesigned interior", "ja": "2024年に店内デザインを刷新して全面リニューアルしました" } },
       { "icon": "rectangle.stack.badge.play", "text": { "en": "Includes a Pokémon Card Station area", "ja": "ポケモンカードステーションのエリアがあります" } },
       { "icon": "calendar", "text": { "en": "Store holidays follow LaLaport TOKYO-BAY’s closure schedule", "ja": "休業日はららぽーとTOKYO-BAYの休館日に準じます" } }
-    ]
+    ],
+    "coordinate": "35.6866741, 139.9886293"
   },
   {
     "id": "pokemon-center-nagoya",
@@ -395,7 +406,8 @@
       { "icon": "rectangle.stack.badge.play", "text": { "en": "Includes a Pokémon Card Station", "ja": "ポケモンカードステーション併設" } },
       { "icon": "ticket", "text": { "en": "Timed entry may be used on busy days", "ja": "混雑時は整理券対応の場合あり" } },
       { "icon": "calendar", "text": { "en": "Closed days follow Nagoya PARCO", "ja": "休業日は名古屋PARCOに準ずる" } }
-    ]
+    ],
+    "coordinate": "35.163547, 136.9080108"
   },
   {
     "id": "nintendo-of-america",
@@ -418,7 +430,8 @@
     "goodToKnow": [
       { "icon": "person.badge.key", "text": { "en": "Only accessible to employees", "ja": "従業員のみ立ち入り可能" } },
       { "icon": "bag", "text": { "en": "No retail store on site", "ja": "現地での販売はありません" } }
-    ]
+    ],
+    "coordinate": "47.6510574, -122.1392262"
   },
   {
     "id": "pokemon-center-okinawa",
@@ -453,7 +466,8 @@
       { "icon": "sparkles", "text": { "en": "The store was created as a full Pokémon Center replacing the former Pokémon Store at the same mall", "ja": "同じイオンモール内にあったポケモンストアから生まれ変わった店舗です" } },
       { "icon": "paintbrush", "text": { "en": "The location is known for Okinawa-themed exclusive goods, including items inspired by local traditional culture", "ja": "沖縄の伝統文化を取り入れた店舗限定グッズで知られています" } },
       { "icon": "rectangle.stack.badge.play", "text": { "en": "Includes areas for Pokémon video content and Pokémon Card Game experiences", "ja": "ポケモンの映像を楽しめるエリアや、ポケモンカードゲーム関連の体験エリアがあります" } }
-    ]
+    ],
+    "coordinate": "26.3141849, 127.7963698"
   },
   {
     "id": "pokemon-cafe-tokyo",
@@ -479,7 +493,8 @@
       { "icon": "fork.knife", "text": { "en": "Food service is temporarily suspended", "ja": "現在は営業休止中です" } },
       { "icon": "arrow.triangle.2.circlepath", "text": { "en": "Check official reopening updates", "ja": "再開情報は公式で確認" } }
     ],
-    "tags": ["temporarily-closed"]
+    "tags": ["temporarily-closed"],
+    "coordinate": "35.680412, 139.7744408"
   },
   {
     "id": "pokemon-center-tokyo-dx",
@@ -513,7 +528,8 @@
       { "icon": "fork.knife", "text": { "en": "Next to Pokémon Cafe", "ja": "ポケモンカフェ併設" } },
       { "icon": "calendar", "text": { "en": "Cafe usually needs reservations", "ja": "カフェは予約推奨です" } },
       { "icon": "calendar", "text": { "en": "Closed days follow the facility", "ja": "休業日は施設に準ずる" } }
-    ]
+    ],
+    "coordinate": "35.680462, 139.7744373"
   },
   {
     "id": "justdan-nintendo-authorized-merchandise-flagship-center-a11",
@@ -543,7 +559,8 @@
       { "icon": "building.columns", "text": { "en": "Inside Xinyi A11 3F", "ja": "信義A11の3階です" } },
       { "icon": "bag", "text": { "en": "Sells games and character goods", "ja": "ゲームとキャラグッズを販売" } },
       { "icon": "calendar", "text": { "en": "Hours may follow the department store", "ja": "営業時間は施設に準ずる場合あり" } }
-    ]
+    ],
+    "coordinate": "25.036233, 121.56724"
   },
   {
     "id": "pokemon-center-singapore",
@@ -572,7 +589,8 @@
       { "icon": "airplane", "text": { "en": "A pop-up store is being operated at Jewel Changi Airport during the closure period", "ja": "休業期間中はJewel Changi Airport内でポップアップストアが営業しています" } },
       { "icon": "bag", "text": { "en": "It was the first permanent Pokémon Center established outside Japan", "ja": "日本国外で初めて開設された常設ポケモンセンターです" } }
     ],
-    "tags": ["temporarily-closed"]
+    "tags": ["temporarily-closed"],
+    "coordinate": "1.3605633, 103.9901831"
   },
   {
     "id": "mario-motors-orlando",
@@ -599,7 +617,8 @@
       { "icon": "ticket", "text": { "en": "Epic Universe ticket required", "ja": "Epic Universeの入場券が必要" } },
       { "icon": "flag.checkered", "text": { "en": "Mario Kart themed merchandise", "ja": "マリオカートグッズ中心" } },
       { "icon": "bag", "text": { "en": "Inside SUPER NINTENDO WORLD", "ja": "SUPER NINTENDO WORLD内です" } }
-    ]
+    ],
+    "coordinate": "28.43886, -81.4480457"
   },
   {
     "id": "nintendo-uji-service-center",
@@ -624,7 +643,8 @@
       { "icon": "shippingbox", "text": { "en": "Repair items are sent here", "ja": "修理品の送付先です" } },
       { "icon": "hand.raised", "text": { "en": "No in-person repair drop-off", "ja": "持ち込み修理は非対応です" } },
       { "icon": "person.badge.key", "text": { "en": "Not a public retail location", "ja": "一般向け店舗ではありません" } }
-    ]
+    ],
+    "coordinate": "34.895728, 135.7970984"
   },
   {
     "id": "kirby-cafe-petit-osaka",
@@ -651,7 +671,8 @@
       { "icon": "takeoutbag.and.cup.and.straw", "text": { "en": "Takeout shop with no dine-in", "ja": "テイクアウト専門です" } },
       { "icon": "building.columns", "text": { "en": "Inside Tennoji Mio Main Building", "ja": "天王寺ミオ本館内です" } },
       { "icon": "calendar", "text": { "en": "Closed days follow the facility", "ja": "休業日は施設に準ずる" } }
-    ]
+    ],
+    "coordinate": "34.6467667, 135.5145447"
   },
   {
     "id": "kirby-cafe-petit-tokyo",
@@ -678,7 +699,8 @@
       { "icon": "takeoutbag.and.cup.and.straw", "text": { "en": "Takeout shop with no dine-in", "ja": "テイクアウト専門です" } },
       { "icon": "train.side.front.car", "text": { "en": "Inside Tokyo Character Street", "ja": "東京キャラクターストリート内です" } },
       { "icon": "yensign.circle", "text": { "en": "Tax-free shopping available", "ja": "免税対応あり" } }
-    ]
+    ],
+    "coordinate": "35.6815443, 139.7686887"
   },
   {
     "id": "pokemon-center-hiroshima",
@@ -714,7 +736,8 @@
       { "icon": "rectangle.stack.badge.play", "text": { "en": "Pokémon Card Station available", "ja": "ポケモンカードステーション併設" } },
       { "icon": "ticket", "text": { "en": "Timed entry may be used on busy days", "ja": "混雑時は整理券対応の場合あり" } },
       { "icon": "train.side.front.car", "text": { "en": "Next to Hiroshima Station shinkansen gate", "ja": "広島駅新幹線改札横です" } }
-    ]
+    ],
+    "coordinate": "34.3980674, 132.4761833"
   },
   {
     "id": "pokemon-center-osaka",
@@ -745,7 +768,8 @@
       { "icon": "rectangle.stack.badge.play", "text": { "en": "Pokémon Card Station available", "ja": "ポケモンカードステーション併設" } },
       { "icon": "figure.walk", "text": { "en": "About 5 min from JR Osaka Station", "ja": "JR大阪駅から徒歩約5分" } },
       { "icon": "calendar", "text": { "en": "Closed days follow the facility", "ja": "休業日は施設に準ずる" } }
-    ]
+    ],
+    "coordinate": "34.7018284, 135.4965309"
   },
   {
     "id": "pokemon-center-osaka-dx",
@@ -780,7 +804,8 @@
       { "icon": "fork.knife", "text": { "en": "Directly connected to Pokémon Cafe", "ja": "ポケモンカフェと直結" } },
       { "icon": "building.columns", "text": { "en": "Direct access from Exit 4", "ja": "4番出口から地下道直結" } },
       { "icon": "calendar", "text": { "en": "Closed days follow the facility", "ja": "休業日は施設に準ずる" } }
-    ]
+    ],
+    "coordinate": "34.6731426, 135.5009569"
   },
   {
     "id": "lucky-park-yanaizu",
@@ -804,7 +829,8 @@
       { "icon": "tree.fill", "text": { "en": "Free public park", "ja": "無料で入れる公園です" } },
       { "icon": "car", "text": { "en": "Easy to reach by car", "ja": "車で行きやすい場所です" } },
       { "icon": "sun.max", "text": { "en": "Best visited in daytime", "ja": "昼間の訪問がおすすめ" } }
-    ]
+    ],
+    "coordinate": "37.5283618, 139.722898"
   },
   {
     "id": "pokemon-cafe-osaka",
@@ -834,7 +860,8 @@
       { "icon": "calendar", "text": { "en": "Advance reservation required", "ja": "事前予約制です" } },
       { "icon": "clock", "text": { "en": "Last order is 7:00 PM", "ja": "ラストオーダーは19:00" } },
       { "icon": "building.columns", "text": { "en": "Direct access from Exit 4", "ja": "4番出口から地下道直結" } }
-    ]
+    ],
+    "coordinate": "34.6730822, 135.5007148"
   },
   {
     "id": "nintendo-hong-kong-office",
@@ -855,7 +882,8 @@
       { "icon": "person.badge.key", "text": { "en": "Employee access only", "ja": "従業員のみ立ち入り可能" } },
       { "icon": "bag", "text": { "en": "No retail store on site", "ja": "現地での販売はありません" } },
       { "icon": "building.2", "text": { "en": "Corporate office location", "ja": "企業オフィス拠点です" } }
-    ]
+    ],
+    "coordinate": "22.3038165, 114.1834055"
   },
   {
     "id": "pokemon-store-gotemba",
@@ -885,7 +913,8 @@
       { "icon": "car", "text": { "en": "About 2 km from Gotemba IC", "ja": "御殿場ICから約2km" } },
       { "icon": "bus", "text": { "en": "Free shuttle from Gotemba Station", "ja": "御殿場駅から無料シャトルあり" } },
       { "icon": "calendar", "text": { "en": "Closed days follow the outlet", "ja": "休業日は施設に準ずる" } }
-    ]
+    ],
+    "coordinate": "35.3069305, 138.9671803"
   },
   {
     "id": "pokemon-center-kanazawa",
@@ -918,7 +947,8 @@
       { "icon": "figure.walk", "text": { "en": "About 1 min from Kanazawa Station", "ja": "金沢駅から徒歩約1分" } },
       { "icon": "ticket", "text": { "en": "Timed entry may be used on busy days", "ja": "混雑時は整理券対応の場合あり" } },
       { "icon": "calendar", "text": { "en": "Closed days follow Kanazawa FORUS", "ja": "休業日は金沢フォーラスに準ずる" } }
-    ]
+    ],
+    "coordinate": "36.5793514, 136.649815"
   },
   {
     "id": "1-up-factory-japan",
@@ -948,7 +978,8 @@
       { "icon": "ticket", "text": { "en": "USJ admission required", "ja": "USJ入場券が必要です" } },
       { "icon": "bag", "text": { "en": "Main shop for Nintendo souvenirs", "ja": "任天堂みやげのメインショップ" } },
       { "icon": "timer", "text": { "en": "Area entry may be required", "ja": "エリア入場が必要な場合あり" } }
-    ]
+    ],
+    "coordinate": "34.6681814, 135.4307122"
   },
   {
     "id": "pokemon-center-yokohama-satellite",
@@ -978,7 +1009,8 @@
       { "icon": "bag", "text": { "en": "Selection is smaller than main store", "ja": "本店より品ぞろえ少なめ" } },
       { "icon": "ticket", "text": { "en": "Timed entry used on busy days", "ja": "混雑時は整理券対応あり" } },
       { "icon": "gift", "text": { "en": "Some services are not available here", "ja": "一部サービスは対象外です" } }
-    ]
+    ],
+    "coordinate": "35.4652061, 139.620874"
   },
   {
     "id": "pokemon-center-taipei",
@@ -1016,7 +1048,8 @@
       { "icon": "rectangle.stack.badge.play", "text": { "en": "Includes a dedicated Pokémon Trading Card Game area", "ja": "ポケモンカードゲームの専用エリアがあります" } },
       { "icon": "play.rectangle", "text": { "en": "Has a video presentation area for the latest Pokémon information", "ja": "最新のポケモン情報を紹介する映像エリアがあります" } },
       { "icon": "bag", "text": { "en": "Sells Taipei-exclusive merchandise created for this location", "ja": "この店舗のために作られた台北限定グッズがあります" } }
-    ]
+    ],
+    "coordinate": "25.0385843, 121.5667596"
   },
   {
     "id": "pokemon-store-outlet-kisarazu",
@@ -1046,7 +1079,8 @@
       { "icon": "tag", "text": { "en": "Located in an outlet mall and carries a casual selection centered on Pokémon goods", "ja": "アウトレット施設内にあり、ポケモングッズを中心とした気軽な品ぞろえです" } },
       { "icon": "calendar", "text": { "en": "Store holidays follow the closure schedule of MITSUI OUTLET PARK KISARAZU", "ja": "休業日は三井アウトレットパーク 木更津の休館日に準じます" } },
       { "icon": "car", "text": { "en": "Easy to access by car via Kisarazu Kaneda IC, which suits outlet visitors well", "ja": "木更津金田ICから近く、車で立ち寄りやすい立地です" } }
-    ]
+    ],
+    "coordinate": "35.4353419, 139.9357749"
   },
   {
     "id": "super-nintendo-world-california",
@@ -1076,7 +1110,8 @@
       { "icon": "ticket", "text": { "en": "Early Access sold separately", "ja": "アーリー入場は別チケット制" } },
       { "icon": "fork.knife", "text": { "en": "Toadstool Cafe needs reservations", "ja": "Toadstool Cafeは予約制" } },
       { "icon": "hand.tap", "text": { "en": "Power-Up Band unlocks activities", "ja": "バンドで体験要素が増えます" } }
-    ]
+    ],
+    "coordinate": "34.1411663, -118.3578908"
   },
   {
     "id": "pokemon-store-tokyo-station",
@@ -1112,7 +1147,8 @@
       { "icon": "train.side.front.car", "text": { "en": "Sells Tokyo Station-exclusive merchandise themed around Stationmaster Pikachu", "ja": "駅長ピカチュウをテーマにした東京駅限定グッズがあります" } },
       { "icon": "sparkles", "text": { "en": "The store was expanded and renewed in 2024", "ja": "2024年に売り場を広げてリニューアルしました" } },
       { "icon": "calendar", "text": { "en": "Store holidays follow the facility’s closure schedule", "ja": "休業日は入居施設の休業日に準じます" } }
-    ]
+    ],
+    "coordinate": "35.6826224, 139.7688865"
   },
   {
     "id": "lucky-park-namie",
@@ -1139,7 +1175,8 @@
       { "icon": "tree.fill", "text": { "en": "Free public park", "ja": "無料で入れる公園です" } },
       { "icon": "car", "text": { "en": "Easy to reach by car", "ja": "車で行きやすい場所です" } },
       { "icon": "sun.max", "text": { "en": "Best visited in daytime", "ja": "昼間の訪問がおすすめ" } }
-    ]
+    ],
+    "coordinate": "37.4963016, 140.9994117"
   },
   {
     "id": "pokemon-center-kagawa",
@@ -1169,7 +1206,8 @@
       { "icon": "rectangle.stack.badge.play", "text": { "en": "Pokémon Card Station available", "ja": "ポケモンカードステーション併設" } },
       { "icon": "figure.walk", "text": { "en": "About 7 min from Kawaramachi Station", "ja": "瓦町駅から徒歩約7分" } },
       { "icon": "calendar", "text": { "en": "Closed days follow the facility", "ja": "休業日は施設に準ずる" } }
-    ]
+    ],
+    "coordinate": "34.3420977, 134.0499595"
   },
   {
     "id": "nintendo-super-star-store-orlando",
@@ -1196,7 +1234,8 @@
       { "icon": "ticket", "text": { "en": "No park ticket needed", "ja": "パーク入場券なしで利用可能" } },
       { "icon": "bag", "text": { "en": "SNW goods sold here", "ja": "SNWグッズを販売しています" } },
       { "icon": "gamecontroller", "text": { "en": "Power-Up Bands available here", "ja": "パワーアップバンド取扱あり" } }
-    ]
+    ],
+    "coordinate": "28.47333, -81.465424"
   },
   {
     "id": "nintendo-authorized-store-by-synnex-siam-paragon",
@@ -1223,7 +1262,8 @@
       { "icon": "building.columns", "text": { "en": "Inside Siam Paragon", "ja": "Siam Paragon内です" } },
       { "icon": "bag", "text": { "en": "Sells games and character goods", "ja": "ゲームとキャラグッズを販売" } },
       { "icon": "calendar", "text": { "en": "Hours may follow the mall", "ja": "営業時間は施設に準ずる場合あり" } }
-    ]
+    ],
+    "coordinate": "13.7458956, 100.5348741"
   },
   {
     "id": "pokemon-center-yokohama",
@@ -1256,7 +1296,8 @@
       { "icon": "ticket", "text": { "en": "Timed entry tickets are sometimes used on busy days", "ja": "混雑日には時間帯別の入場整理券が使われることがあります" } },
       { "icon": "bag", "text": { "en": "Sells Yokohama-exclusive merchandise", "ja": "横浜限定グッズがあります" } },
       { "icon": "calendar", "text": { "en": "Store holidays follow the facility’s closure schedule", "ja": "休業日は入居施設の休業日に準じます" } }
-    ]
+    ],
+    "coordinate": "35.4644176, 139.624818"
   },
   {
     "id": "pikachu-sweets-ikebukuro",
@@ -1279,7 +1320,8 @@
     "goodToKnow": [
       { "icon": "calendar", "text": { "en": "Check official status before visiting", "ja": "来店前に営業状況を要確認" } }
     ],
-    "tags": ["temporarily-closed"]
+    "tags": ["temporarily-closed"],
+    "coordinate": "35.7295772, 139.7190099"
   },
   {
     "id": "nintendo-development-center",
@@ -1300,7 +1342,8 @@
       { "icon": "person.badge.key", "text": { "en": "Employee access only", "ja": "従業員のみ立ち入り可能" } },
       { "icon": "bag", "text": { "en": "No retail store on site", "ja": "現地での販売はありません" } },
       { "icon": "figure.walk", "text": { "en": "About 8 min from Jujo Station", "ja": "十条駅から徒歩約8分" } }
-    ]
+    ],
+    "coordinate": "34.9725026, 135.7545805"
   },
   {
     "id": "nintendo-sales-kyoto-distribution-center",
@@ -1321,7 +1364,8 @@
       { "icon": "person.badge.key", "text": { "en": "Employee access only", "ja": "従業員のみ立ち入り可能" } },
       { "icon": "shippingbox", "text": { "en": "Logistics facility, not a store", "ja": "販売店ではなく物流拠点です" } },
       { "icon": "hand.raised", "text": { "en": "Not open to public visits", "ja": "一般見学はできません" } }
-    ]
+    ],
+    "coordinate": "34.8737872, 135.7640353"
   },
   {
     "id": "nintendo-of-europe",
@@ -1345,7 +1389,8 @@
       { "icon": "person.badge.key", "text": { "en": "Employee access only", "ja": "従業員のみ立ち入り可能" } },
       { "icon": "bag", "text": { "en": "No retail store on site", "ja": "現地での販売はありません" } },
       { "icon": "building.2", "text": { "en": "European headquarters location", "ja": "欧州本部の拠点です" } }
-    ]
+    ],
+    "coordinate": "50.0839443, 8.6206603"
   },
   {
     "id": "nintendo-kyoto-research-center",
@@ -1370,7 +1415,8 @@
       { "icon": "person.badge.key", "text": { "en": "Employee access only", "ja": "従業員のみ立ち入り可能" } },
       { "icon": "bag", "text": { "en": "No retail store on site", "ja": "現地での販売はありません" } },
       { "icon": "camera", "text": { "en": "Best viewed from outside only", "ja": "外観見学が基本です" } }
-    ]
+    ],
+    "coordinate": "34.9751795, 135.7695204"
   },
   {
     "id": "geodude-park-kuji",
@@ -1394,7 +1440,8 @@
       { "icon": "tree.fill", "text": { "en": "Free to enter the park", "ja": "公園は無料で利用できます" } },
       { "icon": "car", "text": { "en": "Right by Roadside Station Iwate Kita-Sanriku", "ja": "道の駅いわて北三陸に隣接" } },
       { "icon": "camera", "text": { "en": "Poké Lid and photo spots nearby", "ja": "近くにポケふたや撮影スポットあり" } }
-    ]
+    ],
+    "coordinate": "40.2260475, 141.7816852"
   },
   {
     "id": "nsew-the-wai",
@@ -1424,7 +1471,8 @@
       { "icon": "building.columns", "text": { "en": "Inside The Wai 3F Shop 314", "ja": "The Wai 3階314号店です" } },
       { "icon": "gamecontroller", "text": { "en": "Nintendo Switch products sold here", "ja": "Nintendo Switch製品を販売" } },
       { "icon": "camera", "text": { "en": "Nintendo photo spots in store", "ja": "店内に撮影スポットあり" } }
-    ]
+    ],
+    "coordinate": "22.373104, 114.179762"
   },
   {
     "id": "pokemon-center-fukuoka",
@@ -1463,7 +1511,8 @@
       { "icon": "rectangle.stack.badge.play", "text": { "en": "Pokémon Card Station available", "ja": "ポケモンカードステーション併設" } },
       { "icon": "figure.walk", "text": { "en": "About 3 min from Hakata Station", "ja": "博多駅から徒歩約3分" } },
       { "icon": "calendar", "text": { "en": "Closed days follow the facility", "ja": "休業日は施設に準ずる" } }
-    ]
+    ],
+    "coordinate": "33.5888094, 130.4194322"
   },
   {
     "id": "marufukuro",
@@ -1489,7 +1538,8 @@
       { "icon": "bed.double", "text": { "en": "Main areas are for guests", "ja": "主要エリアは宿泊者向け" } },
       { "icon": "fork.knife", "text": { "en": "Restaurant reservations available", "ja": "レストランは予約利用可" } },
       { "icon": "book", "text": { "en": "Library access may be limited", "ja": "ライブラリー利用は制限あり" } }
-    ]
+    ],
+    "coordinate": "34.9917753, 135.7662705"
   },
   {
     "id": "nintendo-super-star-store-orlando-in-park",
@@ -1519,7 +1569,8 @@
       { "icon": "ticket", "text": { "en": "Epic Universe ticket required", "ja": "Epic Universeの入場券が必要" } },
       { "icon": "bag", "text": { "en": "SNW goods sold outside the land", "ja": "エリア外でもSNWグッズ購入可" } },
       { "icon": "sparkles", "text": { "en": "Located in Celestial Park", "ja": "Celestial Park内にあります" } }
-    ]
+    ],
+    "coordinate": "28.4396811, -81.4480942"
   },
   {
     "id": "kirby-cafe-the-store-tokyo",
@@ -1545,7 +1596,8 @@
     "goodToKnow": [
       { "icon": "bag", "text": { "en": "Kirby Café exclusive goods sold here", "ja": "カービィカフェ限定グッズあり" } },
       { "icon": "yensign.circle", "text": { "en": "Tax-free shopping available", "ja": "免税対応あり" } }
-    ]
+    ],
+    "coordinate": "35.71027, 139.812261"
   },
   {
     "id": "nsew-kai-tak",
@@ -1575,7 +1627,8 @@
       { "icon": "building.columns", "text": { "en": "Inside Kai Tak Mall 2, L1", "ja": "啟德零售館2の1階です" } },
       { "icon": "gamecontroller", "text": { "en": "Nintendo Switch products sold here", "ja": "Nintendo Switch製品を販売" } },
       { "icon": "calendar", "text": { "en": "Open daily until 8:30 PM", "ja": "毎日20:30まで営業" } }
-    ]
+    ],
+    "coordinate": "22.3240557, 114.1961878"
   },
   {
     "id": "super-nintendo-world-store-citywalk-california",
@@ -1602,7 +1655,8 @@
       { "icon": "ticket", "text": { "en": "No park ticket needed", "ja": "パーク入場券なしで利用可能" } },
       { "icon": "bag", "text": { "en": "SNW goods sold here", "ja": "SNWグッズを販売しています" } },
       { "icon": "gamecontroller", "text": { "en": "Power-Up Bands available here", "ja": "パワーアップバンド取扱あり" } }
-    ]
+    ],
+    "coordinate": "34.136598, -118.352926"
   },
   {
     "id": "nsew-k11-musea",
@@ -1629,7 +1683,8 @@
       { "icon": "building.columns", "text": { "en": "Inside K11 MUSEA B2 B211", "ja": "K11 MUSEA地下2階B211です" } },
       { "icon": "gamecontroller", "text": { "en": "Nintendo Switch products sold here", "ja": "Nintendo Switch製品を販売" } },
       { "icon": "camera", "text": { "en": "In-store demo zone available", "ja": "店内に体験コーナーあり" } }
-    ]
+    ],
+    "coordinate": "22.2944219, 114.1739828"
   },
   {
     "id": "funkys-fly-n-buy-orlando",
@@ -1656,7 +1711,8 @@
       { "icon": "ticket", "text": { "en": "Epic Universe ticket required", "ja": "Epic Universeの入場券が必要" } },
       { "icon": "bag", "text": { "en": "Donkey Kong goods sold here", "ja": "ドンキーコンググッズ中心" } },
       { "icon": "leaf", "text": { "en": "Inside Donkey Kong Country", "ja": "ドンキーコングエリア内です" } }
-    ]
+    ],
+    "coordinate": "28.4387822, -81.4488358"
   },
   {
     "id": "sand-park",
@@ -1690,7 +1746,8 @@
       { "icon": "ticket", "text": { "en": "Park admission ticket required", "ja": "入園料が必要です" } },
       { "icon": "calendar", "text": { "en": "Closed on 2nd Wed each month", "ja": "毎月第2水曜は休園" } },
       { "icon": "clock", "text": { "en": "Last entry is 4:30 PM", "ja": "最終入園は16:30です" } }
-    ]
+    ],
+    "coordinate": "35.5311087, 134.2244983"
   },
   {
     "id": "kirby-cafe-tokyo",
@@ -1717,7 +1774,8 @@
       { "icon": "calendar", "text": { "en": "Reservations are strongly recommended", "ja": "事前予約推奨です" } },
       { "icon": "clock", "text": { "en": "Last order is 9:00 PM", "ja": "ラストオーダーは21:00" } },
       { "icon": "music.note", "text": { "en": "Jazz Time starts around 6:00 PM", "ja": "18時頃からジャズタイム実施" } }
-    ]
+    ],
+    "coordinate": "35.7102716, 139.8118615"
   },
   {
     "id": "nintendo-israel-tel-aviv",
@@ -1748,7 +1806,8 @@
       { "icon": "building.columns", "text": { "en": "Inside Dizengoff Center A 3F", "ja": "ディゼンゴフセンターA館3階です" } },
       { "icon": "gamecontroller", "text": { "en": "Demo stations available in store", "ja": "店内に試遊台があります" } },
       { "icon": "person.3", "text": { "en": "Events and tournaments held here", "ja": "イベント開催店舗です" } }
-    ]
+    ],
+    "coordinate": "32.0756293, 34.7745663"
   },
   {
     "id": "1-up-factory-california",
@@ -1778,7 +1837,8 @@
       { "icon": "ticket", "text": { "en": "USH admission required", "ja": "USH入場券が必要です" } },
       { "icon": "bag", "text": { "en": "Main shop for Nintendo souvenirs", "ja": "任天堂みやげのメインショップ" } },
       { "icon": "timer", "text": { "en": "Land entry may be controlled", "ja": "エリア入場制限の場合あり" } }
-    ]
+    ],
+    "coordinate": "34.1358109, -118.3529992"
   },
   {
     "id": "pokemon-center-tohoku",
@@ -1814,7 +1874,8 @@
     "goodToKnow": [
       { "icon": "rectangle.stack.badge.play", "text": { "en": "Includes a Pokémon Card Station", "ja": "ポケモンカードステーション併設" } },
       { "icon": "ticket", "text": { "en": "Timed entry may be used on busy days", "ja": "混雑時は入場制限の場合あり" } }
-    ]
+    ],
+    "coordinate": "38.2620528, 140.8816096"
   },
   {
     "id": "pokemon-center-kyoto",
@@ -1845,7 +1906,8 @@
       { "icon": "building.columns", "text": { "en": "Direct access from Exit 26", "ja": "26番出口から直結" } },
       { "icon": "ticket", "text": { "en": "Timed entry may be used on busy days", "ja": "混雑時は整理券対応の場合あり" } },
       { "icon": "calendar", "text": { "en": "Closed days follow the facility", "ja": "休業日は施設に準ずる" } }
-    ]
+    ],
+    "coordinate": "35.0030342, 135.758459"
   },
   {
     "id": "super-nintendo-world-orlando",
@@ -1875,7 +1937,8 @@
       { "icon": "ticket", "text": { "en": "Epic Universe ticket required", "ja": "Epic Universeの入場券が必要" } },
       { "icon": "hand.tap", "text": { "en": "Power-Up Band unlocks activities", "ja": "バンドで体験要素が増えます" } },
       { "icon": "fork.knife", "text": { "en": "Toadstool Cafe is very popular", "ja": "Toadstool Cafeは特に人気です" } }
-    ]
+    ],
+    "coordinate": "28.4396885, -81.4478058"
   },
   {
     "id": "funkys-fly-n-buy-japan",
@@ -1905,7 +1968,8 @@
       { "icon": "ticket", "text": { "en": "USJ admission required", "ja": "USJ入場券が必要です" } },
       { "icon": "bag", "text": { "en": "Donkey Kong goods sold here", "ja": "ドンキーコンググッズ中心" } },
       { "icon": "timer", "text": { "en": "Area entry may be required", "ja": "エリア入場が必要な場合あり" } }
-    ]
+    ],
+    "coordinate": "34.6683747, 135.4309478"
   },
   {
     "id": "nintendo-store-sandton-city",
@@ -1940,7 +2004,8 @@
       { "icon": "building.columns", "text": { "en": "Inside Sandton City Level 4", "ja": "Sandton Cityの4階です" } },
       { "icon": "gamecontroller", "text": { "en": "Nintendo Switch products sold here", "ja": "Nintendo Switch製品を販売" } },
       { "icon": "calendar", "text": { "en": "Hours may follow the mall", "ja": "営業時間は施設に準ずる場合あり" } }
-    ]
+    ],
+    "coordinate": "-26.1097965, 28.0530839"
   },
   {
     "id": "kirby-cafe-hakata",
@@ -1967,7 +2032,8 @@
       { "icon": "calendar", "text": { "en": "Reservations are strongly recommended", "ja": "事前予約がおすすめです" } },
       { "icon": "clock", "text": { "en": "Last order is 9:00 PM", "ja": "ラストオーダーは21:00" } },
       { "icon": "bag", "text": { "en": "Goods corner is attached", "ja": "グッズコーナー併設です" } }
-    ]
+    ],
+    "coordinate": "33.5905055, 130.410499"
   },
   {
     "id": "kirby-cafe-the-store-osaka",
@@ -1994,7 +2060,8 @@
       { "icon": "bag", "text": { "en": "Kirby Café exclusive goods sold here", "ja": "カービィカフェ限定グッズあり" } },
       { "icon": "cup.and.saucer", "text": { "en": "Some takeout items available", "ja": "一部テイクアウト商品あり" } },
       { "icon": "building.columns", "text": { "en": "Inside Daimaru Shinsaibashi 9F", "ja": "大丸心斎橋店本館9階" } }
-    ]
+    ],
+    "coordinate": "34.6731854, 135.5010498"
   },
   {
     "id": "kirby-cafe-osaka",
@@ -2024,7 +2091,8 @@
       { "icon": "calendar", "text": { "en": "Reservations are strongly recommended, and walk-ins are only accepted if seats are available", "ja": "予約優先で、当日案内は空席がある場合のみです" } },
       { "icon": "clock", "text": { "en": "Last order is at 7:00 PM", "ja": "ラストオーダーは19:00です" } },
       { "icon": "music.note", "text": { "en": "Kirby Café de Jazz Time is held around 4:30 PM depending on store conditions", "ja": "店内の状況により16:30頃から「Kirby Café de Jazz Time」が行われます" } }
-    ]
+    ],
+    "coordinate": "34.6731426, 135.5009569"
   },
   {
     "id": "pokemon-store-narita-airport",
@@ -2055,7 +2123,8 @@
       { "icon": "airplane", "text": { "en": "Sells Narita Airport limited items such as Pilot Pikachu and CA Pikachu merchandise", "ja": "パイロットピカチュウやCAピカチュウなど、成田空港限定グッズがあります" } },
       { "icon": "checkmark.shield", "text": { "en": "Located before the security checkpoint, so you can visit without entering the departure area", "ja": "保安検査前エリアにあるため、出発エリアに入らなくても利用できます" } },
       { "icon": "sparkles", "text": { "en": "The current store is larger than the previous location after its 2025 renewal", "ja": "2025年のリニューアルで、以前の店舗より広くなっています" } }
-    ]
+    ],
+    "coordinate": "35.7634555, 140.3846526"
   },
   {
     "id": "mario-motors-japan",
@@ -2085,7 +2154,8 @@
       { "icon": "ticket", "text": { "en": "USJ admission required", "ja": "USJ入場券が必要です" } },
       { "icon": "flag.checkered", "text": { "en": "Mario Kart themed merchandise", "ja": "マリオカートグッズ中心" } },
       { "icon": "timer", "text": { "en": "Area entry may be required", "ja": "エリア入場が必要な場合あり" } }
-    ]
+    ],
+    "coordinate": "34.6680614, 135.4301673"
   },
   {
     "id": "nintendo-of-canada-ltd",
@@ -2105,7 +2175,8 @@
     "goodToKnow": [
       { "icon": "person.badge.key", "text": { "en": "Only accessible to employees", "ja": "従業員のみ立ち入り可能" } },
       { "icon": "bag", "text": { "en": "No retail store on site", "ja": "現地での販売はありません" } }
-    ]
+    ],
+    "coordinate": "49.2654338, -123.0054285"
   },
   {
     "id": "lbuy-nintendo-authorized-store-moko",
@@ -2139,7 +2210,8 @@
       { "icon": "building.columns", "text": { "en": "Inside MOKO L4 Shop 426", "ja": "MOKO 4階 426号店です" } },
       { "icon": "gamecontroller", "text": { "en": "Nintendo Switch 2 sold here", "ja": "Nintendo Switch 2取扱店です" } },
       { "icon": "calendar", "text": { "en": "Holiday hours differ from weekdays", "ja": "祝日は営業時間が異なります" } }
-    ]
+    ],
+    "coordinate": "22.323274, 114.1727494"
   },
   {
     "id": "pokemon-center-sapporo",
@@ -2170,7 +2242,8 @@
       { "icon": "snowflake", "text": { "en": "Carries Hokkaido-themed exclusive merchandise", "ja": "北海道をテーマにした限定グッズがあります" } },
       { "icon": "sparkles", "text": { "en": "The 2016 renewal expanded the store space and refreshed its logo", "ja": "2016年のリニューアルで売り場が拡大し、ロゴも刷新されました" } },
       { "icon": "calendar", "text": { "en": "Store holidays follow the department store’s closure days", "ja": "休業日は入居施設の休業日に準じます" } }
-    ]
+    ],
+    "coordinate": "43.0676964, 141.3492608"
   },
   { 
     "id": "pokemon-center-mega-tokyo",
@@ -2203,7 +2276,8 @@
       { "icon": "fork.knife", "text": { "en": "Pikachu Sweets by Pokémon Cafe is attached", "ja": "「ピカチュウスイーツ by ポケモンカフェ」が併設されています" } },
       { "icon": "rectangle.stack.badge.play", "text": { "en": "Has a dedicated Pokémon Card Station area", "ja": "ポケモンカードステーションの専用エリアがあります" } }
     ],
-    "tags": ["temporarily-closed"]
+    "tags": ["temporarily-closed"],
+    "coordinate": "35.7290254, 139.7190142"
   },
   {
     "id": "nintendo-check-in-narita",
@@ -2233,7 +2307,8 @@
       { "icon": "gamecontroller", "text": { "en": "Playable games change from time to time", "ja": "試遊できるゲームは不定期で入れ替わります" } },
       { "icon": "yensign.circle", "text": { "en": "Admission is free", "ja": "無料で利用できます" } },
       { "icon": "airplane", "text": { "en": "You can use it even if you are not taking a flight", "ja": "飛行機を利用しない場合でも体験できます" } }
-    ]
+    ],
+    "coordinate": "35.7641998, 140.384835"
   },
   {
     "id": "pokemon-center-skytree-town",
@@ -2264,7 +2339,8 @@
       { "icon": "sparkles", "text": { "en": "The store’s theme is centered around the sky and Rayquaza", "ja": "店舗のテーマは空とレックウザです" } },
       { "icon": "bag", "text": { "en": "Sells Tokyo Skytree Town exclusive merchandise", "ja": "東京スカイツリータウン限定グッズがあります" } },
       { "icon": "ticket", "text": { "en": "Timed entry or numbered tickets may be used on busy release days", "ja": "混雑する発売日には整理券や時間指定入店になる場合があります" } }
-    ]
+    ],
+    "coordinate": "35.7101781, 139.8126302"
   },
   {    "id": "pokepark-kanto",
     "appleMapsId": "I236B0F91A90423C2",
@@ -2287,7 +2363,8 @@
       { "icon": "ticket", "text": { "en": "Advance tickets are required, and sales methods differ for Japan residents and overseas visitors", "ja": "事前チケットが必要で、日本在住者と海外からの来場者で購入方法が異なります" } },
       { "icon": "leaf.fill", "text": { "en": "The park features more than 600 Pokémon across its forest and town areas", "ja": "森と街のエリア全体で600匹を超えるポケモンが登場します" } },
       { "icon": "figure.walk", "text": { "en": "Pokémon Forest includes uneven terrain such as slopes, grass paths, and tunnels", "ja": "ポケモンフォレストには坂道、草むら、トンネルなど起伏のあるルートがあります" } }
-    ]
+    ],
+    "coordinate": "35.6260296, 139.5205298"
   },
   {
     "id": "super-nintendo-world-japan",
@@ -2317,7 +2394,8 @@
       { "icon": "ticket", "text": { "en": "Entry may require a timed entry ticket or standby entry depending on crowd levels", "ja": "混雑状況によりエリア入場整理券やスタンバイ入場が必要になる場合があります" } },
       { "icon": "hand.tap", "text": { "en": "Power-Up Bands unlock interactive activities and key challenges throughout the area", "ja": "パワーアップバンドを使うと、エリア内の体験型アクティビティやキー チャレンジを楽しめます" } },
       { "icon": "shippingbox", "text": { "en": "The area includes Donkey Kong Country, which opened as an expansion in 2024", "ja": "2024年に拡張エリアとしてオープンしたドンキーコング・カントリーがあります" } }
-    ]
+    ],
+    "coordinate": "34.668442, 135.430183"
   },
   {
     "id": "nintendo-museum",
@@ -2351,7 +2429,8 @@
       { "icon": "ticket", "text": { "en": "Admission requires advance reservation through a lottery system", "ja": "入館には抽選制の事前予約が必要です" } },
       { "icon": "gamecontroller", "text": { "en": "Guests receive play tickets for interactive exhibits inside the museum", "ja": "館内の体験展示で使えるプレイチケットが配布されます" } },
       { "icon": "bag", "text": { "en": "The shop sells museum-exclusive items and is only for ticket holders", "ja": "ショップでは館内限定グッズを販売しており、入館者のみ利用できます" } }
-    ]
+    ],
+    "coordinate": "34.8927865, 135.7841277"
   },
   {
     "id": "nintendo-head-office-kyoto",
@@ -2375,7 +2454,8 @@
       { "icon": "building.2", "text": { "en": "This is Nintendo’s official corporate headquarters", "ja": "任天堂の公式本社です" } },
       { "icon": "figure.walk", "text": { "en": "About a 7-minute walk from Jujo Station or Kamitobaguchi Station", "ja": "十条駅または上鳥羽口駅から徒歩約7分です" } },
       { "icon": "shippingbox", "text": { "en": "Nintendo’s separate Development Center is nearby in Kyoto", "ja": "任天堂の本社開発棟が京都市内の近くにあります" } }
-    ]
+    ],
+    "coordinate": "34.9697354, 135.7561845"
   },
   {
     "id": "nintendo-popup-store-tokyo",
