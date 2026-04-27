@@ -5,23 +5,11 @@
     "nameOverride": { "en": "Nintendo TOKYO", "ja": "Nintendo TOKYO" },
     "category": "official-nintendo-store",
     "photos": [
-  {
-    "url": "https://store-jp.nintendo.com/mobify/bundle/1781/static/img/nintendoTokyo/img_carousel01.jpg"
-  },
-  {
-    "url": "https://store-jp.nintendo.com/mobify/bundle/1781/static/img/nintendoTokyo/img_carousel02.jpg",
-    "attribution": {
-      "name": "Nintendo"
-    }
-  },
-  {
-    "url": "https://rimage.gnst.jp/livejapan.com/public/article/detail/a/00/03/a0003799/img/basic/a0003799_main.jpg",
-    "attribution": {
-      "name": "Jose G.",
-      "link": "https://instagram.com/instagram"
-    }
-  }
-],
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777296606/IMG_1428_uav2rw.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777296606/IMG_1928_mqzq3w.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777296606/IMG_8085_uqatc8.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777296607/IMG_2218_hnzvpa.jpg" }
+    ],
     "hours": [
       {
       "day": { "en": "Weekdays", "ja": "平日" },
@@ -2546,7 +2534,7 @@
       { "label": { "en": "Closed", "ja": "閉店" }, "date": { "en": "July 25, 2021", "ja": "2021年7月25日" } }
     ],
     "info": { "website": null, "phone": null, "address": { "en": "〒150-8377 東京都渋谷区宇田川町15-1 渋谷PARCO", "ja": "〒150-8377 東京都渋谷区宇田川町15-1 渋谷PARCO" } },
-    "coordinate": "35.661989, 139.698784",
-    "tags": ["event-ended"]
+    "tags": ["event-ended"],
+    "coordinate": "35.661989, 139.698784"
   }
 ]
