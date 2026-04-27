@@ -258,6 +258,20 @@
     "appleMapsId": "I234FD1382561394",
     "nameOverride": { "en": "Pokémon Center SHIBUYA", "ja": "ポケモンセンターシブヤ" },
     "category": "pokemon-center",
+    "photos": [
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777298234/IMG_5016_u4w5mt.jpg"
+      },
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777298235/IMG_5381_w5gk0e.jpg"
+      },
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777298235/IMG_5383_pj1ewh.jpg"
+      },
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777298236/IMG_6737_lkydma.jpg"
+      }
+    ],
     "hours": [
       {
       "day": { "en": "All Days", "ja": "毎日" },
