@@ -157,7 +157,7 @@
     ],
     "hours": [
       {
-      "day": { "en": "Monday - Sunday", "ja": "月曜日〜日曜日" },
+      "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
       "hours": { "en": "8:00 AM - 8:00 PM", "ja": "8:00 - 20:00" }
       }
     ],
@@ -356,11 +356,11 @@
     ],
     "hours": [
       {
-      "day": { "en": "Monday - Friday", "ja": "月曜日〜金曜日" },
+      "day": { "en": "Mon - Fri", "ja": "月曜日〜金曜日" },
       "hours": { "en": "10:00 AM - 8:00 PM", "ja": "10:00 - 20:00" }
       },
       {
-      "day": { "en": "Saturday - Sunday", "ja": "土曜日〜日曜日" },
+      "day": { "en": "Sat - Sun", "ja": "土曜日〜日曜日" },
       "hours": { "en": "10:00 AM - 9:00 PM", "ja": "10:00 - 21:00" }
       }
     ],
@@ -393,7 +393,7 @@
     ],
     "hours": [
       {
-      "day": { "en": "Monday - Sunday", "ja": "月曜日〜日曜日" },
+      "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
       "hours": { "en": "10:00 AM - 8:00 PM", "ja": "10:00 - 20:00" }
       }
     ],
@@ -457,7 +457,7 @@
     ],
     "hours": [
       {
-      "day": { "en": "Monday - Sunday", "ja": "月曜日〜日曜日" },
+      "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
       "hours": { "en": "10:00 AM - 10:00 PM", "ja": "10:00 - 22:00" }
       }
     ],
@@ -735,7 +735,7 @@
     ],
     "hours": [
       {
-      "day": { "en": "Monday - Sunday", "ja": "月曜日〜日曜日" },
+      "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
       "hours": { "en": "10:00 AM - 8:00 PM", "ja": "10:00 - 20:00" }
       }
     ],
@@ -1055,11 +1055,11 @@
     ],
     "hours": [
       {
-      "day": { "en": "Monday - Thursday, Sunday", "ja": "月曜日〜木曜日、日曜日" },
+      "day": { "en": "Mon - Thu, Sun", "ja": "月曜日〜木曜日、日曜日" },
       "hours": { "en": "11:00 AM - 9:30 PM", "ja": "11:00 - 21:30" }
       },
       {
-      "day": { "en": "Friday - Saturday", "ja": "金曜日〜土曜日" },
+      "day": { "en": "Fri - Sat", "ja": "金曜日〜土曜日" },
       "hours": { "en": "11:00 AM - 10:00 PM", "ja": "11:00 - 22:00" }
       }
     ],
@@ -1095,7 +1095,7 @@
     ],
     "hours": [
       {
-      "day": { "en": "Monday - Sunday", "ja": "月曜日〜日曜日" },
+      "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
       "hours": { "en": "10:00 AM - 8:00 PM", "ja": "10:00 - 20:00" }
       }
     ],
@@ -1159,7 +1159,7 @@
     ],
     "hours": [
       {
-      "day": { "en": "Monday - Sunday", "ja": "月曜日〜日曜日" },
+      "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
       "hours": { "en": "10:00 AM - 8:30 PM", "ja": "10:00 - 20:30" }
       }
     ],
@@ -1316,7 +1316,7 @@
     ],
     "hours": [
       {
-      "day": { "en": "Monday - Sunday", "ja": "月曜日〜日曜日" },
+      "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
       "hours": { "en": "10:30 AM - 8:30 PM", "ja": "10:30 - 20:30" }
       }
     ],
@@ -1911,7 +1911,7 @@
     ],
     "hours": [
       {
-      "day": { "en": "Monday - Sunday", "ja": "月曜日〜日曜日" },
+      "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
       "hours": { "en": "10:00 AM - 8:00 PM", "ja": "10:00 - 20:00" }
       }
     ],
@@ -1949,7 +1949,7 @@
     ],
     "hours": [
       {
-      "day": { "en": "Monday - Sunday", "ja": "月曜日〜日曜日" },
+      "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
       "hours": { "en": "10:00 AM - 8:00 PM", "ja": "10:00 - 20:00" }
       }
     ],
@@ -2296,7 +2296,7 @@
     ],
     "hours": [
       {
-      "day": { "en": "Monday - Sunday", "ja": "月曜日〜日曜日" },
+      "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
       "hours": { "en": "10:00 AM - 8:00 PM", "ja": "10:00 - 20:00" }
       }
     ],
@@ -2395,7 +2395,7 @@
     ],
     "hours": [
       {
-      "day": { "en": "Monday - Sunday", "ja": "月曜日〜日曜日" },
+      "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
       "hours": { "en": "10:00 AM - 9:00 PM", "ja": "10:00 - 21:00" }
       }
     ],
@@ -2485,11 +2485,11 @@
     ],
     "hours": [
       {
-      "day": { "en": "Wednesday - Monday", "ja": "水曜日〜月曜日" },
+      "day": { "en": "Wed - Mon", "ja": "水曜日〜月曜日" },
       "hours": { "en": "10:00 AM - 8:00 PM", "ja": "10:00 - 20:00" }
       },
       {
-      "day": { "en": "Tuesday", "ja": "火曜日" },
+      "day": { "en": "Tue", "ja": "火曜日" },
       "hours": { "en": "Closed", "ja": "休館" }
       }
     ],
