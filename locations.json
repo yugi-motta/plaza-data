@@ -288,7 +288,7 @@
   {
     "id": "1-up-factory-orlando",
     "appleMapsId": "IF628147937A814F8",
-    "nameOverride": { "en": "1-UP Factory", "ja": "1-UP Factory" },
+    "nameOverride": { "en": "1-UP Factory Orlando", "ja": "1-UP Factory Orlando" },
     "category": "park-store",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -610,7 +610,7 @@
   {
     "id": "mario-motors-orlando",
     "appleMapsId": "IF1E82B95A3CF50F9",
-    "nameOverride": { "en": "Mario Motors", "ja": "Mario Motors" },
+    "nameOverride": { "en": "Mario Motors Orlando", "ja": "Mario Motors Orlando" },
     "category": "park-store",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -832,7 +832,7 @@
   {
     "id": "lucky-park-yanaizu",
     "appleMapsId": "I60955906A65DE55A",
-    "nameOverride": { "en": "Lucky Park in Yanaizu", "ja": "ラッキー公園 in やないづまち" },
+    "nameOverride": { "en": "Chansey Park in Yanaizu", "ja": "ラッキー公園 in やないづまち" },
     "category": "public-park",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -980,7 +980,7 @@
   {
     "id": "1-up-factory-japan",
     "appleMapsId": "I75B9BF6BE484B7B3",
-    "nameOverride": { "en": "1-UP Factory", "ja": "ワンナップ・ファクトリー" },
+    "nameOverride": { "en": "1-UP Factory Japan", "ja": "ワンナップ・ファクトリー" },
     "category": "park-store",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -1116,7 +1116,7 @@
   {
     "id": "super-nintendo-world-california",
     "appleMapsId": "IFC8FA916D7E3C7C0",
-    "nameOverride": { "en": "SUPER NINTENDO WORLD", "ja": "スーパー・ニンテンドー・ワールド" },
+    "nameOverride": { "en": "SUPER NINTENDO WORLD Hollywood", "ja": "スーパー・ニンテンドー・ワールド ハリウッド" },
     "category": "theme-park",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -1186,7 +1186,7 @@
   {
     "id": "lucky-park-namie",
     "appleMapsId": "IDD92F28F2C18D2",
-    "nameOverride": { "en": "Lucky Park in Namie", "ja": "ラッキー公園 in なみえまち" },
+    "nameOverride": { "en": "Chansey Park in Namie", "ja": "ラッキー公園 in なみえまち" },
     "category": "public-park",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -1247,7 +1247,7 @@
   {
     "id": "nintendo-super-star-store-orlando",
     "appleMapsId": "IDD117A2FEC067B43",
-    "nameOverride": { "en": "Nintendo Super Star Store", "ja": "Nintendo Super Star Store" },
+    "nameOverride": { "en": "Nintendo Super Star Store CityWalk Orlando", "ja": "Nintendo Super Star Store CityWalk Orlando" },
     "category": "park-store",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -1276,7 +1276,7 @@
   {
     "id": "nintendo-authorized-store-by-synnex-siam-paragon",
     "appleMapsId": "I442C42DF8FB2E64F",
-    "nameOverride": { "en": "Nintendo Authorized Store by Synnex", "ja": "Nintendo Authorized Store by Synnex" },
+    "nameOverride": { "en": "Nintendo Authorized Store by Synnex Siam Paragon", "ja": "Nintendo Authorized Store by Synnex Siam Paragon" },
     "category": "authorized-nintendo-reseller",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -1464,7 +1464,7 @@
   {
     "id": "geodude-park-kuji",
     "appleMapsId": "I7A62EAF036987780",
-    "nameOverride": { "en": "Ishitsubute Park", "ja": "イシツブテ公園" },
+    "nameOverride": { "en": "Geodude Park", "ja": "イシツブテ公園" },
     "category": "public-park",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -1591,7 +1591,7 @@
   {
     "id": "nintendo-super-star-store-orlando-in-park",
     "appleMapsId": "I42AE717C2BF48760",
-    "nameOverride": { "en": "Nintendo Super Star Store", "ja": "Nintendo Super Star Store" },
+    "nameOverride": { "en": "Nintendo Super Star Store Epic Universe", "ja": "Nintendo Super Star Store Epic Universe" },
     "category": "park-store",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -1683,7 +1683,7 @@
   {
     "id": "super-nintendo-world-store-citywalk-california",
     "appleMapsId": "I5E2188ECC3D7FF25",
-    "nameOverride": { "en": "SUPER NINTENDO WORLD Store", "ja": "スーパー・ニンテンドー・ワールド ストア" },
+    "nameOverride": { "en": "SUPER NINTENDO WORLD Store Hollywood", "ja": "スーパー・ニンテンドー・ワールド ストア ハリウッド" },
     "category": "park-store",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -1741,7 +1741,7 @@
   {
     "id": "funkys-fly-n-buy-orlando",
     "appleMapsId": "IE4FFDA8F63401FE1",
-    "nameOverride": { "en": "Funky's Fly 'n' Buy", "ja": "Funky's Fly 'n' Buy" },
+    "nameOverride": { "en": "Funky's Fly 'n' Buy Orlando", "ja": "Funky's Fly 'n' Buy Orlando" },
     "category": "park-store",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -1770,7 +1770,7 @@
   {
     "id": "sand-park",
     "appleMapsId": "I311A97D140E18B6C",
-    "nameOverride": { "en": "Sand Park", "ja": "サンド公園" },
+    "nameOverride": { "en": "Sandshrew Park", "ja": "サンド公園" },
     "category": "public-park",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -1868,7 +1868,7 @@
   {
     "id": "1-up-factory-california",
     "appleMapsId": "I9FAE33B1F451EEF4",
-    "nameOverride": { "en": "1-UP Factory", "ja": "1-UP Factory" },
+    "nameOverride": { "en": "1-UP Factory Hollywood", "ja": "1-UP Factory Hollywood" },
     "category": "park-store",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -1971,7 +1971,7 @@
   {
     "id": "super-nintendo-world-orlando",
     "appleMapsId": "IE262F6BA936D8A83",
-    "nameOverride": { "en": "SUPER NINTENDO WORLD", "ja": "スーパー・ニンテンドー・ワールド" },
+    "nameOverride": { "en": "SUPER NINTENDO WORLD Orlando", "ja": "スーパー・ニンテンドー・ワールド オーランド" },
     "category": "theme-park",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -2003,7 +2003,7 @@
   {
     "id": "funkys-fly-n-buy-japan",
     "appleMapsId": "I1354DA5541FD8ADD",
-    "nameOverride": { "en": "Funky's Fly 'n' Buy", "ja": "ファンキーコングのフライ・アンド・バイ" },
+    "nameOverride": { "en": "Funky's Fly 'n' Buy Japan", "ja": "ファンキーコングのフライ・アンド・バイ" },
     "category": "park-store",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -2195,7 +2195,7 @@
   {
     "id": "mario-motors-japan",
     "appleMapsId": "IDCE232A77EFB582D",
-    "nameOverride": { "en": "Mario Motors", "ja": "マリオ・モーターズ" },
+    "nameOverride": { "en": "Mario Motors Japan", "ja": "マリオ・モーターズ" },
     "category": "park-store",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -2249,7 +2249,7 @@
   {
     "id": "lbuy-nintendo-authorized-store-moko",
     "appleMapsId": "I70AD392AA842AD3F",
-    "nameOverride": { "en": "LBuy Nintendo Authorized Store MOKO", "ja": "LBuy 任天堂正規商品販賣店 (MOKO)" },
+    "nameOverride": { "en": "LBuy Nintendo Authorized Store MOKO", "ja": "LBuy 任天堂正規商品販賣店 (MOKO 新世紀廣場)" },
     "category": "authorized-nintendo-reseller",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -2442,7 +2442,7 @@
   {
     "id": "super-nintendo-world-japan",
     "appleMapsId": "I19B2A609EF7804EC",
-    "nameOverride": { "en": "SUPER NINTENDO WORLD", "ja": "スーパー・ニンテンドー・ワールド" },
+    "nameOverride": { "en": "SUPER NINTENDO WORLD Japan", "ja": "スーパー・ニンテンドー・ワールド ジャパン" },
     "category": "theme-park",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
