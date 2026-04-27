@@ -136,13 +136,6 @@
     "appleMapsId": "I600C2E5F5F3937F3",
     "nameOverride": { "en": "Pokémon Store New Chitose Airport Shop", "ja": "ポケモンストア 新千歳空港店" },
     "category": "pokemon-store",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
@@ -168,7 +161,27 @@
     "appleMapsId": "I67A03C763CD5D224",
     "nameOverride": { "en": "Nintendo SAN FRANCISCO", "ja": "Nintendo SAN FRANCISCO" },
     "category": "official-nintendo-store",
-    "hours": { "en": "Mon-Sat 10:00 AM - 8:00 PM, Sun 11:00 AM - 6:00 PM", "ja": "月〜土 10:00 - 20:00、日 11:00 - 18:00" },"hours": [
+    "photos": [
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777297388/IMG_7003_xxwq7n.jpg"
+      },
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777297389/IMG_7013_vg7fxg.jpg"
+      },
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777297387/IMG_2403_rz3dmv.jpg",
+        "attribution": {
+          "name": "José G."
+        }
+      },
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777297387/IMG_2486_ba5hf1.jpg",
+        "attribution": {
+          "name": "José G."
+        }
+      }
+    ],
+    "hours": [
       {
       "day": { "en": "Weekdays", "ja": "平日" },
       "hours": { "en": "10:00 AM - 9:00 PM", "ja": "10:00 - 21:00" }
@@ -197,13 +210,6 @@
     "appleMapsId": "I9297F9644F152A98",
     "nameOverride": { "en": "Tokyo Branch Office", "ja": "東京支店" },
     "category": "historical-sites-corporate",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "about": {
       "en": "Nintendo’s Tokyo Branch Office is the company’s main office in Tokyo, located in KANDA SQUARE in Chiyoda. It supports Nintendo’s business operations in the capital alongside the Kyoto headquarters.",
       "ja": "任天堂 東京支店は、千代田区のKANDA SQUAREにある任天堂の東京拠点です。京都本社と並び、首都圏での事業運営を支えるオフィスです。"
@@ -278,13 +284,6 @@
     "appleMapsId": "IF628147937A814F8",
     "nameOverride": { "en": "1-UP Factory Orlando", "ja": "1-UP Factory Orlando" },
     "category": "park-store",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "All Days", "ja": "毎日" },
@@ -310,13 +309,6 @@
     "appleMapsId": "ID4F1CD23B9FB24D3",
     "nameOverride": { "en": "Nintendo Australia Pty Limited", "ja": "Nintendo Australia Pty Limited" },
     "category": "historical-sites-corporate",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "about": {
       "en": "Nintendo Australia Pty. Limited is Nintendo’s subsidiary for the Australia and New Zealand region, based in Scoresby, Melbourne.",
       "ja": "Nintendo Australia Pty. Limitedは、メルボルンのスコーズビーに拠点を置く、オーストラリアおよびニュージーランド地域を担当する任天堂の現地法人です。"
@@ -335,13 +327,6 @@
     "appleMapsId": "I4B5FCEBE606E5CB2",
     "nameOverride": { "en": "Pokémon Center TOKYO-BAY", "ja": "ポケモンセンタートウキョーベイ" },
     "category": "pokemon-center",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "Mon - Fri", "ja": "月曜日〜金曜日" },
@@ -372,13 +357,6 @@
     "appleMapsId": "I9E1A775CE5306BB7",
     "nameOverride": { "en": "Pokémon Center NAGOYA", "ja": "ポケモンセンターナゴヤ" },
     "category": "pokemon-center",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
@@ -411,13 +389,6 @@
     "appleMapsId": "I98F5E94315562DD9",
     "nameOverride": { "en": "Nintendo of America Inc.", "ja": "Nintendo of America Inc." },
     "category": "historical-sites-corporate",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "about": {
       "en": "Nintendo of America Inc. is Nintendo’s U.S. subsidiary, based in Redmond, Washington, and serves as the headquarters for Nintendo’s operations in the Americas.",
       "ja": "Nintendo of America Inc.は、ワシントン州レドモンドに拠点を置く任天堂の米国法人で、アメリカ地域における任天堂事業の本部を担っています。"
@@ -436,13 +407,6 @@
     "appleMapsId": "I62BA8ED42616FE6E",
     "nameOverride": { "en": "Pokémon Center OKINAWA", "ja": "ポケモンセンターオキナワ" },
     "category": "pokemon-center",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
@@ -473,13 +437,6 @@
     "appleMapsId": "IF8FC453EB74CC533",
     "nameOverride": { "en": "Pokémon Cafe", "ja": "ポケモンカフェ" },
     "category": "restaurants-cafe",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "about": {
       "en": "Pokémon Cafe is the first permanent Pokémon café, located next to Pokémon Center TOKYO DX in Nihonbashi. It is known for its character-themed meals, drinks, desserts, and immersive dining experience built around the Pokémon world.",
       "ja": "ポケモンカフェは、日本橋のポケモンセンタートウキョーDXに隣接する、初の常設ポケモンカフェです。ポケモンの世界観を取り入れたフード、ドリンク、デザート、そして体験型の食事空間で知られています。"
@@ -501,13 +458,6 @@
     "appleMapsId": "I303B629E9F79FC4",
     "nameOverride": { "en": "Pokémon Center TOKYO DX", "ja": "ポケモンセンタートウキョーDX" },
     "category": "pokemon-center",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
@@ -537,13 +487,6 @@
     "appleMapsId": "IDF3B8844C548485F",
     "nameOverride": { "en": "Justdan Nintendo Authorized Merchandise Flagship Center A11", "ja": "傑仕登任天堂授權商品旗艦中心A11" },
     "category": "authorized-nintendo-reseller",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
@@ -569,13 +512,6 @@
     "appleMapsId": "I188015D94A2BD2C",
     "nameOverride": { "en": "Pokémon Center Singapore", "ja": "Pokémon Center Singapore" },
     "category": "pokemon-center",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "about": {
       "en": "Pokémon Center SINGAPORE is the first permanent Pokémon Center outside Japan, located at Jewel Changi Airport and known for serving both local fans and international travelers.",
       "ja": "ポケモンセンターシンガポールは、日本国外初の常設ポケモンセンターで、Jewel Changi Airportにあり、現地ファンだけでなく世界中の旅行者にも親しまれている店舗です。"
@@ -600,13 +536,6 @@
     "appleMapsId": "IF1E82B95A3CF50F9",
     "nameOverride": { "en": "Mario Motors Orlando", "ja": "Mario Motors Orlando" },
     "category": "park-store",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "All Days", "ja": "毎日" },
@@ -629,13 +558,6 @@
     "appleMapsId": "I6F42861B422F6208",
     "nameOverride": { "en": "Uji Plant", "ja": "宇治工場" },
     "category": "historical-sites-corporate",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "about": {
       "en": "Nintendo Uji Service Center is Nintendo’s repair service base in Uji, Kyoto. The current repair destination is at Nintendo’s Uji Plant, where repair operations were consolidated after moving from the former Uji Ogura Service Center site.",
       "ja": "任天堂宇治サービスセンターは、京都府宇治市にある任天堂の修理サービス拠点です。現在の修理受付先は任天堂宇治工場内にあり、旧宇治小倉サービスセンターから修理業務が集約されています。"
@@ -656,13 +578,6 @@
     "appleMapsId": "I17668E43966A2F62",
     "nameOverride": { "en": "Kirby Café PETIT Osaka", "ja": "Kirby Café PETIT 天王寺店" },
     "category": "restaurants-cafe",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
@@ -685,13 +600,6 @@
     "appleMapsId": "I477FFF11EDA1D195",
     "nameOverride": { "en": "Kirby Café PETIT Tokyo", "ja": "Kirby Café PETIT TOKYO" },
     "category": "restaurants-cafe",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
@@ -714,13 +622,6 @@
     "appleMapsId": "ID996912C26CA3F7E",
     "nameOverride": { "en": "Pokémon Center HIROSHIMA", "ja": "ポケモンセンターヒロシマ" },
     "category": "pokemon-center",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
@@ -752,13 +653,6 @@
     "appleMapsId": "I8D463B45711E9B4A",
     "nameOverride": { "en": "Pokémon Center OSAKA", "ja": "ポケモンセンターオーサカ" },
     "category": "pokemon-center",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
@@ -785,13 +679,6 @@
     "appleMapsId": "I64BD42281BFC4979",
     "nameOverride": { "en": "Pokémon Center OSAKA DX", "ja": "ポケモンセンターオーサカDX" },
     "category": "pokemon-center",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
@@ -822,13 +709,6 @@
     "appleMapsId": "I60955906A65DE55A",
     "nameOverride": { "en": "Chansey Park in Yanaizu", "ja": "ラッキー公園 in やないづまち" },
     "category": "public-park",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "about": {
       "en": "Lucky Park in Yanaizu is a Chansey-themed public park in Fukushima. It is one of the official Lucky Parks created through Fukushima’s collaboration with Chansey, featuring playground equipment and design elements inspired by the Pokémon.",
       "ja": "ラッキー公園 in やないづまちは、福島県にあるラッキーをテーマにした公園です。福島県とラッキーの連携企画による公式ラッキー公園のひとつで、ラッキーをモチーフにした遊具やデザインが特徴です。"
@@ -848,13 +728,6 @@
     "appleMapsId": "I81959209827FE247",
     "nameOverride": { "en": "Pokémon Cafe Osaka", "ja": "ポケモンカフェ 大阪・心斎橋" },
     "category": "restaurants-cafe",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
@@ -880,13 +753,6 @@
     "appleMapsId": "I96A1E1960BAFA417",
     "nameOverride": { "en": "Nintendo (Hong Kong) Limited", "ja": "任天堂（香港）有限公司" },
     "category": "historical-sites-corporate",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "about": {
       "en": "Nintendo (Hong Kong) Limited is Nintendo’s Hong Kong office, handling regional business operations and support for Nintendo products in Hong Kong.",
       "ja": "任天堂（香港）有限公司は、香港における任天堂の地域事業運営や製品サポートを担当する任天堂の香港拠点です。"
@@ -903,13 +769,6 @@
     "appleMapsId": "I78A721538ECB5B55",
     "nameOverride": { "en": "Pokémon Store Gotemba Shop", "ja": "ポケモンストア 御殿場店" },
     "category": "pokemon-store",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
@@ -935,13 +794,6 @@
     "appleMapsId": "ICCA43BBCC181CA21",
     "nameOverride": { "en": "Pokémon Center KANAZAWA", "ja": "ポケモンセンターカナザワ" },
     "category": "pokemon-center",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
@@ -970,13 +822,6 @@
     "appleMapsId": "I75B9BF6BE484B7B3",
     "nameOverride": { "en": "1-UP Factory Japan", "ja": "ワンナップ・ファクトリー" },
     "category": "park-store",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "All Days", "ja": "毎日" },
@@ -1002,13 +847,6 @@
     "appleMapsId": "I120294E71A5BA149",
     "nameOverride": { "en": "Pokémon Center YOKOHAMA Satellite", "ja": "ポケモンセンターヨコハマ サテライト" },
     "category": "pokemon-center",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "All Days", "ja": "毎日" },
@@ -1034,13 +872,6 @@
     "appleMapsId": "I3A47E78522D7105F",
     "nameOverride": { "en": "Pokémon Center TAIPEI", "ja": "Pokémon Center TAIPEI" },
     "category": "pokemon-center",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "Mon - Thu, Sun", "ja": "月曜日〜木曜日、日曜日" },
@@ -1074,13 +905,6 @@
     "appleMapsId": "I5C96002DDAFE5654",
     "nameOverride": { "en": "Pokémon Store OUTLET Kisarazu Shop", "ja": "ポケモンストア アウトレット 木更津店" },
     "category": "pokemon-store",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
@@ -1106,13 +930,6 @@
     "appleMapsId": "IFC8FA916D7E3C7C0",
     "nameOverride": { "en": "SUPER NINTENDO WORLD Hollywood", "ja": "スーパー・ニンテンドー・ワールド ハリウッド" },
     "category": "theme-park",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "All Days", "ja": "毎日" },
@@ -1138,13 +955,6 @@
     "appleMapsId": "I328EA3B2C3C13931",
     "nameOverride": { "en": "Pokémon Store Tokyo Station Shop", "ja": "ポケモンストア 東京駅店" },
     "category": "pokemon-store",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
@@ -1176,13 +986,6 @@
     "appleMapsId": "IDD92F28F2C18D2",
     "nameOverride": { "en": "Chansey Park in Namie", "ja": "ラッキー公園 in なみえまち" },
     "category": "public-park",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "about": {
       "en": "Lucky Park in Namie is a Chansey-themed public park in Fukushima. It is one of the official Lucky Parks created as part of Fukushima’s collaboration with Chansey, featuring playground equipment and design elements inspired by the Pokémon.",
       "ja": "ラッキー公園 in なみえまちは、福島県にあるラッキーをテーマにした公園です。福島県とラッキーの連携企画による公式ラッキー公園のひとつで、ラッキーをモチーフにした遊具やデザインが特徴です。"
@@ -1205,13 +1008,6 @@
     "appleMapsId": "IC01CD2C09FD354A7",
     "nameOverride": { "en": "Pokémon Center KAGAWA", "ja": "ポケモンセンターカガワ" },
     "category": "pokemon-center",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
@@ -1237,13 +1033,6 @@
     "appleMapsId": "IDD117A2FEC067B43",
     "nameOverride": { "en": "Nintendo Super Star Store CityWalk Orlando", "ja": "Nintendo Super Star Store CityWalk Orlando" },
     "category": "park-store",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "All Days", "ja": "毎日" },
@@ -1266,13 +1055,6 @@
     "appleMapsId": "I442C42DF8FB2E64F",
     "nameOverride": { "en": "Nintendo Authorized Store by Synnex Siam Paragon", "ja": "Nintendo Authorized Store by Synnex Siam Paragon" },
     "category": "authorized-nintendo-reseller",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
@@ -1295,13 +1077,6 @@
     "appleMapsId": "I4BE28BA11F2D209F",
     "nameOverride": { "en": "Pokémon Center YOKOHAMA", "ja": "ポケモンセンターヨコハマ" },
     "category": "pokemon-center",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
@@ -1330,13 +1105,6 @@
     "appleMapsId": "I979FCD76BB8863D7",
     "nameOverride": { "en": "Pikachu Sweets by Pokémon Cafe", "ja": "ピカチュウスイーツ by ポケモンカフェ" },
     "category": "restaurants-cafe",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "about": {
       "en": "Pikachu Sweets by Pokémon Cafe is a takeout-focused sweets shop in Ikebukuro, opened alongside the expanded Pokémon Center MEGA TOKYO area. It is known for Pikachu-themed desserts and drinks designed for quick takeaway visits.",
       "ja": "ピカチュウスイーツ by ポケモンカフェは、池袋のポケモンセンターメガトウキョー拡張エリアとともにオープンした、テイクアウト中心のスイーツショップです。ピカチュウをモチーフにしたデザートやドリンクを気軽に楽しめるのが特徴です。"
@@ -1355,13 +1123,6 @@
     "appleMapsId": "ICDEFCD0BEB02197",
     "nameOverride": { "en": "Development Center", "ja": "本社開発棟" },
     "category": "historical-sites-corporate",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "about": {
       "en": "Nintendo Development Center is a major research and development facility in Kyoto, located next to Nintendo’s headquarters. It was created to bring development teams together more closely and support Nintendo’s integrated hardware and software development work.",
       "ja": "任天堂開発棟は、京都の本社に隣接する任天堂の主要な研究開発拠点です。開発部門をより密接に集約し、任天堂ならではのハードとソフト一体の開発体制を支えるための施設です。"
@@ -1378,13 +1139,6 @@
     "appleMapsId": "I596480628F985719",
     "nameOverride": { "en": "Nintendo Sales Kyoto Distribution Center", "ja": "任天堂販売 京都物流センター" },
     "category": "historical-sites-corporate",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "about": {
       "en": "Nintendo Sales Kyoto Distribution Center is a logistics facility in Kyoto operated by Nintendo Sales Co., Ltd. It supports the domestic distribution side of Nintendo’s business rather than serving as a retail or visitor location.",
       "ja": "任天堂販売 京都配送センターは、京都にある任天堂販売株式会社の物流拠点です。小売店舗や見学施設ではなく、任天堂商品の国内流通を支える施設として運用されています。"
@@ -1401,13 +1155,6 @@
     "appleMapsId": "I21D72BF0ADFBB196",
     "nameOverride": { "en": "Nintendo of Europe SE", "ja": "Nintendo of Europe SE" },
     "category": "historical-sites-corporate",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "about": {
       "en": "Nintendo of Europe is Nintendo’s European headquarters in Frankfurt am Main, Germany. It oversees Nintendo’s regional business operations across Europe, including distribution, publishing, marketing, and support.",
       "ja": "Nintendo of Europeは、ドイツのフランクフルト・アム・マインにある任天堂の欧州本部です。ヨーロッパ地域における流通、パブリッシング、マーケティング、サポートなどの事業運営を担っています。"
@@ -1427,13 +1174,6 @@
     "appleMapsId": "I7DD3BF7637B1C96",
     "nameOverride": { "en": "Nintendo Kyoto Research Center", "ja": "任天堂 京都リサーチセンター" },
     "category": "historical-sites-corporate",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "about": {
       "en": "Nintendo Kyoto Research Center is located at Nintendo’s former headquarters site in Kyoto. The location is closely tied to the company’s early growth, having served as a factory and later as headquarters before Nintendo moved its main office to Minami-ku.",
       "ja": "任天堂京都リサーチセンターは、京都にある任天堂旧本社跡に位置する施設です。この場所は、工場として始まり、その後は本社として使われた、任天堂の成長初期に深く関わる拠点です。"
@@ -1454,13 +1194,6 @@
     "appleMapsId": "I7A62EAF036987780",
     "nameOverride": { "en": "Geodude Park", "ja": "イシツブテ公園" },
     "category": "public-park",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "about": {
       "en": "Geodude Park in Kuji is a rock-type Pokémon themed public park in Iwate, located at the event plaza of Roadside Station Iwate Kita-Sanriku. It is one of the official Geodude Parks in Iwate and features large playground equipment inspired by Geodude and other rock-type Pokémon.",
       "ja": "イシツブテ公園 in くじは、岩手県の道の駅いわて北三陸のイベント広場にある、いわタイプのポケモンをテーマにした公園です。岩手県の公式イシツブテ公園のひとつで、イシツブテなどのいわポケモンをモチーフにした大型遊具が特徴です。"
@@ -1480,13 +1213,6 @@
     "appleMapsId": "I21EA7C106A949D6B",
     "nameOverride": { "en": "nsew The Wai", "ja": "nsew 任天堂正規商品販賣店 (圍方)" },
     "category": "authorized-nintendo-reseller",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
@@ -1512,13 +1238,6 @@
     "appleMapsId": "IDBEE267A82D64293",
     "nameOverride": { "en": "Pokémon Center FUKUOKA", "ja": "ポケモンセンターフクオカ" },
     "category": "pokemon-center",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
@@ -1553,13 +1272,6 @@
     "appleMapsId": "I407F723E8169F03D",
     "nameOverride": { "en": "Marufukuro", "ja": "丸福樓" },
     "category": "historical-sites-corporate",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "about": {
       "en": "Marufukuro is a hotel in Kyoto built around Nintendo’s former headquarters site in Kagiyacho, the place tied to the company’s earliest history. The preserved original buildings, including the former office, residence, and warehouse, were revived together with a new annex designed by Tadao Ando.",
       "ja": "丸福樓は、京都・鍵屋町にある任天堂旧本社跡を活用したホテルで、任天堂の原点にゆかりのある場所です。旧事務所、旧住居、倉庫などの歴史ある建物を保存活用し、安藤忠雄設計の新棟とあわせて再生されています。"
@@ -1581,13 +1293,6 @@
     "appleMapsId": "I42AE717C2BF48760",
     "nameOverride": { "en": "Nintendo Super Star Store Epic Universe", "ja": "Nintendo Super Star Store Epic Universe" },
     "category": "park-store",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "All Days", "ja": "毎日" },
@@ -1613,13 +1318,6 @@
     "appleMapsId": "IDC5579F352BE1047",
     "nameOverride": { "en": "Kirby Café The Store TOKYO", "ja": "カービィカフェ ザ・ストア TOKYO" },
     "category": "restaurants-cafe",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "All Days", "ja": "毎日" },
@@ -1641,13 +1339,6 @@
     "appleMapsId": "I35EEF33C1ED18BF1",
     "nameOverride": { "en": "nsew Kai Tak", "ja": "nsew 任天堂正規商品販賣店 (啟德零售館2)" },
     "category": "authorized-nintendo-reseller",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
@@ -1673,13 +1364,6 @@
     "appleMapsId": "I5E2188ECC3D7FF25",
     "nameOverride": { "en": "SUPER NINTENDO WORLD Store Hollywood", "ja": "スーパー・ニンテンドー・ワールド ストア ハリウッド" },
     "category": "park-store",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "All Days", "ja": "毎日" },
@@ -1702,13 +1386,6 @@
     "appleMapsId": "I1AA6C7A83F7EE2EF",
     "nameOverride": { "en": "nsew K11 MUSEA", "ja": "nsew 任天堂正規商品販賣店 (K11 MUSEA)" },
     "category": "authorized-nintendo-reseller",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
@@ -1731,13 +1408,6 @@
     "appleMapsId": "IE4FFDA8F63401FE1",
     "nameOverride": { "en": "Funky's Fly 'n' Buy Orlando", "ja": "Funky's Fly 'n' Buy Orlando" },
     "category": "park-store",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "All Days", "ja": "毎日" },
@@ -1760,13 +1430,6 @@
     "appleMapsId": "I311A97D140E18B6C",
     "nameOverride": { "en": "Sandshrew Park", "ja": "サンド公園" },
     "category": "public-park",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
@@ -1796,13 +1459,6 @@
     "appleMapsId": "I6C7F6719CBC524C4",
     "nameOverride": { "en": "Kirby Café TOKYO", "ja": "カービィカフェ TOKYO" },
     "category": "restaurants-cafe",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "All Days", "ja": "毎日" },
@@ -1825,13 +1481,6 @@
     "appleMapsId": "IA0800CABE4BF3331",
     "nameOverride": { "en": "Nintendo Israel", "ja": "Nintendo Israel" },
     "category": "authorized-nintendo-reseller",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "Weekdays", "ja": "平日" },
@@ -1858,13 +1507,6 @@
     "appleMapsId": "I9FAE33B1F451EEF4",
     "nameOverride": { "en": "1-UP Factory Hollywood", "ja": "1-UP Factory Hollywood" },
     "category": "park-store",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "All Days", "ja": "毎日" },
@@ -1890,13 +1532,6 @@
     "appleMapsId": "IDFDDDDF592E6CC7",
     "nameOverride": { "en": "Pokémon Center TOHOKU", "ja": "ポケモンセンタートウホク" },
     "category": "pokemon-center",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
@@ -1928,13 +1563,6 @@
     "appleMapsId": "IF9DC10B9FEDCFA12",
     "nameOverride": { "en": "Pokémon Center KYOTO", "ja": "ポケモンセンターキョウト" },
     "category": "pokemon-center",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
@@ -1961,13 +1589,6 @@
     "appleMapsId": "IE262F6BA936D8A83",
     "nameOverride": { "en": "SUPER NINTENDO WORLD Orlando", "ja": "スーパー・ニンテンドー・ワールド オーランド" },
     "category": "theme-park",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "All Days", "ja": "毎日" },
@@ -1993,13 +1614,6 @@
     "appleMapsId": "I1354DA5541FD8ADD",
     "nameOverride": { "en": "Funky's Fly 'n' Buy Japan", "ja": "ファンキーコングのフライ・アンド・バイ" },
     "category": "park-store",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "All Days", "ja": "毎日" },
@@ -2025,13 +1639,6 @@
     "appleMapsId": "I22FE0739FB20A6BB",
     "nameOverride": { "en": "Nintendo Store Sandton City", "ja": "Nintendo Store Sandton City" },
     "category": "authorized-nintendo-reseller",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "Mon - Thu", "ja": "月曜日〜木曜日" },
@@ -2062,13 +1669,6 @@
     "appleMapsId": "IFF67E86A94BEE6F",
     "nameOverride": { "en": "Kirby Café HAKATA", "ja": "カービィカフェ HAKATA" },
     "category": "restaurants-cafe",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "All Days", "ja": "毎日" },
@@ -2091,13 +1691,6 @@
     "appleMapsId": "I633F2FEB7BB7EE06",
     "nameOverride": { "en": "Kirby Café The Store OSAKA", "ja": "カービィカフェ ザ・ストア OSAKA" },
     "category": "restaurants-cafe",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
@@ -2120,13 +1713,6 @@
     "appleMapsId": "IEF29D5F72AC4A20A",
     "nameOverride": { "en": "Kirby Café OSAKA", "ja": "カービィカフェ OSAKA" },
     "category": "restaurants-cafe",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "All Days", "ja": "毎日" },
@@ -2152,13 +1738,6 @@
     "appleMapsId": "IF1193F7E8652C673",
     "nameOverride": { "en": "Pokémon Store Narita Airport Shop", "ja": "ポケモンストア 成田空港店" },
     "category": "pokemon-store",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "All Days", "ja": "毎日" },
@@ -2185,13 +1764,6 @@
     "appleMapsId": "IDCE232A77EFB582D",
     "nameOverride": { "en": "Mario Motors Japan", "ja": "マリオ・モーターズ" },
     "category": "park-store",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "All Days", "ja": "毎日" },
@@ -2217,13 +1789,6 @@
     "appleMapsId": "IB0EC07A2B73E190B",
     "nameOverride": { "en": "Nintendo of Canada Ltd.", "ja": "Nintendo of Canada Ltd." },
     "category": "historical-sites-corporate",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "about": {
       "en": "Nintendo of Canada Ltd. is Nintendo’s Canadian subsidiary in Burnaby, British Columbia, handling the marketing, sales, and distribution of Nintendo hardware, accessories, and first-party games in Canada.",
       "ja": "Nintendo of Canada Ltd.は、ブリティッシュコロンビア州バーナビーにある任天堂のカナダ法人で、カナダ国内における任天堂の本体、周辺機器、ファーストパーティーソフトのマーケティング、販売、流通を担っています。"
@@ -2239,13 +1804,6 @@
     "appleMapsId": "I70AD392AA842AD3F",
     "nameOverride": { "en": "LBuy Nintendo Authorized Store MOKO", "ja": "LBuy 任天堂正規商品販賣店 (MOKO 新世紀廣場)" },
     "category": "authorized-nintendo-reseller",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "Mon - Thu", "ja": "月曜日〜木曜日" },
@@ -2275,13 +1833,6 @@
     "appleMapsId": "IA498954A5CA588B4",
     "nameOverride": { "en": "Pokémon Center SAPPORO", "ja": "ポケモンセンターサッポロ" },
     "category": "pokemon-center",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
@@ -2342,13 +1893,6 @@
     "appleMapsId": "I54CF118112B41B89",
     "nameOverride": { "en": "Nintendo Check In Narita International Airport", "ja": "Nintendo Check In 成田国際空港" },
     "category": "nintendo-check-in",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "All Days", "ja": "毎日" },
@@ -2374,13 +1918,6 @@
     "appleMapsId": "I25EBD134BB60456E",
     "nameOverride": { "en": "Pokémon Center SKYTREE TOWN", "ja": "ポケモンセンタースカイツリータウン" },
     "category": "pokemon-center",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
@@ -2432,13 +1969,6 @@
     "appleMapsId": "I19B2A609EF7804EC",
     "nameOverride": { "en": "SUPER NINTENDO WORLD Japan", "ja": "スーパー・ニンテンドー・ワールド ジャパン" },
     "category": "theme-park",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "All Days", "ja": "毎日" },
@@ -2464,13 +1994,6 @@
     "appleMapsId": "I6151A6C18324637F",
     "nameOverride": { "en": "Nintendo Museum", "ja": "ニンテンドーミュージアム" },
     "category": "museum",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "hours": [
       {
       "day": { "en": "Wed - Mon", "ja": "水曜日〜月曜日" },
@@ -2500,13 +2023,6 @@
     "appleMapsId": "I209B2C8B372B5586",
     "nameOverride": { "en": "Corporate Headquarters", "ja": "本社" },
     "category": "historical-sites-corporate",
-    "photos": [
-      { "url": "https://example.com/photo1.jpg" },
-      { "url": "https://example.com/photo2.jpg" },
-      { "url": "https://example.com/photo3.jpg" },
-      { "url": "https://example.com/photo4.jpg" },
-      { "url": "https://example.com/photo5.jpg" }
-    ],
     "about": {
       "en": "Nintendo Head Office is the company’s current corporate headquarters in Kyoto, serving as the main base for Nintendo’s global business operations.",
       "ja": "任天堂本社は京都にある任天堂の現本社で、世界展開する事業運営の中心拠点です。"
