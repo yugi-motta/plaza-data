@@ -207,7 +207,7 @@
   {
     "id": "nintendo-tokyo-office",
     "appleMapsId": "I9297F9644F152A98",
-    "nameOverride": { "en": "Nintendo Tokyo Branch Office", "ja": "任天堂 東京支店" },
+    "nameOverride": { "en": "Tokyo Branch Office", "ja": "東京支店" },
     "category": "historical-sites-corporate",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -320,7 +320,7 @@
   {
     "id": "nintendo-of-australia",
     "appleMapsId": "ID4F1CD23B9FB24D3",
-    "nameOverride": { "en": "Nintendo Australia", "ja": "Nintendo Australia" },
+    "nameOverride": { "en": "Nintendo Australia Pty Limited", "ja": "Nintendo Australia Pty Limited" },
     "category": "historical-sites-corporate",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -421,7 +421,7 @@
   {
     "id": "nintendo-of-america",
     "appleMapsId": "I98F5E94315562DD9",
-    "nameOverride": { "en": "Nintendo of America Headquarters", "ja": "Nintendo of America 本社" },
+    "nameOverride": { "en": "Nintendo of America Inc.", "ja": "Nintendo of America Inc." },
     "category": "historical-sites-corporate",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -639,7 +639,7 @@
   {
     "id": "nintendo-uji-service-center",
     "appleMapsId": "I6F42861B422F6208",
-    "nameOverride": { "en": "Nintendo Uji Service Center", "ja": "任天堂 宇治サービスセンター" },
+    "nameOverride": { "en": "Uji Plant", "ja": "宇治工場" },
     "category": "historical-sites-corporate",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -890,7 +890,7 @@
   {
     "id": "nintendo-hong-kong-office",
     "appleMapsId": "I96A1E1960BAFA417",
-    "nameOverride": { "en": "Nintendo Hong Kong", "ja": "Nintendo Hong Kong" },
+    "nameOverride": { "en": "Nintendo (Hong Kong) Limited", "ja": "任天堂（香港）有限公司" },
     "category": "historical-sites-corporate",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -1365,7 +1365,7 @@
   {
     "id": "nintendo-development-center",
     "appleMapsId": "ICDEFCD0BEB02197",
-    "nameOverride": { "en": "Nintendo Head Office Development Center", "ja": "任天堂株式会社 本社開発棟" },
+    "nameOverride": { "en": "Development Center", "ja": "本社開発棟" },
     "category": "historical-sites-corporate",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -1411,7 +1411,7 @@
   {
     "id": "nintendo-of-europe",
     "appleMapsId": "I21D72BF0ADFBB196",
-    "nameOverride": { "en": "Nintendo of Europe", "ja": "Nintendo of Europe" },
+    "nameOverride": { "en": "Nintendo of Europe SE", "ja": "Nintendo of Europe SE" },
     "category": "historical-sites-corporate",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -2227,7 +2227,7 @@
   {
     "id": "nintendo-of-canada-ltd",
     "appleMapsId": "IB0EC07A2B73E190B",
-    "nameOverride": { "en": "Nintendo of Canada", "ja": "Nintendo of Canada" },
+    "nameOverride": { "en": "Nintendo of Canada Ltd.", "ja": "Nintendo of Canada Ltd." },
     "category": "historical-sites-corporate",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -2510,7 +2510,7 @@
   {
     "id": "nintendo-head-office-kyoto",
     "appleMapsId": "I209B2C8B372B5586",
-    "nameOverride": { "en": "Nintendo Head Office", "ja": "任天堂 本社" },
+    "nameOverride": { "en": "Corporate Headquarters", "ja": "本社" },
     "category": "historical-sites-corporate",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
