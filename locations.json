@@ -2,6 +2,7 @@
   {
     "id": "nintendo-tokyo",
     "appleMapsId": "IDE1450108AFEBE4D",
+    "nameOverride": { "en": "Nintendo TOKYO", "ja": "Nintendo TOKYO" },
     "category": "official-nintendo-store",
     "photos": [
   {
@@ -55,6 +56,7 @@
   {
     "id": "nintendo-osaka",
     "appleMapsId": "IB8F10D98C49B2EBB",
+    "nameOverride": { "en": "Nintendo OSAKA", "ja": "Nintendo OSAKA" },
     "category": "official-nintendo-store",
     "hours": [
       {
@@ -83,6 +85,7 @@
   {
     "id": "nintendo-kyoto",
     "appleMapsId": "I574F46F35DE5008D",
+    "nameOverride": { "en": "Nintendo KYOTO", "ja": "Nintendo KYOTO" },
     "category": "official-nintendo-store",
     "hours": [
       {
@@ -111,7 +114,7 @@
   {
     "id": "nintendo-new-york",
     "appleMapsId": "IADB825B4E769E269",
-    "nameOverride": { "en": "Nintendo New York", "ja": "Nintendo New York" },
+    "nameOverride": { "en": "Nintendo NEW YORK", "ja": "Nintendo NEW YORK" },
     "category": "official-nintendo-store",
     "hours": [
       {
@@ -143,6 +146,7 @@
   {
     "id": "pokemon-store-new-chitose-airport",
     "appleMapsId": "I600C2E5F5F3937F3",
+    "nameOverride": { "en": "Pokémon Store New Chitose Airport Shop", "ja": "ポケモンストア 新千歳空港店" },
     "category": "pokemon-store",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -174,7 +178,7 @@
   {
     "id": "nintendo-san-francisco",
     "appleMapsId": "I67A03C763CD5D224",
-    "nameOverride": { "en": "Nintendo San Francisco", "ja": "Nintendo San Francisco" },
+    "nameOverride": { "en": "Nintendo SAN FRANCISCO", "ja": "Nintendo SAN FRANCISCO" },
     "category": "official-nintendo-store",
     "hours": { "en": "Mon-Sat 10:00 AM - 8:00 PM, Sun 11:00 AM - 6:00 PM", "ja": "月〜土 10:00 - 20:00、日 11:00 - 18:00" },"hours": [
       {
@@ -203,6 +207,7 @@
   {
     "id": "nintendo-tokyo-office",
     "appleMapsId": "I9297F9644F152A98",
+    "nameOverride": { "en": "Nintendo Tokyo Branch Office", "ja": "任天堂 東京支店" },
     "category": "historical-sites-corporate",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -257,7 +262,7 @@
   {
     "id": "pokemon-center-shibuya",
     "appleMapsId": "I234FD1382561394",
-    "nameOverride": { "en": "Pokémon Center Shibuya", "ja": "ポケモンセンターシブヤ" },
+    "nameOverride": { "en": "Pokémon Center SHIBUYA", "ja": "ポケモンセンターシブヤ" },
     "category": "pokemon-center",
     "hours": [
       {
@@ -283,6 +288,7 @@
   {
     "id": "1-up-factory-orlando",
     "appleMapsId": "IF628147937A814F8",
+    "nameOverride": { "en": "1-UP Factory", "ja": "1-UP Factory" },
     "category": "park-store",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -314,6 +320,7 @@
   {
     "id": "nintendo-of-australia",
     "appleMapsId": "ID4F1CD23B9FB24D3",
+    "nameOverride": { "en": "Nintendo Australia", "ja": "Nintendo Australia" },
     "category": "historical-sites-corporate",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -338,6 +345,7 @@
   {
     "id": "pokemon-center-tokyo-bay",
     "appleMapsId": "I4B5FCEBE606E5CB2",
+    "nameOverride": { "en": "Pokémon Center TOKYO-BAY", "ja": "ポケモンセンタートウキョーベイ" },
     "category": "pokemon-center",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -374,6 +382,7 @@
   {
     "id": "pokemon-center-nagoya",
     "appleMapsId": "I9E1A775CE5306BB7",
+    "nameOverride": { "en": "Pokémon Center NAGOYA", "ja": "ポケモンセンターナゴヤ" },
     "category": "pokemon-center",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -412,6 +421,7 @@
   {
     "id": "nintendo-of-america",
     "appleMapsId": "I98F5E94315562DD9",
+    "nameOverride": { "en": "Nintendo of America Headquarters", "ja": "Nintendo of America 本社" },
     "category": "historical-sites-corporate",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -436,6 +446,7 @@
   {
     "id": "pokemon-center-okinawa",
     "appleMapsId": "I62BA8ED42616FE6E",
+    "nameOverride": { "en": "Pokémon Center OKINAWA", "ja": "ポケモンセンターオキナワ" },
     "category": "pokemon-center",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -472,6 +483,7 @@
   {
     "id": "pokemon-cafe-tokyo",
     "appleMapsId": "IF8FC453EB74CC533",
+    "nameOverride": { "en": "Pokémon Cafe", "ja": "ポケモンカフェ" },
     "category": "restaurants-cafe",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -499,6 +511,7 @@
   {
     "id": "pokemon-center-tokyo-dx",
     "appleMapsId": "I303B629E9F79FC4",
+    "nameOverride": { "en": "Pokémon Center TOKYO DX", "ja": "ポケモンセンタートウキョーDX" },
     "category": "pokemon-center",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -534,6 +547,7 @@
   {
     "id": "justdan-nintendo-authorized-merchandise-flagship-center-a11",
     "appleMapsId": "IDF3B8844C548485F",
+    "nameOverride": { "en": "Justdan Nintendo Authorized Merchandise Flagship Center A11", "ja": "傑仕登任天堂授權商品旗艦中心A11" },
     "category": "authorized-nintendo-reseller",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -565,6 +579,7 @@
   {
     "id": "pokemon-center-singapore",
     "appleMapsId": "I188015D94A2BD2C",
+    "nameOverride": { "en": "Pokémon Center Singapore", "ja": "Pokémon Center Singapore" },
     "category": "pokemon-center",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -595,6 +610,7 @@
   {
     "id": "mario-motors-orlando",
     "appleMapsId": "IF1E82B95A3CF50F9",
+    "nameOverride": { "en": "Mario Motors", "ja": "Mario Motors" },
     "category": "park-store",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -623,6 +639,7 @@
   {
     "id": "nintendo-uji-service-center",
     "appleMapsId": "I6F42861B422F6208",
+    "nameOverride": { "en": "Nintendo Uji Service Center", "ja": "任天堂 宇治サービスセンター" },
     "category": "historical-sites-corporate",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -649,6 +666,7 @@
   {
     "id": "kirby-cafe-petit-osaka",
     "appleMapsId": "I17668E43966A2F62",
+    "nameOverride": { "en": "Kirby Café PETIT Osaka", "ja": "Kirby Café PETIT 天王寺店" },
     "category": "restaurants-cafe",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -677,6 +695,7 @@
   {
     "id": "kirby-cafe-petit-tokyo",
     "appleMapsId": "I477FFF11EDA1D195",
+    "nameOverride": { "en": "Kirby Café PETIT Tokyo", "ja": "Kirby Café PETIT TOKYO" },
     "category": "restaurants-cafe",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -705,6 +724,7 @@
   {
     "id": "pokemon-center-hiroshima",
     "appleMapsId": "ID996912C26CA3F7E",
+    "nameOverride": { "en": "Pokémon Center HIROSHIMA", "ja": "ポケモンセンターヒロシマ" },
     "category": "pokemon-center",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -742,6 +762,7 @@
   {
     "id": "pokemon-center-osaka",
     "appleMapsId": "I8D463B45711E9B4A",
+    "nameOverride": { "en": "Pokémon Center OSAKA", "ja": "ポケモンセンターオーサカ" },
     "category": "pokemon-center",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -774,6 +795,7 @@
   {
     "id": "pokemon-center-osaka-dx",
     "appleMapsId": "I64BD42281BFC4979",
+    "nameOverride": { "en": "Pokémon Center OSAKA DX", "ja": "ポケモンセンターオーサカDX" },
     "category": "pokemon-center",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -810,6 +832,7 @@
   {
     "id": "lucky-park-yanaizu",
     "appleMapsId": "I60955906A65DE55A",
+    "nameOverride": { "en": "Lucky Park in Yanaizu", "ja": "ラッキー公園 in やないづまち" },
     "category": "public-park",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -835,6 +858,7 @@
   {
     "id": "pokemon-cafe-osaka",
     "appleMapsId": "I81959209827FE247",
+    "nameOverride": { "en": "Pokémon Cafe Osaka", "ja": "ポケモンカフェ 大阪・心斎橋" },
     "category": "restaurants-cafe",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -866,6 +890,7 @@
   {
     "id": "nintendo-hong-kong-office",
     "appleMapsId": "I96A1E1960BAFA417",
+    "nameOverride": { "en": "Nintendo Hong Kong", "ja": "Nintendo Hong Kong" },
     "category": "historical-sites-corporate",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -888,6 +913,7 @@
   {
     "id": "pokemon-store-gotemba",
     "appleMapsId": "I78A721538ECB5B55",
+    "nameOverride": { "en": "Pokémon Store Gotemba Shop", "ja": "ポケモンストア 御殿場店" },
     "category": "pokemon-store",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -919,6 +945,7 @@
   {
     "id": "pokemon-center-kanazawa",
     "appleMapsId": "ICCA43BBCC181CA21",
+    "nameOverride": { "en": "Pokémon Center KANAZAWA", "ja": "ポケモンセンターカナザワ" },
     "category": "pokemon-center",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -953,6 +980,7 @@
   {
     "id": "1-up-factory-japan",
     "appleMapsId": "I75B9BF6BE484B7B3",
+    "nameOverride": { "en": "1-UP Factory", "ja": "ワンナップ・ファクトリー" },
     "category": "park-store",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -984,6 +1012,7 @@
   {
     "id": "pokemon-center-yokohama-satellite",
     "appleMapsId": "I120294E71A5BA149",
+    "nameOverride": { "en": "Pokémon Center YOKOHAMA Satellite", "ja": "ポケモンセンターヨコハマ サテライト" },
     "category": "pokemon-center",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -1015,6 +1044,7 @@
   {
     "id": "pokemon-center-taipei",
     "appleMapsId": "I3A47E78522D7105F",
+    "nameOverride": { "en": "Pokémon Center TAIPEI", "ja": "Pokémon Center TAIPEI" },
     "category": "pokemon-center",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -1054,6 +1084,7 @@
   {
     "id": "pokemon-store-outlet-kisarazu",
     "appleMapsId": "I5C96002DDAFE5654",
+    "nameOverride": { "en": "Pokémon Store OUTLET Kisarazu Shop", "ja": "ポケモンストア アウトレット 木更津店" },
     "category": "pokemon-store",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -1085,6 +1116,7 @@
   {
     "id": "super-nintendo-world-california",
     "appleMapsId": "IFC8FA916D7E3C7C0",
+    "nameOverride": { "en": "SUPER NINTENDO WORLD", "ja": "スーパー・ニンテンドー・ワールド" },
     "category": "theme-park",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -1116,6 +1148,7 @@
   {
     "id": "pokemon-store-tokyo-station",
     "appleMapsId": "I328EA3B2C3C13931",
+    "nameOverride": { "en": "Pokémon Store Tokyo Station Shop", "ja": "ポケモンストア 東京駅店" },
     "category": "pokemon-store",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -1153,6 +1186,7 @@
   {
     "id": "lucky-park-namie",
     "appleMapsId": "IDD92F28F2C18D2",
+    "nameOverride": { "en": "Lucky Park in Namie", "ja": "ラッキー公園 in なみえまち" },
     "category": "public-park",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -1181,6 +1215,7 @@
   {
     "id": "pokemon-center-kagawa",
     "appleMapsId": "IC01CD2C09FD354A7",
+    "nameOverride": { "en": "Pokémon Center KAGAWA", "ja": "ポケモンセンターカガワ" },
     "category": "pokemon-center",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -1212,6 +1247,7 @@
   {
     "id": "nintendo-super-star-store-orlando",
     "appleMapsId": "IDD117A2FEC067B43",
+    "nameOverride": { "en": "Nintendo Super Star Store", "ja": "Nintendo Super Star Store" },
     "category": "park-store",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -1240,6 +1276,7 @@
   {
     "id": "nintendo-authorized-store-by-synnex-siam-paragon",
     "appleMapsId": "I442C42DF8FB2E64F",
+    "nameOverride": { "en": "Nintendo Authorized Store by Synnex", "ja": "Nintendo Authorized Store by Synnex" },
     "category": "authorized-nintendo-reseller",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -1268,6 +1305,7 @@
   {
     "id": "pokemon-center-yokohama",
     "appleMapsId": "I4BE28BA11F2D209F",
+    "nameOverride": { "en": "Pokémon Center YOKOHAMA", "ja": "ポケモンセンターヨコハマ" },
     "category": "pokemon-center",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -1302,6 +1340,7 @@
   {
     "id": "pikachu-sweets-ikebukuro",
     "appleMapsId": "I979FCD76BB8863D7",
+    "nameOverride": { "en": "Pikachu Sweets by Pokémon Cafe", "ja": "ピカチュウスイーツ by ポケモンカフェ" },
     "category": "restaurants-cafe",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -1326,6 +1365,7 @@
   {
     "id": "nintendo-development-center",
     "appleMapsId": "ICDEFCD0BEB02197",
+    "nameOverride": { "en": "Nintendo Head Office Development Center", "ja": "任天堂株式会社 本社開発棟" },
     "category": "historical-sites-corporate",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -1348,6 +1388,7 @@
   {
     "id": "nintendo-sales-kyoto-distribution-center",
     "appleMapsId": "I596480628F985719",
+    "nameOverride": { "en": "Nintendo Sales Kyoto Distribution Center", "ja": "任天堂販売 京都物流センター" },
     "category": "historical-sites-corporate",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -1370,6 +1411,7 @@
   {
     "id": "nintendo-of-europe",
     "appleMapsId": "I21D72BF0ADFBB196",
+    "nameOverride": { "en": "Nintendo of Europe", "ja": "Nintendo of Europe" },
     "category": "historical-sites-corporate",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -1395,6 +1437,7 @@
   {
     "id": "nintendo-kyoto-research-center",
     "appleMapsId": "I7DD3BF7637B1C96",
+    "nameOverride": { "en": "Nintendo Kyoto Research Center", "ja": "任天堂 京都リサーチセンター" },
     "category": "historical-sites-corporate",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -1421,6 +1464,7 @@
   {
     "id": "geodude-park-kuji",
     "appleMapsId": "I7A62EAF036987780",
+    "nameOverride": { "en": "Ishitsubute Park", "ja": "イシツブテ公園" },
     "category": "public-park",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -1446,6 +1490,7 @@
   {
     "id": "nsew-the-wai",
     "appleMapsId": "I21EA7C106A949D6B",
+    "nameOverride": { "en": "nsew The Wai", "ja": "nsew 任天堂正規商品販賣店 (圍方)" },
     "category": "authorized-nintendo-reseller",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -1477,6 +1522,7 @@
   {
     "id": "pokemon-center-fukuoka",
     "appleMapsId": "IDBEE267A82D64293",
+    "nameOverride": { "en": "Pokémon Center FUKUOKA", "ja": "ポケモンセンターフクオカ" },
     "category": "pokemon-center",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -1517,6 +1563,7 @@
   {
     "id": "marufukuro",
     "appleMapsId": "I407F723E8169F03D",
+    "nameOverride": { "en": "Marufukuro", "ja": "丸福樓" },
     "category": "historical-sites-corporate",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -1544,6 +1591,7 @@
   {
     "id": "nintendo-super-star-store-orlando-in-park",
     "appleMapsId": "I42AE717C2BF48760",
+    "nameOverride": { "en": "Nintendo Super Star Store", "ja": "Nintendo Super Star Store" },
     "category": "park-store",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -1575,6 +1623,7 @@
   {
     "id": "kirby-cafe-the-store-tokyo",
     "appleMapsId": "IDC5579F352BE1047",
+    "nameOverride": { "en": "Kirby Café The Store TOKYO", "ja": "カービィカフェ ザ・ストア TOKYO" },
     "category": "restaurants-cafe",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -1602,6 +1651,7 @@
   {
     "id": "nsew-kai-tak",
     "appleMapsId": "I35EEF33C1ED18BF1",
+    "nameOverride": { "en": "nsew Kai Tak", "ja": "nsew 任天堂正規商品販賣店 (啟德零售館2)" },
     "category": "authorized-nintendo-reseller",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -1633,6 +1683,7 @@
   {
     "id": "super-nintendo-world-store-citywalk-california",
     "appleMapsId": "I5E2188ECC3D7FF25",
+    "nameOverride": { "en": "SUPER NINTENDO WORLD Store", "ja": "スーパー・ニンテンドー・ワールド ストア" },
     "category": "park-store",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -1661,6 +1712,7 @@
   {
     "id": "nsew-k11-musea",
     "appleMapsId": "I1AA6C7A83F7EE2EF",
+    "nameOverride": { "en": "nsew K11 MUSEA", "ja": "nsew 任天堂正規商品販賣店 (K11 MUSEA)" },
     "category": "authorized-nintendo-reseller",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -1689,6 +1741,7 @@
   {
     "id": "funkys-fly-n-buy-orlando",
     "appleMapsId": "IE4FFDA8F63401FE1",
+    "nameOverride": { "en": "Funky's Fly 'n' Buy", "ja": "Funky's Fly 'n' Buy" },
     "category": "park-store",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -1717,6 +1770,7 @@
   {
     "id": "sand-park",
     "appleMapsId": "I311A97D140E18B6C",
+    "nameOverride": { "en": "Sand Park", "ja": "サンド公園" },
     "category": "public-park",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -1752,6 +1806,7 @@
   {
     "id": "kirby-cafe-tokyo",
     "appleMapsId": "I6C7F6719CBC524C4",
+    "nameOverride": { "en": "Kirby Café TOKYO", "ja": "カービィカフェ TOKYO" },
     "category": "restaurants-cafe",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -1780,6 +1835,7 @@
   {
     "id": "nintendo-israel-tel-aviv",
     "appleMapsId": "IA0800CABE4BF3331",
+    "nameOverride": { "en": "Nintendo Israel", "ja": "Nintendo Israel" },
     "category": "authorized-nintendo-reseller",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -1812,6 +1868,7 @@
   {
     "id": "1-up-factory-california",
     "appleMapsId": "I9FAE33B1F451EEF4",
+    "nameOverride": { "en": "1-UP Factory", "ja": "1-UP Factory" },
     "category": "park-store",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -1843,6 +1900,7 @@
   {
     "id": "pokemon-center-tohoku",
     "appleMapsId": "IDFDDDDF592E6CC7",
+    "nameOverride": { "en": "Pokémon Center TOHOKU", "ja": "ポケモンセンタートウホク" },
     "category": "pokemon-center",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -1880,6 +1938,7 @@
   {
     "id": "pokemon-center-kyoto",
     "appleMapsId": "IF9DC10B9FEDCFA12",
+    "nameOverride": { "en": "Pokémon Center KYOTO", "ja": "ポケモンセンターキョウト" },
     "category": "pokemon-center",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -1912,6 +1971,7 @@
   {
     "id": "super-nintendo-world-orlando",
     "appleMapsId": "IE262F6BA936D8A83",
+    "nameOverride": { "en": "SUPER NINTENDO WORLD", "ja": "スーパー・ニンテンドー・ワールド" },
     "category": "theme-park",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -1943,6 +2003,7 @@
   {
     "id": "funkys-fly-n-buy-japan",
     "appleMapsId": "I1354DA5541FD8ADD",
+    "nameOverride": { "en": "Funky's Fly 'n' Buy", "ja": "ファンキーコングのフライ・アンド・バイ" },
     "category": "park-store",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -1974,6 +2035,7 @@
   {
     "id": "nintendo-store-sandton-city",
     "appleMapsId": "I22FE0739FB20A6BB",
+    "nameOverride": { "en": "Nintendo Store Sandton City", "ja": "Nintendo Store Sandton City" },
     "category": "authorized-nintendo-reseller",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -2010,6 +2072,7 @@
   {
     "id": "kirby-cafe-hakata",
     "appleMapsId": "IFF67E86A94BEE6F",
+    "nameOverride": { "en": "Kirby Café HAKATA", "ja": "カービィカフェ HAKATA" },
     "category": "restaurants-cafe",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -2038,6 +2101,7 @@
   {
     "id": "kirby-cafe-the-store-osaka",
     "appleMapsId": "I633F2FEB7BB7EE06",
+    "nameOverride": { "en": "Kirby Café The Store OSAKA", "ja": "カービィカフェ ザ・ストア OSAKA" },
     "category": "restaurants-cafe",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -2066,6 +2130,7 @@
   {
     "id": "kirby-cafe-osaka",
     "appleMapsId": "IEF29D5F72AC4A20A",
+    "nameOverride": { "en": "Kirby Café OSAKA", "ja": "カービィカフェ OSAKA" },
     "category": "restaurants-cafe",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -2097,6 +2162,7 @@
   {
     "id": "pokemon-store-narita-airport",
     "appleMapsId": "IF1193F7E8652C673",
+    "nameOverride": { "en": "Pokémon Store Narita Airport Shop", "ja": "ポケモンストア 成田空港店" },
     "category": "pokemon-store",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -2129,6 +2195,7 @@
   {
     "id": "mario-motors-japan",
     "appleMapsId": "IDCE232A77EFB582D",
+    "nameOverride": { "en": "Mario Motors", "ja": "マリオ・モーターズ" },
     "category": "park-store",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -2160,6 +2227,7 @@
   {
     "id": "nintendo-of-canada-ltd",
     "appleMapsId": "IB0EC07A2B73E190B",
+    "nameOverride": { "en": "Nintendo of Canada", "ja": "Nintendo of Canada" },
     "category": "historical-sites-corporate",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -2181,6 +2249,7 @@
   {
     "id": "lbuy-nintendo-authorized-store-moko",
     "appleMapsId": "I70AD392AA842AD3F",
+    "nameOverride": { "en": "LBuy Nintendo Authorized Store MOKO", "ja": "LBuy 任天堂正規商品販賣店 (MOKO)" },
     "category": "authorized-nintendo-reseller",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -2216,6 +2285,7 @@
   {
     "id": "pokemon-center-sapporo",
     "appleMapsId": "IA498954A5CA588B4",
+    "nameOverride": { "en": "Pokémon Center SAPPORO", "ja": "ポケモンセンターサッポロ" },
     "category": "pokemon-center",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -2282,6 +2352,7 @@
   {
     "id": "nintendo-check-in-narita",
     "appleMapsId": "I54CF118112B41B89",
+    "nameOverride": { "en": "Nintendo Check In Narita International Airport", "ja": "Nintendo Check In 成田国際空港" },
     "category": "nintendo-check-in",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -2313,6 +2384,7 @@
   {
     "id": "pokemon-center-skytree-town",
     "appleMapsId": "I25EBD134BB60456E",
+    "nameOverride": { "en": "Pokémon Center SKYTREE TOWN", "ja": "ポケモンセンタースカイツリータウン" },
     "category": "pokemon-center",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -2344,6 +2416,7 @@
   },
   {    "id": "pokepark-kanto",
     "appleMapsId": "I236B0F91A90423C2",
+    "nameOverride": { "en": "PokéPark KANTO", "ja": "ポケパーク カントー" },
     "category": "theme-park",
     "hours": [
       {
@@ -2369,6 +2442,7 @@
   {
     "id": "super-nintendo-world-japan",
     "appleMapsId": "I19B2A609EF7804EC",
+    "nameOverride": { "en": "SUPER NINTENDO WORLD", "ja": "スーパー・ニンテンドー・ワールド" },
     "category": "theme-park",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -2400,6 +2474,7 @@
   {
     "id": "nintendo-museum",
     "appleMapsId": "I6151A6C18324637F",
+    "nameOverride": { "en": "Nintendo Museum", "ja": "ニンテンドーミュージアム" },
     "category": "museum",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -2435,6 +2510,7 @@
   {
     "id": "nintendo-head-office-kyoto",
     "appleMapsId": "I209B2C8B372B5586",
+    "nameOverride": { "en": "Nintendo Head Office", "ja": "任天堂 本社" },
     "category": "historical-sites-corporate",
     "photos": [
       { "url": "https://example.com/photo1.jpg" },
@@ -2459,7 +2535,7 @@
   },
   {
     "id": "nintendo-popup-store-tokyo",
-    "nameOverride": { "en": "Nintendo TOKYO POP-UP STORE", "ja": "Nintendo TOKYO POP-UP STORE" },
+    "nameOverride": { "en": "Nintendo TOKYO POP-UP STORE", "ja": "Nintendo TOKYO ポップアップストア" },
     "category": "pop-up-store",
     "about": {
       "en": "A limited-time Nintendo TOKYO pop-up store held at PARCO locations, bringing exclusive merchandise, special collaborations, and curated selections from the Shibuya flagship store to fans across Japan.",
