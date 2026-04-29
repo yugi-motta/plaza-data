@@ -2060,11 +2060,539 @@
       "ja": "渋谷PARCOのNintendo TOKYOをベースにした期間限定ポップアップストア。限定グッズやコラボ商品、人気アイテムを各地のPARCOで展開。"
     },
     "timeline": [
-      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "June 25, 2021", "ja": "2021年6月25日" } },
-      { "label": { "en": "Closed", "ja": "閉店" }, "date": { "en": "July 25, 2021", "ja": "2021年7月25日" } }
+      { "label": { "en": "Started", "ja": "開始" }, "date": { "en": "June 25, 2021", "ja": "2021年6月25日" } },
+      { "label": { "en": "Ended", "ja": "終了" }, "date": { "en": "July 25, 2021", "ja": "2021年7月25日" } }
     ],
-    "info": { "website": null, "phone": null, "address": { "en": "〒150-8377 東京都渋谷区宇田川町15-1 渋谷PARCO", "ja": "〒150-8377 東京都渋谷区宇田川町15-1 渋谷PARCO" } },
+    "info": { "address": { "en": "〒150-8377 東京都渋谷区宇田川町15-1 渋谷PARCO", "ja": "〒150-8377 東京都渋谷区宇田川町15-1 渋谷PARCO" } },
     "tags": ["event-ended"],
     "coordinate": "35.661989, 139.698784"
+  },
+  {
+    "id": "nintendo-popup-store-nagoya-parco-2021",
+    "nameOverride": { "en": "Nintendo TOKYO POP-UP STORE at Nagoya PARCO", "ja": "Nintendo TOKYO ポップアップストア（名古屋PARCO）" },
+    "category": "pop-up-store",
+    "about": {
+      "en": "A limited-time Nintendo TOKYO pop-up store held at Nagoya PARCO, bringing official Nintendo merchandise and selected items from the Shibuya flagship store to fans in Nagoya.",
+      "ja": "名古屋PARCOで開催された期間限定のNintendo TOKYOポップアップストア。渋谷の旗艦店からセレクトされた任天堂公式グッズを名古屋のファンに届けました。"
+    },
+    "timeline": [
+      { "label": { "en": "Started", "ja": "開始" }, "date": { "en": "June 25, 2021", "ja": "2021年6月25日" } },
+      { "label": { "en": "Ended", "ja": "終了" }, "date": { "en": "July 25, 2021", "ja": "2021年7月25日" } }
+    ],
+    "info": { "address": { "en": "Nagoya PARCO South Building 7F Event Space, 3-29-1 Sakae, Naka-ku, Nagoya, Aichi, Japan", "ja": "愛知県名古屋市中区栄3-29-1 名古屋PARCO 南館7F イベントスペース" } },
+    "tags": ["event-ended"],
+    "coordinate": "35.1637842, 136.9073960"
+  },
+  {
+    "id": "nintendo-popup-store-fukuoka-parco-2021",
+    "nameOverride": { "en": "Nintendo TOKYO POP-UP STORE at Fukuoka PARCO", "ja": "Nintendo TOKYO ポップアップストア（福岡PARCO）" },
+    "category": "pop-up-store",
+    "about": {
+      "en": "A limited-time Nintendo TOKYO pop-up store held at Fukuoka PARCO, bringing official Nintendo merchandise and selected items from the Shibuya flagship store to fans in Fukuoka.",
+      "ja": "福岡PARCOで開催された期間限定のNintendo TOKYOポップアップストア。渋谷の旗艦店からセレクトされた任天堂公式グッズを福岡のファンに届けました。"
+    },
+    "timeline": [
+      { "label": { "en": "Started", "ja": "開始" }, "date": { "en": "June 25, 2021", "ja": "2021年6月25日" } },
+      { "label": { "en": "Ended", "ja": "終了" }, "date": { "en": "July 25, 2021", "ja": "2021年7月25日" } }
+    ],
+    "info": { "address": { "en": "Fukuoka PARCO Main Building 5F PARCO FACTORY, 2-11-1 Tenjin, Chuo-ku, Fukuoka, Japan", "ja": "福岡県福岡市中央区天神2-11-1 福岡PARCO 本館5F PARCO FACTORY" } },
+    "tags": ["event-ended"],
+    "coordinate": "33.5907990, 130.3980594"
+  },
+  {
+    "id": "nintendo-popup-store-sendai-parco-2021",
+    "nameOverride": { "en": "Nintendo TOKYO POP-UP STORE at Sendai PARCO", "ja": "Nintendo TOKYO ポップアップストア（仙台PARCO）" },
+    "category": "pop-up-store",
+    "about": {
+      "en": "A limited-time Nintendo TOKYO pop-up store held at Sendai PARCO, bringing official Nintendo merchandise and selected items from the Shibuya flagship store to fans in Sendai.",
+      "ja": "仙台PARCOで開催された期間限定のNintendo TOKYOポップアップストア。渋谷の旗艦店からセレクトされた任天堂公式グッズを仙台のファンに届けました。"
+    },
+    "timeline": [
+      { "label": { "en": "Started", "ja": "開始" }, "date": { "en": "July 31, 2021", "ja": "2021年7月31日" } },
+      { "label": { "en": "Ended", "ja": "終了" }, "date": { "en": "August 15, 2021", "ja": "2021年8月15日" } }
+    ],
+    "info": { "address": { "en": "Sendai PARCO Main Building 6F SPACE6, 1-2-3 Chuo, Aoba-ku, Sendai, Miyagi, Japan", "ja": "宮城県仙台市青葉区中央1-2-3 仙台PARCO 本館6F SPACE6" } },
+    "tags": ["event-ended"],
+    "coordinate": "38.2620528, 140.8816096"
+  },
+  {
+    "id": "nintendo-popup-store-hiroshima-parco-2021",
+    "nameOverride": { "en": "Nintendo TOKYO POP-UP STORE at Hiroshima PARCO", "ja": "Nintendo TOKYO ポップアップストア（広島PARCO）" },
+    "category": "pop-up-store",
+    "about": {
+      "en": "A limited-time Nintendo TOKYO pop-up store held at Hiroshima PARCO, bringing official Nintendo merchandise and selected items from the Shibuya flagship store to fans in Hiroshima.",
+      "ja": "広島PARCOで開催された期間限定のNintendo TOKYOポップアップストア。渋谷の旗艦店からセレクトされた任天堂公式グッズを広島のファンに届けました。"
+    },
+    "timeline": [
+      { "label": { "en": "Started", "ja": "開始" }, "date": { "en": "August 14, 2021", "ja": "2021年8月14日" } },
+      { "label": { "en": "Ended", "ja": "終了" }, "date": { "en": "September 5, 2021", "ja": "2021年9月5日" } }
+    ],
+    "info": { "address": { "en": "Hiroshima PARCO Main Building 6F PARCO FACTORY, 10-1 Hondori, Naka-ku, Hiroshima, Japan", "ja": "広島県広島市中区本通10-1 広島PARCO 本館6F PARCO FACTORY" } },
+    "tags": ["event-ended"],
+    "coordinate": "34.3921523, 132.4619771"
+  },
+  {
+    "id": "nintendo-popup-store-sapporo-parco-2021",
+    "nameOverride": { "en": "Nintendo TOKYO POP-UP STORE at Sapporo PARCO", "ja": "Nintendo TOKYO ポップアップストア（札幌PARCO）" },
+    "category": "pop-up-store",
+    "about": {
+      "en": "A limited-time Nintendo TOKYO pop-up store held at Sapporo PARCO, bringing official Nintendo merchandise and selected items from the Shibuya flagship store to fans in Sapporo.",
+      "ja": "札幌PARCOで開催された期間限定のNintendo TOKYOポップアップストア。渋谷の旗艦店からセレクトされた任天堂公式グッズを札幌のファンに届けました。"
+    },
+    "timeline": [
+      { "label": { "en": "Started", "ja": "開始" }, "date": { "en": "August 21, 2021", "ja": "2021年8月21日" } },
+      { "label": { "en": "Ended", "ja": "終了" }, "date": { "en": "September 5, 2021", "ja": "2021年9月5日" } }
+    ],
+    "info": { "address": { "en": "Sapporo PARCO 7F SPACE7, 3-3 Minami 1-jo Nishi, Chuo-ku, Sapporo, Hokkaido, Japan", "ja": "北海道札幌市中央区南1条西3-3 札幌PARCO 7F SPACE7" } },
+    "tags": ["event-ended"],
+    "coordinate": "43.0587277, 141.3531576"
+  },
+  {
+    "id": "nintendo-popup-store-amu-plaza-hakata-2022",
+    "nameOverride": { "en": "Nintendo TOKYO POP-UP STORE at AMU Plaza Hakata", "ja": "Nintendo TOKYO ポップアップストア（アミュプラザ博多）" },
+    "category": "pop-up-store",
+    "about": {
+      "en": "A limited-time Nintendo TOKYO pop-up store held at AMU Plaza Hakata, bringing official Nintendo merchandise and selected items from the Shibuya flagship store to fans in Fukuoka.",
+      "ja": "アミュプラザ博多で開催された期間限定のNintendo TOKYOポップアップストア。渋谷の旗艦店からセレクトされた任天堂公式グッズを福岡のファンに届けました。"
+    },
+    "timeline": [
+      { "label": { "en": "Started", "ja": "開始" }, "date": { "en": "September 2, 2022", "ja": "2022年9月2日" } },
+      { "label": { "en": "Ended", "ja": "終了" }, "date": { "en": "September 25, 2022", "ja": "2022年9月25日" } }
+    ],
+    "info": { "address": { "en": "AMU Plaza Hakata 7F, 1-1 Hakataeki Chuogai, Hakata-ku, Fukuoka, Japan", "ja": "福岡県福岡市博多区博多駅中央街1-1 アミュプラザ博多7F" } },
+    "tags": ["event-ended"],
+    "coordinate": "33.5893162, 130.4206005"
+  },
+  {
+    "id": "nintendo-popup-store-amu-plaza-kumamoto-2022",
+    "nameOverride": { "en": "Nintendo TOKYO POP-UP STORE at AMU Plaza Kumamoto", "ja": "Nintendo TOKYO ポップアップストア（アミュプラザくまもと）" },
+    "category": "pop-up-store",
+    "about": {
+      "en": "A limited-time Nintendo TOKYO pop-up store held at AMU Plaza Kumamoto, bringing official Nintendo merchandise and selected items from the Shibuya flagship store to fans in Kumamoto.",
+      "ja": "アミュプラザくまもとで開催された期間限定のNintendo TOKYOポップアップストア。渋谷の旗艦店からセレクトされた任天堂公式グッズを熊本のファンに届けました。"
+    },
+    "timeline": [
+      { "label": { "en": "Started", "ja": "開始" }, "date": { "en": "September 2, 2022", "ja": "2022年9月2日" } },
+      { "label": { "en": "Ended", "ja": "終了" }, "date": { "en": "September 25, 2022", "ja": "2022年9月25日" } }
+    ],
+    "info": { "address": { "en": "AMU Plaza Kumamoto 5F, 3-15-26 Kasuga, Nishi-ku, Kumamoto, Japan", "ja": "熊本県熊本市西区春日3-15-26 アミュプラザくまもと5F" } },
+    "tags": ["event-ended"],
+    "coordinate": "32.790184, 130.689771"
+  },
+  {
+    "id": "nintendo-popup-store-amu-plaza-kagoshima-2022",
+    "nameOverride": { "en": "Nintendo TOKYO POP-UP STORE at AMU Plaza Kagoshima", "ja": "Nintendo TOKYO ポップアップストア（アミュプラザ鹿児島）" },
+    "category": "pop-up-store",
+    "about": {
+      "en": "A limited-time Nintendo TOKYO pop-up store held at AMU Plaza Kagoshima, bringing official Nintendo merchandise and selected items from the Shibuya flagship store to fans in Kagoshima.",
+      "ja": "アミュプラザ鹿児島で開催された期間限定のNintendo TOKYOポップアップストア。渋谷の旗艦店からセレクトされた任天堂公式グッズを鹿児島のファンに届けました。"
+    },
+    "timeline": [
+      { "label": { "en": "Started", "ja": "開始" }, "date": { "en": "September 30, 2022", "ja": "2022年9月30日" } },
+      { "label": { "en": "Ended", "ja": "終了" }, "date": { "en": "October 16, 2022", "ja": "2022年10月16日" } }
+    ],
+    "info": { "address": { "en": "AMU Plaza Kagoshima Main Building 4F, 1-1 Chuocho, Kagoshima, Japan", "ja": "鹿児島県鹿児島市中央町1-1 アミュプラザ鹿児島 本館4F" } },
+    "tags": ["event-ended"],
+    "coordinate": "31.5841308, 130.5425444"
+  },
+  {
+    "id": "nintendo-popup-store-shisui-premium-outlets-2023",
+    "nameOverride": { "en": "Nintendo POP-UP STORE at Shisui Premium Outlets", "ja": "Nintendo POP-UP STORE（酒々井プレミアム・アウトレット）" },
+    "category": "pop-up-store",
+    "about": {
+      "en": "A limited-time Nintendo POP-UP STORE held at Shisui Premium Outlets as part of the Premium Outlets Super Mario campaign, offering official Nintendo store merchandise.",
+      "ja": "プレミアム・アウトレットのスーパーマリオコラボ企画にあわせて酒々井プレミアム・アウトレットで開催された期間限定のNintendo POP-UP STORE。任天堂公式ストアの商品を取り扱いました。"
+    },
+    "timeline": [
+      { "label": { "en": "Started", "ja": "開始" }, "date": { "en": "November 10, 2023", "ja": "2023年11月10日" } },
+      { "label": { "en": "Ended", "ja": "終了" }, "date": { "en": "November 19, 2023", "ja": "2023年11月19日" } }
+    ],
+    "info": { "address": { "en": "Shisui Premium Outlets, Chiba, Japan", "ja": "千葉県 酒々井プレミアム・アウトレット" } },
+    "tags": ["event-ended"],
+    "coordinate": "35.7139404, 140.2948809"
+  },
+  {
+    "id": "nintendo-popup-store-fukaya-hanazono-premium-outlets-2023",
+    "nameOverride": { "en": "Nintendo POP-UP STORE at Fukaya-Hanazono Premium Outlets", "ja": "Nintendo POP-UP STORE（ふかや花園プレミアム・アウトレット）" },
+    "category": "pop-up-store",
+    "about": {
+      "en": "A limited-time Nintendo POP-UP STORE held at Fukaya-Hanazono Premium Outlets as part of the Premium Outlets Super Mario campaign, offering official Nintendo store merchandise.",
+      "ja": "プレミアム・アウトレットのスーパーマリオコラボ企画にあわせてふかや花園プレミアム・アウトレットで開催された期間限定のNintendo POP-UP STORE。任天堂公式ストアの商品を取り扱いました。"
+    },
+    "timeline": [
+      { "label": { "en": "Started", "ja": "開始" }, "date": { "en": "November 23, 2023", "ja": "2023年11月23日" } },
+      { "label": { "en": "Ended", "ja": "終了" }, "date": { "en": "December 3, 2023", "ja": "2023年12月3日" } }
+    ],
+    "info": { "address": { "en": "Fukaya-Hanazono Premium Outlets, Saitama, Japan", "ja": "埼玉県 ふかや花園プレミアム・アウトレット" } },
+    "tags": ["event-ended"],
+    "coordinate": "36.1331579, 139.2489217"
+  },
+  {
+    "id": "nintendo-popup-store-tosu-premium-outlets-2023",
+    "nameOverride": { "en": "Nintendo POP-UP STORE at Tosu Premium Outlets", "ja": "Nintendo POP-UP STORE（鳥栖プレミアム・アウトレット）" },
+    "category": "pop-up-store",
+    "about": {
+      "en": "A limited-time Nintendo POP-UP STORE held at Tosu Premium Outlets as part of the Premium Outlets Super Mario campaign, offering official Nintendo store merchandise.",
+      "ja": "プレミアム・アウトレットのスーパーマリオコラボ企画にあわせて鳥栖プレミアム・アウトレットで開催された期間限定のNintendo POP-UP STORE。任天堂公式ストアの商品を取り扱いました。"
+    },
+    "timeline": [
+      { "label": { "en": "Started", "ja": "開始" }, "date": { "en": "November 23, 2023", "ja": "2023年11月23日" } },
+      { "label": { "en": "Ended", "ja": "終了" }, "date": { "en": "December 3, 2023", "ja": "2023年12月3日" } }
+    ],
+    "info": { "address": { "en": "Tosu Premium Outlets, Saga, Japan", "ja": "佐賀県 鳥栖プレミアム・アウトレット" } },
+    "tags": ["event-ended"],
+    "coordinate": "33.4061674, 130.5118604"
+  },
+  {
+    "id": "nintendo-popup-store-sendai-izumi-premium-outlets-2023",
+    "nameOverride": { "en": "Nintendo POP-UP STORE at Sendai-Izumi Premium Outlets", "ja": "Nintendo POP-UP STORE（仙台泉プレミアム・アウトレット）" },
+    "category": "pop-up-store",
+    "about": {
+      "en": "A limited-time Nintendo POP-UP STORE held at Sendai-Izumi Premium Outlets as part of the Premium Outlets Super Mario campaign, offering official Nintendo store merchandise.",
+      "ja": "プレミアム・アウトレットのスーパーマリオコラボ企画にあわせて仙台泉プレミアム・アウトレットで開催された期間限定のNintendo POP-UP STORE。任天堂公式ストアの商品を取り扱いました。"
+    },
+    "timeline": [
+      { "label": { "en": "Started", "ja": "開始" }, "date": { "en": "November 23, 2023", "ja": "2023年11月23日" } },
+      { "label": { "en": "Ended", "ja": "終了" }, "date": { "en": "December 3, 2023", "ja": "2023年12月3日" } }
+    ],
+    "info": { "address": { "en": "Sendai-Izumi Premium Outlets, Miyagi, Japan", "ja": "宮城県 仙台泉プレミアム・アウトレット" } },
+    "tags": ["event-ended"],
+    "coordinate": "38.3415282, 140.8374306"
+  },
+  {
+    "id": "nintendo-popup-store-rinku-premium-outlets-2023",
+    "nameOverride": { "en": "Nintendo POP-UP STORE at Rinku Premium Outlets", "ja": "Nintendo POP-UP STORE（りんくうプレミアム・アウトレット）" },
+    "category": "pop-up-store",
+    "about": {
+      "en": "A limited-time Nintendo POP-UP STORE held at Rinku Premium Outlets as part of the Premium Outlets Super Mario campaign, offering official Nintendo store merchandise.",
+      "ja": "プレミアム・アウトレットのスーパーマリオコラボ企画にあわせてりんくうプレミアム・アウトレットで開催された期間限定のNintendo POP-UP STORE。任天堂公式ストアの商品を取り扱いました。"
+    },
+    "timeline": [
+      { "label": { "en": "Started", "ja": "開始" }, "date": { "en": "November 23, 2023", "ja": "2023年11月23日" } },
+      { "label": { "en": "Ended", "ja": "終了" }, "date": { "en": "December 10, 2023", "ja": "2023年12月10日" } }
+    ],
+    "info": { "address": { "en": "Rinku Premium Outlets, Osaka, Japan", "ja": "大阪府 りんくうプレミアム・アウトレット" } },
+    "tags": ["event-ended"],
+    "coordinate": "34.4081799, 135.2938013"
+  },
+  {
+    "id": "nintendo-popup-store-toki-premium-outlets-2023",
+    "nameOverride": { "en": "Nintendo POP-UP STORE at Toki Premium Outlets", "ja": "Nintendo POP-UP STORE（土岐プレミアム・アウトレット）" },
+    "category": "pop-up-store",
+    "about": {
+      "en": "A limited-time Nintendo POP-UP STORE held at Toki Premium Outlets as part of the Premium Outlets Super Mario campaign, offering official Nintendo store merchandise.",
+      "ja": "プレミアム・アウトレットのスーパーマリオコラボ企画にあわせて土岐プレミアム・アウトレットで開催された期間限定のNintendo POP-UP STORE。任天堂公式ストアの商品を取り扱いました。"
+    },
+    "timeline": [
+      { "label": { "en": "Started", "ja": "開始" }, "date": { "en": "December 8, 2023", "ja": "2023年12月8日" } },
+      { "label": { "en": "Ended", "ja": "終了" }, "date": { "en": "December 17, 2023", "ja": "2023年12月17日" } }
+    ],
+    "info": { "address": { "en": "Toki Premium Outlets, 1-2 Tokigaoka, Toki, Gifu, Japan", "ja": "岐阜県土岐市土岐ヶ丘1-2 土岐プレミアム・アウトレット" } },
+    "tags": ["event-ended"],
+    "coordinate": "35.329679, 137.172185"
+  },
+  {
+    "id": "nintendo-popup-store-ami-premium-outlets-2023",
+    "nameOverride": { "en": "Nintendo POP-UP STORE at Ami Premium Outlets", "ja": "Nintendo POP-UP STORE（あみプレミアム・アウトレット）" },
+    "category": "pop-up-store",
+    "about": {
+      "en": "A limited-time Nintendo POP-UP STORE held at Ami Premium Outlets as part of the Premium Outlets Super Mario campaign, offering official Nintendo store merchandise.",
+      "ja": "プレミアム・アウトレットのスーパーマリオコラボ企画にあわせてあみプレミアム・アウトレットで開催された期間限定のNintendo POP-UP STORE。任天堂公式ストアの商品を取り扱いました。"
+    },
+    "timeline": [
+      { "label": { "en": "Started", "ja": "開始" }, "date": { "en": "December 8, 2023", "ja": "2023年12月8日" } },
+      { "label": { "en": "Ended", "ja": "終了" }, "date": { "en": "December 17, 2023", "ja": "2023年12月17日" } }
+    ],
+    "info": { "address": { "en": "Ami Premium Outlets, Ibaraki, Japan", "ja": "茨城県 あみプレミアム・アウトレット" } },
+    "tags": ["event-ended"],
+    "coordinate": "35.9841582, 140.2376834"
+  },
+  {
+    "id": "nintendo-popup-store-gotemba-premium-outlets-2023",
+    "nameOverride": { "en": "Nintendo POP-UP STORE at Gotemba Premium Outlets", "ja": "Nintendo POP-UP STORE（御殿場プレミアム・アウトレット）" },
+    "category": "pop-up-store",
+    "about": {
+      "en": "A limited-time Nintendo POP-UP STORE held at Gotemba Premium Outlets as part of the Premium Outlets Super Mario campaign, offering official Nintendo store merchandise.",
+      "ja": "プレミアム・アウトレットのスーパーマリオコラボ企画にあわせて御殿場プレミアム・アウトレットで開催された期間限定のNintendo POP-UP STORE。任天堂公式ストアの商品を取り扱いました。"
+    },
+    "timeline": [
+      { "label": { "en": "Started", "ja": "開始" }, "date": { "en": "December 15, 2023", "ja": "2023年12月15日" } },
+      { "label": { "en": "Ended", "ja": "終了" }, "date": { "en": "January 21, 2024", "ja": "2024年1月21日" } }
+    ],
+    "info": { "address": { "en": "Gotemba Premium Outlets, Shizuoka, Japan", "ja": "静岡県 御殿場プレミアム・アウトレット" } },
+    "tags": ["event-ended"],
+    "coordinate": "35.3077919, 138.9650827"
+  },
+  {
+    "id": "nintendo-popup-store-sano-premium-outlets-2023",
+    "nameOverride": { "en": "Nintendo POP-UP STORE at Sano Premium Outlets", "ja": "Nintendo POP-UP STORE（佐野プレミアム・アウトレット）" },
+    "category": "pop-up-store",
+    "about": {
+      "en": "A limited-time Nintendo POP-UP STORE held at Sano Premium Outlets as part of the Premium Outlets Super Mario campaign, offering official Nintendo store merchandise.",
+      "ja": "プレミアム・アウトレットのスーパーマリオコラボ企画にあわせて佐野プレミアム・アウトレットで開催された期間限定のNintendo POP-UP STORE。任天堂公式ストアの商品を取り扱いました。"
+    },
+    "timeline": [
+      { "label": { "en": "Started", "ja": "開始" }, "date": { "en": "December 22, 2023", "ja": "2023年12月22日" } },
+      { "label": { "en": "Ended", "ja": "終了" }, "date": { "en": "January 21, 2024", "ja": "2024年1月21日" } }
+    ],
+    "info": { "address": { "en": "Sano Premium Outlets, Tochigi, Japan", "ja": "栃木県 佐野プレミアム・アウトレット" } },
+    "tags": ["event-ended"],
+    "coordinate": "36.2932232, 139.6049237"
+  },
+  {
+    "id": "nintendo-popup-store-kobe-sanda-premium-outlets-2023",
+    "nameOverride": { "en": "Nintendo POP-UP STORE at Kobe-Sanda Premium Outlets", "ja": "Nintendo POP-UP STORE（神戸三田プレミアム・アウトレット）" },
+    "category": "pop-up-store",
+    "about": {
+      "en": "A limited-time Nintendo POP-UP STORE held at Kobe-Sanda Premium Outlets as part of the Premium Outlets Super Mario campaign, offering official Nintendo store merchandise.",
+      "ja": "プレミアム・アウトレットのスーパーマリオコラボ企画にあわせて神戸三田プレミアム・アウトレットで開催された期間限定のNintendo POP-UP STORE。任天堂公式ストアの商品を取り扱いました。"
+    },
+    "timeline": [
+      { "label": { "en": "Started", "ja": "開始" }, "date": { "en": "December 22, 2023", "ja": "2023年12月22日" } },
+      { "label": { "en": "Ended", "ja": "終了" }, "date": { "en": "January 21, 2024", "ja": "2024年1月21日" } }
+    ],
+    "info": { "address": { "en": "Kobe-Sanda Premium Outlets, Hyogo, Japan", "ja": "兵庫県 神戸三田プレミアム・アウトレット" } },
+    "tags": ["event-ended"],
+    "coordinate": "34.8595395, 135.1917667"
+  },
+  {
+    "id": "nintendo-popup-store-seoul-yongsan-2023",
+    "nameOverride": { "en": "Nintendo POP-UP STORE in SEOUL at Yongsan I'Park Mall", "ja": "Nintendo POP-UP STORE in SEOUL（龍山アイパークモール）" },
+    "category": "pop-up-store",
+    "about": {
+      "en": "A limited-time Nintendo POP-UP STORE in Seoul held at Yongsan I'Park Mall, offering official Nintendo merchandise from Nintendo TOKYO, Nintendo OSAKA, and Nintendo KYOTO.",
+      "ja": "龍山アイパークモールで開催されたソウルの期間限定Nintendo POP-UP STORE。Nintendo TOKYO、Nintendo OSAKA、Nintendo KYOTOなどの公式ストア商品を取り扱いました。"
+    },
+    "timeline": [
+      { "label": { "en": "Started", "ja": "開始" }, "date": { "en": "October 20, 2023", "ja": "2023年10月20日" } },
+      { "label": { "en": "Ended", "ja": "終了" }, "date": { "en": "November 26, 2023", "ja": "2023年11月26日" } }
+    ],
+    "info": { "address": { "en": "Yongsan I'Park Mall Living Park, 55 Hangang-daero 23-gil, Yongsan-gu, Seoul, South Korea", "ja": "韓国ソウル特別市龍山区漢江大路23ギル55 龍山アイパークモール リビングパーク" } },
+    "tags": ["event-ended"],
+    "coordinate": "37.5296337, 126.9658127"
+  },
+  {
+    "id": "nintendo-popup-store-singapore-jewel-2023",
+    "nameOverride": { "en": "Nintendo POP-UP STORE in SINGAPORE at Jewel Changi Airport", "ja": "Nintendo POP-UP STORE in SINGAPORE（ジュエル・チャンギ・エアポート）" },
+    "category": "pop-up-store",
+    "about": {
+      "en": "A limited-time Nintendo POP-UP STORE in Singapore held at Jewel Changi Airport, offering official Nintendo merchandise from Nintendo TOKYO, Nintendo OSAKA, and Nintendo KYOTO.",
+      "ja": "ジュエル・チャンギ・エアポートで開催されたシンガポールの期間限定Nintendo POP-UP STORE。Nintendo TOKYO、Nintendo OSAKA、Nintendo KYOTOなどの公式ストア商品を取り扱いました。"
+    },
+    "timeline": [
+      { "label": { "en": "Started", "ja": "開始" }, "date": { "en": "November 17, 2023", "ja": "2023年11月17日" } },
+      { "label": { "en": "Ended", "ja": "終了" }, "date": { "en": "January 1, 2024", "ja": "2024年1月1日" } }
+    ],
+    "info": { "address": { "en": "Jewel Changi Airport Level 04-220/221, 78 Airport Boulevard, Singapore 819666", "ja": "シンガポール 819666 Airport Boulevard 78 ジュエル・チャンギ・エアポート Level 04-220/221" } },
+    "tags": ["event-ended"],
+    "coordinate": "1.3602243, 103.9896749"
+  },
+  {
+    "id": "nintendo-popup-store-hong-kong-k11-art-mall-2023",
+    "nameOverride": { "en": "Nintendo POP-UP STORE in HONG KONG at K11 Art Mall", "ja": "Nintendo POP-UP STORE in HONG KONG（K11 Art Mall）" },
+    "category": "pop-up-store",
+    "about": {
+      "en": "A limited-time Nintendo POP-UP STORE in Hong Kong held at K11 Art Mall, offering official Nintendo merchandise from Nintendo TOKYO, Nintendo OSAKA, and Nintendo KYOTO.",
+      "ja": "K11 Art Mallで開催された香港の期間限定Nintendo POP-UP STORE。Nintendo TOKYO、Nintendo OSAKA、Nintendo KYOTOなどの公式ストア商品を取り扱いました。"
+    },
+    "timeline": [
+      { "label": { "en": "Started", "ja": "開始" }, "date": { "en": "December 15, 2023", "ja": "2023年12月15日" } },
+      { "label": { "en": "Ended", "ja": "終了" }, "date": { "en": "January 28, 2024", "ja": "2024年1月28日" } }
+    ],
+    "info": { "address": { "en": "K11 Art Mall 2/F Shop 222A, 18 Hanoi Road, Tsim Sha Tsui, Kowloon, Hong Kong", "ja": "香港九龍尖沙咀河內道18號 K11 Art Mall 2階222A" } },
+    "tags": ["event-ended"],
+    "coordinate": "22.2973913, 114.1736162"
+  },
+  {
+    "id": "nintendo-popup-store-nintendo-live-seattle-2023",
+    "nameOverride": { "en": "Nintendo POP-UP STORE at Nintendo Live 2023", "ja": "Nintendo POP-UP STORE at Nintendo Live 2023" },
+    "category": "pop-up-store",
+    "about": {
+      "en": "A limited-time Nintendo POP-UP STORE held during Nintendo Live 2023 at the Seattle Convention Center, offering official Nintendo merchandise for event visitors.",
+      "ja": "Seattle Convention Centerで開催されたNintendo Live 2023会場内の期間限定Nintendo POP-UP STORE。来場者向けに任天堂公式グッズを展開しました。"
+    },
+    "timeline": [
+      { "label": { "en": "Started", "ja": "開始" }, "date": { "en": "September 1, 2023", "ja": "2023年9月1日" } },
+      { "label": { "en": "Ended", "ja": "終了" }, "date": { "en": "September 4, 2023", "ja": "2023年9月4日" } }
+    ],
+    "info": { "address": { "en": "Arch at 705 Pike, Seattle Convention Center, Seattle, Washington, USA", "ja": "米国ワシントン州シアトル Seattle Convention Center, Arch at 705 Pike" } },
+    "tags": ["event-ended"],
+    "coordinate": "47.6113891, -122.3325491"
+  },
+  {
+    "id": "nintendo-popup-store-japan-expo-paris-2024",
+    "nameOverride": { "en": "Nintendo Pop-Up Store at Japan Expo Paris 2024", "ja": "Nintendo Pop-Up Store at Japan Expo Paris 2024" },
+    "category": "pop-up-store",
+    "about": {
+      "en": "A limited-time Nintendo Pop-Up Store held at Japan Expo Paris 2024, offering official Nintendo merchandise and selected items from Nintendo's Japanese official stores.",
+      "ja": "Japan Expo Paris 2024で開催された期間限定のNintendo Pop-Up Store。任天堂公式グッズや日本の公式ストア商品を展開しました。"
+    },
+    "timeline": [
+      { "label": { "en": "Started", "ja": "開始" }, "date": { "en": "July 11, 2024", "ja": "2024年7月11日" } },
+      { "label": { "en": "Ended", "ja": "終了" }, "date": { "en": "July 14, 2024", "ja": "2024年7月14日" } }
+    ],
+    "info": { "address": { "en": "Parc des Expositions de Paris-Nord Villepinte, Villepinte, France", "ja": "フランス ヴィルパント Parc des Expositions de Paris-Nord Villepinte" } },
+    "tags": ["event-ended"],
+    "coordinate": "48.9729, 2.5169"
+  },
+  {
+    "id": "nintendo-popup-store-zurich-pop-con-2024",
+    "nameOverride": { "en": "Nintendo Pop-Up Store at ZURICH POP CON & Game Show 2024", "ja": "Nintendo Pop-Up Store at ZURICH POP CON & Game Show 2024" },
+    "category": "pop-up-store",
+    "about": {
+      "en": "A limited-time Nintendo Pop-Up Store held at ZURICH POP CON & Game Show 2024, offering official Nintendo merchandise and selected items from Nintendo's Japanese official stores.",
+      "ja": "ZURICH POP CON & Game Show 2024で開催された期間限定のNintendo Pop-Up Store。任天堂公式グッズや日本の公式ストア商品を展開しました。"
+    },
+    "timeline": [
+      { "label": { "en": "Started", "ja": "開始" }, "date": { "en": "October 5, 2024", "ja": "2024年10月5日" } },
+      { "label": { "en": "Ended", "ja": "終了" }, "date": { "en": "October 6, 2024", "ja": "2024年10月6日" } }
+    ],
+    "info": { "address": { "en": "Messe Zurich, Zurich, Switzerland", "ja": "スイス チューリッヒ Messe Zürich" } },
+    "tags": ["event-ended"],
+    "coordinate": "47.4116046, 8.5533715"
+  },
+  {
+    "id": "nintendo-popup-store-taipei-xinyi-a9-2024",
+    "nameOverride": { "en": "Nintendo POP-UP STORE in TAIPEI at Shin Kong Mitsukoshi Taipei Xinyi Place A9", "ja": "Nintendo POP-UP STORE in TAIPEI（新光三越台北信義新天地A9）" },
+    "category": "pop-up-store",
+    "about": {
+      "en": "A limited-time Nintendo POP-UP STORE in Taipei held at Shin Kong Mitsukoshi Taipei Xinyi Place A9, offering official Nintendo merchandise from Nintendo TOKYO, Nintendo OSAKA, and Nintendo KYOTO.",
+      "ja": "新光三越台北信義新天地A9で開催された台北の期間限定Nintendo POP-UP STORE。Nintendo TOKYO、Nintendo OSAKA、Nintendo KYOTOなどの公式ストア商品を取り扱いました。"
+    },
+    "timeline": [
+      { "label": { "en": "Started", "ja": "開始" }, "date": { "en": "October 17, 2024", "ja": "2024年10月17日" } },
+      { "label": { "en": "Ended", "ja": "終了" }, "date": { "en": "November 10, 2024", "ja": "2024年11月10日" } }
+    ],
+    "info": { "address": { "en": "Shin Kong Mitsukoshi Taipei Xinyi Place A9, 9F, No. 9 Songshou Road, Xinyi District, Taipei, Taiwan", "ja": "台湾台北市信義区松壽路9号 新光三越台北信義新天地A9 9階" } },
+    "tags": ["event-ended"],
+    "coordinate": "25.0359195, 121.5627599"
+  },
+  {
+    "id": "nintendo-popup-store-lucca-comics-games-2024",
+    "nameOverride": { "en": "Nintendo Pop-Up Store at Lucca Comics & Games 2024", "ja": "Nintendo Pop-Up Store at Lucca Comics & Games 2024" },
+    "category": "pop-up-store",
+    "about": {
+      "en": "A limited-time Nintendo Pop-Up Store held at Lucca Comics & Games 2024, offering official Nintendo merchandise next to Nintendo's main pavilion.",
+      "ja": "Lucca Comics & Games 2024で開催された期間限定のNintendo Pop-Up Store。任天堂のメインパビリオン横で任天堂公式グッズを展開しました。"
+    },
+    "timeline": [
+      { "label": { "en": "Started", "ja": "開始" }, "date": { "en": "October 30, 2024", "ja": "2024年10月30日" } },
+      { "label": { "en": "Ended", "ja": "終了" }, "date": { "en": "November 3, 2024", "ja": "2024年11月3日" } }
+    ],
+    "info": { "address": { "en": "Piazza Bernardini next to the main pavilion, Lucca, Italy", "ja": "イタリア ルッカ Piazza Bernardini メインパビリオン横" } },
+    "tags": ["event-ended"],
+    "coordinate": "43.8424502, 10.5056655"
+  },
+  {
+    "id": "nintendo-popup-store-manga-barcelona-2024",
+    "nameOverride": { "en": "Nintendo Pop-Up Store at Manga Barcelona 2024", "ja": "Nintendo Pop-Up Store at Manga Barcelona 2024" },
+    "category": "pop-up-store",
+    "about": {
+      "en": "A limited-time Nintendo Pop-Up Store held at Manga Barcelona 2024, offering official Nintendo merchandise and selected items from Nintendo's Japanese official stores.",
+      "ja": "Manga Barcelona 2024で開催された期間限定のNintendo Pop-Up Store。任天堂公式グッズや日本の公式ストア商品を展開しました。"
+    },
+    "timeline": [
+      { "label": { "en": "Started", "ja": "開始" }, "date": { "en": "December 5, 2024", "ja": "2024年12月5日" } },
+      { "label": { "en": "Ended", "ja": "終了" }, "date": { "en": "December 8, 2024", "ja": "2024年12月8日" } }
+    ],
+    "info": { "address": { "en": "Fira Gran Via, Barcelona, Spain", "ja": "スペイン バルセロナ Fira Gran Via" } },
+    "tags": ["event-ended"],
+    "coordinate": "41.3557334, 2.1420258"
+  },
+  {
+    "id": "nintendo-popup-store-singapore-jewel-2025",
+    "nameOverride": { "en": "Nintendo POP-UP STORE in SINGAPORE at Jewel Changi Airport", "ja": "Nintendo POP-UP STORE in SINGAPORE（ジュエル・チャンギ・エアポート）" },
+    "category": "pop-up-store",
+    "about": {
+      "en": "A limited-time Nintendo POP-UP STORE in Singapore held at Jewel Changi Airport, offering official Nintendo merchandise from Nintendo TOKYO, Nintendo OSAKA, and Nintendo KYOTO.",
+      "ja": "ジュエル・チャンギ・エアポートで開催されたシンガポールの期間限定Nintendo POP-UP STORE。Nintendo TOKYO、Nintendo OSAKA、Nintendo KYOTOなどの公式ストア商品を取り扱いました。"
+    },
+    "timeline": [
+      { "label": { "en": "Started", "ja": "開始" }, "date": { "en": "April 25, 2025", "ja": "2025年4月25日" } },
+      { "label": { "en": "Ended", "ja": "終了" }, "date": { "en": "July 24, 2025", "ja": "2025年7月24日" } }
+    ],
+    "info": { "address": { "en": "Jewel Changi Airport Level 04-227, 78 Airport Boulevard, Singapore 819666", "ja": "シンガポール 819666 Airport Boulevard 78 ジュエル・チャンギ・エアポート Level 04-227" } },
+    "tags": ["event-ended"],
+    "coordinate": "1.3602243, 103.9896749"
+  },
+  {
+    "id": "nintendo-popup-store-london-westfield-2025",
+    "nameOverride": { "en": "Nintendo POP-UP STORE in LONDON at Westfield London", "ja": "Nintendo POP-UP STORE in LONDON（Westfield London）" },
+    "category": "pop-up-store",
+    "about": {
+      "en": "A limited-time Nintendo POP-UP STORE in London held at Westfield London, offering official Nintendo merchandise and selected exclusive items from Nintendo's permanent stores.",
+      "ja": "Westfield Londonで開催されたロンドンの期間限定Nintendo POP-UP STORE。任天堂公式グッズや常設ストアの限定商品を展開しました。"
+    },
+    "timeline": [
+      { "label": { "en": "Started", "ja": "開始" }, "date": { "en": "October 22, 2025", "ja": "2025年10月22日" } },
+      { "label": { "en": "Ended", "ja": "終了" }, "date": { "en": "November 16, 2025", "ja": "2025年11月16日" } }
+    ],
+    "info": { "address": { "en": "Westfield London, Ariel Way, Shepherd's Bush, London W12 7GF, United Kingdom", "ja": "英国ロンドン Shepherd's Bush, Ariel Way, Westfield London W12 7GF" } },
+    "tags": ["event-ended"],
+    "coordinate": "51.5074732, -0.2198969"
+  },
+  {
+    "id": "nintendo-popup-store-seoul-lotte-world-mall-2025",
+    "nameOverride": { "en": "Nintendo POP-UP STORE in SEOUL at Lotte World Mall", "ja": "Nintendo POP-UP STORE in SEOUL（ロッテワールドモール）" },
+    "category": "pop-up-store",
+    "about": {
+      "en": "A limited-time Nintendo POP-UP STORE in Seoul held at Lotte World Mall, offering official Nintendo merchandise and selected items from Nintendo's permanent stores.",
+      "ja": "ロッテワールドモールで開催されたソウルの期間限定Nintendo POP-UP STORE。任天堂公式グッズや常設ストアの商品を展開しました。"
+    },
+    "timeline": [
+      { "label": { "en": "Started", "ja": "開始" }, "date": { "en": "November 19, 2025", "ja": "2025年11月19日" } },
+      { "label": { "en": "Ended", "ja": "終了" }, "date": { "en": "December 16, 2025", "ja": "2025年12月16日" } }
+    ],
+    "info": { "address": { "en": "Lotte World Mall, 300 Olympic-ro, Songpa-gu, Seoul, South Korea", "ja": "韓国ソウル特別市松坡区オリンピック路300 ロッテワールドモール" } },
+    "tags": ["event-ended"],
+    "coordinate": "37.5137422, 127.1042466"
+  },
+  {
+    "id": "nintendo-popup-store-okinawa-parco-city-2025",
+    "nameOverride": { "en": "Nintendo POP-UP STORE in OKINAWA at PARCO CITY", "ja": "Nintendo POP-UP STORE in OKINAWA（サンエー浦添西海岸 PARCO CITY）" },
+    "category": "pop-up-store",
+    "about": {
+      "en": "A limited-time Nintendo POP-UP STORE in Okinawa held at San-A Urasoe West Coast PARCO CITY, offering official Nintendo merchandise and selected items from Nintendo's permanent stores.",
+      "ja": "サンエー浦添西海岸PARCO CITYで開催された沖縄の期間限定Nintendo POP-UP STORE。任天堂公式グッズや常設ストアの商品を展開しました。"
+    },
+    "timeline": [
+      { "label": { "en": "Started", "ja": "開始" }, "date": { "en": "November 29, 2025", "ja": "2025年11月29日" } },
+      { "label": { "en": "Ended", "ja": "終了" }, "date": { "en": "January 12, 2026", "ja": "2026年1月12日" } }
+    ],
+    "info": { "address": { "en": "San-A Urasoe West Coast PARCO CITY, 3-1-1 Irijima, Urasoe, Okinawa, Japan", "ja": "沖縄県浦添市西洲3-1-1 サンエー浦添西海岸PARCO CITY" } },
+    "tags": ["event-ended"],
+    "coordinate": "26.272924, 127.719903"
+  },
+  {
+    "id": "nintendo-popup-store-germany-ruhr-park-2026",
+    "nameOverride": { "en": "Nintendo POP-UP STORE in GERMANY at Westfield Ruhr Park", "ja": "Nintendo POP-UP STORE in GERMANY（Westfield Ruhr Park）" },
+    "category": "pop-up-store",
+    "about": {
+      "en": "A limited-time Nintendo POP-UP STORE in Germany held at Westfield Ruhr Park in Bochum, offering official Nintendo merchandise and selected exclusive items from Nintendo's permanent stores.",
+      "ja": "ボーフムのWestfield Ruhr Parkで開催されたドイツの期間限定Nintendo POP-UP STORE。任天堂公式グッズや常設ストアの限定商品を展開しました。"
+    },
+    "timeline": [
+      { "label": { "en": "Started", "ja": "開始" }, "date": { "en": "March 19, 2026", "ja": "2026年3月19日" } },
+      { "label": { "en": "Ended", "ja": "終了" }, "date": { "en": "April 11, 2026", "ja": "2026年4月11日" } }
+    ],
+    "info": { "address": { "en": "Westfield Ruhr Park, Am Einkaufszentrum 1, 44791 Bochum, Germany", "ja": "ドイツ 44791 ボーフム Am Einkaufszentrum 1 Westfield Ruhr Park" } },
+    "tags": ["event-ended"],
+    "coordinate": "51.4947713, 7.2836268"
+  },
+  {
+    "id": "kirbys-pupupu-market-hong-kong-k11-art-mall-2025",
+    "nameOverride": { "en": "KIRBY'S PUPUPU MARKET in Hong Kong at K11 Art Mall", "ja": "星のカービィ プププマーケット in 香港（K11 Art Mall）" },
+    "category": "pop-up-store",
+    "about": {
+      "en": "A limited-time Kirby pop-up market held at K11 Art Mall in Hong Kong, featuring Kirby merchandise, themed goods, photo spots, and special event items.",
+      "ja": "香港のK11 Art Mallで開催された期間限定の星のカービィ ポップアップマーケット。カービィ関連グッズ、テーマ商品、フォトスポット、イベント限定商品を展開しました。"
+    },
+    "timeline": [
+      { "label": { "en": "Started", "ja": "開始" }, "date": { "en": "November 15, 2025", "ja": "2025年11月15日" } },
+      { "label": { "en": "Ended", "ja": "終了" }, "date": { "en": "December 14, 2025", "ja": "2025年12月14日" } }
+    ],
+    "info": { "address": { "en": "K11 Art Mall Lower Ground Atrium, 18 Hanoi Road, Tsim Sha Tsui, Kowloon, Hong Kong", "ja": "香港九龍尖沙咀河內道18號 K11 Art Mall 地下中庭" } },
+    "tags": ["event-ended"],
+    "coordinate": "22.2973913, 114.1736162"
   }
 ]
