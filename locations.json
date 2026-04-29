@@ -256,7 +256,7 @@
   {
     "id": "pokemon-center-shibuya",
     "appleMapsId": "I234FD1382561394",
-    "nameOverride": { "en": "Pokémon Center SHIBUYA", "ja": "ポケモンセンターシブヤ" },
+    "nameOverride": { "en": "Pokémon Center Shibuya", "ja": "ポケモンセンターシブヤ" },
     "category": "pokemon-center",
     "photos": [
       {
@@ -339,7 +339,7 @@
   {
     "id": "pokemon-center-tokyo-bay",
     "appleMapsId": "I4B5FCEBE606E5CB2",
-    "nameOverride": { "en": "Pokémon Center TOKYO-BAY", "ja": "ポケモンセンタートウキョーベイ" },
+    "nameOverride": { "en": "Pokémon Center Tokyo-Bay", "ja": "ポケモンセンタートウキョーベイ" },
     "category": "pokemon-center",
     "hours": [
       {
@@ -369,7 +369,7 @@
   {
     "id": "pokemon-center-nagoya",
     "appleMapsId": "I9E1A775CE5306BB7",
-    "nameOverride": { "en": "Pokémon Center NAGOYA", "ja": "ポケモンセンターナゴヤ" },
+    "nameOverride": { "en": "Pokémon Center Nagoya", "ja": "ポケモンセンターナゴヤ" },
     "category": "pokemon-center",
     "hours": [
       {
@@ -419,7 +419,7 @@
   {
     "id": "pokemon-center-okinawa",
     "appleMapsId": "I62BA8ED42616FE6E",
-    "nameOverride": { "en": "Pokémon Center OKINAWA", "ja": "ポケモンセンターオキナワ" },
+    "nameOverride": { "en": "Pokémon Center Okinawa", "ja": "ポケモンセンターオキナワ" },
     "category": "pokemon-center",
     "hours": [
       {
@@ -470,7 +470,7 @@
   {
     "id": "pokemon-center-tokyo-dx",
     "appleMapsId": "I303B629E9F79FC4",
-    "nameOverride": { "en": "Pokémon Center TOKYO DX", "ja": "ポケモンセンタートウキョーDX" },
+    "nameOverride": { "en": "Pokémon Center Tokyo DX", "ja": "ポケモンセンタートウキョーDX" },
     "category": "pokemon-center",
     "hours": [
       {
@@ -634,7 +634,7 @@
   {
     "id": "pokemon-center-hiroshima",
     "appleMapsId": "ID996912C26CA3F7E",
-    "nameOverride": { "en": "Pokémon Center HIROSHIMA", "ja": "ポケモンセンターヒロシマ" },
+    "nameOverride": { "en": "Pokémon Center Hiroshima", "ja": "ポケモンセンターヒロシマ" },
     "category": "pokemon-center",
     "hours": [
       {
@@ -665,7 +665,7 @@
   {
     "id": "pokemon-center-osaka",
     "appleMapsId": "I8D463B45711E9B4A",
-    "nameOverride": { "en": "Pokémon Center OSAKA", "ja": "ポケモンセンターオーサカ" },
+    "nameOverride": { "en": "Pokémon Center Osaka", "ja": "ポケモンセンターオーサカ" },
     "category": "pokemon-center",
     "hours": [
       {
@@ -691,7 +691,7 @@
   {
     "id": "pokemon-center-osaka-dx",
     "appleMapsId": "I64BD42281BFC4979",
-    "nameOverride": { "en": "Pokémon Center OSAKA DX", "ja": "ポケモンセンターオーサカDX" },
+    "nameOverride": { "en": "Pokémon Center Osaka DX", "ja": "ポケモンセンターオーサカDX" },
     "category": "pokemon-center",
     "hours": [
       {
@@ -806,7 +806,7 @@
   {
     "id": "pokemon-center-kanazawa",
     "appleMapsId": "ICCA43BBCC181CA21",
-    "nameOverride": { "en": "Pokémon Center KANAZAWA", "ja": "ポケモンセンターカナザワ" },
+    "nameOverride": { "en": "Pokémon Center Kanazawa", "ja": "ポケモンセンターカナザワ" },
     "category": "pokemon-center",
     "hours": [
       {
@@ -859,7 +859,7 @@
   {
     "id": "pokemon-center-yokohama-satellite",
     "appleMapsId": "I120294E71A5BA149",
-    "nameOverride": { "en": "Pokémon Center YOKOHAMA Satellite", "ja": "ポケモンセンターヨコハマ サテライト" },
+    "nameOverride": { "en": "Pokémon Center Yokohama Satellite", "ja": "ポケモンセンターヨコハマ サテライト" },
     "category": "pokemon-center",
     "hours": [
       {
@@ -884,7 +884,7 @@
   {
     "id": "pokemon-center-taipei",
     "appleMapsId": "I3A47E78522D7105F",
-    "nameOverride": { "en": "Pokémon Center TAIPEI", "ja": "Pokémon Center TAIPEI" },
+    "nameOverride": { "en": "Pokémon Center Taipei", "ja": "Pokémon Center Taipei" },
     "category": "pokemon-center",
     "hours": [
       {
@@ -942,7 +942,7 @@
   {
     "id": "super-nintendo-world-california",
     "appleMapsId": "IFC8FA916D7E3C7C0",
-    "nameOverride": { "en": "SUPER NINTENDO WORLD Hollywood", "ja": "スーパー・ニンテンドー・ワールド ハリウッド" },
+    "nameOverride": { "en": "Super Nintendo World Hollywood", "ja": "スーパー・ニンテンドー・ワールド ハリウッド" },
     "category": "theme-park",
     "hours": [
       {
@@ -1020,7 +1020,7 @@
   {
     "id": "pokemon-center-kagawa",
     "appleMapsId": "IC01CD2C09FD354A7",
-    "nameOverride": { "en": "Pokémon Center KAGAWA", "ja": "ポケモンセンターカガワ" },
+    "nameOverride": { "en": "Pokémon Center Kagawa", "ja": "ポケモンセンターカガワ" },
     "category": "pokemon-center",
     "hours": [
       {
@@ -1089,7 +1089,7 @@
   {
     "id": "pokemon-center-yokohama",
     "appleMapsId": "I4BE28BA11F2D209F",
-    "nameOverride": { "en": "Pokémon Center YOKOHAMA", "ja": "ポケモンセンターヨコハマ" },
+    "nameOverride": { "en": "Pokémon Center Yokohama", "ja": "ポケモンセンターヨコハマ" },
     "category": "pokemon-center",
     "hours": [
       {
@@ -1250,7 +1250,7 @@
   {
     "id": "pokemon-center-fukuoka",
     "appleMapsId": "IDBEE267A82D64293",
-    "nameOverride": { "en": "Pokémon Center FUKUOKA", "ja": "ポケモンセンターフクオカ" },
+    "nameOverride": { "en": "Pokémon Center Fukuoka", "ja": "ポケモンセンターフクオカ" },
     "category": "pokemon-center",
     "hours": [
       {
@@ -1376,7 +1376,7 @@
   {
     "id": "super-nintendo-world-store-citywalk-california",
     "appleMapsId": "I5E2188ECC3D7FF25",
-    "nameOverride": { "en": "SUPER NINTENDO WORLD Store Hollywood", "ja": "スーパー・ニンテンドー・ワールド ストア ハリウッド" },
+    "nameOverride": { "en": "Super Nintendo World Store Hollywood", "ja": "スーパー・ニンテンドー・ワールド ストア ハリウッド" },
     "category": "park-store",
     "hours": [
       {
@@ -1544,7 +1544,7 @@
   {
     "id": "pokemon-center-tohoku",
     "appleMapsId": "IDFDDDDF592E6CC7",
-    "nameOverride": { "en": "Pokémon Center TOHOKU", "ja": "ポケモンセンタートウホク" },
+    "nameOverride": { "en": "Pokémon Center Tohoku", "ja": "ポケモンセンタートウホク" },
     "category": "pokemon-center",
     "hours": [
       {
@@ -1575,7 +1575,7 @@
   {
     "id": "pokemon-center-kyoto",
     "appleMapsId": "IF9DC10B9FEDCFA12",
-    "nameOverride": { "en": "Pokémon Center KYOTO", "ja": "ポケモンセンターキョウト" },
+    "nameOverride": { "en": "Pokémon Center Kyoto", "ja": "ポケモンセンターキョウト" },
     "category": "pokemon-center",
     "hours": [
       {
@@ -1601,7 +1601,7 @@
   {
     "id": "super-nintendo-world-orlando",
     "appleMapsId": "IE262F6BA936D8A83",
-    "nameOverride": { "en": "SUPER NINTENDO WORLD Orlando", "ja": "スーパー・ニンテンドー・ワールド オーランド" },
+    "nameOverride": { "en": "Super Nintendo World Orlando", "ja": "スーパー・ニンテンドー・ワールド オーランド" },
     "category": "theme-park",
     "hours": [
       {
@@ -1845,7 +1845,7 @@
   {
     "id": "pokemon-center-sapporo",
     "appleMapsId": "IA498954A5CA588B4",
-    "nameOverride": { "en": "Pokémon Center SAPPORO", "ja": "ポケモンセンターサッポロ" },
+    "nameOverride": { "en": "Pokémon Center Sapporo", "ja": "ポケモンセンターサッポロ" },
     "category": "pokemon-center",
     "hours": [
       {
@@ -1871,7 +1871,7 @@
   { 
     "id": "pokemon-center-mega-tokyo",
     "appleMapsId": "I28FF016F67076957",
-    "nameOverride": { "en": "Pokémon Center MEGA TOKYO", "ja": "ポケモンセンターメガトウキョー" },
+    "nameOverride": { "en": "Pokémon Center Mega Tokyo", "ja": "ポケモンセンターメガトウキョー" },
     "category": "pokemon-center",
     "hours": [
       {
@@ -1930,7 +1930,7 @@
   {
     "id": "pokemon-center-skytree-town",
     "appleMapsId": "I25EBD134BB60456E",
-    "nameOverride": { "en": "Pokémon Center SKYTREE TOWN", "ja": "ポケモンセンタースカイツリータウン" },
+    "nameOverride": { "en": "Pokémon Center Skytree Town", "ja": "ポケモンセンタースカイツリータウン" },
     "category": "pokemon-center",
     "hours": [
       {
@@ -1981,7 +1981,7 @@
   {
     "id": "super-nintendo-world-japan",
     "appleMapsId": "I19B2A609EF7804EC",
-    "nameOverride": { "en": "SUPER NINTENDO WORLD Japan", "ja": "スーパー・ニンテンドー・ワールド ジャパン" },
+    "nameOverride": { "en": "Super Nintendo World Japan", "ja": "スーパー・ニンテンドー・ワールド ジャパン" },
     "category": "theme-park",
     "hours": [
       {
