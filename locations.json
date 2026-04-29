@@ -2052,6 +2052,1081 @@
     "coordinate": "34.9697354, 135.7561845"
   },
   {
+    "id": "kirby-cafe-the-store-hakata",
+    "nameOverride": {
+      "en": "Kirby Café The Store HAKATA",
+      "ja": "カービィカフェ ザ・ストア HAKATA"
+    },
+    "category": "restaurants-cafe",
+    "hours": [
+      {
+        "day": {
+          "en": "All Days",
+          "ja": "毎日"
+        },
+        "hours": {
+          "en": "10:00 AM - 10:00 PM",
+          "ja": "10:00 - 22:00"
+        }
+      }
+    ],
+    "about": {
+      "en": "Kirby Café The Store HAKATA is the goods shop attached to the Kirby Café world in Canal City Hakata. It sells Kirby Café original merchandise, Kirby items, and select takeout drinks and sweets without requiring a café reservation.",
+      "ja": "カービィカフェ ザ・ストア HAKATAは、キャナルシティ博多にあるカービィカフェ併設のグッズショップです。カービィカフェのオリジナルグッズや星のカービィ関連商品、一部のテイクアウトメニューを、カフェ予約なしで楽しめます。"
+    },
+    "info": {
+      "website": "https://kirbycafe.jp/thestore/hakata/",
+      "phone": "+81 92-710-4279",
+      "address": {
+        "en": "Canal City Hakata North Building B1F, 1-2-1 Sumiyoshi, Hakata-ku, Fukuoka, Japan",
+        "ja": "福岡県福岡市博多区住吉1-2-1 キャナルシティ博多 ノースビルB1F"
+      }
+    },
+    "goodToKnow": [
+      {
+        "icon": "bag",
+        "text": {
+          "en": "Kirby Café exclusive goods sold here",
+          "ja": "カービィカフェ限定グッズあり"
+        }
+      },
+      {
+        "icon": "takeoutbag.and.cup.and.straw",
+        "text": {
+          "en": "Some takeout drinks and sweets are available",
+          "ja": "一部テイクアウトメニューあり"
+        }
+      },
+      {
+        "icon": "calendar",
+        "text": {
+          "en": "No café reservation required for the store",
+          "ja": "ストア利用にカフェ予約は不要です"
+        }
+      }
+    ],
+    "coordinate": "33.5905055, 130.410499"
+  },
+  {
+    "id": "nintendo-pictures-tokyo",
+    "nameOverride": {
+      "en": "Nintendo Pictures Tokyo",
+      "ja": "ニンテンドーピクチャーズ株式会社"
+    },
+    "category": "historical-sites-corporate",
+    "about": {
+      "en": "Nintendo Pictures is Nintendo's wholly owned visual production company in Tokyo, focused on creating visual content using Nintendo IP. It is based in KANDA SQUARE in Chiyoda.",
+      "ja": "ニンテンドーピクチャーズ株式会社は、任天堂が100%保有する映像制作会社で、任天堂IPを活用した映像コンテンツの制作を担う東京の拠点です。千代田区のKANDA SQUAREにあります。"
+    },
+    "timeline": [
+      {
+        "label": {
+          "en": "Renamed Nintendo Pictures",
+          "ja": "ニンテンドーピクチャーズに商号変更"
+        },
+        "date": {
+          "en": "October 3, 2022",
+          "ja": "2022年10月3日"
+        }
+      }
+    ],
+    "info": {
+      "website": "https://nintendo-pictures.co.jp/",
+      "phone": null,
+      "address": {
+        "en": "KANDA SQUARE, 2-2-1 Kanda-Nishikicho, Chiyoda-ku, Tokyo, Japan",
+        "ja": "東京都千代田区神田錦町2-2-1 KANDA SQUARE"
+      }
+    },
+    "goodToKnow": [
+      {
+        "icon": "person.badge.key",
+        "text": {
+          "en": "Corporate office, not a public attraction",
+          "ja": "一般公開施設ではない企業オフィスです"
+        }
+      },
+      {
+        "icon": "video",
+        "text": {
+          "en": "Works on visual content using Nintendo characters and IP",
+          "ja": "任天堂キャラクターやIPを活用した映像制作を担います"
+        }
+      },
+      {
+        "icon": "building.2",
+        "text": {
+          "en": "Located in the same KANDA SQUARE complex as Nintendo's Tokyo Branch Office",
+          "ja": "任天堂東京支店と同じKANDA SQUARE内にあります"
+        }
+      }
+    ],
+    "coordinate": "35.6934080, 139.7628090"
+  },
+  {
+    "id": "nintendo-check-in-kansai",
+    "nameOverride": {
+      "en": "Nintendo Check In Kansai International Airport",
+      "ja": "Nintendo Check In 関西国際空港"
+    },
+    "category": "nintendo-check-in",
+    "hours": [
+      {
+        "day": {
+          "en": "All Days",
+          "ja": "毎日"
+        },
+        "hours": {
+          "en": "Permanently closed",
+          "ja": "閉鎖済み"
+        }
+      }
+    ],
+    "about": {
+      "en": "Nintendo Check In at Kansai International Airport was an official Nintendo game experience space in Terminal 1, where visitors could try Nintendo Switch and Nintendo 3DS titles and take photos with a Mario statue.",
+      "ja": "Nintendo Check In 関西国際空港は、第1ターミナルにあった任天堂公式のゲーム体験スペースです。Nintendo Switchやニンテンドー3DSの試遊、マリオ像との記念撮影を楽しめる場所でした。"
+    },
+    "timeline": [
+      {
+        "label": {
+          "en": "Opened",
+          "ja": "オープン"
+        },
+        "date": {
+          "en": "June 23, 2017",
+          "ja": "2017年6月23日"
+        }
+      }
+    ],
+    "info": {
+      "website": "https://www.nintendo.com/jp/topics/article/b78f06f5-4f3e-11e7-8f53-063b7ac45a6d",
+      "phone": "+81 72-455-2500",
+      "address": {
+        "en": "Kansai International Airport Terminal 1, 1F Central Promotion Space, 1 Senshukukokita, Izumisano, Osaka, Japan",
+        "ja": "大阪府泉佐野市泉州空港北1 関西国際空港 第1ターミナルビル1階 中央プロモーションスペース"
+      }
+    },
+    "goodToKnow": [
+      {
+        "icon": "xmark.circle",
+        "text": {
+          "en": "This location is permanently closed",
+          "ja": "この場所は閉鎖済みです"
+        }
+      },
+      {
+        "icon": "airplane",
+        "text": {
+          "en": "It was located in the public area of Terminal 1",
+          "ja": "第1ターミナルの一般エリアにありました"
+        }
+      },
+      {
+        "icon": "gamecontroller",
+        "text": {
+          "en": "It offered free Nintendo game demos when active",
+          "ja": "営業時は任天堂ゲームを無料で体験できました"
+        }
+      }
+    ],
+    "tags": [
+      "permanently-closed"
+    ],
+    "coordinate": "34.4344583, 135.2445667"
+  },
+  {
+    "id": "nintendo-of-korea",
+    "nameOverride": {
+      "en": "Nintendo of Korea Co., Ltd.",
+      "ja": "韓国任天堂株式会社"
+    },
+    "category": "historical-sites-corporate",
+    "about": {
+      "en": "Nintendo of Korea is Nintendo's official Korean subsidiary, supporting Nintendo business, publishing, and regional operations in South Korea.",
+      "ja": "韓国任天堂株式会社は、韓国における任天堂の公式現地法人で、韓国市場での任天堂事業や販売・運営を支える拠点です。"
+    },
+    "info": {
+      "website": "https://www.nintendo.co.kr/",
+      "phone": null,
+      "address": {
+        "en": "6F, Tower107, 27 Marunnae-ro, Jung-gu, Seoul, Republic of Korea",
+        "ja": "韓国ソウル特別市中区マルンネ路27 Tower107 6階"
+      }
+    },
+    "goodToKnow": [
+      {
+        "icon": "building.2",
+        "text": {
+          "en": "Nintendo's official Korean office",
+          "ja": "任天堂の韓国公式拠点です"
+        }
+      },
+      {
+        "icon": "person.badge.key",
+        "text": {
+          "en": "Corporate office, not a public retail store",
+          "ja": "一般向け店舗ではない企業オフィスです"
+        }
+      },
+      {
+        "icon": "bag",
+        "text": {
+          "en": "For shopping, use Nintendo's regional retail and online channels",
+          "ja": "購入は地域の販売店やオンライン窓口を利用します"
+        }
+      }
+    ],
+    "coordinate": "37.564890, 126.991420"
+  },
+  {
+    "id": "nintendo-israel-big-eilat",
+    "nameOverride": {
+      "en": "Nintendo Israel BIG Eilat",
+      "ja": "Nintendo Israel BIG Eilat"
+    },
+    "category": "authorized-nintendo-reseller",
+    "hours": [
+      {
+        "day": {
+          "en": "Sun - Thu",
+          "ja": "日曜日〜木曜日"
+        },
+        "hours": {
+          "en": "9:30 AM - 9:00 PM",
+          "ja": "9:30 - 21:00"
+        }
+      },
+      {
+        "day": {
+          "en": "Fri",
+          "ja": "金曜日"
+        },
+        "hours": {
+          "en": "9:30 AM - 3:00 PM",
+          "ja": "9:30 - 15:00"
+        }
+      },
+      {
+        "day": {
+          "en": "Sat",
+          "ja": "土曜日"
+        },
+        "hours": {
+          "en": "30 minutes after Shabbat ends - 10:00 PM",
+          "ja": "安息日終了30分後 - 22:00"
+        }
+      }
+    ],
+    "about": {
+      "en": "Nintendo Israel BIG Eilat is an official Nintendo Israel retail store at BIG Eilat, operated by Nintendo's official local representative. It sells Nintendo hardware, games, accessories, and merchandise in Eilat's VAT-free shopping area.",
+      "ja": "Nintendo Israel BIG Eilatは、BIG Eilat内にあるNintendo Israelの公式店舗です。現地の任天堂公式代理店が運営し、Nintendo Switch本体、ゲーム、アクセサリー、グッズなどをエイラートの免税ショッピングエリアで取り扱っています。"
+    },
+    "info": {
+      "website": "https://www.nintendo.co.il/nintendo-eilat-store/",
+      "phone": null,
+      "address": {
+        "en": "Ha-Satat Street 20, BIG Eilat, Eilat, Israel",
+        "ja": "イスラエル エイラート Ha-Satat Street 20 BIG Eilat"
+      }
+    },
+    "goodToKnow": [
+      {
+        "icon": "bag",
+        "text": {
+          "en": "Official Nintendo Israel retail location",
+          "ja": "Nintendo Israelの公式店舗です"
+        }
+      },
+      {
+        "icon": "gamecontroller",
+        "text": {
+          "en": "Game demo areas and community events may be offered",
+          "ja": "ゲーム体験やコミュニティイベントが行われることがあります"
+        }
+      },
+      {
+        "icon": "percent",
+        "text": {
+          "en": "Located in Eilat's VAT-free shopping zone",
+          "ja": "エイラートの免税ショッピングエリア内です"
+        }
+      }
+    ],
+    "coordinate": "29.5665805, 34.9598198"
+  },
+  {
+    "id": "nintendo-of-taiwan",
+    "nameOverride": {
+      "en": "Nintendo of Taiwan Co., Ltd.",
+      "ja": "台灣任天堂股份有限公司"
+    },
+    "category": "historical-sites-corporate",
+    "about": {
+      "en": "Nintendo of Taiwan is Nintendo's official Taiwan subsidiary, supporting Nintendo business, publishing, and regional operations in Taiwan.",
+      "ja": "台灣任天堂股份有限公司は、台湾における任天堂の公式現地法人で、台湾市場での任天堂事業や販売・運営を支える拠点です。"
+    },
+    "info": {
+      "website": "https://www.nintendo.com/tw/",
+      "phone": null,
+      "address": {
+        "en": "9F., No. 2, Sec. 1, Chengde Rd., Datong Dist., Taipei City, Taiwan",
+        "ja": "台湾台北市大同区承徳路一段2号 9階"
+      }
+    },
+    "goodToKnow": [
+      {
+        "icon": "building.2",
+        "text": {
+          "en": "Nintendo's official Taiwan office",
+          "ja": "任天堂の台湾公式拠点です"
+        }
+      },
+      {
+        "icon": "person.badge.key",
+        "text": {
+          "en": "Corporate office, not a public retail store",
+          "ja": "一般向け店舗ではない企業オフィスです"
+        }
+      },
+      {
+        "icon": "bag",
+        "text": {
+          "en": "For shopping, use Nintendo's regional retail and online channels",
+          "ja": "購入は地域の販売店やオンライン窓口を利用します"
+        }
+      }
+    ],
+    "coordinate": "25.049379, 121.516251"
+  },
+  {
+    "id": "lucky-park-koriyama",
+    "nameOverride": {
+      "en": "Chansey Park in Koriyama",
+      "ja": "ラッキー公園 in こおりやまし"
+    },
+    "category": "public-park",
+    "about": {
+      "en": "Lucky Park in Koriyama is a Chansey-themed public park inside Kaiseizan Park in Fukushima. It features a large Chansey playground structure and other Pokémon-themed play equipment created through Fukushima's collaboration with Chansey.",
+      "ja": "ラッキー公園 in こおりやましは、福島県郡山市の開成山公園内にあるラッキーをテーマにした公園です。大きなラッキーの遊具を中心に、福島県とラッキーの連携企画によるポケモンモチーフの遊具が設置されています。"
+    },
+    "timeline": [
+      {
+        "label": {
+          "en": "Opened",
+          "ja": "オープン"
+        },
+        "date": {
+          "en": "March 28, 2022",
+          "ja": "2022年3月28日"
+        }
+      }
+    ],
+    "info": {
+      "website": "https://www.pref.fukushima.lg.jp/site/infra/lucky-koriyamashi.html",
+      "phone": "+81 24-924-2361",
+      "address": {
+        "en": "Kaiseizan Park, 1-5 Kaisei, Koriyama, Fukushima, Japan",
+        "ja": "福島県郡山市開成一丁目5 開成山公園内"
+      }
+    },
+    "characterStatues": [
+      {
+        "en": "Chansey",
+        "ja": "ラッキー"
+      },
+      {
+        "en": "Cleffa",
+        "ja": "ピィ"
+      },
+      {
+        "en": "Igglybuff",
+        "ja": "ププリン"
+      },
+      {
+        "en": "Lickitung",
+        "ja": "ベロリンガ"
+      },
+      {
+        "en": "Pikachu",
+        "ja": "ピカチュウ"
+      }
+    ],
+    "goodToKnow": [
+      {
+        "icon": "tree.fill",
+        "text": {
+          "en": "Free public park inside Kaiseizan Park",
+          "ja": "開成山公園内の無料で利用できる公園です"
+        }
+      },
+      {
+        "icon": "camera",
+        "text": {
+          "en": "Known for its large Chansey playground structure",
+          "ja": "大きなラッキーの遊具が見どころです"
+        }
+      },
+      {
+        "icon": "mappin.and.ellipse",
+        "text": {
+          "en": "A Poké Lid is also installed in Kaiseizan Park",
+          "ja": "開成山公園内にはポケふたも設置されています"
+        }
+      }
+    ],
+    "coordinate": "37.398600, 140.359000"
+  },
+  {
+    "id": "lucky-park-showa",
+    "nameOverride": {
+      "en": "Chansey Park in Showa",
+      "ja": "ラッキー公園 in しょうわむら"
+    },
+    "category": "public-park",
+    "about": {
+      "en": "Lucky Park in Showa is a Chansey-themed public park at Roadside Station Karamushi Ori no Sato Showa in Fukushima. It is one of the official Lucky Parks created through Fukushima's collaboration with Chansey.",
+      "ja": "ラッキー公園 in しょうわむらは、福島県昭和村の道の駅からむし織の里しょうわにあるラッキーをテーマにした公園です。福島県とラッキーの連携企画による公式ラッキー公園のひとつです。"
+    },
+    "timeline": [
+      {
+        "label": {
+          "en": "Opened",
+          "ja": "オープン"
+        },
+        "date": {
+          "en": "June 28, 2022",
+          "ja": "2022年6月28日"
+        }
+      }
+    ],
+    "info": {
+      "website": "https://www.pref.fukushima.lg.jp/site/infra/lucky-showamura.html",
+      "phone": "+81 241-57-2124",
+      "address": {
+        "en": "Roadside Station Karamushi Ori no Sato Showa, 1 Kaminohara, Sakura, Showa-mura, Onuma-gun, Fukushima, Japan",
+        "ja": "福島県大沼郡昭和村大字佐倉字上ノ原1 道の駅からむし織の里しょうわ"
+      }
+    },
+    "characterStatues": [
+      {
+        "en": "Chansey",
+        "ja": "ラッキー"
+      },
+      {
+        "en": "Pikachu",
+        "ja": "ピカチュウ"
+      }
+    ],
+    "goodToKnow": [
+      {
+        "icon": "tree.fill",
+        "text": {
+          "en": "Free public park at a roadside station",
+          "ja": "道の駅にある無料で利用できる公園です"
+        }
+      },
+      {
+        "icon": "car",
+        "text": {
+          "en": "Best reached by car",
+          "ja": "車での訪問が便利です"
+        }
+      },
+      {
+        "icon": "mappin.and.ellipse",
+        "text": {
+          "en": "A Poké Lid is nearby in Showa Village",
+          "ja": "昭和村内にはポケふたもあります"
+        }
+      }
+    ],
+    "coordinate": "37.326186, 139.629782"
+  },
+  {
+    "id": "slowpoke-park-ayagawa",
+    "nameOverride": {
+      "en": "Slowpoke Park",
+      "ja": "ヤドン公園"
+    },
+    "category": "public-park",
+    "hours": [
+      {
+        "day": {
+          "en": "All Days",
+          "ja": "毎日"
+        },
+        "hours": {
+          "en": "7:00 AM - 8:00 PM",
+          "ja": "7:00 - 20:00"
+        }
+      }
+    ],
+    "about": {
+      "en": "Slowpoke Park, officially Hidamari Park Ayagawa, is a Slowpoke-themed public park in Ayagawa, Kagawa. It features Slowpoke playground equipment and inclusive play elements created through Kagawa's collaboration with Slowpoke.",
+      "ja": "ヤドン公園は、正式名称をひだまり公園あやがわという、香川県綾川町のヤドンをテーマにした公園です。香川県とヤドンの連携企画により、ヤドンをモチーフにした遊具やインクルーシブ遊具が設置されています。"
+    },
+    "timeline": [
+      {
+        "label": {
+          "en": "Opened",
+          "ja": "オープン"
+        },
+        "date": {
+          "en": "April 14, 2023",
+          "ja": "2023年4月14日"
+        }
+      }
+    ],
+    "info": {
+      "website": "https://yadon.my-kagawa.jp/park/",
+      "phone": "+81 87-876-5280",
+      "address": {
+        "en": "Hidamari Park Ayagawa, 253-7 Kayahara, Ayagawa-cho, Ayauta-gun, Kagawa, Japan",
+        "ja": "香川県綾歌郡綾川町萱原253-7 ひだまり公園あやがわ"
+      }
+    },
+    "characterStatues": [
+      {
+        "en": "Slowpoke",
+        "ja": "ヤドン"
+      },
+      {
+        "en": "Shellder",
+        "ja": "シェルダー"
+      },
+      {
+        "en": "Pikachu",
+        "ja": "ピカチュウ"
+      }
+    ],
+    "goodToKnow": [
+      {
+        "icon": "tree.fill",
+        "text": {
+          "en": "Free public park",
+          "ja": "無料で利用できる公園です"
+        }
+      },
+      {
+        "icon": "train.side.front.car",
+        "text": {
+          "en": "About a 5-minute walk from Ayagawa Station",
+          "ja": "綾川駅から徒歩約5分です"
+        }
+      },
+      {
+        "icon": "figure.and.child.holdinghands",
+        "text": {
+          "en": "Includes inclusive playground equipment",
+          "ja": "インクルーシブ遊具があります"
+        }
+      }
+    ],
+    "coordinate": "34.247073, 133.932812"
+  },
+  {
+    "id": "geodude-park-kitakami",
+    "nameOverride": {
+      "en": "Geodude Park in Kitakami",
+      "ja": "イシツブテ公園 in きたかみ"
+    },
+    "category": "public-park",
+    "about": {
+      "en": "Geodude Park in Kitakami is an Iwate rock-type Pokémon themed park inside Tenshochi Park. It features playground equipment inspired by Geodude and other rock-type Pokémon, along with a Poké Lid on the grounds.",
+      "ja": "イシツブテ公園 in きたかみは、岩手県北上市の展勝地公園内にある、いわタイプのポケモンをテーマにした公園です。イシツブテなどのいわポケモンをモチーフにした遊具や、園内のポケふたを楽しめます。"
+    },
+    "timeline": [
+      {
+        "label": {
+          "en": "Opened",
+          "ja": "オープン"
+        },
+        "date": {
+          "en": "April 2, 2025",
+          "ja": "2025年4月2日"
+        }
+      }
+    ],
+    "info": {
+      "website": "https://local.pokemon.jp/gallery/desc/4157?is_modal=1",
+      "phone": "+81 197-72-8279",
+      "address": {
+        "en": "Tenshochi Park, Tachibana 13-chowari, Kitakami, Iwate, Japan",
+        "ja": "岩手県北上市立花13地割 展勝地公園内"
+      }
+    },
+    "characterStatues": [
+      {
+        "en": "Geodude",
+        "ja": "イシツブテ"
+      },
+      {
+        "en": "Onix",
+        "ja": "イワーク"
+      },
+      {
+        "en": "Rockruff",
+        "ja": "イワンコ"
+      },
+      {
+        "en": "Ogerpon",
+        "ja": "オーガポン"
+      }
+    ],
+    "goodToKnow": [
+      {
+        "icon": "tree.fill",
+        "text": {
+          "en": "Free public park inside Tenshochi Park",
+          "ja": "展勝地公園内の無料で利用できる公園です"
+        }
+      },
+      {
+        "icon": "camera",
+        "text": {
+          "en": "Great pairing with cherry blossom season at Tenshochi",
+          "ja": "展勝地の桜の季節にも立ち寄りやすい場所です"
+        }
+      },
+      {
+        "icon": "mappin.and.ellipse",
+        "text": {
+          "en": "A Poké Lid is installed on the park grounds",
+          "ja": "園内にポケふたが設置されています"
+        }
+      }
+    ],
+    "coordinate": "39.269871, 141.126486"
+  },
+  {
+    "id": "geodude-park-morioka",
+    "nameOverride": {
+      "en": "Geodude Park in Morioka",
+      "ja": "イシツブテ公園 in もりおか"
+    },
+    "category": "public-park",
+    "about": {
+      "en": "Geodude Park in Morioka is an Iwate rock-type Pokémon themed park in Morioka Central Park. It is the third Geodude Park in Iwate and features playground equipment inspired by Geodude, Rockruff, and other rock-type Pokémon.",
+      "ja": "イシツブテ公園 in もりおかは、盛岡市中央公園内にある、いわタイプのポケモンをテーマにした公園です。岩手県内3か所目のイシツブテ公園で、イシツブテやイワンコなどのいわポケモンをモチーフにした遊具が設置されています。"
+    },
+    "timeline": [
+      {
+        "label": {
+          "en": "Opened",
+          "ja": "オープン"
+        },
+        "date": {
+          "en": "April 9, 2026",
+          "ja": "2026年4月9日"
+        }
+      }
+    ],
+    "info": {
+      "website": "https://www.city.morioka.iwate.jp/kurashi/midori/koen/1055811.html",
+      "phone": "+81 19-639-9057",
+      "address": {
+        "en": "Morioka Central Park, Motomiya Aza Hebiyashiki, Morioka, Iwate, Japan",
+        "ja": "岩手県盛岡市本宮字蛇屋敷外 盛岡市中央公園内"
+      }
+    },
+    "characterStatues": [
+      {
+        "en": "Geodude",
+        "ja": "イシツブテ"
+      },
+      {
+        "en": "Rockruff",
+        "ja": "イワンコ"
+      },
+      {
+        "en": "Tyrunt",
+        "ja": "チゴラス"
+      },
+      {
+        "en": "Lycanroc",
+        "ja": "ルガルガン"
+      }
+    ],
+    "goodToKnow": [
+      {
+        "icon": "tree.fill",
+        "text": {
+          "en": "Free public park inside Morioka Central Park",
+          "ja": "盛岡市中央公園内の無料で利用できる公園です"
+        }
+      },
+      {
+        "icon": "mappin.and.ellipse",
+        "text": {
+          "en": "A Poké Lid was installed for the park opening",
+          "ja": "開園に合わせてポケふたが設置されました"
+        }
+      },
+      {
+        "icon": "gamecontroller",
+        "text": {
+          "en": "Pokémon GO tie-ins are available for a limited time after opening",
+          "ja": "開園後の期間限定でPokémon GO連携企画があります"
+        }
+      }
+    ],
+    "coordinate": "39.693639, 141.126838"
+  },
+  {
+    "id": "oshawott-park-suzuka",
+    "nameOverride": {
+      "en": "Oshawott Park in Suzuka",
+      "ja": "ミジュマル公園 in すずか"
+    },
+    "category": "public-park",
+    "hours": [
+      {
+        "day": {
+          "en": "Jan - Feb, Nov - Dec",
+          "ja": "1月〜2月・11月〜12月"
+        },
+        "hours": {
+          "en": "8:30 AM - 5:00 PM",
+          "ja": "8:30 - 17:00"
+        }
+      },
+      {
+        "day": {
+          "en": "Mar - May, Sep - Oct",
+          "ja": "3月〜5月・9月〜10月"
+        },
+        "hours": {
+          "en": "8:30 AM - 7:00 PM",
+          "ja": "8:30 - 19:00"
+        }
+      },
+      {
+        "day": {
+          "en": "Jun - Aug",
+          "ja": "6月〜8月"
+        },
+        "hours": {
+          "en": "8:30 AM - 8:00 PM",
+          "ja": "8:30 - 20:00"
+        }
+      }
+    ],
+    "about": {
+      "en": "Oshawott Park in Suzuka is a Mie Oshawott-themed park inside Daisei Forest Park. It features Oshawott playground equipment and designs inspired by Suzuka, including motorsport-themed play elements.",
+      "ja": "ミジュマル公園 in すずかは、ダイセーフォレストパーク（鈴鹿青少年の森）内にある、みえ応援ポケモン・ミジュマルをテーマにした公園です。鈴鹿らしいモータースポーツを思わせる遊具など、ミジュマルをモチーフにした遊具が設置されています。"
+    },
+    "timeline": [
+      {
+        "label": {
+          "en": "Opened",
+          "ja": "オープン"
+        },
+        "date": {
+          "en": "July 14, 2025",
+          "ja": "2025年7月14日"
+        }
+      }
+    ],
+    "info": {
+      "website": "https://www.kankomie.or.jp/spot/25155",
+      "phone": "+81 59-378-2946",
+      "address": {
+        "en": "Daisei Forest Park, Sumiyoshi-cho, Suzuka, Mie, Japan",
+        "ja": "三重県鈴鹿市住吉町地内 ダイセーフォレストパーク（鈴鹿青少年の森）内"
+      }
+    },
+    "characterStatues": [
+      {
+        "en": "Oshawott",
+        "ja": "ミジュマル"
+      }
+    ],
+    "goodToKnow": [
+      {
+        "icon": "tree.fill",
+        "text": {
+          "en": "Free public park inside Daisei Forest Park",
+          "ja": "ダイセーフォレストパーク内の無料で利用できる公園です"
+        }
+      },
+      {
+        "icon": "car",
+        "text": {
+          "en": "The Suzuka park has motorsport-inspired play details",
+          "ja": "鈴鹿らしいモータースポーツ風の遊具演出があります"
+        }
+      },
+      {
+        "icon": "mappin.and.ellipse",
+        "text": {
+          "en": "A Poké Lid is installed on the park grounds",
+          "ja": "園内にポケふたが設置されています"
+        }
+      }
+    ],
+    "coordinate": "34.853148, 136.539097"
+  },
+  {
+    "id": "oshawott-park-toba",
+    "nameOverride": {
+      "en": "Oshawott Park in Toba",
+      "ja": "ミジュマル公園 in とば"
+    },
+    "category": "public-park",
+    "hours": [
+      {
+        "day": {
+          "en": "All Days",
+          "ja": "毎日"
+        },
+        "hours": {
+          "en": "9:00 AM - 7:00 PM",
+          "ja": "9:00 - 19:00"
+        }
+      }
+    ],
+    "about": {
+      "en": "Oshawott Park in Toba is a Mie Oshawott-themed public park at Toba Port's Sadahama New Port Green Space, next to Toba Marine Terminal. It features Oshawott playground equipment with seaside and pearl-inspired details.",
+      "ja": "ミジュマル公園 in とばは、鳥羽マリンターミナル北側の鳥羽港佐田浜新港緑地にある、みえ応援ポケモン・ミジュマルをテーマにした公園です。海辺の立地や真珠をイメージした遊具など、鳥羽らしい要素を楽しめます。"
+    },
+    "timeline": [
+      {
+        "label": {
+          "en": "Opened",
+          "ja": "オープン"
+        },
+        "date": {
+          "en": "July 14, 2025",
+          "ja": "2025年7月14日"
+        }
+      }
+    ],
+    "info": {
+      "website": "https://www.kankomie.or.jp/report/2052",
+      "phone": "+81 599-25-4359",
+      "address": {
+        "en": "Toba Port Sadahama New Port Green Space, Toba 1-chome, Toba, Mie, Japan",
+        "ja": "三重県鳥羽市鳥羽一丁目地内 鳥羽港佐田浜新港緑地"
+      }
+    },
+    "characterStatues": [
+      {
+        "en": "Oshawott",
+        "ja": "ミジュマル"
+      },
+      {
+        "en": "Dewgong",
+        "ja": "ジュゴン"
+      }
+    ],
+    "goodToKnow": [
+      {
+        "icon": "water.waves",
+        "text": {
+          "en": "Seaside park next to Toba Marine Terminal",
+          "ja": "鳥羽マリンターミナルそばの海辺の公園です"
+        }
+      },
+      {
+        "icon": "mappin.and.ellipse",
+        "text": {
+          "en": "A Poké Lid is installed near the entrance",
+          "ja": "入口付近にポケふたが設置されています"
+        }
+      },
+      {
+        "icon": "ferry",
+        "text": {
+          "en": "You can see Toba municipal ferries nearby",
+          "ja": "近くで鳥羽市営定期船を見ることができます"
+        }
+      }
+    ],
+    "coordinate": "34.490033, 136.844942"
+  },
+  {
+    "id": "lapras-park-kase-numa",
+    "nameOverride": {
+      "en": "Lapras Park in Kase-numa",
+      "ja": "ラプラス公園 in かせぬま"
+    },
+    "category": "public-park",
+    "hours": [
+      {
+        "day": {
+          "en": "Apr - Sep",
+          "ja": "4月〜9月"
+        },
+        "hours": {
+          "en": "8:00 AM - 6:00 PM",
+          "ja": "8:00 - 18:00"
+        }
+      },
+      {
+        "day": {
+          "en": "Oct - Mar",
+          "ja": "10月〜3月"
+        },
+        "hours": {
+          "en": "8:00 AM - 5:00 PM",
+          "ja": "8:00 - 17:00"
+        }
+      }
+    ],
+    "about": {
+      "en": "Lapras Park in Kase-numa is a Miyagi Lapras-themed park inside Moririn Kase-numa Park in Rifu. It features playground equipment inspired by Lapras and other water-type Pokémon.",
+      "ja": "ラプラス公園 in かせぬまは、宮城県利府町のモリリン加瀬沼公園内にある、みやぎ応援ポケモン・ラプラスをテーマにした公園です。ラプラスをはじめとするみずタイプのポケモンをモチーフにした遊具が設置されています。"
+    },
+    "timeline": [
+      {
+        "label": {
+          "en": "Opened",
+          "ja": "オープン"
+        },
+        "date": {
+          "en": "October 31, 2025",
+          "ja": "2025年10月31日"
+        }
+      }
+    ],
+    "info": {
+      "website": "https://www.pokemon.jp/info/event/detail/20383.html",
+      "phone": "+81 22-767-2723",
+      "address": {
+        "en": "Moririn Kase-numa Park, Kase Shintsutsumishita 7-1, Rifu-cho, Miyagi-gun, Miyagi, Japan",
+        "ja": "宮城県宮城郡利府町加瀬字新堤下7-1 モリリン加瀬沼公園内"
+      }
+    },
+    "characterStatues": [
+      {
+        "en": "Lapras",
+        "ja": "ラプラス"
+      },
+      {
+        "en": "Sharpedo",
+        "ja": "サメハダー"
+      },
+      {
+        "en": "Wailmer",
+        "ja": "ホエルコ"
+      },
+      {
+        "en": "Mantyke",
+        "ja": "タマンタ"
+      },
+      {
+        "en": "Wiglett",
+        "ja": "ウミディグダ"
+      }
+    ],
+    "goodToKnow": [
+      {
+        "icon": "tree.fill",
+        "text": {
+          "en": "Free public park inside Moririn Kase-numa Park",
+          "ja": "モリリン加瀬沼公園内の無料で利用できる公園です"
+        }
+      },
+      {
+        "icon": "mappin.and.ellipse",
+        "text": {
+          "en": "A Poké Lid was installed for the opening",
+          "ja": "開園に合わせてポケふたが設置されました"
+        }
+      },
+      {
+        "icon": "calendar",
+        "text": {
+          "en": "Closed during the New Year holiday period",
+          "ja": "年末年始は休園です"
+        }
+      }
+    ],
+    "coordinate": "38.311506, 140.983428"
+  },
+  {
+    "id": "lapras-park-sendai",
+    "nameOverride": {
+      "en": "Lapras Park in Sendai",
+      "ja": "ラプラス公園 in せんだい"
+    },
+    "category": "public-park",
+    "about": {
+      "en": "Lapras Park in Sendai is a Miyagi Lapras-themed park inside Kaigan Park's Fujitsuka area in Sendai. It features Lapras and water-type Pokémon playground equipment near the coastal park landscape.",
+      "ja": "ラプラス公園 in せんだいは、仙台市若林区の海岸公園（藤塚地区）内にある、みやぎ応援ポケモン・ラプラスをテーマにした公園です。海岸公園の風景の中で、ラプラスやみずタイプのポケモンをモチーフにした遊具を楽しめます。"
+    },
+    "timeline": [
+      {
+        "label": {
+          "en": "Opened",
+          "ja": "オープン"
+        },
+        "date": {
+          "en": "April 23, 2026",
+          "ja": "2026年4月23日"
+        }
+      }
+    ],
+    "info": {
+      "website": "https://www.city.sendai.jp/koen-kensetsu/fujitsuka-lapras.html",
+      "phone": "+81 22-214-8396",
+      "address": {
+        "en": "Kaigan Park Fujitsuka Area, Fujitsuka, Wakabayashi-ku, Sendai, Miyagi, Japan",
+        "ja": "宮城県仙台市若林区藤塚地内 海岸公園（藤塚地区）内"
+      }
+    },
+    "characterStatues": [
+      {
+        "en": "Lapras",
+        "ja": "ラプラス"
+      },
+      {
+        "en": "Chinchou",
+        "ja": "チョンチー"
+      },
+      {
+        "en": "Sharpedo",
+        "ja": "サメハダー"
+      },
+      {
+        "en": "Wailmer",
+        "ja": "ホエルコ"
+      },
+      {
+        "en": "Mantyke",
+        "ja": "タマンタ"
+      },
+      {
+        "en": "Wiglett",
+        "ja": "ウミディグダ"
+      }
+    ],
+    "goodToKnow": [
+      {
+        "icon": "water.waves",
+        "text": {
+          "en": "Located in the coastal Fujitsuka area of Kaigan Park",
+          "ja": "海岸公園の藤塚地区にあります"
+        }
+      },
+      {
+        "icon": "mappin.and.ellipse",
+        "text": {
+          "en": "A Poké Lid was installed for the opening",
+          "ja": "開園に合わせてポケふたが設置されました"
+        }
+      },
+      {
+        "icon": "gamecontroller",
+        "text": {
+          "en": "Pokémon GO tie-ins are available for a limited time after opening",
+          "ja": "開園後の期間限定でPokémon GO連携企画があります"
+        }
+      }
+    ],
+    "coordinate": "38.1843048, 140.9553283"
+  },
+  {
     "id": "nintendo-popup-store-tokyo",
     "nameOverride": { "en": "Nintendo TOKYO POP-UP STORE", "ja": "Nintendo TOKYO ポップアップストア" },
     "category": "pop-up-store",
