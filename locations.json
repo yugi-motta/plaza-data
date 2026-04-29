@@ -731,7 +731,7 @@
       { "en": "Chansey", "ja": "ラッキー" }
     ],
     "goodToKnow": [
-      { "icon": "tree.fill", "text": { "en": "Free public park", "ja": "無料で入れる公園です" } },
+      { "icon": "tree", "text": { "en": "Free public park", "ja": "無料で入れる公園です" } },
       { "icon": "car", "text": { "en": "Easy to reach by car", "ja": "車で行きやすい場所です" } },
       { "icon": "sun.max", "text": { "en": "Best visited in daytime", "ja": "昼間の訪問がおすすめ" } }
     ],
@@ -1011,7 +1011,7 @@
       { "en": "Chansey", "ja": "ラッキー" }
     ],
     "goodToKnow": [
-      { "icon": "tree.fill", "text": { "en": "Free public park", "ja": "無料で入れる公園です" } },
+      { "icon": "tree", "text": { "en": "Free public park", "ja": "無料で入れる公園です" } },
       { "icon": "car", "text": { "en": "Easy to reach by car", "ja": "車で行きやすい場所です" } },
       { "icon": "sun.max", "text": { "en": "Best visited in daytime", "ja": "昼間の訪問がおすすめ" } }
     ],
@@ -1216,7 +1216,7 @@
       { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "April 28, 2023", "ja": "2023年4月28日" } }
     ],
     "goodToKnow": [
-      { "icon": "tree.fill", "text": { "en": "Free to enter the park", "ja": "公園は無料で利用できます" } },
+      { "icon": "tree", "text": { "en": "Free to enter the park", "ja": "公園は無料で利用できます" } },
       { "icon": "car", "text": { "en": "Right by Roadside Station Iwate Kita-Sanriku", "ja": "道の駅いわて北三陸に隣接" } },
       { "icon": "camera", "text": { "en": "Poké Lid and photo spots nearby", "ja": "近くにポケふたや撮影スポットあり" } }
     ],
@@ -1973,7 +1973,7 @@
     ],
     "goodToKnow": [
       { "icon": "ticket", "text": { "en": "Advance tickets are required, and sales methods differ for Japan residents and overseas visitors", "ja": "事前チケットが必要で、日本在住者と海外からの来場者で購入方法が異なります" } },
-      { "icon": "leaf.fill", "text": { "en": "The park features more than 600 Pokémon across its forest and town areas", "ja": "森と街のエリア全体で600匹を超えるポケモンが登場します" } },
+      { "icon": "leaf", "text": { "en": "The park features more than 600 Pokémon across its forest and town areas", "ja": "森と街のエリア全体で600匹を超えるポケモンが登場します" } },
       { "icon": "figure.walk", "text": { "en": "Pokémon Forest includes uneven terrain such as slopes, grass paths, and tunnels", "ja": "ポケモンフォレストには坂道、草むら、トンネルなど起伏のあるルートがあります" } }
     ],
     "coordinate": "35.6260296, 139.5205298"
@@ -2453,7 +2453,7 @@
     ],
     "goodToKnow": [
       {
-        "icon": "tree.fill",
+        "icon": "tree",
         "text": {
           "en": "Free public park inside Kaiseizan Park",
           "ja": "開成山公園内の無料で利用できる公園です"
@@ -2519,7 +2519,7 @@
     ],
     "goodToKnow": [
       {
-        "icon": "tree.fill",
+        "icon": "tree",
         "text": {
           "en": "Free public park at a roadside station",
           "ja": "道の駅にある無料で利用できる公園です"
@@ -2601,7 +2601,7 @@
     ],
     "goodToKnow": [
       {
-        "icon": "tree.fill",
+        "icon": "tree",
         "text": {
           "en": "Free public park",
           "ja": "無料で利用できる公園です"
@@ -2675,7 +2675,7 @@
     ],
     "goodToKnow": [
       {
-        "icon": "tree.fill",
+        "icon": "tree",
         "text": {
           "en": "Free public park inside Tenshochi Park",
           "ja": "展勝地公園内の無料で利用できる公園です"
@@ -2749,7 +2749,7 @@
     ],
     "goodToKnow": [
       {
-        "icon": "tree.fill",
+        "icon": "tree",
         "text": {
           "en": "Free public park inside Morioka Central Park",
           "ja": "盛岡市中央公園内の無料で利用できる公園です"
@@ -2843,7 +2843,7 @@
     ],
     "goodToKnow": [
       {
-        "icon": "tree.fill",
+        "icon": "tree",
         "text": {
           "en": "Free public park inside Daisei Forest Park",
           "ja": "ダイセーフォレストパーク内の無料で利用できる公園です"
@@ -3021,7 +3021,7 @@
     ],
     "goodToKnow": [
       {
-        "icon": "tree.fill",
+        "icon": "tree",
         "text": {
           "en": "Free public park inside Moririn Kase-numa Park",
           "ja": "モリリン加瀬沼公園内の無料で利用できる公園です"
