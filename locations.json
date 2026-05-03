@@ -1208,6 +1208,30 @@
     "coordinate": "35.7295772, 139.7190099"
   },
   {
+    "id": "nintendo-systems-tokyo",
+    "nameOverride": { "en": "Nintendo Systems Co., Ltd.", "ja": "ニンテンドーシステムズ株式会社" },
+    "category": "historical-sites-corporate",
+    "about": {
+      "en": "Nintendo Systems Co., Ltd. is a Nintendo-affiliated systems company established by Nintendo and DeNA engineering teams. Based at Shibuya Scramble Square in Tokyo, it develops and operates systems for the digital parts of Nintendo's business and works on new service planning, development, and operations.",
+      "ja": "ニンテンドーシステムズ株式会社は、任天堂とDeNAのエンジニアチームを中心として設立された任天堂の関係会社です。東京・渋谷スクランブルスクエアに東京本社を置き、任天堂が展開するビジネスのデジタル部分に関するシステム開発・運用、新規サービスの企画・開発・運用を担っています。"
+    },
+    "timeline": [
+      { "label": { "en": "Established", "ja": "設立" }, "date": { "en": "April 3, 2023", "ja": "2023年4月3日" } }
+    ],
+    "info": {
+      "website": "https://www.nintendo-systems.com/",
+      "phone": null,
+      "address": { "en": "Shibuya Scramble Square, 2-24-12 Shibuya, Shibuya-ku, Tokyo 150-6142, Japan", "ja": "〒150-6142 東京都渋谷区渋谷二丁目24番12号 渋谷スクランブルスクエア" }
+    },
+    "goodToKnow": [
+      { "icon": "person.badge.key", "text": { "en": "Employee access only", "ja": "従業員のみ立ち入り可能です" } },
+      { "icon": "bag", "text": { "en": "No retail store on site", "ja": "現地での販売はありません" } },
+      { "icon": "camera", "text": { "en": "Corporate office, not a tourist spot", "ja": "観光スポットではない企業オフィスです" } },
+      { "icon": "building.2", "text": { "en": "A Kyoto development office is also listed inside Nintendo's Development Center", "ja": "京都開発室は任天堂本社開発棟内にもあります" } }
+    ],
+    "coordinate": "35.6583792, 139.7022161"
+  },
+  {
     "id": "nintendo-development-center",
     "appleMapsId": "ICDEFCD0BEB02197",
     "nameOverride": { "en": "Nintendo Development Center", "ja": "任天堂本社開発棟" },
