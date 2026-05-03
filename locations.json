@@ -1232,6 +1232,31 @@
     "coordinate": "35.6583792, 139.7022161"
   },
   {
+    "id": "nintendo-sales-tokyo",
+    "nameOverride": { "en": "Nintendo Sales Co., Ltd.", "ja": "任天堂販売株式会社" },
+    "category": "historical-sites-corporate",
+    "about": {
+      "en": "Nintendo Sales Co., Ltd. is a Nintendo-affiliated company responsible for domestic wholesale and distribution of Nintendo hardware, software, accessories, card games, and related entertainment products in Japan. Its Tokyo headquarters is located in KANDA SQUARE in Chiyoda.",
+      "ja": "任天堂販売株式会社は、任天堂株式会社が100％出資する関係会社で、日本国内における任天堂ハードウェア、ソフトウェア、ゲーム機周辺機器、アクセサリー、カードゲームなどの卸売を担っています。東京本社は千代田区のKANDA SQUAREにあります。"
+    },
+    "timeline": [
+      { "label": { "en": "Established", "ja": "設立" }, "date": { "en": "April 3, 2017", "ja": "2017年4月3日" } },
+      { "label": { "en": "Head office moved to KANDA SQUARE", "ja": "本社をKANDA SQUAREへ移転" }, "date": { "en": "2020", "ja": "2020年" } }
+    ],
+    "info": {
+      "website": "https://www.nintendo-sales.co.jp/",
+      "phone": "+81 3-5259-5600",
+      "address": { "en": "KANDA SQUARE 8F, 2-2-1 Kanda-Nishikicho, Chiyoda-ku, Tokyo 101-0054, Japan", "ja": "〒101-0054 東京都千代田区神田錦町二丁目2番地1 KANDA SQUARE 8階" }
+    },
+    "goodToKnow": [
+      { "icon": "person.badge.key", "text": { "en": "Employee access only", "ja": "従業員のみ立ち入り可能です" } },
+      { "icon": "bag", "text": { "en": "No retail store on site", "ja": "現地での販売はありません" } },
+      { "icon": "camera", "text": { "en": "Corporate office, not a tourist spot", "ja": "観光スポットではない企業オフィスです" } },
+      { "icon": "shippingbox", "text": { "en": "Kyoto Distribution Center is tracked separately in Puraza", "ja": "京都物流センターはPuraza内で別地点として登録済みです" } }
+    ],
+    "coordinate": "35.6934080, 139.7628090"
+  },
+  {
     "id": "nintendo-development-center",
     "appleMapsId": "ICDEFCD0BEB02197",
     "nameOverride": { "en": "Nintendo Development Center", "ja": "任天堂本社開発棟" },
