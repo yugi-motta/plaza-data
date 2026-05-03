@@ -1257,6 +1257,30 @@
     "coordinate": "35.6934080, 139.7628090"
   },
   {
+    "id": "nintendo-cube-sapporo",
+    "nameOverride": { "en": "Nintendo Cube Co., Ltd.", "ja": "ニンテンドーキューブ株式会社" },
+    "category": "historical-sites-corporate",
+    "about": {
+      "en": "Nintendo Cube Co., Ltd. is a Nintendo group software developer known for contributing to the Mario Party series, Clubhouse Games: 51 Worldwide Classics, and Animal Crossing: Pocket Camp. Its Sapporo headquarters is listed at Daido Life Sapporo Building, with a Tokyo headquarters also listed in Shibuya.",
+      "ja": "ニンテンドーキューブ株式会社は、任天堂グループのソフトウェア開発会社です。「マリオパーティ」シリーズや「世界のアソビ大全51」、「どうぶつの森 ポケットキャンプ」などの開発に携わっています。札幌本社は大同生命札幌ビルにあり、渋谷区には東京本社もあります。"
+    },
+    "timeline": [
+      { "label": { "en": "Established", "ja": "設立" }, "date": { "en": "March 1, 2000", "ja": "2000年3月1日" } }
+    ],
+    "info": {
+      "website": "https://www.nintendo-cube.co.jp/",
+      "phone": "+81 11-209-2077",
+      "address": { "en": "Daido Life Sapporo Building 11F, 1 Kita 3-jo Nishi 3-chome, Chuo-ku, Sapporo, Hokkaido 060-0003, Japan", "ja": "〒060-0003 北海道札幌市中央区北3条西3丁目1番地 大同生命札幌ビル11階" }
+    },
+    "goodToKnow": [
+      { "icon": "person.badge.key", "text": { "en": "Employee access only", "ja": "従業員のみ立ち入り可能です" } },
+      { "icon": "bag", "text": { "en": "No retail store on site", "ja": "現地での販売はありません" } },
+      { "icon": "camera", "text": { "en": "Corporate office, not a tourist spot", "ja": "観光スポットではない企業オフィスです" } },
+      { "icon": "building.2", "text": { "en": "A Tokyo headquarters is also listed in Shibuya", "ja": "渋谷区にも東京本社があります" } }
+    ],
+    "coordinate": "43.06471597, 141.34897401"
+  },
+  {
     "id": "nintendo-development-center",
     "appleMapsId": "ICDEFCD0BEB02197",
     "nameOverride": { "en": "Nintendo Development Center", "ja": "任天堂本社開発棟" },
