@@ -238,21 +238,54 @@
   {
     "id": "nintendo-tokyo-office",
     "appleMapsId": "I9297F9644F152A98",
-    "nameOverride": { "en": "Tokyo Branch Office", "ja": "東京支店" },
+    "nameOverride": {
+      "en": "Tokyo Branch Office",
+      "ja": "東京支店"
+    },
     "category": "historical-sites-corporate",
     "about": {
       "en": "Nintendo’s Tokyo Branch Office is the company’s main office in Tokyo, located in KANDA SQUARE in Chiyoda. It supports Nintendo’s business operations in the capital alongside the Kyoto headquarters.",
       "ja": "任天堂 東京支店は、千代田区のKANDA SQUAREにある任天堂の東京拠点です。京都本社と並び、首都圏での事業運営を支えるオフィスです。"
     },
     "timeline": [
-      { "label": { "en": "Tokyo Branch established", "ja": "東京支店を開設" }, "date": { "en": "September 1961", "ja": "1961年9月" } }
+      {
+        "label": {
+          "en": "Tokyo Branch established",
+          "ja": "東京支店を開設"
+        },
+        "date": {
+          "en": "September 1961",
+          "ja": "1961年9月"
+        }
+      }
     ],
     "goodToKnow": [
-      { "icon": "person.badge.key", "text": { "en": "Employee access only", "ja": "従業員のみ入館可能" } },
-      { "icon": "bag", "text": { "en": "No retail store at this office", "ja": "この拠点に販売店舗はありません" } },
-      { "icon": "building.2", "text": { "en": "Corporate office, not a tourist spot", "ja": "観光向けではない企業拠点です" } }
+      {
+        "icon": "person.slash",
+        "text": {
+          "en": "Only accessible to employees",
+          "ja": "従業員のみアクセス可能です"
+        }
+      },
+      {
+        "icon": "tag.slash",
+        "text": {
+          "en": "No retail store on site",
+          "ja": "現地での販売はありません"
+        }
+      },
+      {
+        "icon": "video.slash",
+        "text": {
+          "en": "Not a tourist spot",
+          "ja": "観光スポットではありません"
+        }
+      }
     ],
-    "coordinate": "35.6931184, 139.7633149"
+    "coordinate": "35.6931184, 139.7633149",
+    "tags": [
+      "employee-access-only"
+    ]
   },
   {
     "id": "nintendo-fukuoka",
@@ -368,20 +401,54 @@
   {
     "id": "nintendo-of-australia",
     "appleMapsId": "ID4F1CD23B9FB24D3",
-    "nameOverride": { "en": "Nintendo Australia Pty Limited", "ja": "Nintendo Australia Pty Limited" },
+    "nameOverride": {
+      "en": "Nintendo Australia Pty Limited",
+      "ja": "Nintendo Australia Pty Limited"
+    },
     "category": "historical-sites-corporate",
     "about": {
       "en": "Nintendo Australia Pty. Limited is Nintendo’s subsidiary for the Australia and New Zealand region, based in Scoresby, Melbourne.",
       "ja": "Nintendo Australia Pty. Limitedは、メルボルンのスコーズビーに拠点を置く、オーストラリアおよびニュージーランド地域を担当する任天堂の現地法人です。"
     },
     "timeline": [
-      { "label": { "en": "Established", "ja": "設立" }, "date": { "en": "1993", "ja": "1993年" } }
+      {
+        "label": {
+          "en": "Established",
+          "ja": "設立"
+        },
+        "date": {
+          "en": "1993",
+          "ja": "1993年"
+        }
+      }
     ],
     "goodToKnow": [
-      { "icon": "person.badge.key", "text": { "en": "Only accessible to employees", "ja": "従業員のみ立ち入り可能" } },
-      { "icon": "bag", "text": { "en": "No retail store on site", "ja": "現地での販売はありません" } }
+      {
+        "icon": "person.slash",
+        "text": {
+          "en": "Only accessible to employees",
+          "ja": "従業員のみアクセス可能です"
+        }
+      },
+      {
+        "icon": "tag.slash",
+        "text": {
+          "en": "No retail store on site",
+          "ja": "現地での販売はありません"
+        }
+      },
+      {
+        "icon": "video.slash",
+        "text": {
+          "en": "Not a tourist spot",
+          "ja": "観光スポットではありません"
+        }
+      }
     ],
-    "coordinate": "-37.901944, 145.233649"
+    "coordinate": "-37.901944, 145.233649",
+    "tags": [
+      "employee-access-only"
+    ]
   },
   {
     "id": "pokemon-center-tokyo-bay",
@@ -448,20 +515,54 @@
   {
     "id": "nintendo-of-america",
     "appleMapsId": "I98F5E94315562DD9",
-    "nameOverride": { "en": "Nintendo of America Inc.", "ja": "Nintendo of America Inc." },
+    "nameOverride": {
+      "en": "Nintendo of America Inc.",
+      "ja": "Nintendo of America Inc."
+    },
     "category": "historical-sites-corporate",
     "about": {
       "en": "Nintendo of America Inc. is Nintendo’s U.S. subsidiary, based in Redmond, Washington, and serves as the headquarters for Nintendo’s operations in the Americas.",
       "ja": "Nintendo of America Inc.は、ワシントン州レドモンドに拠点を置く任天堂の米国法人で、アメリカ地域における任天堂事業の本部を担っています。"
     },
     "timeline": [
-      { "label": { "en": "Established", "ja": "設立" }, "date": { "en": "1980", "ja": "1980年" } }
+      {
+        "label": {
+          "en": "Established",
+          "ja": "設立"
+        },
+        "date": {
+          "en": "1980",
+          "ja": "1980年"
+        }
+      }
     ],
     "goodToKnow": [
-      { "icon": "person.badge.key", "text": { "en": "Only accessible to employees", "ja": "従業員のみ立ち入り可能" } },
-      { "icon": "bag", "text": { "en": "No retail store on site", "ja": "現地での販売はありません" } }
+      {
+        "icon": "person.slash",
+        "text": {
+          "en": "Only accessible to employees",
+          "ja": "従業員のみアクセス可能です"
+        }
+      },
+      {
+        "icon": "tag.slash",
+        "text": {
+          "en": "No retail store on site",
+          "ja": "現地での販売はありません"
+        }
+      },
+      {
+        "icon": "video.slash",
+        "text": {
+          "en": "Not a tourist spot",
+          "ja": "観光スポットではありません"
+        }
+      }
     ],
-    "coordinate": "47.6510574, -122.1392262"
+    "coordinate": "47.6510574, -122.1392262",
+    "tags": [
+      "employee-access-only"
+    ]
   },
   {
     "id": "pokemon-center-okinawa",
@@ -617,22 +718,71 @@
   {
     "id": "nintendo-uji-service-center",
     "appleMapsId": "I6F42861B422F6208",
-    "nameOverride": { "en": "Uji Plant", "ja": "宇治工場" },
+    "nameOverride": {
+      "en": "Uji Plant",
+      "ja": "宇治工場"
+    },
     "category": "historical-sites-corporate",
     "about": {
       "en": "Nintendo Uji Service Center is Nintendo’s repair service base in Uji, Kyoto. The current repair destination is at Nintendo’s Uji Plant, where repair operations were consolidated after moving from the former Uji Ogura Service Center site.",
       "ja": "任天堂宇治サービスセンターは、京都府宇治市にある任天堂の修理サービス拠点です。現在の修理受付先は任天堂宇治工場内にあり、旧宇治小倉サービスセンターから修理業務が集約されています。"
     },
     "timeline": [
-      { "label": { "en": "Uji Plant established", "ja": "宇治工場を設置" }, "date": { "en": "November 1983", "ja": "1983年11月" } },
-      { "label": { "en": "Repair operations moved here", "ja": "修理業務を移管" }, "date": { "en": "November 4, 2016", "ja": "2016年11月4日" } }
+      {
+        "label": {
+          "en": "Uji Plant established",
+          "ja": "宇治工場を設置"
+        },
+        "date": {
+          "en": "November 1983",
+          "ja": "1983年11月"
+        }
+      },
+      {
+        "label": {
+          "en": "Repair operations moved here",
+          "ja": "修理業務を移管"
+        },
+        "date": {
+          "en": "November 4, 2016",
+          "ja": "2016年11月4日"
+        }
+      }
     ],
     "goodToKnow": [
-      { "icon": "shippingbox", "text": { "en": "Repair items are sent here", "ja": "修理品の送付先です" } },
-      { "icon": "hand.raised", "text": { "en": "No in-person repair drop-off", "ja": "持ち込み修理は非対応です" } },
-      { "icon": "person.badge.key", "text": { "en": "Not a public retail location", "ja": "一般向け店舗ではありません" } }
+      {
+        "icon": "person.slash",
+        "text": {
+          "en": "Only accessible to employees",
+          "ja": "従業員のみアクセス可能です"
+        }
+      },
+      {
+        "icon": "tag.slash",
+        "text": {
+          "en": "No retail store on site",
+          "ja": "現地での販売はありません"
+        }
+      },
+      {
+        "icon": "video.slash",
+        "text": {
+          "en": "Not a tourist spot",
+          "ja": "観光スポットではありません"
+        }
+      },
+      {
+        "icon": "rectangle.slash",
+        "text": {
+          "en": "No in-person repair drop-off",
+          "ja": "修理品の持ち込み受付はありません"
+        }
+      }
     ],
-    "coordinate": "34.895728, 135.7970984"
+    "coordinate": "34.895728, 135.7970984",
+    "tags": [
+      "employee-access-only"
+    ]
   },
   {
     "id": "kirby-cafe-petit-osaka",
@@ -823,18 +973,42 @@
   {
     "id": "nintendo-hong-kong-office",
     "appleMapsId": "I96A1E1960BAFA417",
-    "nameOverride": { "en": "Nintendo (Hong Kong) Limited", "ja": "任天堂（香港）有限公司" },
+    "nameOverride": {
+      "en": "Nintendo (Hong Kong) Limited",
+      "ja": "任天堂（香港）有限公司"
+    },
     "category": "historical-sites-corporate",
     "about": {
       "en": "Nintendo (Hong Kong) Limited is Nintendo’s Hong Kong office, handling regional business operations and support for Nintendo products in Hong Kong.",
       "ja": "任天堂（香港）有限公司は、香港における任天堂の地域事業運営や製品サポートを担当する任天堂の香港拠点です。"
     },
     "goodToKnow": [
-      { "icon": "person.badge.key", "text": { "en": "Employee access only", "ja": "従業員のみ立ち入り可能" } },
-      { "icon": "bag", "text": { "en": "No retail store on site", "ja": "現地での販売はありません" } },
-      { "icon": "building.2", "text": { "en": "Corporate office location", "ja": "企業オフィス拠点です" } }
+      {
+        "icon": "person.slash",
+        "text": {
+          "en": "Only accessible to employees",
+          "ja": "従業員のみアクセス可能です"
+        }
+      },
+      {
+        "icon": "tag.slash",
+        "text": {
+          "en": "No retail store on site",
+          "ja": "現地での販売はありません"
+        }
+      },
+      {
+        "icon": "video.slash",
+        "text": {
+          "en": "Not a tourist spot",
+          "ja": "観光スポットではありません"
+        }
+      }
     ],
-    "coordinate": "22.3038165, 114.1834055"
+    "coordinate": "22.3038165, 114.1834055",
+    "tags": [
+      "employee-access-only"
+    ]
   },
   {
     "id": "pokemon-store-gotemba",
@@ -1209,180 +1383,464 @@
   },
   {
     "id": "nintendo-systems-tokyo",
-    "nameOverride": { "en": "Nintendo Systems Co., Ltd.", "ja": "ニンテンドーシステムズ株式会社" },
+    "nameOverride": {
+      "en": "Nintendo Systems Co., Ltd.",
+      "ja": "ニンテンドーシステムズ株式会社"
+    },
     "category": "historical-sites-corporate",
     "about": {
       "en": "Nintendo Systems Co., Ltd. is a Nintendo-affiliated systems company established by Nintendo and DeNA engineering teams. Based at Shibuya Scramble Square in Tokyo, it develops and operates systems for the digital parts of Nintendo's business and works on new service planning, development, and operations.",
       "ja": "ニンテンドーシステムズ株式会社は、任天堂とDeNAのエンジニアチームを中心として設立された任天堂の関係会社です。東京・渋谷スクランブルスクエアに東京本社を置き、任天堂が展開するビジネスのデジタル部分に関するシステム開発・運用、新規サービスの企画・開発・運用を担っています。"
     },
     "timeline": [
-      { "label": { "en": "Established", "ja": "設立" }, "date": { "en": "April 3, 2023", "ja": "2023年4月3日" } }
+      {
+        "label": {
+          "en": "Established",
+          "ja": "設立"
+        },
+        "date": {
+          "en": "April 3, 2023",
+          "ja": "2023年4月3日"
+        }
+      }
     ],
     "info": {
       "website": "https://www.nintendo-systems.com/",
       "phone": null,
-      "address": { "en": "Shibuya Scramble Square, 2-24-12 Shibuya, Shibuya-ku, Tokyo 150-6142, Japan", "ja": "〒150-6142 東京都渋谷区渋谷二丁目24番12号 渋谷スクランブルスクエア" }
+      "address": {
+        "en": "Shibuya Scramble Square, 2-24-12 Shibuya, Shibuya-ku, Tokyo 150-6142, Japan",
+        "ja": "〒150-6142 東京都渋谷区渋谷二丁目24番12号 渋谷スクランブルスクエア"
+      }
     },
     "goodToKnow": [
-      { "icon": "person.badge.key", "text": { "en": "Employee access only", "ja": "従業員のみ立ち入り可能です" } },
-      { "icon": "bag", "text": { "en": "No retail store on site", "ja": "現地での販売はありません" } },
-      { "icon": "camera", "text": { "en": "Corporate office, not a tourist spot", "ja": "観光スポットではない企業オフィスです" } },
-      { "icon": "building.2", "text": { "en": "A Kyoto development office is also listed inside Nintendo's Development Center", "ja": "京都開発室は任天堂本社開発棟内にもあります" } }
+      {
+        "icon": "person.slash",
+        "text": {
+          "en": "Only accessible to employees",
+          "ja": "従業員のみアクセス可能です"
+        }
+      },
+      {
+        "icon": "tag.slash",
+        "text": {
+          "en": "No retail store on site",
+          "ja": "現地での販売はありません"
+        }
+      },
+      {
+        "icon": "video.slash",
+        "text": {
+          "en": "Not a tourist spot",
+          "ja": "観光スポットではありません"
+        }
+      }
     ],
-    "coordinate": "35.6583792, 139.7022161"
+    "coordinate": "35.6583792, 139.7022161",
+    "tags": [
+      "employee-access-only"
+    ]
   },
   {
     "id": "nintendo-sales-tokyo",
-    "nameOverride": { "en": "Nintendo Sales Co., Ltd.", "ja": "任天堂販売株式会社" },
+    "nameOverride": {
+      "en": "Nintendo Sales Co., Ltd.",
+      "ja": "任天堂販売株式会社"
+    },
     "category": "historical-sites-corporate",
     "about": {
       "en": "Nintendo Sales Co., Ltd. is a Nintendo-affiliated company responsible for domestic wholesale and distribution of Nintendo hardware, software, accessories, card games, and related entertainment products in Japan. Its Tokyo headquarters is located in KANDA SQUARE in Chiyoda.",
       "ja": "任天堂販売株式会社は、任天堂株式会社が100％出資する関係会社で、日本国内における任天堂ハードウェア、ソフトウェア、ゲーム機周辺機器、アクセサリー、カードゲームなどの卸売を担っています。東京本社は千代田区のKANDA SQUAREにあります。"
     },
     "timeline": [
-      { "label": { "en": "Established", "ja": "設立" }, "date": { "en": "April 3, 2017", "ja": "2017年4月3日" } },
-      { "label": { "en": "Head office moved to KANDA SQUARE", "ja": "本社をKANDA SQUAREへ移転" }, "date": { "en": "2020", "ja": "2020年" } }
+      {
+        "label": {
+          "en": "Established",
+          "ja": "設立"
+        },
+        "date": {
+          "en": "April 3, 2017",
+          "ja": "2017年4月3日"
+        }
+      },
+      {
+        "label": {
+          "en": "Head office moved to KANDA SQUARE",
+          "ja": "本社をKANDA SQUAREへ移転"
+        },
+        "date": {
+          "en": "2020",
+          "ja": "2020年"
+        }
+      }
     ],
     "info": {
       "website": "https://www.nintendo-sales.co.jp/",
       "phone": "+81 3-5259-5600",
-      "address": { "en": "KANDA SQUARE 8F, 2-2-1 Kanda-Nishikicho, Chiyoda-ku, Tokyo 101-0054, Japan", "ja": "〒101-0054 東京都千代田区神田錦町二丁目2番地1 KANDA SQUARE 8階" }
+      "address": {
+        "en": "KANDA SQUARE 8F, 2-2-1 Kanda-Nishikicho, Chiyoda-ku, Tokyo 101-0054, Japan",
+        "ja": "〒101-0054 東京都千代田区神田錦町二丁目2番地1 KANDA SQUARE 8階"
+      }
     },
     "goodToKnow": [
-      { "icon": "person.badge.key", "text": { "en": "Employee access only", "ja": "従業員のみ立ち入り可能です" } },
-      { "icon": "bag", "text": { "en": "No retail store on site", "ja": "現地での販売はありません" } },
-      { "icon": "camera", "text": { "en": "Corporate office, not a tourist spot", "ja": "観光スポットではない企業オフィスです" } },
-      { "icon": "shippingbox", "text": { "en": "Kyoto Distribution Center is tracked separately in Puraza", "ja": "京都物流センターはPuraza内で別地点として登録済みです" } }
+      {
+        "icon": "person.slash",
+        "text": {
+          "en": "Only accessible to employees",
+          "ja": "従業員のみアクセス可能です"
+        }
+      },
+      {
+        "icon": "tag.slash",
+        "text": {
+          "en": "No retail store on site",
+          "ja": "現地での販売はありません"
+        }
+      },
+      {
+        "icon": "video.slash",
+        "text": {
+          "en": "Not a tourist spot",
+          "ja": "観光スポットではありません"
+        }
+      }
     ],
-    "coordinate": "35.6934080, 139.7628090"
+    "coordinate": "35.6934080, 139.7628090",
+    "tags": [
+      "employee-access-only"
+    ]
   },
   {
     "id": "nintendo-cube-sapporo",
-    "nameOverride": { "en": "Nintendo Cube Co., Ltd.", "ja": "ニンテンドーキューブ株式会社" },
+    "nameOverride": {
+      "en": "Nintendo Cube Co., Ltd.",
+      "ja": "ニンテンドーキューブ株式会社"
+    },
     "category": "historical-sites-corporate",
     "about": {
       "en": "Nintendo Cube Co., Ltd. is a Nintendo group software developer known for contributing to the Mario Party series, Clubhouse Games: 51 Worldwide Classics, and Animal Crossing: Pocket Camp. Its Sapporo headquarters is listed at Daido Life Sapporo Building, with a Tokyo headquarters also listed in Shibuya.",
       "ja": "ニンテンドーキューブ株式会社は、任天堂グループのソフトウェア開発会社です。「マリオパーティ」シリーズや「世界のアソビ大全51」、「どうぶつの森 ポケットキャンプ」などの開発に携わっています。札幌本社は大同生命札幌ビルにあり、渋谷区には東京本社もあります。"
     },
     "timeline": [
-      { "label": { "en": "Established", "ja": "設立" }, "date": { "en": "March 1, 2000", "ja": "2000年3月1日" } }
+      {
+        "label": {
+          "en": "Established",
+          "ja": "設立"
+        },
+        "date": {
+          "en": "March 1, 2000",
+          "ja": "2000年3月1日"
+        }
+      }
     ],
     "info": {
       "website": "https://www.nintendo-cube.co.jp/",
       "phone": "+81 11-209-2077",
-      "address": { "en": "Daido Life Sapporo Building 11F, 1 Kita 3-jo Nishi 3-chome, Chuo-ku, Sapporo, Hokkaido 060-0003, Japan", "ja": "〒060-0003 北海道札幌市中央区北3条西3丁目1番地 大同生命札幌ビル11階" }
+      "address": {
+        "en": "Daido Life Sapporo Building 11F, 1 Kita 3-jo Nishi 3-chome, Chuo-ku, Sapporo, Hokkaido 060-0003, Japan",
+        "ja": "〒060-0003 北海道札幌市中央区北3条西3丁目1番地 大同生命札幌ビル11階"
+      }
     },
     "goodToKnow": [
-      { "icon": "person.badge.key", "text": { "en": "Employee access only", "ja": "従業員のみ立ち入り可能です" } },
-      { "icon": "bag", "text": { "en": "No retail store on site", "ja": "現地での販売はありません" } },
-      { "icon": "camera", "text": { "en": "Corporate office, not a tourist spot", "ja": "観光スポットではない企業オフィスです" } },
-      { "icon": "building.2", "text": { "en": "A Tokyo headquarters is also listed in Shibuya", "ja": "渋谷区にも東京本社があります" } }
+      {
+        "icon": "person.slash",
+        "text": {
+          "en": "Only accessible to employees",
+          "ja": "従業員のみアクセス可能です"
+        }
+      },
+      {
+        "icon": "tag.slash",
+        "text": {
+          "en": "No retail store on site",
+          "ja": "現地での販売はありません"
+        }
+      },
+      {
+        "icon": "video.slash",
+        "text": {
+          "en": "Not a tourist spot",
+          "ja": "観光スポットではありません"
+        }
+      }
     ],
-    "coordinate": "43.06471597, 141.34897401"
+    "coordinate": "43.06471597, 141.34897401",
+    "tags": [
+      "employee-access-only"
+    ]
   },
   {
     "id": "mario-club-kyoto",
-    "nameOverride": { "en": "Mario Club Co., Ltd.", "ja": "マリオクラブ株式会社" },
+    "nameOverride": {
+      "en": "Mario Club Co., Ltd.",
+      "ja": "マリオクラブ株式会社"
+    },
     "category": "historical-sites-corporate",
     "about": {
       "en": "Mario Club Co., Ltd. is a wholly owned Nintendo subsidiary in Kyoto that supports Nintendo through quality control and related work, including debugging and monitor services for game hardware and software. Its headquarters are located in Higashiyama, Kyoto.",
       "ja": "マリオクラブ株式会社は、京都に本社を置く任天堂株式会社の100％子会社です。ゲーム機器やゲームソフトの品質管理、デバッグ・モニターサービスなどを通じて、任天堂独自の娯楽づくりを支えています。"
     },
     "timeline": [
-      { "label": { "en": "Established", "ja": "設立" }, "date": { "en": "July 2009", "ja": "2009年7月" } }
+      {
+        "label": {
+          "en": "Established",
+          "ja": "設立"
+        },
+        "date": {
+          "en": "July 2009",
+          "ja": "2009年7月"
+        }
+      }
     ],
     "info": {
       "website": "https://www.marioclub.co.jp/",
       "phone": "+81 75-531-8600",
-      "address": { "en": "60 Fukuine Kamitakamatsu-cho, Higashiyama-ku, Kyoto 605-0983, Japan", "ja": "〒605-0983 京都市東山区福稲上高松町60" }
+      "address": {
+        "en": "60 Fukuine Kamitakamatsu-cho, Higashiyama-ku, Kyoto 605-0983, Japan",
+        "ja": "〒605-0983 京都市東山区福稲上高松町60"
+      }
     },
     "goodToKnow": [
-      { "icon": "person.badge.key", "text": { "en": "Employee access only", "ja": "従業員のみ立ち入り可能です" } },
-      { "icon": "bag", "text": { "en": "No retail store on site", "ja": "現地での販売はありません" } },
-      { "icon": "camera", "text": { "en": "Corporate office, not a tourist spot", "ja": "観光スポットではない企業オフィスです" } },
-      { "icon": "building.2", "text": { "en": "A Kyoto South Office is also listed near Nintendo headquarters", "ja": "任天堂本社近くに京都南オフィスもあります" } }
+      {
+        "icon": "person.slash",
+        "text": {
+          "en": "Only accessible to employees",
+          "ja": "従業員のみアクセス可能です"
+        }
+      },
+      {
+        "icon": "tag.slash",
+        "text": {
+          "en": "No retail store on site",
+          "ja": "現地での販売はありません"
+        }
+      },
+      {
+        "icon": "video.slash",
+        "text": {
+          "en": "Not a tourist spot",
+          "ja": "観光スポットではありません"
+        }
+      }
     ],
-    "coordinate": "34.97565408, 135.76821902"
+    "coordinate": "34.97565408, 135.76821902",
+    "tags": [
+      "employee-access-only"
+    ]
   },
   {
     "id": "1-up-studio-tokyo",
-    "nameOverride": { "en": "1-UP Studio Inc.", "ja": "1-UPスタジオ株式会社" },
+    "nameOverride": {
+      "en": "1-UP Studio Inc.",
+      "ja": "1-UPスタジオ株式会社"
+    },
     "category": "historical-sites-corporate",
     "about": {
       "en": "1-UP Studio Inc. is a wholly owned Nintendo subsidiary and game development studio based in Tokyo. Originally established as Brownie Brown in 2000, it has collaborated on Nintendo titles including Super Mario 3D World, Captain Toad: Treasure Tracker, Super Mario Odyssey, Animal Crossing: New Horizons, Mario Kart World, and Donkey Kong Bananza.",
       "ja": "1-UPスタジオ株式会社は、東京に拠点を置く任天堂株式会社の100％子会社のゲーム開発会社です。2000年に株式会社ブラウニー・ブラウンとして設立され、「スーパーマリオ 3Dワールド」「進め！キノピオ隊長」「スーパーマリオ オデッセイ」「あつまれ どうぶつの森」「マリオカート ワールド」「ドンキーコング バナンザ」などの開発協力に携わっています。"
     },
     "timeline": [
-      { "label": { "en": "Established as Brownie Brown", "ja": "株式会社ブラウニー・ブラウン設立" }, "date": { "en": "June 30, 2000", "ja": "2000年6月30日" } },
-      { "label": { "en": "Renamed 1-UP Studio Inc.", "ja": "1-UPスタジオ株式会社へ社名変更" }, "date": { "en": "February 2013", "ja": "2013年2月" } },
-      { "label": { "en": "Head office moved to Kanda-Nishikicho", "ja": "本社事務所を神田錦町へ移転" }, "date": { "en": "September 2020", "ja": "2020年9月" } }
+      {
+        "label": {
+          "en": "Established as Brownie Brown",
+          "ja": "株式会社ブラウニー・ブラウン設立"
+        },
+        "date": {
+          "en": "June 30, 2000",
+          "ja": "2000年6月30日"
+        }
+      },
+      {
+        "label": {
+          "en": "Renamed 1-UP Studio Inc.",
+          "ja": "1-UPスタジオ株式会社へ社名変更"
+        },
+        "date": {
+          "en": "February 2013",
+          "ja": "2013年2月"
+        }
+      },
+      {
+        "label": {
+          "en": "Head office moved to Kanda-Nishikicho",
+          "ja": "本社事務所を神田錦町へ移転"
+        },
+        "date": {
+          "en": "September 2020",
+          "ja": "2020年9月"
+        }
+      }
     ],
     "info": {
       "website": "https://1-up-studio.jp/",
       "phone": "+81 3-5217-3330",
-      "address": { "en": "KANDA SQUARE 20F, 2-2-1 Kanda-Nishikicho, Chiyoda-ku, Tokyo 101-0054, Japan", "ja": "〒101-0054 東京都千代田区神田錦町2-2-1 KANDA SQUARE 20階" }
+      "address": {
+        "en": "KANDA SQUARE 20F, 2-2-1 Kanda-Nishikicho, Chiyoda-ku, Tokyo 101-0054, Japan",
+        "ja": "〒101-0054 東京都千代田区神田錦町2-2-1 KANDA SQUARE 20階"
+      }
     },
     "goodToKnow": [
-      { "icon": "person.badge.key", "text": { "en": "Employee access only", "ja": "従業員のみ立ち入り可能です" } },
-      { "icon": "bag", "text": { "en": "No retail store on site", "ja": "現地での販売はありません" } },
-      { "icon": "camera", "text": { "en": "Corporate office, not a tourist spot", "ja": "観光スポットではない企業オフィスです" } },
-      { "icon": "gamecontroller", "text": { "en": "Nintendo-owned game development studio", "ja": "任天堂100％子会社のゲーム開発会社です" } }
+      {
+        "icon": "person.slash",
+        "text": {
+          "en": "Only accessible to employees",
+          "ja": "従業員のみアクセス可能です"
+        }
+      },
+      {
+        "icon": "tag.slash",
+        "text": {
+          "en": "No retail store on site",
+          "ja": "現地での販売はありません"
+        }
+      },
+      {
+        "icon": "video.slash",
+        "text": {
+          "en": "Not a tourist spot",
+          "ja": "観光スポットではありません"
+        }
+      }
     ],
-    "coordinate": "35.6934080, 139.7628090"
+    "coordinate": "35.6934080, 139.7628090",
+    "tags": [
+      "employee-access-only"
+    ]
   },
   {
     "id": "monolith-software-tokyo",
-    "nameOverride": { "en": "MONOLITH SOFTWARE INC.", "ja": "株式会社モノリスソフト" },
+    "nameOverride": {
+      "en": "MONOLITH SOFTWARE INC.",
+      "ja": "株式会社モノリスソフト"
+    },
     "category": "historical-sites-corporate",
     "about": {
       "en": "MONOLITH SOFTWARE INC. is a Nintendo-owned game development company headquartered in Tokyo. Founded in 1999, the studio is known for the Xenoblade series and has also supported major Nintendo titles including The Legend of Zelda series, Splatoon 3, Mario Kart World, and other Nintendo projects.",
       "ja": "株式会社モノリスソフトは、東京に本社を置く任天堂株式会社100％出資のゲーム開発会社です。1999年に設立され、「ゼノブレイド」シリーズで知られるほか、「ゼルダの伝説」シリーズ、「スプラトゥーン3」、「マリオカート ワールド」など任天堂タイトルの開発にも携わっています。"
     },
     "timeline": [
-      { "label": { "en": "Established", "ja": "設立" }, "date": { "en": "October 1, 1999", "ja": "1999年10月1日" } }
+      {
+        "label": {
+          "en": "Established",
+          "ja": "設立"
+        },
+        "date": {
+          "en": "October 1, 1999",
+          "ja": "1999年10月1日"
+        }
+      }
     ],
     "info": {
       "website": "https://www.monolithsoft.co.jp/",
       "phone": null,
-      "address": { "en": "Nakameguro GT Tower 12F, 2-1-1 Kamimeguro, Meguro-ku, Tokyo 153-0051, Japan", "ja": "〒153-0051 東京都目黒区上目黒2-1-1 中目黒GTタワー12階" }
+      "address": {
+        "en": "Nakameguro GT Tower 12F, 2-1-1 Kamimeguro, Meguro-ku, Tokyo 153-0051, Japan",
+        "ja": "〒153-0051 東京都目黒区上目黒2-1-1 中目黒GTタワー12階"
+      }
     },
     "goodToKnow": [
-      { "icon": "person.badge.key", "text": { "en": "Employee access only", "ja": "従業員のみ立ち入り可能です" } },
-      { "icon": "bag", "text": { "en": "No retail store on site", "ja": "現地での販売はありません" } },
-      { "icon": "camera", "text": { "en": "Corporate office, not a tourist spot", "ja": "観光スポットではない企業オフィスです" } },
-      { "icon": "building.2", "text": { "en": "Osaki Studio and Kyoto Studio are also listed by the company", "ja": "大崎スタジオと京都スタジオも公式に掲載されています" } }
+      {
+        "icon": "person.slash",
+        "text": {
+          "en": "Only accessible to employees",
+          "ja": "従業員のみアクセス可能です"
+        }
+      },
+      {
+        "icon": "tag.slash",
+        "text": {
+          "en": "No retail store on site",
+          "ja": "現地での販売はありません"
+        }
+      },
+      {
+        "icon": "video.slash",
+        "text": {
+          "en": "Not a tourist spot",
+          "ja": "観光スポットではありません"
+        }
+      }
     ],
-    "coordinate": "35.64363214, 139.69678985"
+    "coordinate": "35.64363214, 139.69678985",
+    "tags": [
+      "employee-access-only"
+    ]
   },
   {
     "id": "srd-kyoto-headquarters",
-    "nameOverride": { "en": "SRD Co., Ltd.", "ja": "株式会社SRD" },
+    "nameOverride": {
+      "en": "SRD Co., Ltd.",
+      "ja": "株式会社SRD"
+    },
     "category": "historical-sites-corporate",
     "about": {
       "en": "SRD Co., Ltd. is a Nintendo group company based in Kyoto. It works on contracted development for game software and web systems, and has participated in programming development for Nintendo titles including Super Mario, The Legend of Zelda, Animal Crossing, Splatoon, Nintendo Switch Sports, and other Nintendo projects.",
       "ja": "株式会社SRDは、京都に本社を置く任天堂グループの会社です。ゲームソフトおよびWebシステムの受託開発を行い、「スーパーマリオ」「ゼルダの伝説」「どうぶつの森」「スプラトゥーン」「Nintendo Switch Sports」など、任天堂タイトルのプログラム開発に携わっています。"
     },
     "timeline": [
-      { "label": { "en": "Established", "ja": "設立" }, "date": { "en": "January 1979", "ja": "1979年1月" } },
-      { "label": { "en": "Became a wholly owned Nintendo subsidiary", "ja": "任天堂株式会社の100％出資子会社化" }, "date": { "en": "April 1, 2022", "ja": "2022年4月1日" } }
+      {
+        "label": {
+          "en": "Established",
+          "ja": "設立"
+        },
+        "date": {
+          "en": "January 1979",
+          "ja": "1979年1月"
+        }
+      },
+      {
+        "label": {
+          "en": "Became a wholly owned Nintendo subsidiary",
+          "ja": "任天堂株式会社の100％出資子会社化"
+        },
+        "date": {
+          "en": "April 1, 2022",
+          "ja": "2022年4月1日"
+        }
+      }
     ],
     "info": {
       "website": "https://www.srd.co.jp/",
       "phone": "+81 75-343-2020",
-      "address": { "en": "Kanden Realty & Development Kyoto Building 8F, 614 Higashi-Shiokoji-cho, Shiokoji-dori Karasuma Nishi-iru, Shimogyo-ku, Kyoto 600-8216, Japan", "ja": "〒600-8216 京都市下京区塩小路通烏丸西入東塩小路町614番地 関電不動産京都ビル8F" }
+      "address": {
+        "en": "Kanden Realty & Development Kyoto Building 8F, 614 Higashi-Shiokoji-cho, Shiokoji-dori Karasuma Nishi-iru, Shimogyo-ku, Kyoto 600-8216, Japan",
+        "ja": "〒600-8216 京都市下京区塩小路通烏丸西入東塩小路町614番地 関電不動産京都ビル8F"
+      }
     },
     "goodToKnow": [
-      { "icon": "person.badge.key", "text": { "en": "Employee access only", "ja": "従業員のみ立ち入り可能です" } },
-      { "icon": "bag", "text": { "en": "No retail store on site", "ja": "現地での販売はありません" } },
-      { "icon": "camera", "text": { "en": "Corporate office, not a tourist spot", "ja": "観光スポットではない企業オフィスです" } },
-      { "icon": "figure.walk", "text": { "en": "About 3 min from Kyoto Station", "ja": "京都駅から徒歩約3分" } }
+      {
+        "icon": "person.slash",
+        "text": {
+          "en": "Only accessible to employees",
+          "ja": "従業員のみアクセス可能です"
+        }
+      },
+      {
+        "icon": "tag.slash",
+        "text": {
+          "en": "No retail store on site",
+          "ja": "現地での販売はありません"
+        }
+      },
+      {
+        "icon": "video.slash",
+        "text": {
+          "en": "Not a tourist spot",
+          "ja": "観光スポットではありません"
+        }
+      }
     ],
-    "coordinate": "34.98754988, 135.75419885"
+    "coordinate": "34.98754988, 135.75419885",
+    "tags": [
+      "employee-access-only"
+    ]
   },
   {
     "id": "nintendo-development-center",
     "appleMapsId": "ICDEFCD0BEB02197",
-    "nameOverride": { "en": "Nintendo Development Center", "ja": "任天堂本社開発棟" },
+    "nameOverride": {
+      "en": "Nintendo Development Center",
+      "ja": "任天堂本社開発棟"
+    },
     "category": "historical-sites-corporate",
     "photos": [
       {
@@ -1403,66 +1861,193 @@
       "ja": "任天堂本社開発棟は、京都の本社に隣接する任天堂の主要な研究開発拠点です。開発部門をより密接に集約し、任天堂ならではのハードとソフト一体の開発体制を支えるための施設です。"
     },
     "goodToKnow": [
-      { "icon": "person.badge.key", "text": { "en": "Employee access only", "ja": "従業員のみ立ち入り可能" } },
-      { "icon": "bag", "text": { "en": "No retail store on site", "ja": "現地での販売はありません" } },
-      { "icon": "figure.walk", "text": { "en": "About 8 min from Jujo Station", "ja": "十条駅から徒歩約8分" } }
+      {
+        "icon": "person.slash",
+        "text": {
+          "en": "Only accessible to employees",
+          "ja": "従業員のみアクセス可能です"
+        }
+      },
+      {
+        "icon": "tag.slash",
+        "text": {
+          "en": "No retail store on site",
+          "ja": "現地での販売はありません"
+        }
+      },
+      {
+        "icon": "video.slash",
+        "text": {
+          "en": "Not a tourist spot",
+          "ja": "観光スポットではありません"
+        }
+      },
+      {
+        "icon": "camera",
+        "text": {
+          "en": "Photo in front of the Nintendo sign outside might be permitted if requested",
+          "ja": "屋外の任天堂看板前での写真撮影は、依頼すれば許可される場合があります"
+        }
+      }
     ],
-    "coordinate": "34.9725026, 135.7545805"
+    "coordinate": "34.9725026, 135.7545805",
+    "tags": [
+      "employee-access-only"
+    ]
   },
   {
     "id": "nintendo-sales-kyoto-distribution-center",
     "appleMapsId": "I596480628F985719",
-    "nameOverride": { "en": "Nintendo Sales Kyoto Distribution Center", "ja": "任天堂販売 京都物流センター" },
+    "nameOverride": {
+      "en": "Nintendo Sales Kyoto Distribution Center",
+      "ja": "任天堂販売 京都物流センター"
+    },
     "category": "historical-sites-corporate",
     "about": {
       "en": "Nintendo Sales Kyoto Distribution Center is a logistics facility in Kyoto operated by Nintendo Sales Co., Ltd. It supports the domestic distribution side of Nintendo’s business rather than serving as a retail or visitor location.",
       "ja": "任天堂販売 京都配送センターは、京都にある任天堂販売株式会社の物流拠点です。小売店舗や見学施設ではなく、任天堂商品の国内流通を支える施設として運用されています。"
     },
     "goodToKnow": [
-      { "icon": "person.badge.key", "text": { "en": "Employee access only", "ja": "従業員のみ立ち入り可能" } },
-      { "icon": "shippingbox", "text": { "en": "Logistics facility, not a store", "ja": "販売店ではなく物流拠点です" } },
-      { "icon": "hand.raised", "text": { "en": "Not open to public visits", "ja": "一般見学はできません" } }
+      {
+        "icon": "person.slash",
+        "text": {
+          "en": "Only accessible to employees",
+          "ja": "従業員のみアクセス可能です"
+        }
+      },
+      {
+        "icon": "tag.slash",
+        "text": {
+          "en": "No retail store on site",
+          "ja": "現地での販売はありません"
+        }
+      },
+      {
+        "icon": "video.slash",
+        "text": {
+          "en": "Not a tourist spot",
+          "ja": "観光スポットではありません"
+        }
+      }
     ],
-    "coordinate": "34.8737872, 135.7640353"
+    "coordinate": "34.8737872, 135.7640353",
+    "tags": [
+      "employee-access-only"
+    ]
   },
   {
     "id": "nintendo-of-europe",
     "appleMapsId": "I21D72BF0ADFBB196",
-    "nameOverride": { "en": "Nintendo of Europe SE", "ja": "Nintendo of Europe SE" },
+    "nameOverride": {
+      "en": "Nintendo of Europe SE",
+      "ja": "Nintendo of Europe SE"
+    },
     "category": "historical-sites-corporate",
     "about": {
       "en": "Nintendo of Europe is Nintendo’s European headquarters in Frankfurt am Main, Germany. It oversees Nintendo’s regional business operations across Europe, including distribution, publishing, marketing, and support.",
       "ja": "Nintendo of Europeは、ドイツのフランクフルト・アム・マインにある任天堂の欧州本部です。ヨーロッパ地域における流通、パブリッシング、マーケティング、サポートなどの事業運営を担っています。"
     },
     "timeline": [
-      { "label": { "en": "Established", "ja": "設立" }, "date": { "en": "February 1990", "ja": "1990年2月" } }
+      {
+        "label": {
+          "en": "Established",
+          "ja": "設立"
+        },
+        "date": {
+          "en": "February 1990",
+          "ja": "1990年2月"
+        }
+      }
     ],
     "goodToKnow": [
-      { "icon": "person.badge.key", "text": { "en": "Employee access only", "ja": "従業員のみ立ち入り可能" } },
-      { "icon": "bag", "text": { "en": "No retail store on site", "ja": "現地での販売はありません" } },
-      { "icon": "building.2", "text": { "en": "European headquarters location", "ja": "欧州本部の拠点です" } }
+      {
+        "icon": "person.slash",
+        "text": {
+          "en": "Only accessible to employees",
+          "ja": "従業員のみアクセス可能です"
+        }
+      },
+      {
+        "icon": "tag.slash",
+        "text": {
+          "en": "No retail store on site",
+          "ja": "現地での販売はありません"
+        }
+      },
+      {
+        "icon": "video.slash",
+        "text": {
+          "en": "Not a tourist spot",
+          "ja": "観光スポットではありません"
+        }
+      }
     ],
-    "coordinate": "50.0839443, 8.6206603"
+    "coordinate": "50.0839443, 8.6206603",
+    "tags": [
+      "employee-access-only"
+    ]
   },
   {
     "id": "nintendo-kyoto-research-center",
     "appleMapsId": "I7DD3BF7637B1C96",
-    "nameOverride": { "en": "Nintendo Kyoto Research Center", "ja": "任天堂 京都リサーチセンター" },
+    "nameOverride": {
+      "en": "Nintendo Kyoto Research Center",
+      "ja": "任天堂 京都リサーチセンター"
+    },
     "category": "historical-sites-corporate",
     "about": {
       "en": "Nintendo Kyoto Research Center is located at Nintendo’s former headquarters site in Kyoto. The location is closely tied to the company’s early growth, having served as a factory and later as headquarters before Nintendo moved its main office to Minami-ku.",
       "ja": "任天堂京都リサーチセンターは、京都にある任天堂旧本社跡に位置する施設です。この場所は、工場として始まり、その後は本社として使われた、任天堂の成長初期に深く関わる拠点です。"
     },
     "timeline": [
-      { "label": { "en": "Established as factory", "ja": "工場として設置" }, "date": { "en": "October 1952", "ja": "1952年10月" } },
-      { "label": { "en": "Became headquarters", "ja": "本社を移転" }, "date": { "en": "September 1959", "ja": "1959年9月" } }
+      {
+        "label": {
+          "en": "Established as factory",
+          "ja": "工場として設置"
+        },
+        "date": {
+          "en": "October 1952",
+          "ja": "1952年10月"
+        }
+      },
+      {
+        "label": {
+          "en": "Became headquarters",
+          "ja": "本社を移転"
+        },
+        "date": {
+          "en": "September 1959",
+          "ja": "1959年9月"
+        }
+      }
     ],
     "goodToKnow": [
-      { "icon": "person.badge.key", "text": { "en": "Employee access only", "ja": "従業員のみ立ち入り可能" } },
-      { "icon": "bag", "text": { "en": "No retail store on site", "ja": "現地での販売はありません" } },
-      { "icon": "camera", "text": { "en": "Best viewed from outside only", "ja": "外観見学が基本です" } }
+      {
+        "icon": "person.slash",
+        "text": {
+          "en": "Only accessible to employees",
+          "ja": "従業員のみアクセス可能です"
+        }
+      },
+      {
+        "icon": "tag.slash",
+        "text": {
+          "en": "No retail store on site",
+          "ja": "現地での販売はありません"
+        }
+      },
+      {
+        "icon": "video.slash",
+        "text": {
+          "en": "Not a tourist spot",
+          "ja": "観光スポットではありません"
+        }
+      }
     ],
-    "coordinate": "34.9751795, 135.7695204"
+    "coordinate": "34.9751795, 135.7695204",
+    "tags": [
+      "employee-access-only"
+    ]
   },
   {
     "id": "geodude-park-kuji",
@@ -2135,17 +2720,42 @@
   {
     "id": "nintendo-of-canada-ltd",
     "appleMapsId": "IB0EC07A2B73E190B",
-    "nameOverride": { "en": "Nintendo of Canada Ltd.", "ja": "Nintendo of Canada Ltd." },
+    "nameOverride": {
+      "en": "Nintendo of Canada Ltd.",
+      "ja": "Nintendo of Canada Ltd."
+    },
     "category": "historical-sites-corporate",
     "about": {
       "en": "Nintendo of Canada Ltd. is Nintendo’s Canadian subsidiary in Burnaby, British Columbia, handling the marketing, sales, and distribution of Nintendo hardware, accessories, and first-party games in Canada.",
       "ja": "Nintendo of Canada Ltd.は、ブリティッシュコロンビア州バーナビーにある任天堂のカナダ法人で、カナダ国内における任天堂の本体、周辺機器、ファーストパーティーソフトのマーケティング、販売、流通を担っています。"
     },
     "goodToKnow": [
-      { "icon": "person.badge.key", "text": { "en": "Only accessible to employees", "ja": "従業員のみ立ち入り可能" } },
-      { "icon": "bag", "text": { "en": "No retail store on site", "ja": "現地での販売はありません" } }
+      {
+        "icon": "person.slash",
+        "text": {
+          "en": "Only accessible to employees",
+          "ja": "従業員のみアクセス可能です"
+        }
+      },
+      {
+        "icon": "tag.slash",
+        "text": {
+          "en": "No retail store on site",
+          "ja": "現地での販売はありません"
+        }
+      },
+      {
+        "icon": "video.slash",
+        "text": {
+          "en": "Not a tourist spot",
+          "ja": "観光スポットではありません"
+        }
+      }
     ],
-    "coordinate": "49.2654338, -123.0054285"
+    "coordinate": "49.2654338, -123.0054285",
+    "tags": [
+      "employee-access-only"
+    ]
   },
   {
     "id": "lbuy-nintendo-authorized-store-moko",
@@ -2655,7 +3265,10 @@
   {
     "id": "nintendo-corporate-headquarters",
     "appleMapsId": "I209B2C8B372B5586",
-    "nameOverride": { "en": "Nintendo Corporate Headquarters", "ja": "任天堂本社" },
+    "nameOverride": {
+      "en": "Nintendo Corporate Headquarters",
+      "ja": "任天堂本社"
+    },
     "category": "historical-sites-corporate",
     "photos": [
       {
@@ -2676,14 +3289,44 @@
       "ja": "任天堂本社は京都にある任天堂の現本社で、世界展開する事業運営の中心拠点です。"
     },
     "timeline": [
-      { "label": { "en": "Headquarters relocated to current location", "ja": "現在地に本社を移転" }, "date": { "en": "November 2000", "ja": "2000年11月" } }
+      {
+        "label": {
+          "en": "Headquarters relocated to current location",
+          "ja": "現在地に本社を移転"
+        },
+        "date": {
+          "en": "November 2000",
+          "ja": "2000年11月"
+        }
+      }
     ],
     "goodToKnow": [
-      { "icon": "building.2", "text": { "en": "This is Nintendo’s official corporate headquarters", "ja": "任天堂の公式本社です" } },
-      { "icon": "figure.walk", "text": { "en": "About a 7-minute walk from Jujo Station or Kamitobaguchi Station", "ja": "十条駅または上鳥羽口駅から徒歩約7分です" } },
-      { "icon": "shippingbox", "text": { "en": "Nintendo’s separate Development Center is nearby in Kyoto", "ja": "任天堂の本社開発棟が京都市内の近くにあります" } }
+      {
+        "icon": "person.slash",
+        "text": {
+          "en": "Only accessible to employees",
+          "ja": "従業員のみアクセス可能です"
+        }
+      },
+      {
+        "icon": "tag.slash",
+        "text": {
+          "en": "No retail store on site",
+          "ja": "現地での販売はありません"
+        }
+      },
+      {
+        "icon": "video.slash",
+        "text": {
+          "en": "Not a tourist spot",
+          "ja": "観光スポットではありません"
+        }
+      }
     ],
-    "coordinate": "34.9697354, 135.7561845"
+    "coordinate": "34.9697354, 135.7561845",
+    "tags": [
+      "employee-access-only"
+    ]
   },
   {
     "id": "kirby-cafe-the-store-hakata",
@@ -2784,42 +3427,31 @@
     },
     "goodToKnow": [
       {
-        "icon": "person.badge.key",
+        "icon": "person.slash",
         "text": {
-          "en": "Employee access only",
-          "ja": "従業員のみ立ち入り可能です"
+          "en": "Only accessible to employees",
+          "ja": "従業員のみアクセス可能です"
         }
       },
       {
-        "icon": "bag",
+        "icon": "tag.slash",
         "text": {
           "en": "No retail store on site",
           "ja": "現地での販売はありません"
         }
       },
       {
-        "icon": "camera",
+        "icon": "video.slash",
         "text": {
-          "en": "Corporate office, not a tourist spot",
-          "ja": "観光スポットではない企業オフィスです"
-        }
-      },
-      {
-        "icon": "video",
-        "text": {
-          "en": "Creates visual content using Nintendo IP",
-          "ja": "任天堂IPを扱った映像制作を手がけています"
-        }
-      },
-      {
-        "icon": "building.2",
-        "text": {
-          "en": "Motion-capture studio is listed separately in Kanda-Awajicho",
-          "ja": "モーションキャプチャースタジオは神田淡路町に別途掲載されています"
+          "en": "Not a tourist spot",
+          "ja": "観光スポットではありません"
         }
       }
     ],
-    "coordinate": "35.6934080, 139.7628090"
+    "coordinate": "35.6934080, 139.7628090",
+    "tags": [
+      "employee-access-only"
+    ]
   },
   {
     "id": "nintendo-stars-tokyo",
@@ -2864,35 +3496,31 @@
     },
     "goodToKnow": [
       {
-        "icon": "person.badge.key",
+        "icon": "person.slash",
         "text": {
-          "en": "Employee access only",
-          "ja": "従業員のみ立ち入り可能です"
+          "en": "Only accessible to employees",
+          "ja": "従業員のみアクセス可能です"
         }
       },
       {
-        "icon": "bag",
+        "icon": "tag.slash",
         "text": {
           "en": "No retail store on site",
           "ja": "現地での販売はありません"
         }
       },
       {
-        "icon": "camera",
+        "icon": "video.slash",
         "text": {
-          "en": "Corporate office, not a tourist spot",
-          "ja": "観光スポットではない企業オフィスです"
-        }
-      },
-      {
-        "icon": "star",
-        "text": {
-          "en": "Handles Kirby series licensing and operations",
-          "ja": "「星のカービィ」シリーズの二次利用の運用・許諾・管理を担います"
+          "en": "Not a tourist spot",
+          "ja": "観光スポットではありません"
         }
       }
     ],
-    "coordinate": "35.6934080, 139.7628090"
+    "coordinate": "35.6934080, 139.7628090",
+    "tags": [
+      "employee-access-only"
+    ]
   },
   {
     "id": "the-pokemon-company-tokyo",
@@ -2927,35 +3555,31 @@
     },
     "goodToKnow": [
       {
-        "icon": "person.badge.key",
+        "icon": "person.slash",
         "text": {
-          "en": "Employee access only",
-          "ja": "従業員のみ立ち入り可能です"
+          "en": "Only accessible to employees",
+          "ja": "従業員のみアクセス可能です"
         }
       },
       {
-        "icon": "bag",
+        "icon": "tag.slash",
         "text": {
           "en": "No retail store on site",
           "ja": "現地での販売はありません"
         }
       },
       {
-        "icon": "camera",
+        "icon": "video.slash",
         "text": {
-          "en": "Corporate office, not a tourist spot",
-          "ja": "観光スポットではない企業オフィスです"
-        }
-      },
-      {
-        "icon": "building.2",
-        "text": {
-          "en": "Located inside Roppongi Hills Mori Tower",
-          "ja": "六本木ヒルズ森タワー内にあります"
+          "en": "Not a tourist spot",
+          "ja": "観光スポットではありません"
         }
       }
     ],
-    "coordinate": "35.6606, 139.7292"
+    "coordinate": "35.6606, 139.7292",
+    "tags": [
+      "employee-access-only"
+    ]
   },
   {
     "id": "nintendo-check-in-kansai",
@@ -3049,28 +3673,31 @@
     },
     "goodToKnow": [
       {
-        "icon": "building.2",
+        "icon": "person.slash",
         "text": {
-          "en": "Nintendo's official Korean office",
-          "ja": "任天堂の韓国公式拠点です"
+          "en": "Only accessible to employees",
+          "ja": "従業員のみアクセス可能です"
         }
       },
       {
-        "icon": "person.badge.key",
+        "icon": "tag.slash",
         "text": {
-          "en": "Corporate office, not a public retail store",
-          "ja": "一般向け店舗ではない企業オフィスです"
+          "en": "No retail store on site",
+          "ja": "現地での販売はありません"
         }
       },
       {
-        "icon": "bag",
+        "icon": "video.slash",
         "text": {
-          "en": "For shopping, use Nintendo's regional retail and online channels",
-          "ja": "購入は地域の販売店やオンライン窓口を利用します"
+          "en": "Not a tourist spot",
+          "ja": "観光スポットではありません"
         }
       }
     ],
-    "coordinate": "37.564890, 126.991420"
+    "coordinate": "37.564890, 126.991420",
+    "tags": [
+      "employee-access-only"
+    ]
   },
   {
     "id": "nintendo-israel-big-eilat",
@@ -3169,28 +3796,31 @@
     },
     "goodToKnow": [
       {
-        "icon": "building.2",
+        "icon": "person.slash",
         "text": {
-          "en": "Nintendo's official Taiwan office",
-          "ja": "任天堂の台湾公式拠点です"
+          "en": "Only accessible to employees",
+          "ja": "従業員のみアクセス可能です"
         }
       },
       {
-        "icon": "person.badge.key",
+        "icon": "tag.slash",
         "text": {
-          "en": "Corporate office, not a public retail store",
-          "ja": "一般向け店舗ではない企業オフィスです"
+          "en": "No retail store on site",
+          "ja": "現地での販売はありません"
         }
       },
       {
-        "icon": "bag",
+        "icon": "video.slash",
         "text": {
-          "en": "For shopping, use Nintendo's regional retail and online channels",
-          "ja": "購入は地域の販売店やオンライン窓口を利用します"
+          "en": "Not a tourist spot",
+          "ja": "観光スポットではありません"
         }
       }
     ],
-    "coordinate": "25.049379, 121.516251"
+    "coordinate": "25.049379, 121.516251",
+    "tags": [
+      "employee-access-only"
+    ]
   },
   {
     "id": "lucky-park-koriyama",
