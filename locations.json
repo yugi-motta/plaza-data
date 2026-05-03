@@ -1713,6 +1713,36 @@
     "coordinate": "28.4396885, -81.4478058"
   },
   {
+    "id": "toadstool-cafe-orlando",
+    "appleMapsId": "IC181C5996DBFD53C",
+    "nameOverride": { "en": "Toadstool Cafe Orlando", "ja": "トードストール・カフェ オーランド" },
+    "category": "restaurants-cafe",
+    "hours": [
+      {
+      "day": { "en": "All Days", "ja": "毎日" },
+      "hours": { "en": "Varies by park hours", "ja": "パーク営業時間に準じます" }
+      }
+    ],
+    "about": {
+      "en": "Toadstool Cafe is the main sit-down restaurant inside Super Nintendo World at Universal Epic Universe in Orlando. Hosted by Chef Toad, it serves Mushroom Kingdom-inspired meals, desserts, and drinks in an immersive indoor dining space.",
+      "ja": "トードストール・カフェは、オーランドのUniversal Epic Universe内、スーパー・ニンテンドー・ワールドにあるメインの屋内レストランです。シェフ・キノピオが迎えるキノコ王国のレストランとして、世界観に合わせた食事、デザート、ドリンクを楽しめます。"
+    },
+    "timeline": [
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "May 22, 2025", "ja": "2025年5月22日" } }
+    ],
+    "info": {
+      "website": "https://www.universalorlando.com/web/en/us/things-to-do/dining/toadstool-cafe",
+      "phone": "+1 407-363-8000",
+      "address": { "en": "Universal Epic Universe, 1001 Epic Boulevard, Orlando, FL 32819, United States", "ja": "アメリカ合衆国フロリダ州オーランド 1001 Epic Boulevard, Universal Epic Universe内" }
+    },
+    "goodToKnow": [
+      { "icon": "ticket", "text": { "en": "Epic Universe admission required", "ja": "Epic Universeの入場券が必要です" } },
+      { "icon": "fork.knife", "text": { "en": "Main sit-down restaurant inside Super Nintendo World Orlando", "ja": "オーランドのスーパー・ニンテンドー・ワールド内のメインレストランです" } },
+      { "icon": "timer", "text": { "en": "Reservations, virtual queue, or mobile ordering may be used on busy days", "ja": "混雑時は予約、バーチャルキュー、モバイルオーダー運用になる場合があります" } }
+    ],
+    "coordinate": "28.4390055, -81.4479639"
+  },
+  {
     "id": "funkys-fly-n-buy-japan",
     "appleMapsId": "I1354DA5541FD8ADD",
     "nameOverride": { "en": "Funky's Fly 'n' Buy Japan", "ja": "ファンキーコングのフライ・アンド・バイ" },
