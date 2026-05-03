@@ -1368,6 +1368,11 @@
     "appleMapsId": "I979FCD76BB8863D7",
     "nameOverride": { "en": "Pikachu Sweets by Pokémon Cafe", "ja": "ピカチュウスイーツ by ポケモンカフェ" },
     "category": "restaurants-cafe",
+    "photos": [
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777821841/IMG_9527_nkkbjn.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777821845/IMG_9528_tvghug.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777821849/IMG_9529_ql9rkf.jpg" }
+    ],
     "about": {
       "en": "Pikachu Sweets by Pokémon Cafe is a takeout-focused sweets shop in Ikebukuro, opened alongside the expanded Pokémon Center MEGA TOKYO area. It is known for Pikachu-themed desserts and drinks designed for quick takeaway visits.",
       "ja": "ピカチュウスイーツ by ポケモンカフェは、池袋のポケモンセンターメガトウキョー拡張エリアとともにオープンした、テイクアウト中心のスイーツショップです。ピカチュウをモチーフにしたデザートやドリンクを気軽に楽しめるのが特徴です。"
@@ -2817,6 +2822,12 @@
     "appleMapsId": "I28FF016F67076957",
     "nameOverride": { "en": "Pokémon Center Mega Tokyo", "ja": "ポケモンセンターメガトウキョー" },
     "category": "pokemon-center",
+    "photos": [
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777821784/IMG_9530_f6230e.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777821787/IMG_9531_setgjl.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777821791/IMG_9533_yb5c91.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777821795/IMG_9537_bulv5k.jpg" }
+    ],
     "hours": [
       {
       "day": { "en": "All Days", "ja": "毎日" },
