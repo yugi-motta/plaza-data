@@ -1281,6 +1281,30 @@
     "coordinate": "43.06471597, 141.34897401"
   },
   {
+    "id": "mario-club-kyoto",
+    "nameOverride": { "en": "Mario Club Co., Ltd.", "ja": "マリオクラブ株式会社" },
+    "category": "historical-sites-corporate",
+    "about": {
+      "en": "Mario Club Co., Ltd. is a wholly owned Nintendo subsidiary in Kyoto that supports Nintendo through quality control and related work, including debugging and monitor services for game hardware and software. Its headquarters are located in Higashiyama, Kyoto.",
+      "ja": "マリオクラブ株式会社は、京都に本社を置く任天堂株式会社の100％子会社です。ゲーム機器やゲームソフトの品質管理、デバッグ・モニターサービスなどを通じて、任天堂独自の娯楽づくりを支えています。"
+    },
+    "timeline": [
+      { "label": { "en": "Established", "ja": "設立" }, "date": { "en": "July 2009", "ja": "2009年7月" } }
+    ],
+    "info": {
+      "website": "https://www.marioclub.co.jp/",
+      "phone": "+81 75-531-8600",
+      "address": { "en": "60 Fukuine Kamitakamatsu-cho, Higashiyama-ku, Kyoto 605-0983, Japan", "ja": "〒605-0983 京都市東山区福稲上高松町60" }
+    },
+    "goodToKnow": [
+      { "icon": "person.badge.key", "text": { "en": "Employee access only", "ja": "従業員のみ立ち入り可能です" } },
+      { "icon": "bag", "text": { "en": "No retail store on site", "ja": "現地での販売はありません" } },
+      { "icon": "camera", "text": { "en": "Corporate office, not a tourist spot", "ja": "観光スポットではない企業オフィスです" } },
+      { "icon": "building.2", "text": { "en": "A Kyoto South Office is also listed near Nintendo headquarters", "ja": "任天堂本社近くに京都南オフィスもあります" } }
+    ],
+    "coordinate": "34.97565408, 135.76821902"
+  },
+  {
     "id": "nintendo-development-center",
     "appleMapsId": "ICDEFCD0BEB02197",
     "nameOverride": { "en": "Nintendo Development Center", "ja": "任天堂本社開発棟" },
