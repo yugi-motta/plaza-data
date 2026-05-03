@@ -177,11 +177,11 @@
       { "label": { "en": "Reopened as Nintendo World Store", "ja": "ニンテンドーワールドストアとしてリニューアル" }, "date": { "en": "May 14, 2005", "ja": "2005年5月14日" } },
       { "label": { "en": "Renamed to Nintendo New York", "ja": "Nintendo New Yorkに改名" }, "date": { "en": "July 13, 2016", "ja": "2016年7月13日" } }
     ],
-    "characterStatues": ["Mario", "Luigi", "Donkey Kong", "Link", "Pikachu", "Samus", "Kirby"],
+    "characterStatues": ["Mario", "Link", "Bowser", "Toad", "Luigi", "Pikachu"],
     "goodToKnow": [
-      { "icon": "gamecontroller", "text": { "en": "Playable game demos on both floors", "ja": "両フロアに試遊台があります" } },
-      { "icon": "moon.stars", "text": { "en": "Hosts midnight launch events for major releases", "ja": "大型タイトル発売時に深夜イベントを開催" } },
-      { "icon": "bag", "text": { "en": "New York-exclusive merchandise available", "ja": "ニューヨーク限定グッズがあります" } }
+      { "icon": "bag", "text": { "en": "New York exclusive merch", "ja": "ニューヨーク限定グッズがあります" } },
+      { "icon": "gamecontroller", "text": { "en": "Hands-on game demo areas", "ja": "ゲームを体験できる試遊エリアがあります" } },
+      { "icon": "tram", "text": { "en": "Near 47-50 Sts Rockefeller Center station", "ja": "47-50丁目ロックフェラー・センター駅の近くです" } }
     ],
     "coordinate": "40.7579863, -73.9794261"
   },
