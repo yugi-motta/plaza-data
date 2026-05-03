@@ -185,31 +185,7 @@
     ],
     "coordinate": "40.7579863, -73.9794261"
   },
-  {
-    "id": "pokemon-store-new-chitose-airport",
-    "appleMapsId": "I600C2E5F5F3937F3",
-    "nameOverride": { "en": "Pokémon Store New Chitose Airport Shop", "ja": "ポケモンストア 新千歳空港店" },
-    "category": "pokemon-store",
-    "hours": [
-      {
-      "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
-      "hours": { "en": "8:00 AM - 8:00 PM", "ja": "8:00 - 20:00" }
-      }
-    ],
-    "about": {
-      "en": "Pokémon Store New Chitose Airport Shop is an official casual-format Pokémon shop inside New Chitose Airport, offering a convenient selection of Pokémon merchandise for travelers along with airport-themed exclusive items.",
-      "ja": "ポケモンストア新千歳空港店は、新千歳空港内にあるポケモンのカジュアルショップで、旅行中にも立ち寄りやすい品ぞろえと空港ならではの限定商品が魅力です。"
-    },
-    "timeline": [
-      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "July 10, 2014", "ja": "2014年7月10日" } }
-    ],
-    "goodToKnow": [
-      { "icon": "airplane", "text": { "en": "Sells New Chitose Airport limited items, including pilot-themed Pikachu merchandise", "ja": "パイロット姿のピカチュウなど、新千歳空港限定グッズがあります" } },
-      { "icon": "checkmark.shield", "text": { "en": "Located before the domestic security checkpoint", "ja": "国内線の保安検査前エリアにあります" } },
-      { "icon": "figure.walk", "text": { "en": "About a 3-minute walk from JR New Chitose Airport Station", "ja": "JR新千歳空港駅から徒歩約3分です" } }
-    ],
-    "coordinate": "42.7871161, 141.6762945"
-  },
+
   {
     "id": "nintendo-san-francisco",
     "appleMapsId": "I67A03C763CD5D224",
@@ -738,6 +714,17 @@
     "appleMapsId": "I8D463B45711E9B4A",
     "nameOverride": { "en": "Pokémon Center Osaka", "ja": "ポケモンセンターオーサカ" },
     "category": "pokemon-center",
+    "photos": [
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777793989/IMG_8352_qbnuic.jpg"
+      },
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777793989/IMG_8350_vsxtgw.jpg"
+      },
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777793992/IMG_8360_kjiak3.jpg"
+      }
+    ],
     "hours": [
       {
       "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
@@ -1713,6 +1700,11 @@
     "appleMapsId": "I1354DA5541FD8ADD",
     "nameOverride": { "en": "Funky's Fly 'n' Buy Japan", "ja": "ファンキーコングのフライ・アンド・バイ" },
     "category": "park-store",
+    "photos": [
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777794885/IMG_2890_lvugil.jpg"
+      }
+    ],
     "hours": [
       {
       "day": { "en": "All Days", "ja": "毎日" },
@@ -2068,6 +2060,26 @@
     "appleMapsId": "I19B2A609EF7804EC",
     "nameOverride": { "en": "Super Nintendo World Japan", "ja": "スーパー・ニンテンドー・ワールド ジャパン" },
     "category": "theme-park",
+    "photos": [
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777794483/IMG_2824_qnjzix.jpg"
+      },
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777794485/IMG_2864_mwfwwq.jpg"
+      },
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777794488/IMG_2872_acczg9.jpg"
+      },
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777794491/IMG_2882_hevdge.jpg"
+      },
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777794494/IMG_2925_ya8ooy.jpg"
+      },
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777794497/IMG_6508_yzz2fk.jpg"
+      }
+    ],
     "hours": [
       {
       "day": { "en": "All Days", "ja": "毎日" },
@@ -2087,6 +2099,166 @@
       { "icon": "shippingbox", "text": { "en": "The area includes Donkey Kong Country, which opened as an expansion in 2024", "ja": "2024年に拡張エリアとしてオープンしたドンキーコング・カントリーがあります" } }
     ],
     "coordinate": "34.668442, 135.430183"
+  },
+  {
+    "id": "kinopios-cafe-japan",
+    "appleMapsId": "IC22D3BC7ED9DABBC",
+    "nameOverride": {
+      "en": "Kinopio's Cafe Japan",
+      "ja": "キノピオ・カフェ"
+    },
+    "category": "restaurants-cafe",
+    "photos": [
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777794741/IMG_2908_akmbrk.jpg"
+      },
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777794743/IMG_9177_sbpzzv.jpg"
+      },
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777794746/IMG_9186_t6okp7.jpg"
+      },
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777794749/IMG_9190_i7dypp.jpg"
+      }
+    ],
+    "hours": [
+      {
+        "day": {
+          "en": "All Days",
+          "ja": "毎日"
+        },
+        "hours": {
+          "en": "9:00 AM - 9:00 PM",
+          "ja": "9:00 - 21:00"
+        }
+      }
+    ],
+    "about": {
+      "en": "Kinopio's Cafe is a full-service themed restaurant inside Super Nintendo World at Universal Studios Japan. Hosted by Chef Toad, it serves Mushroom Kingdom-inspired meals, desserts, and drinks in one of the land's most popular indoor dining spaces.",
+      "ja": "キノピオ・カフェは、ユニバーサル・スタジオ・ジャパンのスーパー・ニンテンドー・ワールド内にあるテーマレストランです。シェフ・キノピオが迎えるキノコ王国のレストランとして、世界観に合わせた食事、デザート、ドリンクを楽しめる人気の屋内ダイニングです。"
+    },
+    "timeline": [
+      {
+        "label": {
+          "en": "Opened",
+          "ja": "オープン"
+        },
+        "date": {
+          "en": "March 18, 2021",
+          "ja": "2021年3月18日"
+        }
+      }
+    ],
+    "info": {
+      "website": "https://www.usj.co.jp/web/ja/jp/restaurants/kinopios-cafe",
+      "phone": "+81 570-200-606",
+      "address": {
+        "en": "Universal Studios Japan, 2-1-33 Sakurajima, Konohana-ku, Osaka, Japan",
+        "ja": "大阪府大阪市此花区桜島2丁目1-33 ユニバーサル・スタジオ・ジャパン内"
+      }
+    },
+    "goodToKnow": [
+      {
+        "icon": "ticket",
+        "text": {
+          "en": "USJ admission and Super Nintendo World area entry may be required",
+          "ja": "USJ入場券とエリア入場が必要な場合があります"
+        }
+      },
+      {
+        "icon": "fork.knife",
+        "text": {
+          "en": "The main sit-down restaurant inside Super Nintendo World Japan",
+          "ja": "日本のスーパー・ニンテンドー・ワールド内のメインレストランです"
+        }
+      },
+      {
+        "icon": "timer",
+        "text": {
+          "en": "Timed entry or mobile ordering rules may be used on busy days",
+          "ja": "混雑時は時間指定やモバイルオーダー運用になる場合があります"
+        }
+      }
+    ],
+    "coordinate": "34.6678639, 135.4302338"
+  },
+  {
+    "id": "jungle-beat-shakes-japan",
+    "appleMapsId": "IADAF24943274AFE7",
+    "nameOverride": {
+      "en": "Jungle Beat Shakes Japan",
+      "ja": "ジャングル・ビート・シェイク"
+    },
+    "category": "restaurants-cafe",
+    "photos": [
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777795451/IMG_2893_2_v4fzf1.jpg"
+      },
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777795453/IMG_2899_lh1yjb.jpg"
+      }
+    ],
+    "hours": [
+      {
+        "day": {
+          "en": "All Days",
+          "ja": "毎日"
+        },
+        "hours": {
+          "en": "Varies by park hours",
+          "ja": "パーク営業時間に準じます"
+        }
+      }
+    ],
+    "about": {
+      "en": "Jungle Beat Shakes is a quick-service dessert stand in Donkey Kong Country at Super Nintendo World inside Universal Studios Japan. It serves Donkey Kong-themed shakes, sundaes, and sweet treats inspired by the jungle expansion area.",
+      "ja": "ジャングル・ビート・シェイクは、ユニバーサル・スタジオ・ジャパンのスーパー・ニンテンドー・ワールド内、ドンキーコング・カントリーにあるクイックサービスのスイーツスタンドです。ジャングルエリアをイメージしたドンキーコングをテーマにしたシェイクやサンデーなどを楽しめます。"
+    },
+    "timeline": [
+      {
+        "label": {
+          "en": "Opened",
+          "ja": "オープン"
+        },
+        "date": {
+          "en": "December 11, 2024",
+          "ja": "2024年12月11日"
+        }
+      }
+    ],
+    "info": {
+      "website": "https://www.usj.co.jp/web/ja/jp/restaurants/jungle-beat-shakes",
+      "phone": "+81 570-200-606",
+      "address": {
+        "en": "Universal Studios Japan, 2-1-33 Sakurajima, Konohana-ku, Osaka, Japan",
+        "ja": "大阪府大阪市此花区桜島2丁目1-33 ユニバーサル・スタジオ・ジャパン内"
+      }
+    },
+    "goodToKnow": [
+      {
+        "icon": "ticket",
+        "text": {
+          "en": "USJ admission and Super Nintendo World area entry may be required",
+          "ja": "USJ入場券とエリア入場が必要な場合があります"
+        }
+      },
+      {
+        "icon": "cup.and.saucer",
+        "text": {
+          "en": "Focused on Donkey Kong-themed sweets and drinks",
+          "ja": "ドンキーコングをテーマにしたスイーツやドリンクが中心です"
+        }
+      },
+      {
+        "icon": "leaf",
+        "text": {
+          "en": "Located in the Donkey Kong Country expansion area",
+          "ja": "ドンキーコング・カントリーの拡張エリア内です"
+        }
+      }
+    ],
+    "coordinate": "34.6687343, 135.4306716"
   },
   {
     "id": "nintendo-museum",
@@ -3253,6 +3425,31 @@
       }
     ],
     "coordinate": "38.1843048, 140.9553283"
+  },
+  {
+    "id": "pokemon-store-new-chitose-airport",
+    "appleMapsId": "I600C2E5F5F3937F3",
+    "nameOverride": { "en": "Pokémon Store New Chitose Airport Shop", "ja": "ポケモンストア 新千歳空港店" },
+    "category": "pokemon-store",
+    "hours": [
+      {
+      "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
+      "hours": { "en": "8:00 AM - 8:00 PM", "ja": "8:00 - 20:00" }
+      }
+    ],
+    "about": {
+      "en": "Pokémon Store New Chitose Airport Shop is an official casual-format Pokémon shop inside New Chitose Airport, offering a convenient selection of Pokémon merchandise for travelers along with airport-themed exclusive items.",
+      "ja": "ポケモンストア新千歳空港店は、新千歳空港内にあるポケモンのカジュアルショップで、旅行中にも立ち寄りやすい品ぞろえと空港ならではの限定商品が魅力です。"
+    },
+    "timeline": [
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "July 10, 2014", "ja": "2014年7月10日" } }
+    ],
+    "goodToKnow": [
+      { "icon": "airplane", "text": { "en": "Sells New Chitose Airport limited items, including pilot-themed Pikachu merchandise", "ja": "パイロット姿のピカチュウなど、新千歳空港限定グッズがあります" } },
+      { "icon": "checkmark.shield", "text": { "en": "Located before the domestic security checkpoint", "ja": "国内線の保安検査前エリアにあります" } },
+      { "icon": "figure.walk", "text": { "en": "About a 3-minute walk from JR New Chitose Airport Station", "ja": "JR新千歳空港駅から徒歩約3分です" } }
+    ],
+    "coordinate": "42.7871161, 141.6762945"
   },
   {
     "id": "nintendo-popup-store-tokyo",
