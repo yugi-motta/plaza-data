@@ -1206,11 +1206,25 @@
   {
     "id": "nintendo-development-center",
     "appleMapsId": "ICDEFCD0BEB02197",
-    "nameOverride": { "en": "Development Center", "ja": "本社開発棟" },
+    "nameOverride": { "en": "Nintendo Development Center", "ja": "任天堂本社開発棟" },
     "category": "historical-sites-corporate",
+    "photos": [
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777793265/IMG_0757_nygxte.jpg"
+      },
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777793267/IMG_0758_czjmz3.jpg"
+      },
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777793268/IMG_0760_upvfjs.jpg"
+      },
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777793277/IMG_0763_ymnqvo.jpg"
+      }
+    ],
     "about": {
       "en": "Nintendo Development Center is a major research and development facility in Kyoto, located next to Nintendo’s headquarters. It was created to bring development teams together more closely and support Nintendo’s integrated hardware and software development work.",
-      "ja": "任天堂開発棟は、京都の本社に隣接する任天堂の主要な研究開発拠点です。開発部門をより密接に集約し、任天堂ならではのハードとソフト一体の開発体制を支えるための施設です。"
+      "ja": "任天堂本社開発棟は、京都の本社に隣接する任天堂の主要な研究開発拠点です。開発部門をより密接に集約し、任天堂ならではのハードとソフト一体の開発体制を支えるための施設です。"
     },
     "goodToKnow": [
       { "icon": "person.badge.key", "text": { "en": "Employee access only", "ja": "従業員のみ立ち入り可能" } },
@@ -2079,6 +2093,35 @@
     "appleMapsId": "I6151A6C18324637F",
     "nameOverride": { "en": "Nintendo Museum", "ja": "ニンテンドーミュージアム" },
     "category": "museum",
+    "photos": [
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777792655/IMG_2376_nanohy.jpg"
+      },
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777792657/IMG_2388_wzdodq.jpg"
+      },
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777792658/IMG_2391_q6xwdt.jpg"
+      },
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777792689/IMG_2400_q6njtn.jpg"
+      },
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777792691/IMG_2402_g3tkua.jpg"
+      },
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777792693/IMG_2412_hw9gec.jpg"
+      },
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777792695/IMG_2420_rnpsdy.jpg"
+      },
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777792697/IMG_2422_wigg8p.jpg"
+      },
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777792699/IMG_2425_vs71rb.jpg"
+      }
+    ],
     "hours": [
       {
       "day": { "en": "Wed - Mon", "ja": "水曜日〜月曜日" },
@@ -2104,12 +2147,26 @@
     "coordinate": "34.8927865, 135.7841277"
   },
   {
-    "id": "nintendo-head-office-kyoto",
+    "id": "nintendo-corporate-headquarters",
     "appleMapsId": "I209B2C8B372B5586",
-    "nameOverride": { "en": "Corporate Headquarters", "ja": "本社" },
+    "nameOverride": { "en": "Nintendo Corporate Headquarters", "ja": "任天堂本社" },
     "category": "historical-sites-corporate",
+    "photos": [
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777793759/IMG_0738_i5xx3v.jpg"
+      },
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777793761/IMG_0739_e3igvz.jpg"
+      },
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777793762/IMG_0746_ibuh0x.jpg"
+      },
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777793765/IMG_0753_lj4szs.jpg"
+      }
+    ],
     "about": {
-      "en": "Nintendo Head Office is the company’s current corporate headquarters in Kyoto, serving as the main base for Nintendo’s global business operations.",
+      "en": "Nintendo Corporate Headquarters is the company’s current corporate headquarters in Kyoto, serving as the main base for Nintendo’s global business operations.",
       "ja": "任天堂本社は京都にある任天堂の現本社で、世界展開する事業運営の中心拠点です。"
     },
     "timeline": [
