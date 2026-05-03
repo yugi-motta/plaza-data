@@ -2679,6 +2679,13 @@
     "appleMapsId": "IF1193F7E8652C673",
     "nameOverride": { "en": "Pokémon Store Narita Airport Shop", "ja": "ポケモンストア 成田空港店" },
     "category": "pokemon-store",
+    "photos": [
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777822949/IMG_6887_vkhdff.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777822953/IMG_6889_dtpwts.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777822958/IMG_6890_iiwlss.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777822963/IMG_6891_ujfzmn.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777822968/IMG_6892_xc0pwy.jpg" }
+    ],
     "hours": [
       {
       "day": { "en": "All Days", "ja": "毎日" },
@@ -2873,6 +2880,11 @@
     "appleMapsId": "I54CF118112B41B89",
     "nameOverride": { "en": "Nintendo Check In Narita International Airport", "ja": "Nintendo Check In 成田国際空港" },
     "category": "nintendo-check-in",
+    "photos": [
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777823045/IMG_7369_fsyy6h.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777823049/IMG_7371_yo7mmq.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777823054/IMG_9842_uf7vbd.jpg" }
+    ],
     "hours": [
       {
       "day": { "en": "All Days", "ja": "毎日" },
