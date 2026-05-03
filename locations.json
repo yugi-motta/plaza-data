@@ -29,10 +29,10 @@
     ],
     "characterStatues": [
       { "en": "Mario", "ja": "マリオ" },
-      { "en": "Luigi", "ja": "ルイージ" },
-      { "en": "Peach", "ja": "ピーチ" },
-      { "en": "Yoshi", "ja": "ヨッシー" },
-      { "en": "Bowser", "ja": "クッパ" }
+      { "en": "Link", "ja": "リンク" },
+      { "en": "Inkling Girl", "ja": "インクリング（ガール）" },
+      { "en": "Isabelle", "ja": "しずえ" },
+      { "en": "Pikmin", "ja": "ピクミン" }
     ],
     "goodToKnow": [
       { "icon": "clock", "text": { "en": "Long queues on weekends and holidays", "ja": "週末や祝日は長時間並ぶことがあります" } },
