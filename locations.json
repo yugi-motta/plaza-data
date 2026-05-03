@@ -2895,6 +2895,69 @@
     "coordinate": "35.6934080, 139.7628090"
   },
   {
+    "id": "the-pokemon-company-tokyo",
+    "nameOverride": {
+      "en": "The Pokémon Company",
+      "ja": "株式会社ポケモン"
+    },
+    "category": "historical-sites-corporate",
+    "about": {
+      "en": "The Pokémon Company is the Tokyo-based company that produces and develops the Pokémon brand across video games, the Pokémon Trading Card Game, animation and video, apps, licensing, official shops, and related businesses. Its corporate headquarters are located in Roppongi Hills Mori Tower.",
+      "ja": "株式会社ポケモンは、東京に本社を置き、ポケモンのビデオゲーム、カードゲーム、映像、アプリ、ライセンス管理、公式店舗運営などをプロデュース・展開する会社です。本社は六本木ヒルズ森タワーにあります。"
+    },
+    "timeline": [
+      {
+        "label": {
+          "en": "Established",
+          "ja": "設立"
+        },
+        "date": {
+          "en": "April 23, 1998",
+          "ja": "1998年4月23日"
+        }
+      }
+    ],
+    "info": {
+      "website": "https://corporate.pokemon.co.jp/",
+      "phone": null,
+      "address": {
+        "en": "Roppongi Hills Mori Tower 8F, 6-10-1 Roppongi, Minato-ku, Tokyo 106-6108, Japan",
+        "ja": "〒106-6108 東京都港区六本木6丁目10番1号 六本木ヒルズ森タワー8F"
+      }
+    },
+    "goodToKnow": [
+      {
+        "icon": "person.badge.key",
+        "text": {
+          "en": "Employee access only",
+          "ja": "従業員のみ立ち入り可能です"
+        }
+      },
+      {
+        "icon": "bag",
+        "text": {
+          "en": "No retail store on site",
+          "ja": "現地での販売はありません"
+        }
+      },
+      {
+        "icon": "camera",
+        "text": {
+          "en": "Corporate office, not a tourist spot",
+          "ja": "観光スポットではない企業オフィスです"
+        }
+      },
+      {
+        "icon": "building.2",
+        "text": {
+          "en": "Located inside Roppongi Hills Mori Tower",
+          "ja": "六本木ヒルズ森タワー内にあります"
+        }
+      }
+    ],
+    "coordinate": "35.6606, 139.7292"
+  },
+  {
     "id": "nintendo-check-in-kansai",
     "nameOverride": {
       "en": "Nintendo Check In Kansai International Airport",
