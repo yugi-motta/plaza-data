@@ -5153,6 +5153,85 @@
     "coordinate": "51.4947713, 7.2836268"
   },
   {
+    "id": "super-mario-jr-kyushu-popup-store-amu-plaza-oita-2025",
+    "nameOverride": { "en": "Super Mario x JR Kyushu POP UP Shop at AMU Plaza Oita", "ja": "スーパーマリオ×JR九州 POP UPショップ（アミュプラザおおいた）" },
+    "category": "pop-up-store",
+    "about": {
+      "en": "A limited-time Super Mario x JR Kyushu POP UP shop held at AMU Plaza Oita as part of the Let's GO KYUSHU! campaign, selling campaign-exclusive original goods and Super Mario merchandise from Nintendo's official stores.",
+      "ja": "「スーパーマリオ×JR九州 ～Let's GO KYUSHU!～」キャンペーンにあわせてアミュプラザおおいたで開催された期間限定POP UPショップ。キャンペーン限定オリジナルグッズや任天堂オフィシャルストアのスーパーマリオグッズを販売しました。"
+    },
+    "timeline": [
+      { "label": { "en": "Started", "ja": "開始" }, "date": { "en": "November 29, 2025", "ja": "2025年11月29日" } },
+      { "label": { "en": "Ended", "ja": "終了" }, "date": { "en": "December 28, 2025", "ja": "2025年12月28日" } }
+    ],
+    "info": { "address": { "en": "AMU Plaza Oita 3F special venue near UNIQLO, 1-14 Kanamemachi, Oita, Japan", "ja": "大分県大分市要町1-14 アミュプラザおおいた 3F ユニクロ横特設会場" } },
+    "tags": ["event-ended"],
+    "coordinate": "33.23316, 131.60643"
+  },
+  {
+    "id": "super-mario-jr-kyushu-popup-store-amu-plaza-miyazaki-2026",
+    "nameOverride": { "en": "Super Mario x JR Kyushu POP UP Shop at AMU Plaza Miyazaki", "ja": "スーパーマリオ×JR九州 POP UPショップ（アミュプラザみやざき）" },
+    "category": "pop-up-store",
+    "about": {
+      "en": "A limited-time Super Mario x JR Kyushu POP UP shop held at AMU Plaza Miyazaki as part of the Let's GO KYUSHU! campaign, selling campaign-exclusive original goods and Super Mario merchandise from Nintendo's official stores.",
+      "ja": "「スーパーマリオ×JR九州 ～Let's GO KYUSHU!～」キャンペーンにあわせてアミュプラザみやざきで開催された期間限定POP UPショップ。キャンペーン限定オリジナルグッズや任天堂オフィシャルストアのスーパーマリオグッズを販売しました。"
+    },
+    "timeline": [
+      { "label": { "en": "Started", "ja": "開始" }, "date": { "en": "January 17, 2026", "ja": "2026年1月17日" } },
+      { "label": { "en": "Ended", "ja": "終了" }, "date": { "en": "February 1, 2026", "ja": "2026年2月1日" } }
+    ],
+    "info": { "address": { "en": "AMU Plaza Miyazaki Umi-kan 3F special venue near Hands, 2-2-22 Oimatsu, Miyazaki, Japan", "ja": "宮崎県宮崎市老松2丁目2番22号 アミュプラザみやざき うみ館3F ハンズ前特設会場" } },
+    "tags": ["event-ended"],
+    "coordinate": "31.914868, 131.431345"
+  },
+  {
+    "id": "super-mario-jr-kyushu-popup-store-amu-plaza-nagasaki-2026",
+    "nameOverride": { "en": "Super Mario x JR Kyushu POP UP Shop at AMU Plaza Nagasaki", "ja": "スーパーマリオ×JR九州 POP UPショップ（アミュプラザ長崎）" },
+    "category": "pop-up-store",
+    "about": {
+      "en": "A limited-time Super Mario x JR Kyushu POP UP shop held at AMU Plaza Nagasaki as part of the Let's GO KYUSHU! campaign, selling campaign-exclusive original goods and Super Mario merchandise from Nintendo's official stores.",
+      "ja": "「スーパーマリオ×JR九州 ～Let's GO KYUSHU!～」キャンペーンにあわせてアミュプラザ長崎で開催された期間限定POP UPショップ。キャンペーン限定オリジナルグッズや任天堂オフィシャルストアのスーパーマリオグッズを販売しました。"
+    },
+    "timeline": [
+      { "label": { "en": "Started", "ja": "開始" }, "date": { "en": "February 7, 2026", "ja": "2026年2月7日" } },
+      { "label": { "en": "Ended", "ja": "終了" }, "date": { "en": "February 24, 2026", "ja": "2026年2月24日" } }
+    ],
+    "info": { "address": { "en": "AMU Plaza Nagasaki Main Building 3F special venue by the escalator, 1-1 Onouemachi, Nagasaki, Japan", "ja": "長崎県長崎市尾上町1-1 アミュプラザ長崎 本館3F エスカレーター横特設会場" } },
+    "tags": ["event-ended"],
+    "coordinate": "32.7517, 129.87108"
+  },
+  {
+    "id": "super-mario-jr-kyushu-popup-store-amu-plaza-kumamoto-2026",
+    "nameOverride": { "en": "Super Mario x JR Kyushu POP UP Shop at AMU Plaza Kumamoto", "ja": "スーパーマリオ×JR九州 POP UPショップ（アミュプラザくまもと）" },
+    "category": "pop-up-store",
+    "about": {
+      "en": "A limited-time Super Mario x JR Kyushu POP UP shop held at AMU Plaza Kumamoto as part of the Let's GO KYUSHU! campaign, selling campaign-exclusive original goods and Super Mario merchandise from Nintendo's official stores.",
+      "ja": "「スーパーマリオ×JR九州 ～Let's GO KYUSHU!～」キャンペーンにあわせてアミュプラザくまもとで開催された期間限定POP UPショップ。キャンペーン限定オリジナルグッズや任天堂オフィシャルストアのスーパーマリオグッズを販売しました。"
+    },
+    "timeline": [
+      { "label": { "en": "Started", "ja": "開始" }, "date": { "en": "March 7, 2026", "ja": "2026年3月7日" } },
+      { "label": { "en": "Ended", "ja": "終了" }, "date": { "en": "March 31, 2026", "ja": "2026年3月31日" } }
+    ],
+    "info": { "address": { "en": "AMU Plaza Kumamoto 3F special venue, 3-15-26 Kasuga, Nishi-ku, Kumamoto, Japan", "ja": "熊本県熊本市西区春日3-15-26 アミュプラザくまもと 3F 特設会場" } },
+    "tags": ["event-ended"],
+    "coordinate": "32.790184, 130.689771"
+  },
+  {
+    "id": "super-mario-jr-kyushu-popup-store-amu-plaza-kagoshima-2026",
+    "nameOverride": { "en": "Super Mario x JR Kyushu POP UP Shop at AMU Plaza Kagoshima", "ja": "スーパーマリオ×JR九州 POP UPショップ（アミュプラザ鹿児島）" },
+    "category": "pop-up-store",
+    "about": {
+      "en": "A limited-time Super Mario x JR Kyushu POP UP shop held at AMU Plaza Kagoshima as part of the Let's GO KYUSHU! campaign, selling campaign-exclusive original goods and Super Mario merchandise from Nintendo's official stores.",
+      "ja": "「スーパーマリオ×JR九州 ～Let's GO KYUSHU!～」キャンペーンにあわせてアミュプラザ鹿児島で開催される期間限定POP UPショップ。キャンペーン限定オリジナルグッズや任天堂オフィシャルストアのスーパーマリオグッズを販売します。"
+    },
+    "timeline": [
+      { "label": { "en": "Started", "ja": "開始" }, "date": { "en": "April 18, 2026", "ja": "2026年4月18日" } },
+      { "label": { "en": "Ended", "ja": "終了" }, "date": { "en": "May 10, 2026", "ja": "2026年5月10日" } }
+    ],
+    "info": { "address": { "en": "AMU Plaza Kagoshima Main Building 2F Center Square, 1-1 Chuocho, Kagoshima, Japan", "ja": "鹿児島県鹿児島市中央町1-1 アミュプラザ鹿児島 本館2F センタースクエア" } },
+    "coordinate": "31.5841308, 130.5425444"
+  },
+  {
     "id": "kirbys-pupupu-market-hong-kong-k11-art-mall-2025",
     "nameOverride": { "en": "KIRBY'S PUPUPU MARKET in Hong Kong at K11 Art Mall", "ja": "星のカービィ プププマーケット in 香港（K11 Art Mall）" },
     "category": "pop-up-store",
