@@ -46,6 +46,20 @@
     "appleMapsId": "IB8F10D98C49B2EBB",
     "nameOverride": { "en": "Nintendo OSAKA", "ja": "Nintendo OSAKA" },
     "category": "official-nintendo-store",
+    "photos": [
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777791037/IMG_8339_hpmqug.jpg"
+      },
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777791038/IMG_8369_thof7t.jpg"
+      },
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777791039/IMG_8384_mfj9fn.jpg"
+      },
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777791039/IMG_8374_josjwf.jpg"
+      }
+    ],
     "hours": [
       {
       "day": { "en": "Weekdays", "ja": "平日" },
@@ -75,6 +89,23 @@
     "appleMapsId": "I574F46F35DE5008D",
     "nameOverride": { "en": "Nintendo KYOTO", "ja": "Nintendo KYOTO" },
     "category": "official-nintendo-store",
+    "photos": [
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777791392/IMG_2433_xacowu.jpg"
+      },
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777791394/IMG_2441_efxhpt.jpg"
+      },
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777791394/IMG_2442_yd8htf.jpg"
+      },
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777791395/IMG_2446_dzmkw5.jpg"
+      },
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777791396/IMG_2451_oxgful.jpg"
+      }
+    ],
     "hours": [
       {
       "day": { "en": "Weekdays", "ja": "平日" },
@@ -104,6 +135,29 @@
     "appleMapsId": "IADB825B4E769E269",
     "nameOverride": { "en": "Nintendo NEW YORK", "ja": "Nintendo NEW YORK" },
     "category": "official-nintendo-store",
+    "photos": [
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777791541/IMG_7525_xqpa2u.jpg"
+      },
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777791543/IMG_7541_owolsh.jpg"
+      },
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777791544/IMG_7560_rj7bmu.jpg"
+      },
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777791544/IMG_7547_x2b27t.jpg"
+      },
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777791547/IMG_7575_ceubrt.jpg"
+      },
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777791547/IMG_7566_emcfuv.jpg"
+      },
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777791549/IMG_7605_pip5qr.jpg"
+      }
+    ],
     "hours": [
       {
       "day": { "en": "Weekdays", "ja": "平日" },
@@ -229,6 +283,23 @@
     "appleMapsId": "I4B684A3383B1D95D",
     "nameOverride": { "en": "Nintendo FUKUOKA", "ja": "Nintendo FUKUOKA" },
     "category": "official-nintendo-store",
+    "photos": [
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777791173/IMG_9009_viiwgc.jpg"
+      },
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777791173/IMG_8998_h04zve.jpg"
+      },
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777791174/IMG_9022_jdarrf.jpg"
+      },
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777791175/IMG_9036_eh52el.jpg"
+      },
+      {
+        "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777791176/IMG_9057_quowxr.jpg"
+      }
+    ],
     "hours": [
       {
       "day": { "en": "Weekdays", "ja": "平日" },
