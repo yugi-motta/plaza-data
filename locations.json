@@ -901,6 +901,14 @@
     "appleMapsId": "I64BD42281BFC4979",
     "nameOverride": { "en": "Pokémon Center Osaka DX", "ja": "ポケモンセンターオーサカDX" },
     "category": "pokemon-center",
+    "photos": [
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777823966/IMG_8209_iq8b1z.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777823970/IMG_8213_mynxzs.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777823975/IMG_8216_etmmbr.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777823980/IMG_8217_ddxige.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777823986/IMG_9843_vb4ud2.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777823992/IMG_9844_wwtx58.jpg" }
+    ],
     "hours": [
       {
       "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
