@@ -1305,6 +1305,32 @@
     "coordinate": "34.97565408, 135.76821902"
   },
   {
+    "id": "1-up-studio-tokyo",
+    "nameOverride": { "en": "1-UP Studio Inc.", "ja": "1-UPスタジオ株式会社" },
+    "category": "historical-sites-corporate",
+    "about": {
+      "en": "1-UP Studio Inc. is a wholly owned Nintendo subsidiary and game development studio based in Tokyo. Originally established as Brownie Brown in 2000, it has collaborated on Nintendo titles including Super Mario 3D World, Captain Toad: Treasure Tracker, Super Mario Odyssey, Animal Crossing: New Horizons, Mario Kart World, and Donkey Kong Bananza.",
+      "ja": "1-UPスタジオ株式会社は、東京に拠点を置く任天堂株式会社の100％子会社のゲーム開発会社です。2000年に株式会社ブラウニー・ブラウンとして設立され、「スーパーマリオ 3Dワールド」「進め！キノピオ隊長」「スーパーマリオ オデッセイ」「あつまれ どうぶつの森」「マリオカート ワールド」「ドンキーコング バナンザ」などの開発協力に携わっています。"
+    },
+    "timeline": [
+      { "label": { "en": "Established as Brownie Brown", "ja": "株式会社ブラウニー・ブラウン設立" }, "date": { "en": "June 30, 2000", "ja": "2000年6月30日" } },
+      { "label": { "en": "Renamed 1-UP Studio Inc.", "ja": "1-UPスタジオ株式会社へ社名変更" }, "date": { "en": "February 2013", "ja": "2013年2月" } },
+      { "label": { "en": "Head office moved to Kanda-Nishikicho", "ja": "本社事務所を神田錦町へ移転" }, "date": { "en": "September 2020", "ja": "2020年9月" } }
+    ],
+    "info": {
+      "website": "https://1-up-studio.jp/",
+      "phone": "+81 3-5217-3330",
+      "address": { "en": "KANDA SQUARE 20F, 2-2-1 Kanda-Nishikicho, Chiyoda-ku, Tokyo 101-0054, Japan", "ja": "〒101-0054 東京都千代田区神田錦町2-2-1 KANDA SQUARE 20階" }
+    },
+    "goodToKnow": [
+      { "icon": "person.badge.key", "text": { "en": "Employee access only", "ja": "従業員のみ立ち入り可能です" } },
+      { "icon": "bag", "text": { "en": "No retail store on site", "ja": "現地での販売はありません" } },
+      { "icon": "camera", "text": { "en": "Corporate office, not a tourist spot", "ja": "観光スポットではない企業オフィスです" } },
+      { "icon": "gamecontroller", "text": { "en": "Nintendo-owned game development studio", "ja": "任天堂100％子会社のゲーム開発会社です" } }
+    ],
+    "coordinate": "35.6934080, 139.7628090"
+  },
+  {
     "id": "nintendo-development-center",
     "appleMapsId": "ICDEFCD0BEB02197",
     "nameOverride": { "en": "Nintendo Development Center", "ja": "任天堂本社開発棟" },
