@@ -1631,6 +1631,36 @@
     "coordinate": "34.1358109, -118.3529992"
   },
   {
+    "id": "toadstool-cafe-hollywood",
+    "appleMapsId": "IF84150B19C3FB1E4",
+    "nameOverride": { "en": "Toadstool Cafe Hollywood", "ja": "トードストール・カフェ ハリウッド" },
+    "category": "restaurants-cafe",
+    "hours": [
+      {
+      "day": { "en": "All Days", "ja": "毎日" },
+      "hours": { "en": "Varies by park hours", "ja": "パーク営業時間に準じます" }
+      }
+    ],
+    "about": {
+      "en": "Toadstool Cafe is the main sit-down restaurant inside Super Nintendo World at Universal Studios Hollywood. Hosted by Chef Toad, it serves Mushroom Kingdom-inspired meals, desserts, and drinks in an immersive indoor dining space.",
+      "ja": "トードストール・カフェは、ユニバーサル・スタジオ・ハリウッドのスーパー・ニンテンドー・ワールド内にあるメインの屋内レストランです。シェフ・キノピオが迎えるキノコ王国のレストランとして、世界観に合わせた食事、デザート、ドリンクを楽しめます。"
+    },
+    "timeline": [
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "February 17, 2023", "ja": "2023年2月17日" } }
+    ],
+    "info": {
+      "website": "https://www.universalstudioshollywood.com/web/en/us/things-to-do/dining/toadstool-cafe",
+      "phone": "+1 800-864-8377",
+      "address": { "en": "Universal Studios Hollywood, 100 Universal City Plaza, Universal City, CA 91608, United States", "ja": "アメリカ合衆国カリフォルニア州ユニバーサルシティ 100 Universal City Plaza, Universal Studios Hollywood内" }
+    },
+    "goodToKnow": [
+      { "icon": "ticket", "text": { "en": "Universal Studios Hollywood admission required", "ja": "Universal Studios Hollywoodの入場券が必要です" } },
+      { "icon": "fork.knife", "text": { "en": "Main sit-down restaurant inside Super Nintendo World Hollywood", "ja": "ハリウッドのスーパー・ニンテンドー・ワールド内のメインレストランです" } },
+      { "icon": "timer", "text": { "en": "Reservations or virtual queue may be used on busy days", "ja": "混雑時は予約やバーチャルキュー運用になる場合があります" } }
+    ],
+    "coordinate": "34.1409088, -118.3582878"
+  },
+  {
     "id": "pokemon-center-tohoku",
     "appleMapsId": "IDFDDDDF592E6CC7",
     "nameOverride": { "en": "Pokémon Center Tohoku", "ja": "ポケモンセンタートウホク" },
