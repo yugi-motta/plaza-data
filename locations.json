@@ -2183,6 +2183,9 @@
     "appleMapsId": "IDC5579F352BE1047",
     "nameOverride": { "en": "Kirby Café The Store TOKYO", "ja": "カービィカフェ ザ・ストア TOKYO" },
     "category": "restaurants-cafe",
+    "photos": [
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777822501/IMG_1494_lrcxg5.jpg" }
+    ],
     "hours": [
       {
       "day": { "en": "All Days", "ja": "毎日" },
@@ -2324,6 +2327,14 @@
     "appleMapsId": "I6C7F6719CBC524C4",
     "nameOverride": { "en": "Kirby Café TOKYO", "ja": "カービィカフェ TOKYO" },
     "category": "restaurants-cafe",
+    "photos": [
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777822387/IMG_1503_ffdhge.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777822388/IMG_1506_nckt1d.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777822393/IMG_7848_yw3thn.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777822396/IMG_7849_zjljm7.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777822402/IMG_7851_xgmljp.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777822405/IMG_9841_e5ikmp.jpg" }
+    ],
     "hours": [
       {
       "day": { "en": "All Days", "ja": "毎日" },
@@ -2887,6 +2898,13 @@
     "appleMapsId": "I25EBD134BB60456E",
     "nameOverride": { "en": "Pokémon Center Skytree Town", "ja": "ポケモンセンタースカイツリータウン" },
     "category": "pokemon-center",
+    "photos": [
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777822534/IMG_1490_qiqc2o.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777822538/IMG_6368_rrm3gl.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777822544/IMG_6372_nedvnm.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777822548/IMG_7929_cnuyjq.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777822553/IMG_7933_nvu9tb.jpg" }
+    ],
     "hours": [
       {
       "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
