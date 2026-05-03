@@ -2822,6 +2822,79 @@
     "coordinate": "35.6934080, 139.7628090"
   },
   {
+    "id": "nintendo-stars-tokyo",
+    "nameOverride": {
+      "en": "Nintendo Stars Inc.",
+      "ja": "ニンテンドースターズ株式会社"
+    },
+    "category": "historical-sites-corporate",
+    "about": {
+      "en": "Nintendo Stars Inc. is a wholly owned Nintendo subsidiary based at KANDA SQUARE in Tokyo. Formerly Warpstar, it manages licensing, operations, and secondary-use business for films using Nintendo IP, while continuing licensing and operations for the Kirby series.",
+      "ja": "ニンテンドースターズ株式会社は、東京のKANDA SQUAREに拠点を置く任天堂株式会社100％出資の連結子会社です。旧社名は株式会社ワープスターで、任天堂IPを用いた映画における二次利用の運用、許諾及び管理を担いながら、「星のカービィ」シリーズの二次利用の運用、許諾及び管理も継続しています。"
+    },
+    "timeline": [
+      {
+        "label": {
+          "en": "Established",
+          "ja": "設立"
+        },
+        "date": {
+          "en": "July 31, 2001",
+          "ja": "2001年7月31日"
+        }
+      },
+      {
+        "label": {
+          "en": "Became Nintendo Stars Inc.",
+          "ja": "ニンテンドースターズ株式会社として発足"
+        },
+        "date": {
+          "en": "August 27, 2025",
+          "ja": "2025年8月27日"
+        }
+      }
+    ],
+    "info": {
+      "website": "https://www.nintendo-stars.com/",
+      "phone": null,
+      "address": {
+        "en": "KANDA SQUARE, 2-2-1 Kanda-Nishikicho, Chiyoda-ku, Tokyo 101-0054, Japan",
+        "ja": "〒101-0054 東京都千代田区神田錦町二丁目2番地1 KANDA SQUARE"
+      }
+    },
+    "goodToKnow": [
+      {
+        "icon": "person.badge.key",
+        "text": {
+          "en": "Employee access only",
+          "ja": "従業員のみ立ち入り可能です"
+        }
+      },
+      {
+        "icon": "bag",
+        "text": {
+          "en": "No retail store on site",
+          "ja": "現地での販売はありません"
+        }
+      },
+      {
+        "icon": "camera",
+        "text": {
+          "en": "Corporate office, not a tourist spot",
+          "ja": "観光スポットではない企業オフィスです"
+        }
+      },
+      {
+        "icon": "star",
+        "text": {
+          "en": "Handles Kirby series licensing and operations",
+          "ja": "「星のカービィ」シリーズの二次利用の運用・許諾・管理を担います"
+        }
+      }
+    ],
+    "coordinate": "35.6934080, 139.7628090"
+  },
+  {
     "id": "nintendo-check-in-kansai",
     "nameOverride": {
       "en": "Nintendo Check In Kansai International Airport",
