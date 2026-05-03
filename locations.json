@@ -1355,6 +1355,31 @@
     "coordinate": "35.64363214, 139.69678985"
   },
   {
+    "id": "srd-kyoto-headquarters",
+    "nameOverride": { "en": "SRD Co., Ltd.", "ja": "株式会社SRD" },
+    "category": "historical-sites-corporate",
+    "about": {
+      "en": "SRD Co., Ltd. is a Nintendo group company based in Kyoto. It works on contracted development for game software and web systems, and has participated in programming development for Nintendo titles including Super Mario, The Legend of Zelda, Animal Crossing, Splatoon, Nintendo Switch Sports, and other Nintendo projects.",
+      "ja": "株式会社SRDは、京都に本社を置く任天堂グループの会社です。ゲームソフトおよびWebシステムの受託開発を行い、「スーパーマリオ」「ゼルダの伝説」「どうぶつの森」「スプラトゥーン」「Nintendo Switch Sports」など、任天堂タイトルのプログラム開発に携わっています。"
+    },
+    "timeline": [
+      { "label": { "en": "Established", "ja": "設立" }, "date": { "en": "January 1979", "ja": "1979年1月" } },
+      { "label": { "en": "Became a wholly owned Nintendo subsidiary", "ja": "任天堂株式会社の100％出資子会社化" }, "date": { "en": "April 1, 2022", "ja": "2022年4月1日" } }
+    ],
+    "info": {
+      "website": "https://www.srd.co.jp/",
+      "phone": "+81 75-343-2020",
+      "address": { "en": "Kanden Realty & Development Kyoto Building 8F, 614 Higashi-Shiokoji-cho, Shiokoji-dori Karasuma Nishi-iru, Shimogyo-ku, Kyoto 600-8216, Japan", "ja": "〒600-8216 京都市下京区塩小路通烏丸西入東塩小路町614番地 関電不動産京都ビル8F" }
+    },
+    "goodToKnow": [
+      { "icon": "person.badge.key", "text": { "en": "Employee access only", "ja": "従業員のみ立ち入り可能です" } },
+      { "icon": "bag", "text": { "en": "No retail store on site", "ja": "現地での販売はありません" } },
+      { "icon": "camera", "text": { "en": "Corporate office, not a tourist spot", "ja": "観光スポットではない企業オフィスです" } },
+      { "icon": "figure.walk", "text": { "en": "About 3 min from Kyoto Station", "ja": "京都駅から徒歩約3分" } }
+    ],
+    "coordinate": "34.98754988, 135.75419885"
+  },
+  {
     "id": "nintendo-development-center",
     "appleMapsId": "ICDEFCD0BEB02197",
     "nameOverride": { "en": "Nintendo Development Center", "ja": "任天堂本社開発棟" },
