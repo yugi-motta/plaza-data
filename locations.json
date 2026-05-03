@@ -2744,15 +2744,25 @@
   {
     "id": "nintendo-pictures-tokyo",
     "nameOverride": {
-      "en": "Nintendo Pictures Tokyo",
+      "en": "Nintendo Pictures Co., Ltd.",
       "ja": "ニンテンドーピクチャーズ株式会社"
     },
     "category": "historical-sites-corporate",
     "about": {
-      "en": "Nintendo Pictures is Nintendo's wholly owned visual production company in Tokyo, focused on creating visual content using Nintendo IP. It is based in KANDA SQUARE in Chiyoda.",
-      "ja": "ニンテンドーピクチャーズ株式会社は、任天堂が100%保有する映像制作会社で、任天堂IPを活用した映像コンテンツの制作を担う東京の拠点です。千代田区のKANDA SQUAREにあります。"
+      "en": "Nintendo Pictures Co., Ltd. is a wholly owned Nintendo visual production company based in Tokyo. It creates visual content using Nintendo IP and provides motion-capture recording services, aiming to create memorable video works featuring Nintendo characters.",
+      "ja": "ニンテンドーピクチャーズ株式会社は、東京に拠点を置く任天堂株式会社100％出資の映像制作会社です。任天堂IPを扱った映像制作とモーションキャプチャー収録サービスを手がけ、任天堂のキャラクターを活用した記憶に残る映像づくりを目指しています。"
     },
     "timeline": [
+      {
+        "label": {
+          "en": "Established",
+          "ja": "設立"
+        },
+        "date": {
+          "en": "March 18, 2011",
+          "ja": "2011年3月18日"
+        }
+      },
       {
         "label": {
           "en": "Renamed Nintendo Pictures",
@@ -2768,30 +2778,44 @@
       "website": "https://nintendo-pictures.co.jp/",
       "phone": null,
       "address": {
-        "en": "KANDA SQUARE, 2-2-1 Kanda-Nishikicho, Chiyoda-ku, Tokyo, Japan",
-        "ja": "東京都千代田区神田錦町2-2-1 KANDA SQUARE"
+        "en": "KANDA SQUARE, 2-2-1 Kanda-Nishikicho, Chiyoda-ku, Tokyo 101-0054, Japan",
+        "ja": "〒101-0054 東京都千代田区神田錦町二丁目2番地1 KANDA SQUARE"
       }
     },
     "goodToKnow": [
       {
         "icon": "person.badge.key",
         "text": {
-          "en": "Corporate office, not a public attraction",
-          "ja": "一般公開施設ではない企業オフィスです"
+          "en": "Employee access only",
+          "ja": "従業員のみ立ち入り可能です"
+        }
+      },
+      {
+        "icon": "bag",
+        "text": {
+          "en": "No retail store on site",
+          "ja": "現地での販売はありません"
+        }
+      },
+      {
+        "icon": "camera",
+        "text": {
+          "en": "Corporate office, not a tourist spot",
+          "ja": "観光スポットではない企業オフィスです"
         }
       },
       {
         "icon": "video",
         "text": {
-          "en": "Works on visual content using Nintendo characters and IP",
-          "ja": "任天堂キャラクターやIPを活用した映像制作を担います"
+          "en": "Creates visual content using Nintendo IP",
+          "ja": "任天堂IPを扱った映像制作を手がけています"
         }
       },
       {
         "icon": "building.2",
         "text": {
-          "en": "Located in the same KANDA SQUARE complex as Nintendo's Tokyo Branch Office",
-          "ja": "任天堂東京支店と同じKANDA SQUARE内にあります"
+          "en": "Motion-capture studio is listed separately in Kanda-Awajicho",
+          "ja": "モーションキャプチャースタジオは神田淡路町に別途掲載されています"
         }
       }
     ],
