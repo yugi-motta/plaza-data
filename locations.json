@@ -336,7 +336,7 @@
   {
     "id": "pokemon-center-shibuya",
     "appleMapsId": "I234FD1382561394",
-    "nameOverride": { "en": "Pokémon Center Shibuya", "ja": "ポケモンセンターシブヤ" },
+    "nameOverride": { "en": "Pokémon Center SHIBUYA", "ja": "ポケモンセンターシブヤ" },
     "category": "pokemon-center",
     "photos": [
       {
@@ -453,7 +453,7 @@
   {
     "id": "pokemon-center-tokyo-bay",
     "appleMapsId": "I4B5FCEBE606E5CB2",
-    "nameOverride": { "en": "Pokémon Center Tokyo-Bay", "ja": "ポケモンセンタートウキョーベイ" },
+    "nameOverride": { "en": "Pokémon Center TOKYO-BAY", "ja": "ポケモンセンタートウキョーベイ" },
     "category": "pokemon-center",
     "hours": [
       {
@@ -483,7 +483,7 @@
   {
     "id": "pokemon-center-nagoya",
     "appleMapsId": "I9E1A775CE5306BB7",
-    "nameOverride": { "en": "Pokémon Center Nagoya", "ja": "ポケモンセンターナゴヤ" },
+    "nameOverride": { "en": "Pokémon Center NAGOYA", "ja": "ポケモンセンターナゴヤ" },
     "category": "pokemon-center",
     "hours": [
       {
@@ -567,7 +567,7 @@
   {
     "id": "pokemon-center-okinawa",
     "appleMapsId": "I62BA8ED42616FE6E",
-    "nameOverride": { "en": "Pokémon Center Okinawa", "ja": "ポケモンセンターオキナワ" },
+    "nameOverride": { "en": "Pokémon Center OKINAWA", "ja": "ポケモンセンターオキナワ" },
     "category": "pokemon-center",
     "hours": [
       {
@@ -629,7 +629,7 @@
   {
     "id": "pokemon-center-tokyo-dx",
     "appleMapsId": "I303B629E9F79FC4",
-    "nameOverride": { "en": "Pokémon Center Tokyo DX", "ja": "ポケモンセンタートウキョーDX" },
+    "nameOverride": { "en": "Pokémon Center TOKYO DX", "ja": "ポケモンセンタートウキョーDX" },
     "category": "pokemon-center",
     "photos": [
       { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777893344/IMG_7299_ookvc3.jpg" },
@@ -688,7 +688,7 @@
   {
     "id": "pokemon-center-singapore",
     "appleMapsId": "I188015D94A2BD2C",
-    "nameOverride": { "en": "Pokémon Center Singapore", "ja": "Pokémon Center Singapore" },
+    "nameOverride": { "en": "Pokémon Center SINGAPORE", "ja": "Pokémon Center Singapore" },
     "category": "pokemon-center",
     "about": {
       "en": "Pokémon Center SINGAPORE is the first permanent Pokémon Center outside Japan, located at Jewel Changi Airport and known for serving both local fans and international travelers.",
@@ -853,7 +853,7 @@
   {
     "id": "pokemon-center-hiroshima",
     "appleMapsId": "ID996912C26CA3F7E",
-    "nameOverride": { "en": "Pokémon Center Hiroshima", "ja": "ポケモンセンターヒロシマ" },
+    "nameOverride": { "en": "Pokémon Center HIROSHIMA", "ja": "ポケモンセンターヒロシマ" },
     "category": "pokemon-center",
     "hours": [
       {
@@ -884,7 +884,7 @@
   {
     "id": "pokemon-center-osaka",
     "appleMapsId": "I8D463B45711E9B4A",
-    "nameOverride": { "en": "Pokémon Center Osaka", "ja": "ポケモンセンターオーサカ" },
+    "nameOverride": { "en": "Pokémon Center OSAKA", "ja": "ポケモンセンターオーサカ" },
     "category": "pokemon-center",
     "photos": [
       {
@@ -921,7 +921,7 @@
   {
     "id": "pokemon-center-osaka-dx",
     "appleMapsId": "I64BD42281BFC4979",
-    "nameOverride": { "en": "Pokémon Center Osaka DX", "ja": "ポケモンセンターオーサカDX" },
+    "nameOverride": { "en": "Pokémon Center OSAKA DX", "ja": "ポケモンセンターオーサカDX" },
     "category": "pokemon-center",
     "photos": [
       { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777823966/IMG_8209_iq8b1z.jpg" },
@@ -1068,7 +1068,7 @@
   {
     "id": "pokemon-center-kanazawa",
     "appleMapsId": "ICCA43BBCC181CA21",
-    "nameOverride": { "en": "Pokémon Center Kanazawa", "ja": "ポケモンセンターカナザワ" },
+    "nameOverride": { "en": "Pokémon Center KANAZAWA", "ja": "ポケモンセンターカナザワ" },
     "category": "pokemon-center",
     "hours": [
       {
@@ -1138,7 +1138,7 @@
   {
     "id": "pokemon-center-yokohama-satellite",
     "appleMapsId": "I120294E71A5BA149",
-    "nameOverride": { "en": "Pokémon Center Yokohama Satellite", "ja": "ポケモンセンターヨコハマ サテライト" },
+    "nameOverride": { "en": "Pokémon Center YOKOHAMA SATELLITE", "ja": "ポケモンセンターヨコハマ サテライト" },
     "category": "pokemon-center",
     "hours": [
       {
@@ -1163,7 +1163,7 @@
   {
     "id": "pokemon-center-taipei",
     "appleMapsId": "I3A47E78522D7105F",
-    "nameOverride": { "en": "Pokémon Center Taipei", "ja": "Pokémon Center Taipei" },
+    "nameOverride": { "en": "Pokémon Center TAIPEI", "ja": "Pokémon Center Taipei" },
     "category": "pokemon-center",
     "hours": [
       {
@@ -1332,7 +1332,7 @@
   {
     "id": "pokemon-center-kagawa",
     "appleMapsId": "IC01CD2C09FD354A7",
-    "nameOverride": { "en": "Pokémon Center Kagawa", "ja": "ポケモンセンターカガワ" },
+    "nameOverride": { "en": "Pokémon Center KAGAWA", "ja": "ポケモンセンターカガワ" },
     "category": "pokemon-center",
     "hours": [
       {
@@ -1401,7 +1401,7 @@
   {
     "id": "pokemon-center-yokohama",
     "appleMapsId": "I4BE28BA11F2D209F",
-    "nameOverride": { "en": "Pokémon Center Yokohama", "ja": "ポケモンセンターヨコハマ" },
+    "nameOverride": { "en": "Pokémon Center YOKOHAMA", "ja": "ポケモンセンターヨコハマ" },
     "category": "pokemon-center",
     "hours": [
       {
@@ -2164,7 +2164,7 @@
   {
     "id": "pokemon-center-fukuoka",
     "appleMapsId": "IDBEE267A82D64293",
-    "nameOverride": { "en": "Pokémon Center Fukuoka", "ja": "ポケモンセンターフクオカ" },
+    "nameOverride": { "en": "Pokémon Center FUKUOKA", "ja": "ポケモンセンターフクオカ" },
     "category": "pokemon-center",
     "photos": [
       { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777892705/IMG_9071_a3zaj1.jpg" },
@@ -2508,7 +2508,7 @@
   {
     "id": "pokemon-center-tohoku",
     "appleMapsId": "IDFDDDDF592E6CC7",
-    "nameOverride": { "en": "Pokémon Center Tohoku", "ja": "ポケモンセンタートウホク" },
+    "nameOverride": { "en": "Pokémon Center TOHOKU", "ja": "ポケモンセンタートウホク" },
     "category": "pokemon-center",
     "hours": [
       {
@@ -2539,7 +2539,7 @@
   {
     "id": "pokemon-center-kyoto",
     "appleMapsId": "IF9DC10B9FEDCFA12",
-    "nameOverride": { "en": "Pokémon Center Kyoto", "ja": "ポケモンセンターキョウト" },
+    "nameOverride": { "en": "Pokémon Center KYOTO", "ja": "ポケモンセンターキョウト" },
     "category": "pokemon-center",
     "hours": [
       {
@@ -2894,7 +2894,7 @@
   {
     "id": "pokemon-center-sapporo",
     "appleMapsId": "IA498954A5CA588B4",
-    "nameOverride": { "en": "Pokémon Center Sapporo", "ja": "ポケモンセンターサッポロ" },
+    "nameOverride": { "en": "Pokémon Center SAPPORO", "ja": "ポケモンセンターサッポロ" },
     "category": "pokemon-center",
     "hours": [
       {
@@ -2920,7 +2920,7 @@
   { 
     "id": "pokemon-center-mega-tokyo",
     "appleMapsId": "I28FF016F67076957",
-    "nameOverride": { "en": "Pokémon Center Mega Tokyo", "ja": "ポケモンセンターメガトウキョー" },
+    "nameOverride": { "en": "Pokémon Center MEGA TOKYO", "ja": "ポケモンセンターメガトウキョー" },
     "category": "pokemon-center",
     "photos": [
       { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777821784/IMG_9530_f6230e.jpg" },
@@ -2990,7 +2990,7 @@
   {
     "id": "pokemon-center-skytree-town",
     "appleMapsId": "I25EBD134BB60456E",
-    "nameOverride": { "en": "Pokémon Center Skytree Town", "ja": "ポケモンセンタースカイツリータウン" },
+    "nameOverride": { "en": "Pokémon Center SKYTREE TOWN", "ja": "ポケモンセンタースカイツリータウン" },
     "category": "pokemon-center",
     "photos": [
       { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777822534/IMG_1490_qiqc2o.jpg" },
