@@ -27,13 +27,6 @@
     "timeline": [
       { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "November 22, 2019", "ja": "2019年11月22日" } }
     ],
-    "characterStatues": [
-      { "en": "Mario", "ja": "マリオ" },
-      { "en": "Link", "ja": "リンク" },
-      { "en": "Inkling Girl", "ja": "インクリング（ガール）" },
-      { "en": "Isabelle", "ja": "しずえ" },
-      { "en": "Pikmin", "ja": "ピクミン" }
-    ],
     "goodToKnow": [
       { "icon": "clock", "text": { "en": "Long queues on weekends and holidays", "ja": "週末や祝日は長時間並ぶことがあります" } },
       { "icon": "bag", "text": { "en": "Tokyo-exclusive merchandise not sold anywhere else", "ja": "他では買えない東京限定グッズがあります" } },
@@ -177,7 +170,6 @@
       { "label": { "en": "Reopened as Nintendo World Store", "ja": "ニンテンドーワールドストアとしてリニューアル" }, "date": { "en": "May 14, 2005", "ja": "2005年5月14日" } },
       { "label": { "en": "Renamed to Nintendo New York", "ja": "Nintendo New Yorkに改名" }, "date": { "en": "July 13, 2016", "ja": "2016年7月13日" } }
     ],
-    "characterStatues": ["Mario", "Link", "Bowser", "Toad", "Luigi", "Pikachu"],
     "goodToKnow": [
       { "icon": "bag", "text": { "en": "New York exclusive merch", "ja": "ニューヨーク限定グッズがあります" } },
       { "icon": "gamecontroller", "text": { "en": "Hands-on game demo areas", "ja": "ゲームを体験できる試遊エリアがあります" } },
@@ -365,7 +357,10 @@
     "timeline": [
       { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "November 22, 2019", "ja": "2019年11月22日" } }
     ],
-    "characterStatues": ["Mewtwo"],
+    "characterStatues": [
+      { "en": "Mew", "ja": "ミュウ" },
+      { "en": "Mewtwo", "ja": "ミュウツー" }
+    ],
     "goodToKnow": [
       { "icon": "paintbrush", "text": { "en": "Features graffiti-style Pokémon artwork unique to this location", "ja": "この店舗限定のグラフィティ風ポケモンアートがあります" } },
       { "icon": "bag", "text": { "en": "Offers Shibuya-exclusive merchandise", "ja": "渋谷限定グッズを販売しています" } },
@@ -473,6 +468,11 @@
       { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "November 22, 2013", "ja": "2013年11月22日" } },
       { "label": { "en": "Renewed and reopened", "ja": "リニューアルオープン" }, "date": { "en": "Spring 2024", "ja": "2024年春" } }
     ],
+    "characterStatues": [
+      { "en": "Pikachu", "ja": "ピカチュウ" },
+      { "en": "Ampharos", "ja": "デンリュウ" },
+      { "en": "Marill", "ja": "マリル" }
+    ],
     "goodToKnow": [
       { "icon": "sparkles", "text": { "en": "The store was fully renewed in 2024 with a redesigned interior", "ja": "2024年に店内デザインを刷新して全面リニューアルしました" } },
       { "icon": "rectangle.stack.badge.play", "text": { "en": "Includes a Pokémon Card Station area", "ja": "ポケモンカードステーションのエリアがあります" } },
@@ -502,8 +502,7 @@
     ],
     "characterStatues": [
       { "en": "Pikachu", "ja": "ピカチュウ" },
-      { "en": "Celebi", "ja": "セレビィ" },
-      { "en": "Golden Magikarp", "ja": "金のコイキング" }
+      { "en": "Celebi", "ja": "セレビィ" }
     ],
     "goodToKnow": [
       { "icon": "rectangle.stack.badge.play", "text": { "en": "Includes a Pokémon Card Station", "ja": "ポケモンカードステーション併設" } },
@@ -583,9 +582,8 @@
       { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "August 11, 2022", "ja": "2022年8月11日" } }
     ],
     "characterStatues": [
-      { "en": "Pikachu", "ja": "ピカチュウ" },
       { "en": "Arcanine", "ja": "ウインディ" },
-      { "en": "Alolan Exeggutor", "ja": "アローラナッシー" }
+      { "en": "Pikachu", "ja": "ピカチュウ" }
     ],
     "goodToKnow": [
       { "icon": "sparkles", "text": { "en": "The store was created as a full Pokémon Center replacing the former Pokémon Store at the same mall", "ja": "同じイオンモール内にあったポケモンストアから生まれ変わった店舗です" } },
@@ -650,8 +648,8 @@
       { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "March 14, 2018", "ja": "2018年3月14日" } }
     ],
     "characterStatues": [
-      { "en": "Snorlax", "ja": "カビゴン" },
-      { "en": "Pikachu", "ja": "ピカチュウ" }
+      { "en": "Pikachu", "ja": "ピカチュウ" },
+      { "en": "Mew", "ja": "ミュウ" }
     ],
     "goodToKnow": [
       { "icon": "fork.knife", "text": { "en": "Next to Pokémon Cafe", "ja": "ポケモンカフェ併設" } },
@@ -698,8 +696,9 @@
       { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "April 17, 2019", "ja": "2019年4月17日" } }
     ],
     "characterStatues": [
+      { "en": "Lapras", "ja": "ラプラス" },
       { "en": "Pikachu", "ja": "ピカチュウ" },
-      { "en": "Lapras", "ja": "ラプラス" }
+      { "en": "Celebi", "ja": "セレビィ" }
     ],
     "goodToKnow": [
       { "icon": "wrench.and.screwdriver", "text": { "en": "The current store closed on March 31, 2026 for renewal, and the reopening date has not been announced yet", "ja": "現店舗は2026年3月31日で営業を終了し、リニューアルオープン日は未発表です" } },
@@ -870,9 +869,8 @@
       { "label": { "en": "Renewed and reopened", "ja": "リニューアルオープン" }, "date": { "en": "April 11, 2025", "ja": "2025年4月11日" } }
     ],
     "characterStatues": [
-      { "en": "Shiny Gyarados", "ja": "色違いのギャラドス" },
-      { "en": "Pikachu", "ja": "ピカチュウ" },
-      { "en": "Magikarp", "ja": "コイキング" }
+      { "en": "Gyarados", "ja": "ギャラドス" },
+      { "en": "Pikachu", "ja": "ピカチュウ" }
     ],
     "goodToKnow": [
       { "icon": "rectangle.stack.badge.play", "text": { "en": "Pokémon Card Station available", "ja": "ポケモンカードステーション併設" } },
@@ -911,6 +909,10 @@
       { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "November 1998", "ja": "1998年11月" } },
       { "label": { "en": "Relocated and reopened", "ja": "移転してリニューアルオープン" }, "date": { "en": "November 26, 2010", "ja": "2010年11月26日" } }
     ],
+    "characterStatues": [
+      { "en": "Koraidon", "ja": "コライドン" },
+      { "en": "Pikachu", "ja": "ピカチュウ" }
+    ],
     "goodToKnow": [
       { "icon": "rectangle.stack.badge.play", "text": { "en": "Pokémon Card Station available", "ja": "ポケモンカードステーション併設" } },
       { "icon": "figure.walk", "text": { "en": "About 5 min from JR Osaka Station", "ja": "JR大阪駅から徒歩約5分" } },
@@ -945,9 +947,9 @@
       { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "September 20, 2019", "ja": "2019年9月20日" } }
     ],
     "characterStatues": [
-      { "en": "Articuno", "ja": "フリーザー" },
-      { "en": "Zapdos", "ja": "サンダー" },
-      { "en": "Moltres", "ja": "ファイヤー" }
+      { "en": "Fuecoco", "ja": "ホゲータ" },
+      { "en": "Pikachu", "ja": "ピカチュウ" },
+      { "en": "Meowth", "ja": "ニャース" }
     ],
     "goodToKnow": [
       { "icon": "fork.knife", "text": { "en": "Directly connected to Pokémon Cafe", "ja": "ポケモンカフェと直結" } },
@@ -965,9 +967,6 @@
       "en": "Lucky Park in Yanaizu is a Chansey-themed public park in Fukushima. It is one of the official Lucky Parks created through Fukushima’s collaboration with Chansey, featuring playground equipment and design elements inspired by the Pokémon.",
       "ja": "ラッキー公園 in やないづまちは、福島県にあるラッキーをテーマにした公園です。福島県とラッキーの連携企画による公式ラッキー公園のひとつで、ラッキーをモチーフにした遊具やデザインが特徴です。"
     },
-    "characterStatues": [
-      { "en": "Chansey", "ja": "ラッキー" }
-    ],
     "goodToKnow": [
       { "icon": "tree", "text": { "en": "Free public park", "ja": "無料で入れる公園です" } },
       { "icon": "car", "text": { "en": "Easy to reach by car", "ja": "車で行きやすい場所です" } },
@@ -1084,7 +1083,8 @@
       { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "November 20, 2020", "ja": "2020年11月20日" } }
     ],
     "characterStatues": [
-      { "en": "Milotic", "ja": "ミロカロス" }
+      { "en": "Milotic", "ja": "ミロカロス" },
+      { "en": "Pikachu", "ja": "ピカチュウ" }
     ],
     "goodToKnow": [
       { "icon": "figure.walk", "text": { "en": "About 1 min from Kanazawa Station", "ja": "金沢駅から徒歩約1分" } },
@@ -1183,8 +1183,8 @@
       { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "December 8, 2023", "ja": "2023年12月8日" } }
     ],
     "characterStatues": [
-      { "en": "Pikachu", "ja": "ピカチュウ" },
-      { "en": "Dragonite", "ja": "カイリュー" }
+      { "en": "Dragonite", "ja": "カイリュー" },
+      { "en": "Pikachu", "ja": "ピカチュウ" }
     ],
     "goodToKnow": [
       { "icon": "rectangle.stack.badge.play", "text": { "en": "Includes a dedicated Pokémon Trading Card Game area", "ja": "ポケモンカードゲームの専用エリアがあります" } },
@@ -1295,10 +1295,7 @@
       { "label": { "en": "Renewed and reopened", "ja": "リニューアルオープン" }, "date": { "en": "July 10, 2024", "ja": "2024年7月10日" } }
     ],
     "characterStatues": [
-      { "en": "Stationmaster Pikachu", "ja": "駅長ピカチュウ" },
-      { "en": "Sprigatito", "ja": "ニャオハ" },
-      { "en": "Fuecoco", "ja": "ホゲータ" },
-      { "en": "Quaxly", "ja": "クワッス" }
+      { "en": "Stationmaster Pikachu", "ja": "駅長さんピカチュウ" }
     ],
     "goodToKnow": [
       { "icon": "train.side.front.car", "text": { "en": "Sells Tokyo Station-exclusive merchandise themed around Stationmaster Pikachu", "ja": "駅長ピカチュウをテーマにした東京駅限定グッズがあります" } },
@@ -1318,9 +1315,6 @@
     },
     "timeline": [
       { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "December 7, 2022", "ja": "2022年12月7日" } }
-    ],
-    "characterStatues": [
-      { "en": "Chansey", "ja": "ラッキー" }
     ],
     "goodToKnow": [
       { "icon": "tree", "text": { "en": "Free public park", "ja": "無料で入れる公園です" } },
@@ -1346,6 +1340,10 @@
     },
     "timeline": [
       { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "October 24, 2025", "ja": "2025年10月24日" } }
+    ],
+    "characterStatues": [
+      { "en": "Slowpoke", "ja": "ヤドン" },
+      { "en": "Pikachu", "ja": "ピカチュウ" }
     ],
     "goodToKnow": [
       { "icon": "rectangle.stack.badge.play", "text": { "en": "Pokémon Card Station available", "ja": "ポケモンカードステーション併設" } },
@@ -1417,7 +1415,9 @@
       { "label": { "en": "Relocated and reopened", "ja": "移転してリニューアルオープン" }, "date": { "en": "November 9, 2018", "ja": "2018年11月9日" } }
     ],
     "characterStatues": [
-      { "en": "Kyogre", "ja": "カイオーガ" }
+      { "en": "Turtwig", "ja": "ナエトル" },
+      { "en": "Pikachu", "ja": "ピカチュウ" },
+      { "en": "Quaxly", "ja": "クワッス" }
     ],
     "goodToKnow": [
       { "icon": "ticket", "text": { "en": "Timed entry tickets are sometimes used on busy days", "ja": "混雑日には時間帯別の入場整理券が使われることがあります" } },
@@ -2191,11 +2191,9 @@
       { "label": { "en": "Relocated and reopened at Hakata Marui", "ja": "博多マルイに移転してリニューアルオープン" }, "date": { "en": "June 27, 2025", "ja": "2025年6月27日" } }
     ],
     "characterStatues": [
-      { "en": "Pikachu", "ja": "ピカチュウ" },
-      { "en": "Latias", "ja": "ラティアス" },
       { "en": "Latios", "ja": "ラティオス" },
-      { "en": "Dondozo", "ja": "ヘイラッシャ" },
-      { "en": "Tatsugiri", "ja": "シャリタツ" }
+      { "en": "Latias", "ja": "ラティアス" },
+      { "en": "Pikachu", "ja": "ピカチュウ" }
     ],
     "goodToKnow": [
       { "icon": "rectangle.stack.badge.play", "text": { "en": "Pokémon Card Station available", "ja": "ポケモンカードステーション併設" } },
@@ -2383,10 +2381,6 @@
     "timeline": [
       { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "May 5, 2023", "ja": "2023年5月5日" } }
     ],
-    "characterStatues": [
-      { "en": "Sandshrew", "ja": "サンド" },
-      { "en": "Alolan Sandshrew", "ja": "アローラサンド" }
-    ],
     "goodToKnow": [
       { "icon": "ticket", "text": { "en": "Park admission ticket required", "ja": "入園料が必要です" } },
       { "icon": "calendar", "text": { "en": "Closed on 2nd Wed each month", "ja": "毎月第2水曜は休園" } },
@@ -2526,9 +2520,8 @@
       { "label": { "en": "Renewed and reopened", "ja": "リニューアルオープン" }, "date": { "en": "March 14, 2025", "ja": "2025年3月14日" } }
     ],
     "characterStatues": [
-      { "en": "Pikachu", "ja": "ピカチュウ" },
       { "en": "Victini", "ja": "ビクティニ" },
-      { "en": "Ogerpon", "ja": "オーガポン" }
+      { "en": "Pikachu", "ja": "ピカチュウ" }
     ],
     "goodToKnow": [
       { "icon": "rectangle.stack.badge.play", "text": { "en": "Includes a Pokémon Card Station", "ja": "ポケモンカードステーション併設" } },
@@ -2554,6 +2547,10 @@
     "timeline": [
       { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "March 16, 2016", "ja": "2016年3月16日" } },
       { "label": { "en": "Relocated and reopened", "ja": "移転してリニューアルオープン" }, "date": { "en": "March 16, 2019", "ja": "2019年3月16日" } }
+    ],
+    "characterStatues": [
+      { "en": "Ho-Oh", "ja": "ホウオウ" },
+      { "en": "Pikachu", "ja": "ピカチュウ" }
     ],
     "goodToKnow": [
       { "icon": "building.columns", "text": { "en": "Direct access from Exit 26", "ja": "26番出口から直結" } },
@@ -2782,6 +2779,9 @@
       { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "April 29, 2015", "ja": "2015年4月29日" } },
       { "label": { "en": "Relocated and reopened", "ja": "移転してリニューアルオープン" }, "date": { "en": "January 27, 2025", "ja": "2025年1月27日" } }
     ],
+    "characterStatues": [
+      { "en": "Pilot Pikachu", "ja": "パイロットピカチュウ" }
+    ],
     "goodToKnow": [
       { "icon": "airplane", "text": { "en": "Sells Narita Airport limited items such as Pilot Pikachu and CA Pikachu merchandise", "ja": "パイロットピカチュウやCAピカチュウなど、成田空港限定グッズがあります" } },
       { "icon": "checkmark.shield", "text": { "en": "Located before the security checkpoint, so you can visit without entering the departure area", "ja": "保安検査前エリアにあるため、出発エリアに入らなくても利用できます" } },
@@ -2910,6 +2910,11 @@
       { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "March 6, 2009", "ja": "2009年3月6日" } },
       { "label": { "en": "Relocated and reopened", "ja": "移転してリニューアルオープン" }, "date": { "en": "December 1, 2016", "ja": "2016年12月1日" } }
     ],
+    "characterStatues": [
+      { "en": "Alolan Vulpix", "ja": "アローラロコン" },
+      { "en": "Pikachu", "ja": "ピカチュウ" },
+      { "en": "Sprigatito", "ja": "ニャオハ" }
+    ],
     "goodToKnow": [
       { "icon": "snowflake", "text": { "en": "Carries Hokkaido-themed exclusive merchandise", "ja": "北海道をテーマにした限定グッズがあります" } },
       { "icon": "sparkles", "text": { "en": "The 2016 renewal expanded the store space and refreshed its logo", "ja": "2016年のリニューアルで売り場が拡大し、ロゴも刷新されました" } },
@@ -2944,10 +2949,8 @@
       { "label": { "en": "Grand reopened after renewal", "ja": "リニューアル後にグランドオープン" }, "date": { "en": "June 1, 2020", "ja": "2020年6月1日" } }
     ],
     "characterStatues": [
-      { "en": "Professor Willow", "ja": "ウィロー博士" },
-      { "en": "Spark", "ja": "スパーク" },
-      { "en": "Blanche", "ja": "ブランシェ" },
-      { "en": "Candela", "ja": "キャンデラ" }
+      { "en": "Pikachu", "ja": "ピカチュウ" },
+      { "en": "Miraidon", "ja": "ミライドン" }
     ],
     "goodToKnow": [
       { "icon": "location.magnifyingglass", "text": { "en": "Includes the world’s first official Pokémon GO space, Pokémon GO Lab.", "ja": "世界初の『Pokémon GO』公式スペース「Pokémon GO Lab.」があります" } },
@@ -3012,6 +3015,10 @@
     "timeline": [
       { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "July 6, 2016", "ja": "2016年7月6日" } },
       { "label": { "en": "Relocated and reopened", "ja": "移転してリニューアルオープン" }, "date": { "en": "January 1, 2017", "ja": "2017年1月1日" } }
+    ],
+    "characterStatues": [
+      { "en": "Pikachu", "ja": "ピカチュウ" },
+      { "en": "Rayquaza", "ja": "レックウザ" }
     ],
     "goodToKnow": [
       { "icon": "sparkles", "text": { "en": "The store’s theme is centered around the sky and Rayquaza", "ja": "店舗のテーマは空とレックウザです" } },
@@ -3982,28 +3989,6 @@
         "ja": "福島県郡山市開成一丁目5 開成山公園内"
       }
     },
-    "characterStatues": [
-      {
-        "en": "Chansey",
-        "ja": "ラッキー"
-      },
-      {
-        "en": "Cleffa",
-        "ja": "ピィ"
-      },
-      {
-        "en": "Igglybuff",
-        "ja": "ププリン"
-      },
-      {
-        "en": "Lickitung",
-        "ja": "ベロリンガ"
-      },
-      {
-        "en": "Pikachu",
-        "ja": "ピカチュウ"
-      }
-    ],
     "goodToKnow": [
       {
         "icon": "tree",
@@ -4060,16 +4045,6 @@
         "ja": "福島県大沼郡昭和村大字佐倉字上ノ原1 道の駅からむし織の里しょうわ"
       }
     },
-    "characterStatues": [
-      {
-        "en": "Chansey",
-        "ja": "ラッキー"
-      },
-      {
-        "en": "Pikachu",
-        "ja": "ピカチュウ"
-      }
-    ],
     "goodToKnow": [
       {
         "icon": "tree",
@@ -4138,20 +4113,6 @@
         "ja": "香川県綾歌郡綾川町萱原253-7 ひだまり公園あやがわ"
       }
     },
-    "characterStatues": [
-      {
-        "en": "Slowpoke",
-        "ja": "ヤドン"
-      },
-      {
-        "en": "Shellder",
-        "ja": "シェルダー"
-      },
-      {
-        "en": "Pikachu",
-        "ja": "ピカチュウ"
-      }
-    ],
     "goodToKnow": [
       {
         "icon": "tree",
@@ -4208,24 +4169,6 @@
         "ja": "岩手県北上市立花13地割 展勝地公園内"
       }
     },
-    "characterStatues": [
-      {
-        "en": "Geodude",
-        "ja": "イシツブテ"
-      },
-      {
-        "en": "Onix",
-        "ja": "イワーク"
-      },
-      {
-        "en": "Rockruff",
-        "ja": "イワンコ"
-      },
-      {
-        "en": "Ogerpon",
-        "ja": "オーガポン"
-      }
-    ],
     "goodToKnow": [
       {
         "icon": "tree",
@@ -4282,28 +4225,6 @@
         "ja": "岩手県盛岡市本宮字蛇屋敷外 盛岡市中央公園内"
       }
     },
-    "characterStatues": [
-      {
-        "en": "Geodude",
-        "ja": "イシツブテ"
-      },
-      {
-        "en": "Rockruff",
-        "ja": "イワンコ"
-      },
-      {
-        "en": "Onix",
-        "ja": "イワーク"
-      },
-      {
-        "en": "Tyrunt",
-        "ja": "チゴラス"
-      },
-      {
-        "en": "Lycanroc",
-        "ja": "ルガルガン"
-      }
-    ],
     "goodToKnow": [
       {
         "icon": "tree",
@@ -4392,12 +4313,6 @@
         "ja": "三重県鈴鹿市住吉町地内 ダイセーフォレストパーク（鈴鹿青少年の森）内"
       }
     },
-    "characterStatues": [
-      {
-        "en": "Oshawott",
-        "ja": "ミジュマル"
-      }
-    ],
     "goodToKnow": [
       {
         "icon": "tree",
@@ -4466,16 +4381,6 @@
         "ja": "三重県鳥羽市鳥羽一丁目地内 鳥羽港佐田浜新港緑地"
       }
     },
-    "characterStatues": [
-      {
-        "en": "Oshawott",
-        "ja": "ミジュマル"
-      },
-      {
-        "en": "Dewgong",
-        "ja": "ジュゴン"
-      }
-    ],
     "goodToKnow": [
       {
         "icon": "water.waves",
@@ -4554,28 +4459,6 @@
         "ja": "宮城県宮城郡利府町加瀬字新堤下7-1 モリリン加瀬沼公園内"
       }
     },
-    "characterStatues": [
-      {
-        "en": "Lapras",
-        "ja": "ラプラス"
-      },
-      {
-        "en": "Sharpedo",
-        "ja": "サメハダー"
-      },
-      {
-        "en": "Wailmer",
-        "ja": "ホエルコ"
-      },
-      {
-        "en": "Mantyke",
-        "ja": "タマンタ"
-      },
-      {
-        "en": "Wiglett",
-        "ja": "ウミディグダ"
-      }
-    ],
     "goodToKnow": [
       {
         "icon": "tree",
@@ -4632,32 +4515,6 @@
         "ja": "宮城県仙台市若林区藤塚地内 海岸公園（藤塚地区）内"
       }
     },
-    "characterStatues": [
-      {
-        "en": "Lapras",
-        "ja": "ラプラス"
-      },
-      {
-        "en": "Chinchou",
-        "ja": "チョンチー"
-      },
-      {
-        "en": "Sharpedo",
-        "ja": "サメハダー"
-      },
-      {
-        "en": "Wailmer",
-        "ja": "ホエルコ"
-      },
-      {
-        "en": "Mantyke",
-        "ja": "タマンタ"
-      },
-      {
-        "en": "Wiglett",
-        "ja": "ウミディグダ"
-      }
-    ],
     "goodToKnow": [
       {
         "icon": "water.waves",
@@ -4700,6 +4557,9 @@
     },
     "timeline": [
       { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "July 10, 2014", "ja": "2014年7月10日" } }
+    ],
+    "characterStatues": [
+      { "en": "Pilot Pikachu", "ja": "パイロットピカチュウ" }
     ],
     "goodToKnow": [
       { "icon": "airplane", "text": { "en": "Sells New Chitose Airport limited items, including pilot-themed Pikachu merchandise", "ja": "パイロット姿のピカチュウなど、新千歳空港限定グッズがあります" } },
