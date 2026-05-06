@@ -597,8 +597,19 @@
   {
     "id": "pokemon-cafe-tokyo",
     "appleMapsId": "IF8FC453EB74CC533",
-    "nameOverride": { "en": "Pokémon Cafe", "ja": "ポケモンカフェ" },
+    "nameOverride": { "en": "Pokémon Cafe Tokyo", "ja": "ポケモンカフェ 東京・日本橋" },
     "category": "restaurants-cafe",
+    "photos": [
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777893486/IMG_7237_dzrjdf.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777893499/IMG_7246_wblr0l.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777893511/IMG_7248_t65stu.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777893523/IMG_7260_p9txjm.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777893536/IMG_7271_tmi7mv.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777893549/IMG_7278_erwlqn.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777893569/IMG_7280_qvtdtv.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777893575/IMG_7282_lyicxk.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777893586/IMG_7286_dzjrmv.jpg" }
+    ],
     "about": {
       "en": "Pokémon Cafe is the first permanent Pokémon café, located next to Pokémon Center TOKYO DX in Nihonbashi. It is known for its character-themed meals, drinks, desserts, and immersive dining experience built around the Pokémon world.",
       "ja": "ポケモンカフェは、日本橋のポケモンセンタートウキョーDXに隣接する、初の常設ポケモンカフェです。ポケモンの世界観を取り入れたフード、ドリンク、デザート、そして体験型の食事空間で知られています。"
@@ -620,6 +631,11 @@
     "appleMapsId": "I303B629E9F79FC4",
     "nameOverride": { "en": "Pokémon Center Tokyo DX", "ja": "ポケモンセンタートウキョーDX" },
     "category": "pokemon-center",
+    "photos": [
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777893344/IMG_7299_ookvc3.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777893460/IMG_7220_n06n99.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777893629/IMG_7225_ykg0ol.jpg" }
+    ],
     "hours": [
       {
       "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
@@ -811,6 +827,12 @@
     "appleMapsId": "I477FFF11EDA1D195",
     "nameOverride": { "en": "Kirby Café PETIT Tokyo", "ja": "Kirby Café PETIT TOKYO" },
     "category": "restaurants-cafe",
+    "photos": [
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777893891/IMG_8269_qcyupu.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777893904/IMG_8270_jet6ju.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777893918/IMG_8271_tmluwz.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777893932/IMG_8272_youxqj.jpg" }
+    ],
     "hours": [
       {
       "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
@@ -1252,6 +1274,13 @@
     "appleMapsId": "I328EA3B2C3C13931",
     "nameOverride": { "en": "Pokémon Store Tokyo Station Shop", "ja": "ポケモンストア 東京駅店" },
     "category": "pokemon-store",
+    "photos": [
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777893973/IMG_8280_pjtlqc.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777893988/IMG_8285_sivifw.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777894002/IMG_8287_lhqtts.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777894017/IMG_8291_zmomr2.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777894034/IMG_8292_gkijjp.jpg" }
+    ],
     "hours": [
       {
       "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
@@ -2091,7 +2120,7 @@
   {
     "id": "geodude-park-kuji",
     "appleMapsId": "I7A62EAF036987780",
-    "nameOverride": { "en": "Geodude Park", "ja": "イシツブテ公園" },
+    "nameOverride": { "en": "Geodude Park in Kuji", "ja": "イシツブテ公園 in くじ" },
     "category": "public-park",
     "about": {
       "en": "Geodude Park in Kuji is a rock-type Pokémon themed public park in Iwate, located at the event plaza of Roadside Station Iwate Kita-Sanriku. It is one of the official Geodude Parks in Iwate and features large playground equipment inspired by Geodude and other rock-type Pokémon.",
@@ -2137,6 +2166,15 @@
     "appleMapsId": "IDBEE267A82D64293",
     "nameOverride": { "en": "Pokémon Center Fukuoka", "ja": "ポケモンセンターフクオカ" },
     "category": "pokemon-center",
+    "photos": [
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777892705/IMG_9071_a3zaj1.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777892712/IMG_9075_u9u0tt.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777892720/IMG_9077_rcb5jh.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777892728/IMG_9079_cljcp8.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777892736/IMG_9081_ha0w8f.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777892744/IMG_9082_hlnn3j.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777892753/IMG_9084_mwk5co.jpg" }
+    ],
     "hours": [
       {
       "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
@@ -2644,6 +2682,16 @@
     "appleMapsId": "IFF67E86A94BEE6F",
     "nameOverride": { "en": "Kirby Café HAKATA", "ja": "カービィカフェ HAKATA" },
     "category": "restaurants-cafe",
+    "photos": [
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777892844/IMG_9189_fu4zji.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777892852/IMG_9190_ztrhbn.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777892862/IMG_9191_p4xygv.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777892870/IMG_9201_hyagkh.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777892880/IMG_9209_ae1mc2.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777892891/IMG_9214_rbhemd.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777892901/IMG_9215_uhiwoc.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777892910/IMG_9217_qxliby.jpg" }
+    ],
     "hours": [
       {
       "day": { "en": "All Days", "ja": "毎日" },
@@ -3410,6 +3458,12 @@
       "ja": "カービィカフェ ザ・ストア HAKATA"
     },
     "category": "restaurants-cafe",
+    "photos": [
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777892945/IMG_9183_l9ub3x.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777892954/IMG_9192_lthqp6.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777892964/IMG_9193_n8ejac.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777892975/IMG_9199_zoqp1j.jpg" }
+    ],
     "hours": [
       {
         "day": {
