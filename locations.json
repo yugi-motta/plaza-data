@@ -1172,6 +1172,32 @@
     "coordinate": "25.0385843, 121.5667596"
   },
   {
+    "id": "pokemon-center-bangkok",
+    "nameOverride": { "en": "Pokémon Center BANGKOK", "ja": "ポケモンセンターバンコク" },
+    "category": "pokemon-center",
+    "about": {
+      "en": "Pokémon Center BANGKOK is Thailand's first permanent Pokémon Center, planned to open in 2026 at centralwOrld in Bangkok. The store is expected to serve as an official Pokémon retail and event space with merchandise, Pokémon Trading Card Game activities, and special events.",
+      "ja": "ポケモンセンターバンコクは、タイ初の常設ポケモンセンターとして、2026年にバンコクのcentralwOrldでオープン予定の店舗です。ポケモングッズの販売に加え、ポケモンカードゲームのイベントや特別企画も行われる公式拠点として展開される予定です。"
+    },
+    "timeline": [
+      { "label": { "en": "Opening", "ja": "オープン予定" }, "date": { "en": "2026", "ja": "2026年" } }
+    ],
+    "goodToKnow": [
+      { "icon": "clock.badge.questionmark", "text": { "en": "Exact opening date has not been announced yet", "ja": "具体的なオープン日はまだ発表されていません" } },
+      { "icon": "building.2", "text": { "en": "Located at centralwOrld in central Bangkok", "ja": "バンコク中心部のcentralwOrldに出店予定です" } },
+      { "icon": "bag", "text": { "en": "Thailand's first permanent Pokémon Center", "ja": "タイ初の常設ポケモンセンターです" } }
+    ],
+    "info": {
+      "website": "https://th.portal-pokemon.com/shop/",
+      "address": {
+        "en": "centralwOrld, 999/9 Rama I Road, Pathum Wan, Bangkok 10330, Thailand",
+        "ja": "タイ バンコク都パトゥムワン区 ラーマ1世通り999/9 centralwOrld"
+      }
+    },
+    "tags": ["opening-soon"],
+    "coordinate": "13.746681, 100.539307"
+  },
+  {
     "id": "pokemon-store-outlet-kisarazu",
     "appleMapsId": "I5C96002DDAFE5654",
     "nameOverride": { "en": "Pokémon Store OUTLET Kisarazu Shop", "ja": "ポケモンストア アウトレット 木更津店" },
