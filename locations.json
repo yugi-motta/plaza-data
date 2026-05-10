@@ -5191,6 +5191,7 @@
       { "label": { "en": "Ended", "ja": "終了" }, "date": { "en": "May 10, 2026", "ja": "2026年5月10日" } }
     ],
     "info": { "address": { "en": "AMU Plaza Kagoshima Main Building 2F Center Square, 1-1 Chuocho, Kagoshima, Japan", "ja": "鹿児島県鹿児島市中央町1-1 アミュプラザ鹿児島 本館2F センタースクエア" } },
+    "tags": ["event-ended"],
     "coordinate": "31.5841308, 130.5425444"
   },
   {
