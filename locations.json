@@ -1140,6 +1140,14 @@
     "appleMapsId": "I120294E71A5BA149",
     "nameOverride": { "en": "Pokémon Center YOKOHAMA SATELLITE", "ja": "ポケモンセンターヨコハマ サテライト" },
     "category": "pokemon-center",
+    "photos": [
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1778382260/IMG_0134_pat2gq.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1778382261/IMG_0148_wzqemn.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1778382261/IMG_0141_pxi4d6.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1778382261/IMG_0143_fb5d0u.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1778382262/IMG_0157_kcheun.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1778382262/IMG_0154_v6a2bp.jpg" }
+    ],
     "hours": [
       {
       "day": { "en": "All Days", "ja": "毎日" },
@@ -1401,6 +1409,16 @@
     "appleMapsId": "I4BE28BA11F2D209F",
     "nameOverride": { "en": "Pokémon Center YOKOHAMA", "ja": "ポケモンセンターヨコハマ" },
     "category": "pokemon-center",
+    "photos": [
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1778382323/IMG_0163_wjjfwc.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1778382325/IMG_0171_ewuuhz.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1778382325/IMG_0164_dlxd02.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1778382327/IMG_0176_f7caud.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1778382329/IMG_0177_p5x8my.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1778382331/IMG_0182_mgawdj.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1778382333/IMG_0194_bbe15s.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1778382335/IMG_0201_vuvbay.jpg" }
+    ],
     "hours": [
       {
       "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
