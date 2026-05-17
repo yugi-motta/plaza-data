@@ -450,6 +450,16 @@
     "appleMapsId": "I4B5FCEBE606E5CB2",
     "nameOverride": { "en": "Pokémon Center TOKYO-BAY", "ja": "ポケモンセンタートウキョーベイ" },
     "category": "pokemon-center",
+    "photos": [
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1779020533/IMG_0462_vbmqva.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1779020533/IMG_0461_er3few.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1779020533/IMG_0459_d5n3ss.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1779020534/IMG_0479_sc6cy9.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1779020534/IMG_0466_lsc1fz.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1779020534/IMG_0476_qdpvlf.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1779020534/IMG_0464_wz5gxj.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1779020535/IMG_0483_nfsyaf.jpg" }
+    ],
     "hours": [
       {
       "day": { "en": "Mon - Fri", "ja": "月曜日〜金曜日" },
