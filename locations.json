@@ -4373,6 +4373,13 @@
       "ja": "ミジュマル公園 in とば"
     },
     "category": "public-park",
+    "photos": [
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1779964311/puraza-oshawott-park-toba-photo-1_cvpzlz.jpg", "attribution": { "name": "mimi kyu" } },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1779964312/puraza-oshawott-park-toba-photo-2_tm3yqv.jpg", "attribution": { "name": "mimi kyu" } },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1779964312/puraza-oshawott-park-toba-photo-3_mwt87e.jpg", "attribution": { "name": "mimi kyu" } },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1779964313/puraza-oshawott-park-toba-photo-4_eurv9x.jpg", "attribution": { "name": "mimi kyu" } },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1779964313/puraza-oshawott-park-toba-photo-5_msor3w.jpg", "attribution": { "name": "mimi kyu" } }
+    ],
     "hours": [
       {
         "day": {
