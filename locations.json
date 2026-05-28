@@ -2562,6 +2562,9 @@
     "appleMapsId": "IF9DC10B9FEDCFA12",
     "nameOverride": { "en": "Pokémon Center KYOTO", "ja": "ポケモンセンターキョウト" },
     "category": "pokemon-center",
+    "photos": [
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1779964590/puraza-pokemon-center-kyoto-photo-1_salxqg.jpg", "attribution": { "name": "匠 宮下" } }
+    ],
     "hours": [
       {
       "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
