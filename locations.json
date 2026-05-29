@@ -703,19 +703,19 @@
       "ja": "ポケモンセンターシンガポールは、日本国外初の常設ポケモンセンターで、Jewel Changi Airportにあり、現地ファンだけでなく世界中の旅行者にも親しまれている店舗です。"
     },
     "timeline": [
-      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "April 17, 2019", "ja": "2019年4月17日" } }
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "April 17, 2019", "ja": "2019年4月17日" } },
+      { "label": { "en": "Reopens", "ja": "リニューアルオープン予定" }, "date": { "en": "July 1, 2026", "ja": "2026年7月1日" } }
     ],
     "characterStatues": [
-      { "en": "Lapras", "ja": "ラプラス" },
       { "en": "Pikachu", "ja": "ピカチュウ" },
-      { "en": "Celebi", "ja": "セレビィ" }
+      { "en": "Solgaleo", "ja": "ソルガレオ" }
     ],
     "goodToKnow": [
-      { "icon": "wrench.and.screwdriver", "text": { "en": "The current store closed on March 31, 2026 for renewal, and the reopening date has not been announced yet", "ja": "現店舗は2026年3月31日で営業を終了し、リニューアルオープン日は未発表です" } },
-      { "icon": "airplane", "text": { "en": "A pop-up store is being operated at Jewel Changi Airport during the closure period", "ja": "休業期間中はJewel Changi Airport内でポップアップストアが営業しています" } },
+      { "icon": "wrench.and.screwdriver", "text": { "en": "The current store closed on March 31, 2026 for renewal", "ja": "現店舗は2026年3月31日でリニューアルのため営業を終了しました" } },
+      { "icon": "calendar", "text": { "en": "Reopens on July 1, 2026", "ja": "2026年7月1日にリニューアルオープン予定です" } },
       { "icon": "bag", "text": { "en": "It was the first permanent Pokémon Center established outside Japan", "ja": "日本国外で初めて開設された常設ポケモンセンターです" } }
     ],
-    "tags": ["temporarily-closed"],
+    "tags": ["opening-soon"],
     "coordinate": "1.3605633, 103.9901831"
   },
   {
