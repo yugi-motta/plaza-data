@@ -3424,6 +3424,39 @@
     "coordinate": "34.8927865, 135.7841277"
   },
   {
+    "id": "pokemon-fossil-museum-field-museum-chicago",
+    "nameOverride": { "en": "Pokémon Fossil Museum at Field Museum", "ja": "ポケモン化石博物館（フィールド博物館）" },
+    "category": "museum",
+    "hours": [
+      {
+      "day": { "en": "All Days", "ja": "毎日" },
+      "hours": { "en": "9:00 AM - 5:00 PM", "ja": "9:00 - 17:00" }
+      }
+    ],
+    "about": {
+      "en": "Pokémon Fossil Museum is a limited-time special exhibition at Chicago's Field Museum, marking the exhibition's North American debut and first showing outside Japan. It compares fossil Pokémon such as Tyrantrum and Archeops with real-world fossils, casts, and paleontology specimens including Field Museum icons like SUE the T. rex.",
+      "ja": "ポケモン化石博物館は、シカゴのフィールド博物館で開催されている期間限定の特別展で、北米初開催かつ日本国外初の展示です。ガチゴラスやアーケオスなどの化石ポケモンと、SUE（ティラノサウルス）をはじめとする実物化石や標本、古生物学の資料を比較しながら楽しめます。"
+    },
+    "timeline": [
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "May 22, 2026", "ja": "2026年5月22日" } },
+      { "label": { "en": "Closes", "ja": "閉幕予定" }, "date": { "en": "April 11, 2027", "ja": "2027年4月11日" } }
+    ],
+    "info": {
+      "website": "https://www.fieldmuseum.org/exhibition/pokemon",
+      "phone": "+1 312-922-9410",
+      "address": {
+        "en": "Field Museum, 1400 S. DuSable Lake Shore Drive, Chicago, IL 60605, USA",
+        "ja": "アメリカ合衆国イリノイ州シカゴ S. DuSable Lake Shore Drive 1400 フィールド博物館"
+      }
+    },
+    "goodToKnow": [
+      { "icon": "ticket", "text": { "en": "Requires an add-on ticket in addition to museum admission", "ja": "博物館入館料に加えて追加チケットが必要です" } },
+      { "icon": "sparkles", "text": { "en": "First Pokémon Fossil Museum exhibition outside Japan", "ja": "日本国外で初めて開催されるポケモン化石博物館です" } },
+      { "icon": "fossil.shell", "text": { "en": "Compares fossil Pokémon with real fossils and Field Museum specimens", "ja": "化石ポケモンと実物化石、フィールド博物館の標本を比較できます" } }
+    ],
+    "coordinate": "41.866261, -87.616980"
+  },
+  {
     "id": "nintendo-corporate-headquarters",
     "appleMapsId": "I209B2C8B372B5586",
     "nameOverride": {
