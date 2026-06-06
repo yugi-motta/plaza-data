@@ -3425,7 +3425,7 @@
   },
   {
     "id": "pokemon-fossil-museum-field-museum-chicago",
-    "nameOverride": { "en": "Pokémon Fossil Museum at Field Museum", "ja": "ポケモン化石博物館（フィールド博物館）" },
+    "nameOverride": { "en": "Pokémon Fossil Museum", "ja": "ポケモン化石博物館" },
     "category": "museum",
     "hours": [
       {
