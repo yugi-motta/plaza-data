@@ -607,31 +607,19 @@
     "appleMapsId": "IF8FC453EB74CC533",
     "nameOverride": { "en": "Pokémon Cafe Tokyo", "ja": "ポケモンカフェ 東京・日本橋" },
     "category": "restaurants-cafe",
-    "photos": [
-      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777893486/IMG_7237_dzrjdf.jpg" },
-      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777893499/IMG_7246_wblr0l.jpg" },
-      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777893511/IMG_7248_t65stu.jpg" },
-      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777893523/IMG_7260_p9txjm.jpg" },
-      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777893536/IMG_7271_tmi7mv.jpg" },
-      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777893549/IMG_7278_erwlqn.jpg" },
-      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777893569/IMG_7280_qvtdtv.jpg" },
-      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777893575/IMG_7282_lyicxk.jpg" },
-      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1777893586/IMG_7286_dzjrmv.jpg" }
-    ],
     "about": {
       "en": "Pokémon Cafe is the first permanent Pokémon café, located next to Pokémon Center TOKYO DX in Nihonbashi. It is known for its character-themed meals, drinks, desserts, and immersive dining experience built around the Pokémon world.",
       "ja": "ポケモンカフェは、日本橋のポケモンセンタートウキョーDXに隣接する、初の常設ポケモンカフェです。ポケモンの世界観を取り入れたフード、ドリンク、デザート、そして体験型の食事空間で知られています。"
     },
     "timeline": [
       { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "March 14, 2018", "ja": "2018年3月14日" } },
-      { "label": { "en": "Temporarily closed for renovations", "ja": "改装のため一時休業" }, "date": { "en": "March 23, 2026", "ja": "2026年3月23日" } }
+      { "label": { "en": "Reopened after renovations", "ja": "リニューアルオープン" }, "date": { "en": "June 17, 2026", "ja": "2026年6月17日" } }
     ],
     "goodToKnow": [
-      { "icon": "calendar", "text": { "en": "Reservations currently unavailable", "ja": "現在は予約受付停止中" } },
-      { "icon": "fork.knife", "text": { "en": "Food service is temporarily suspended", "ja": "現在は営業休止中です" } },
-      { "icon": "arrow.triangle.2.circlepath", "text": { "en": "Check official reopening updates", "ja": "再開情報は公式で確認" } }
+      { "icon": "calendar", "text": { "en": "Advance reservation required", "ja": "事前予約制です" } },
+      { "icon": "clock", "text": { "en": "Last order is 8:30 PM", "ja": "ラストオーダーは20:30です" } },
+      { "icon": "sparkles", "text": { "en": "Renewed menu and show after renovations", "ja": "リニューアル後はメニューやショーが新しくなっています" } }
     ],
-    "tags": ["temporarily-closed"],
     "coordinate": "35.680412, 139.7744408"
   },
   {
