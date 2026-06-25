@@ -802,6 +802,10 @@
     "appleMapsId": "I17668E43966A2F62",
     "nameOverride": { "en": "Kirby Café PETIT Osaka", "ja": "Kirby Café PETIT 天王寺店" },
     "category": "restaurants-cafe",
+    "photos": [
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1782381125/puraza-kirby-cafe-petit-osaka-photo-1_rngpxb.jpg", "attribution": { "name": "オザキ さめ" } },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1782381125/puraza-kirby-cafe-petit-osaka-photo-2_vy0c85.jpg", "attribution": { "name": "オザキ さめ" } }
+    ],
     "hours": [
       {
       "day": { "en": "Mon - Sun", "ja": "月曜日〜日曜日" },
