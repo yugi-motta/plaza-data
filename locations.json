@@ -691,19 +691,17 @@
       "ja": "ポケモンセンターシンガポールは、日本国外初の常設ポケモンセンターで、Jewel Changi Airportにあり、現地ファンだけでなく世界中の旅行者にも親しまれている店舗です。"
     },
     "timeline": [
-      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "April 17, 2019", "ja": "2019年4月17日" } },
-      { "label": { "en": "Reopens", "ja": "リニューアルオープン予定" }, "date": { "en": "July 1, 2026", "ja": "2026年7月1日" } }
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "April 17, 2019", "ja": "2019年4月17日" } }
     ],
     "characterStatues": [
       { "en": "Pikachu", "ja": "ピカチュウ" },
       { "en": "Solgaleo", "ja": "ソルガレオ" }
     ],
     "goodToKnow": [
-      { "icon": "wrench.and.screwdriver", "text": { "en": "The current store closed on March 31, 2026 for renewal", "ja": "現店舗は2026年3月31日でリニューアルのため営業を終了しました" } },
-      { "icon": "calendar", "text": { "en": "Reopens on July 1, 2026", "ja": "2026年7月1日にリニューアルオープン予定です" } },
+      { "icon": "ticket", "text": { "en": "Admission may be managed with reservations or same-day queue tickets during busy periods", "ja": "混雑時は事前予約や当日整理券で入店管理が行われる場合があります" } },
+      { "icon": "airplane", "text": { "en": "Located at Jewel Changi Airport, directly connected to Changi Airport", "ja": "チャンギ空港直結のJewel Changi Airport内にあります" } },
       { "icon": "bag", "text": { "en": "It was the first permanent Pokémon Center established outside Japan", "ja": "日本国外で初めて開設された常設ポケモンセンターです" } }
     ],
-    "tags": ["opening-soon"],
     "coordinate": "1.3605633, 103.9901831"
   },
   {
