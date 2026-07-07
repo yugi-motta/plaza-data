@@ -3076,17 +3076,16 @@
   {
     "id": "noto-satoyama-pokemon-with-you-airport",
     "nameOverride": { "en": "Noto Satoyama Pokémon With You Airport", "ja": "のと里山ポケモン・ウィズ・ユー空港" },
-    "category": "theme-park",
+    "category": "nintendo-check-in",
     "about": {
-      "en": "Noto Satoyama Pokémon With You Airport is the limited-time Pokémon-themed renewal of Noto Satoyama Airport in Ishikawa Prefecture. Open from July 7, 2026 through September 30, 2029, it is promoted as the first airport in the world to carry the Pokémon name, with Pokémon displays, an observation-deck Pokémon Watching experience, original airport goods, limited food menus, and transportation links for exploring Pokémon spots across Noto.",
-      "ja": "のと里山ポケモン・ウィズ・ユー空港は、石川県ののと里山空港を期間限定でポケモン仕様にリニューアルした空港です。2026年7月7日から2029年9月30日までの予定で、世界で初めてポケモンの名を冠した空港として、ポケモン装飾や見学者デッキの「ポケモンウォッチング」、空港オリジナルグッズ、限定メニュー、能登のポケモンスポットを巡る交通企画などを展開しています。"
+      "en": "Noto Satoyama Pokémon With You Airport is the limited-time Pokémon-themed renewal of Noto Satoyama Airport in Ishikawa Prefecture. It is promoted as the first airport in the world to carry the Pokémon name, with Pokémon displays, an observation-deck Pokémon Watching experience, original airport goods, limited food menus, and transportation links for exploring Pokémon spots across Noto.",
+      "ja": "のと里山ポケモン・ウィズ・ユー空港は、石川県ののと里山空港を期間限定でポケモン仕様にリニューアルした空港です。世界で初めてポケモンの名を冠した空港として、ポケモン装飾や見学者デッキの「ポケモンウォッチング」、空港オリジナルグッズ、限定メニュー、能登のポケモンスポットを巡る交通企画などを展開しています。"
     },
     "timeline": [
       { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "July 7, 2026", "ja": "2026年7月7日" } },
       { "label": { "en": "Ends", "ja": "終了予定" }, "date": { "en": "September 30, 2029", "ja": "2029年9月30日" } }
     ],
     "goodToKnow": [
-      { "icon": "airplane", "text": { "en": "Haneda-Noto flights take about 1 hour", "ja": "羽田空港とのと里山ポケモン・ウィズ・ユー空港を約1時間で結びます" } },
       { "icon": "binoculars", "text": { "en": "Pokémon Watching is on the 3F observation deck", "ja": "3階見学者デッキで「ポケモンウォッチング」を楽しめます" } },
       { "icon": "bag", "text": { "en": "Original airport goods are sold at the 2F shop, with possible quantity limits", "ja": "2階売店で空港オリジナルグッズを販売しており、購入数制限がある場合があります" } },
       { "icon": "bus", "text": { "en": "Pokémon-themed buses connect the airport with other Noto Pokémon spots", "ja": "ポケモン仕様のバスで空港と能登のポケモンスポットを巡れます" } }
