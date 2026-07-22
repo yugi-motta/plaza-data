@@ -4752,6 +4752,37 @@
     "coordinate": "43.0587277, 141.3531576"
   },
   {
+    "id": "nintendo-popup-store-sapporo-daimaru-2026",
+    "nameOverride": { "en": "Nintendo POP-UP STORE in SAPPORO: Atsumare Daimaru Depa-to", "ja": "Nintendo POP-UP STORE in SAPPORO「あつまれ だいまるデパー島」" },
+    "category": "pop-up-store",
+    "about": {
+      "en": "A limited-time Nintendo POP-UP STORE held at Daimaru Sapporo, featuring official Nintendo store merchandise and an Animal Crossing: New Horizons themed area with photo spots inspired by Dodo Airlines, Nook's Cranny, and a resort hotel.",
+      "ja": "大丸札幌店で開催される期間限定のNintendo POP-UP STORE。任天堂オフィシャルストアの商品に加え、『あつまれ どうぶつの森』をテーマにした装飾や、ドードー・エアラインズ、タヌキ商店、リゾートホテルをイメージしたフォトスポットが登場します。"
+    },
+    "timeline": [
+      { "label": { "en": "Starts", "ja": "開始予定" }, "date": { "en": "August 14, 2026", "ja": "2026年8月14日" } },
+      { "label": { "en": "Ends", "ja": "終了予定" }, "date": { "en": "September 6, 2026", "ja": "2026年9月6日" } }
+    ],
+    "info": { "address": { "en": "Daimaru Sapporo 7F Event Hall, 7 Kita 5-jo Nishi 4-chome, Chuo-ku, Sapporo, Hokkaido, Japan", "ja": "北海道札幌市中央区北5条西4丁目7 大丸札幌店 7階催事場" } },
+    "tags": ["opening-soon"],
+    "coordinate": "43.068398, 141.350770"
+  },
+  {
+    "id": "animal-crossing-hokkaido-airport-popup-new-chitose-2026",
+    "nameOverride": { "en": "Animal Crossing: New Horizons Pop-up Event at New Chitose Airport", "ja": "あつまれ ほっかいどうエアポー島 ポップアップイベント in 新千歳空港" },
+    "category": "pop-up-store",
+    "about": {
+      "en": "A limited-time Animal Crossing: New Horizons pop-up event at New Chitose Airport, with airport-themed photo spots, original goods, a slingshot target activity on select dates, and a Nintendo Store app GPS check-in sticker giveaway.",
+      "ja": "新千歳空港で開催される『あつまれ どうぶつの森』の期間限定ポップアップイベント。空港にちなんだフォトスポット、オリジナルグッズ、対象日のパチンコまとあて体験、Nintendo StoreアプリのGPSチェックインによるステッカー配布が楽しめます。"
+    },
+    "timeline": [
+      { "label": { "en": "Starts", "ja": "開始予定" }, "date": { "en": "July 25, 2026", "ja": "2026年7月25日" } },
+      { "label": { "en": "Ends", "ja": "終了予定" }, "date": { "en": "August 30, 2026", "ja": "2026年8月30日" } }
+    ],
+    "info": { "address": { "en": "New Chitose Airport Domestic Terminal Building 2F Center Plaza, Bibi, Chitose, Hokkaido, Japan", "ja": "北海道千歳市美々 新千歳空港 国内線旅客ターミナルビル2階 センタープラザ" } },
+    "coordinate": "42.7871161, 141.6762945"
+  },
+  {
     "id": "nintendo-popup-store-amu-plaza-hakata-2022",
     "nameOverride": { "en": "Nintendo TOKYO POP-UP STORE at AMU Plaza Hakata", "ja": "Nintendo TOKYO ポップアップストア（アミュプラザ博多）" },
     "category": "pop-up-store",
