@@ -3052,6 +3052,13 @@
     "appleMapsId": "I236B0F91A90423C2",
     "nameOverride": { "en": "PokéPark KANTO", "ja": "ポケパーク カントー" },
     "category": "theme-park",
+    "photos": [
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1784811856/IMG_1739_qkt1in.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1784811856/IMG_1701_t9ayvv.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1784811857/IMG_1903_zipjbf.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1784811857/IMG_1769_j1jbrm.jpg" },
+      { "url": "https://res.cloudinary.com/dnfee4puk/image/upload/v1784811857/IMG_1743_mnills.jpg" }
+    ],
     "hours": [
       {
       "day": { "en": "Varies by date", "ja": "日によって異なります" },
