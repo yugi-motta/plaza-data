@@ -1405,6 +1405,41 @@
     "coordinate": "13.7458956, 100.5348741"
   },
   {
+    "id": "nintendo-authorized-store-sm-makati",
+    "nameOverride": { "en": "Nintendo Authorized Store SM Makati", "ja": "Nintendo Authorized Store SM Makati" },
+    "category": "authorized-nintendo-reseller",
+    "hours": [
+      {
+      "day": { "en": "Mon - Fri", "ja": "月曜日〜金曜日" },
+      "hours": { "en": "11:00 AM - 9:00 PM", "ja": "11:00 - 21:00" }
+      },
+      {
+      "day": { "en": "Sat - Sun", "ja": "土曜日〜日曜日" },
+      "hours": { "en": "10:00 AM - 9:00 PM", "ja": "10:00 - 21:00" }
+      }
+    ],
+    "about": {
+      "en": "Nintendo Authorized Store SM Makati is the first Nintendo Authorized Store in the Philippines, located on the second floor of SM Makati in Ayala Center. The store offers Nintendo consoles, games, accessories, apparel, plush toys, stationery, home goods, and other official Nintendo merchandise in a dedicated branded retail space.",
+      "ja": "Nintendo Authorized Store SM Makatiは、フィリピン初のNintendo Authorized Storeで、Ayala Center内のSM Makati 2階にあります。Nintendoのゲーム機、ゲームソフト、周辺機器、アパレル、ぬいぐるみ、文房具、ホームグッズなどの任天堂公式商品を、専用のブランド店舗で取り扱っています。"
+    },
+    "timeline": [
+      { "label": { "en": "Opened", "ja": "オープン" }, "date": { "en": "May 22, 2026", "ja": "2026年5月22日" } }
+    ],
+    "goodToKnow": [
+      { "icon": "building.columns", "text": { "en": "Located on the 2nd floor of SM Makati", "ja": "SM Makati 2階にあります" } },
+      { "icon": "gamecontroller", "text": { "en": "Demo areas are available in store", "ja": "店内に試遊エリアがあります" } },
+      { "icon": "bag", "text": { "en": "Sells games, accessories, and official character goods", "ja": "ゲーム、周辺機器、公式キャラクターグッズを販売しています" } }
+    ],
+    "info": {
+      "website": "https://www.nintendo.com/ph/news/article/1vWPrcnxqrOvlzjTC9Pp3S",
+      "address": {
+        "en": "2nd Floor, SM Makati Ayala Center, Makati, Philippines, 1226",
+        "ja": "フィリピン 1226 マカティ Ayala Center SM Makati 2階"
+      }
+    },
+    "coordinate": "14.550808, 121.026350"
+  },
+  {
     "id": "pokemon-center-yokohama",
     "appleMapsId": "I4BE28BA11F2D209F",
     "nameOverride": { "en": "Pokémon Center YOKOHAMA", "ja": "ポケモンセンターヨコハマ" },
