@@ -4807,6 +4807,7 @@
       { "label": { "en": "Ends", "ja": "終了予定" }, "date": { "en": "August 30, 2026", "ja": "2026年8月30日" } }
     ],
     "info": { "address": { "en": "New Chitose Airport Domestic Terminal Building 2F Center Plaza, Bibi, Chitose, Hokkaido, Japan", "ja": "北海道千歳市美々 新千歳空港 国内線旅客ターミナルビル2階 センタープラザ" } },
+    "tags": ["event-ended"],
     "coordinate": "42.7871161, 141.6762945"
   },
   {
